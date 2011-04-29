@@ -30,4 +30,3 @@ def extract_features(words, n, count=True):
     if not count:
         transformed_words[transformed_words > 0] = 1.0
     return transformed_words, vectorizer
-
