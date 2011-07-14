@@ -14,17 +14,7 @@ from scikits.learn.svm import LinearSVC
 from scikits.learn.pipeline import Pipeline
 from scikits.learn.grid_search import GridSearchCV
 from scikits.learn.metrics import classification_report
-from preprocess import InfinitivesExtractor
-
-def load_data():
-    infinitives, y = [], []
-    with open('inf-ta-labeled.txt') as f:
-        for line in f:
-            inf, label = unicode(line).split()
-            infinitives.append(inf)
-            y.append(int(label))
-    infinitives, y = np.array(infinitives), np.array(y, dtype=np.float)
-    return infinitives, y
+from preprocess import InfinitivesExtractor, load_data
 
 # Data attributes
 targets = [0, 1, 2]

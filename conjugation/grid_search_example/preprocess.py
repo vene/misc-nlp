@@ -8,6 +8,10 @@ Created on Wed Apr 13 18:13:21 2011
 
 from scikits.learn.feature_extraction.text import CharNGramAnalyzer, \
                                                   CountVectorizer
+from scikits.learn.preprocessing import Binarizer
+from scikits.learn.pipeline import Pipeline
+from scikits.learn import naive_bayes
+
 import numpy as np
 
 class SimplePreprocessor(object):
@@ -17,32 +21,25 @@ class SimplePreprocessor(object):
     def __init__(self, suffix=''):
         self.suffix = suffix
 
-class InfinitivesExtractor(CountVectorizer):
-    def __init__(self, n=1, count=True):
-        self.n = n
-        self.count=count
-        analyzer = CharNGramAnalyzer(min_n=1, max_n=self.n,
-                                          preprocessor=SimplePreprocessor())
-        CountVectorizer.__init__(self, analyzer=analyzer, max_df=None)
-        
-    def _postprocess(self, X):
-        """Adapts the format to my needs"""
-        X = np.array(X, dtype=np.float)
-        if not self.count:
-            X[X > 0] = 1.0
-        return X
-        
-    def fit_transform(self, X, y=None):
-        if self.analyzer.max_n != self.n:
-            self.analyzer = CharNGramAnalyzer(min_n=1, max_n=self.n,
-                                              preprocessor=SimplePreprocessor())
-        transformed_words = CountVectorizer.fit_transform(self, X).toarray()
-        return self._postprocess(transformed_words)
-        
-    def fit(self, X, y=None):
-        self.fit_transform(X, y)
-        return self
-        
-    def transform(self, X):
-        transformed = CountVectorizer.transform(self, X).toarray()
-        return self._postprocess(transformed)
+
+def get_clf(n=3, binarize=True):
+    steps = [('vectorizer', CountVectorizer(CharNGramAnalyzer(min_n=1, max_n=n,
+                                          preprocessor=SimplePreprocessor())))]
+    if binarize:
+        steps.append(('binarizer', Binarizer(copy=False)))
+        steps.append(('clf', naive_bayes.BernoulliNB()))
+    else:
+        steps.append(('clf', naive_bayes.MultinomialNB()))
+
+    return Pipeline(steps)
+
+
+def load_data(filename='inf-ta-labeled.txt'):
+    infinitives, y = [], []
+    with open(filename) as f:
+        for line in f:
+            inf, label = unicode(line).split()
+            infinitives.append(inf)
+            y.append(int(label))
+    infinitives, y = np.array(infinitives), np.array(y, dtype=np.int)
+    return infinitives, y
