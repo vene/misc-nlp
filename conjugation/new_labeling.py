@@ -7,12 +7,13 @@ Created on Tue Mar 29 17:16:36 2011
 
 from __future__ import division
 import re
+import codecs
 
-f = open('verbe-indprez.txt')
-g = open('inf-doar-ez.txt', 'w')
-labeled = open('inf-ez-labeled.txt', 'w')
-h = open('inf-doar-esc.txt', 'w')
-esclabeled = open('inf-esc-labeled.txt', 'w')
+f = codecs.open('verbe-indprez.txt', 'r', encoding='utf-8-sig')
+g = codecs.open('inf-doar-ez.txt', 'w', encoding='utf-8')
+labeled = codecs.open('inf-ez-labeled.txt', 'w', encoding='utf-8')
+h = codecs.open('inf-doar-esc.txt', 'w', encoding='utf-8')
+esclabeled = codecs.open('inf-esc-labeled.txt', 'w', encoding='utf-8')
 
 rules_a = {'1sg': u'^([a-zăâîşţ]+)ez$',
          '2sg': u'^([a-zăâîşţ]+)ezi$',
@@ -39,8 +40,8 @@ words = {}
 
 for line in f:
     word, base, persoana = line.split()
-    word = unicode(word, "utf-8-sig")
-    base = unicode(base, "utf-8-sig")
+#    word = unicode(word, "utf-8-sig")
+#    base = unicode(base, "utf-8-sig")
     persoana = persoana.split(".")[3]
     if words.has_key(base):
         words[base].append((word, persoana)) #  3pl
