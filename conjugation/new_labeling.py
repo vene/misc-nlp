@@ -22,6 +22,24 @@ rules.append({'1sg': u'^([a-zăâîşţ]+)$',
               '1pl': u'^([a-zăâîşţ]+)ăm$',
               '2pl': u'^([a-zăâîşţ]+)aţi$',
               '3pl': u'^([a-zăâîşţ]+)ă$'})
+              
+# pt verbe cu -ta gen cânta
+# (alternanta in flectiv t->ţ la 2sg)
+rules.append({'1sg': u'^([a-zăâîşţ]+)t$',
+              '2sg': u'^([a-zăâîşţ]+)ţi$',
+              '3sg': u'^([a-zăâîşţ]+)tă$',
+              '1pl': u'^([a-zăâîşţ]+)tăm$',
+              '2pl': u'^([a-zăâîşţ]+)taţi$',
+              '3pl': u'^([a-zăâîşţ]+)tă$'})
+
+# pt verbe gen număra
+# (alternanta ă-> e la 2sg)
+rules.append({'1sg': u'^([a-zăâîşţ]+)ă([a-zăâîşţ]+)$',
+             '2sg': u'^([a-zăâîşţ]+)e([a-zăâîşţ]+)i$',
+             '3sg': u'^([a-zăâîşţ]+)ă([a-zăâîşţ]+)ă$',
+             '1pl': u'^([a-zăâîşţ]+)ă([a-zăâîşţ]+)ăm$',
+             '2pl': u'^([a-zăâîşţ]+)ă([a-zăâîşţ]+)aţi$',
+             '3pl': u'^([a-zăâîşţ]+)ă([a-zăâîşţ]+)ă$'})
 
 # pt verbe cu tr, pl, bl, fl (intra)
 rules.append({'1sg': u'^([a-zăâîşţ]+)u$',
@@ -82,6 +100,14 @@ rules.append({'1sg': u'^([a-zăâîşţ]+)chez$',
 # conj a 2a (infinitivul in -ea)
 # ->la fel ca primul pattern de la conj a 3a
 
+# pt verbele care au alternanta ă->a in radical
+rules.append({'1sg': u'^([a-zăâîşţ]+)a([a-zăâîşţ]+)$',
+              '2sg': u'^([a-zăâîşţ]+)a([a-zăâîşţ]+)i$',
+              '3sg': u'^([a-zăâîşţ]+)a([a-zăâîşţ]+)e$',
+              '1pl': u'^([a-zăâîşţ]+)ă([a-zăâîşţ]+)em$',
+              '2pl': u'^([a-zăâîşţ]+)ă([a-zăâîşţ]+)eţi$',
+              '3pl': u'^([a-zăâîşţ]+)a([a-zăâîşţ]+)$'})
+
 # conj a 3a (infinitivul in -e)
 
 rules.append({'1sg': u'^([a-zăâîşţ]+)$',
@@ -90,6 +116,14 @@ rules.append({'1sg': u'^([a-zăâîşţ]+)$',
               '1pl': u'^([a-zăâîşţ]+)em$',
               '2pl': u'^([a-zăâîşţ]+)eţi$',
               '3pl': u'^([a-zăâîşţ]+)$'})
+
+# a scrie
+rules.append({'1sg': u'^([a-zăâîşţ]+)u$',
+              '2sg': u'^([a-zăâîşţ]+)i$',
+              '3sg': u'^([a-zăâîşţ]+)e$',
+              '1pl': u'^([a-zăâîşţ]+)em$',
+              '2pl': u'^([a-zăâîşţ]+)eţi$',
+              '3pl': u'^([a-zăâîşţ]+)u$'})
 
 # pt -şte la infinitiv (naşte, paşte)(l-ai pus deja)
 rules.append({'1sg': u'^([a-zăâîşţ]+)sc$',
