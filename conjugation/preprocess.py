@@ -36,6 +36,14 @@ def get_clf(n=3, binarize=True, clf=None):
     return Pipeline(steps)
 
 
+def preprocess_data(X, n=3, binarize=True):
+    cv = CountVectorizer(CharNGramAnalyzer(min_n=1, max_n=n,
+                                           preprocessor=SimplePreprocessor()))
+    X = cv.fit_transform(X)
+    if binarize:
+        X = Binarizer(copy=False).transform(X)
+    return X
+
 def load_data(filename='inf-ta-labeled.txt'):
     infinitives, y = [], []
     with codecs.open(filename, 'r', encoding='utf-8') as f:
