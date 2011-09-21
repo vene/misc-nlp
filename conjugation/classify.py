@@ -2,15 +2,15 @@ import sys
 
 import numpy as np
 
-from scikits.learn.svm.sparse import SVC, LinearSVC
-from scikits.learn.svm import LinearSVC as denseSVC
-from scikits.learn.svm.libsvm import set_verbosity_wrap
-from scikits.learn.linear_model.sparse import LogisticRegression
+from sklearn.svm.sparse import SVC, LinearSVC
+from sklearn.svm import LinearSVC as denseSVC
+from sklearn.svm.libsvm import set_verbosity_wrap
+from sklearn.linear_model.sparse import LogisticRegression
 from preprocess import get_clf, load_data, preprocess_data
-from scikits.learn.metrics import classification_report
-from scikits.learn.cross_val import StratifiedKFold, cross_val_score, LeaveOneOut, _permutation_test_score
-from scikits.learn.grid_search import GridSearchCV
-from scikits.learn.linear_model.sparse import SGDClassifier
+from sklearn.metrics import classification_report
+from sklearn.cross_val import StratifiedKFold, cross_val_score, LeaveOneOut, _permutation_test_score
+from sklearn.grid_search import GridSearchCV
+from sklearn.linear_model.sparse import SGDClassifier
 if len(sys.argv) < 2:
     filename = 'inf-ta-labeled.txt'
 else:
@@ -39,9 +39,21 @@ print "preprocessing..."
 # 1e-5 0.777597402597 SVC
 # 0.824675324675
 print "running..."
-for l in (1, 2, 3, 4, 5, 6):
+b_scores = []
+n_scores = []
+for l in (1, 2, 3, 4, 5, 6, 7, 8, 9, 10):
+    print  "Step ", l
     for binarize in (True, False):
-        print l, binarize, np.mean(cross_val_score(get_clf(l, binarize), X, y, cv=LeaveOneOut(n, indices=True)))
+        rate = np.mean(cross_val_score(get_clf(l, binarize), X, y,
+                       cv=LeaveOneOut(n, indices=True)))
+        if binarize:
+            b_scores.append(rate)
+        else:
+            n_scores.append(rate)
+
+print b_scores
+print n_scores
+
 #y_test = []
 #y_pred = []
 #for train, test in LeaveOneOut(n, indices=True):    
