@@ -6,11 +6,11 @@ Created on Wed Apr 13 18:13:21 2011
 @author: vene
 """
 
-from scikits.learn.feature_extraction.text import CharNGramAnalyzer, \
-                                                  CountVectorizer
-from scikits.learn.preprocessing import Binarizer
-from scikits.learn.pipeline import Pipeline
-from scikits.learn import naive_bayes
+from sklearn.feature_extraction.text import CharNGramAnalyzer, \
+                                            CountVectorizer
+from sklearn.preprocessing import Binarizer
+from sklearn.pipeline import Pipeline
+from sklearn import naive_bayes
 import codecs
 
 import numpy as np

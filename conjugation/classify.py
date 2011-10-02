@@ -2,11 +2,11 @@ import sys
 
 import numpy as np
 
-from scikits.learn.svm.sparse import SVC
-from scikits.learn.linear_model.sparse import LogisticRegression
+from sklearn.svm.sparse import SVC
+from sklearn.linear_model.sparse import LogisticRegression
 from preprocess import get_clf, load_data
-from scikits.learn.metrics import classification_report
-from scikits.learn.cross_val import StratifiedKFold
+from sklearn.metrics import classification_report
+from sklearn.cross_val import StratifiedKFold
 
 if len(sys.argv) < 2:
     filename = 'inf-all-labeled.txt'
