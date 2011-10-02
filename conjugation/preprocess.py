@@ -45,3 +45,11 @@ def load_data(filename='inf-ta-labeled.txt'):
             y.append(int(label))
     infinitives, y = np.array(infinitives), np.array(y, dtype=np.int)
     return infinitives, y
+
+
+def preprocess_data(X, n, suffix='', binarize=True):
+    vectorizer = CountVectorizer(CharNGramAnalyzer(min_n=1, max_n=n,
+                                 preprocessor=SimplePreprocessor(suffix)))
+    X = vectorizer.fit_transform(X)
+    X = Binarizer(copy=False).fit_transform(X) if binarize else X
+    return X
