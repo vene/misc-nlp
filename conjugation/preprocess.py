@@ -23,9 +23,9 @@ class SimplePreprocessor(object):
         self.suffix = suffix
 
 
-def get_clf(n=3, binarize=True, clf=None):
+def get_clf(n=3, binarize=True, clf=None, suffix=''):
     steps = [('vectorizer', CountVectorizer(CharNGramAnalyzer(min_n=1, max_n=n,
-                                          preprocessor=SimplePreprocessor())))]
+                                    preprocessor=SimplePreprocessor(suffix))))]
     if binarize:
         steps.append(('binarizer', Binarizer(copy=False)))
         if not clf:
