@@ -13,7 +13,8 @@ import numpy as np
 
 f = codecs.open('verbe-indprez.txt', 'r', encoding='utf-8-sig')
 labeled = codecs.open('inf-all-labeled.txt', 'w', encoding='utf-8')
-uncaptured = codecs.open('inf-all-uncaptured.txt', 'w', encoding='utf-8')
+unlabeled = codecs.open('inf-all-uncaptured.txt', 'w', encoding='utf-8')
+
 rules = []
 # conj 1
 # a spera
@@ -231,7 +232,7 @@ for base, forms in words.items():
     if matches == 0:
         uncaptured += 1
         label = 0
-        print >> uncaptured, base
+        print >> unlabeled, base
     else:
         label = 1 + flags[0]  # index of the first match 
 
