@@ -217,13 +217,20 @@ rules.append({'1sg': u'^([a-zăâîşţ]+)ăd$',
               '3pl': u'^([a-zăâîşţ]+)ăd$'})
               
 # conj a 3a (infinitivul in -e)
-
+#in general
 rules.append({'1sg': u'^([a-zăâîşţ]+)$',
               '2sg': u'^([a-zăâîşţ]+)i$',
               '3sg': u'^([a-zăâîşţ]+)e$',
               '1pl': u'^([a-zăâîşţ]+)em$',
               '2pl': u'^([a-zăâîşţ]+)eţi$',
               '3pl': u'^([a-zăâîşţ]+)$'})
+#a comite t->ţ
+rules.append({'1sg': u'^([a-zăâîşţ]+)t$',
+              '2sg': u'^([a-zăâîşţ]+)ţi$',
+              '3sg': u'^([a-zăâîşţ]+)te$',
+              '1pl': u'^([a-zăâîşţ]+)tem$',
+              '2pl': u'^([a-zăâîşţ]+)teţi$',
+              '3pl': u'^([a-zăâîşţ]+)t$'})
 
 # a scrie
 rules.append({'1sg': u'^([a-zăâîşţ]+)u$',
