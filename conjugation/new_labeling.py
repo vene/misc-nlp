@@ -92,12 +92,111 @@ rules.append({'1sg': u'^([a-zăâîşţ]+)ez$',
               '3pl': u'^([a-zăâîşţ]+)ază$'})
 
 # pt verbe cu ca la inf (parca, şoca) si ez
-rules.append({'1sg': u'^([a-zăâîşţ]+)chez$',
-              '2sg': u'^([a-zăâîşţ]+)chezi$',
-              '3sg': u'^([a-zăâîşţ]+)chează$',
-              '1pl': u'^([a-zăâîşţ]+)căm$',
-              '2pl': u'^([a-zăâîşţ]+)caţi$',
-              '3pl': u'^([a-zăâîşţ]+)chează$'})
+rules.append({'1sg': u'^([a-zăâîşţ]+)hez$',
+              '2sg': u'^([a-zăâîşţ]+)hezi$',
+              '3sg': u'^([a-zăâîşţ]+)hează$',
+              '1pl': u'^([a-zăâîşţ]+)ăm$',
+              '2pl': u'^([a-zăâîşţ]+)aţi$',
+              '3pl': u'^([a-zăâîşţ]+)hează$'})
+
+# verbele cu -ta (cele comentate nu-s destul de productive)
+
+# (alternanta in flectiv t->ţ la 2sg) gen a exista
+rules.append({'1sg': u'^([a-zăâîşţ]+)st$',
+              '2sg': u'^([a-zăâîşţ]+)şti$',
+              '3sg': u'^([a-zăâîşţ]+)stă$',
+              '1pl': u'^([a-zăâîşţ]+)stăm$',
+              '2pl': u'^([a-zăâîşţ]+)staţi$',
+              '3pl': u'^([a-zăâîşţ]+)stă$'})
+              
+# a destepta (alternanta in flectiv t->ţ la 2sg + e-ea )
+rules.append({'1sg': u'^([a-zăâîşţ]+)e([a-zăâîşţ]+)t$',
+              '2sg': u'^([a-zăâîşţ]+)e([a-zăâîşţ]+)ţi$',
+              '3sg': u'^([a-zăâîşţ]+)ea([a-zăâîşţ]+)tă$',
+              '1pl': u'^([a-zăâîşţ]+)e([a-zăâîşţ]+)tăm$',
+              '2pl': u'^([a-zăâîşţ]+)e([a-zăâîşţ]+)taţi$',
+              '3pl': u'^([a-zăâîşţ]+)ea([a-zăâîşţ]+)tă$'})
+
+# a reprezenta
+#rules.append({'1sg': u'^([a-zăâîşţ]+)i([a-zăâîşţ]+)t$',
+#              '2sg': u'^([a-zăâîşţ]+)i([a-zăâîşţ]+)ţi$',
+#              '3sg': u'^([a-zăâîşţ]+)i([a-zăâîşţ]+)tă$',
+#              '1pl': u'^([a-zăâîşţ]+)e([a-zăâîşţ]+)tăm$',
+#              '2pl': u'^([a-zăâîşţ]+)e([a-zăâîşţ]+)taţi$',
+#              '3pl': u'^([a-zăâîşţ]+)i([a-zăâîşţ]+)tă$'})
+              
+# (alternanta in flectiv t->ţ la 2sg + e-ea ) deșerta
+rules.append({'1sg': u'^([a-zăâîşţ]+)e([a-zăâîşţ]+)t$',
+              '2sg': u'^([a-zăâîşţ]+)e([a-zăâîşţ]+)ţi$',
+              '3sg': u'^([a-zăâîşţ]+)a([a-zăâîşţ]+)tă$',
+              '1pl': u'^([a-zăâîşţ]+)e([a-zăâîşţ]+)tăm$',
+              '2pl': u'^([a-zăâîşţ]+)e([a-zăâîşţ]+)taţi$',
+              '3pl': u'^([a-zăâîşţ]+)a([a-zăâîşţ]+)tă$'})
+
+# a tresălta
+rules.append({'1sg': u'^([a-zăâîşţ]+)a([a-zăâîşţ]+)t$',
+              '2sg': u'^([a-zăâîşţ]+)a([a-zăâîşţ]+)ţi$',
+              '3sg': u'^([a-zăâîşţ]+)a([a-zăâîşţ]+)tă$',
+              '1pl': u'^([a-zăâîşţ]+)ă([a-zăâîşţ]+)tăm$',
+              '2pl': u'^([a-zăâîşţ]+)ă([a-zăâîşţ]+)taţi$',
+              '3pl': u'^([a-zăâîşţ]+)a([a-zăâîşţ]+)tă$'})
+              
+# (alternanta in flectiv t->ţ la 2sg + o-oa-u)
+#rules.append({'1sg': u'^([a-zăâîşţ]+)o([a-zăâîşţ]+)t$',
+#              '2sg': u'^([a-zăâîşţ]+)o([a-zăâîşţ]+)ţi$',
+#              '3sg': u'^([a-zăâîşţ]+)oa([a-zăâîşţ]+)tă$',
+#              '1pl': u'^([a-zăâîşţ]+)u([a-zăâîşţ]+)tăm$',
+#              '2pl': u'^([a-zăâîşţ]+)u([a-zăâîşţ]+)taţi$',
+#              '3pl': u'^([a-zăâîşţ]+)oa([a-zăâîşţ]+)tă$'})
+
+# (alternanta in flectiv t->ţ la 2sg + o-oa-u)
+#rules.append({'1sg': u'^([a-zăâîşţ]+)ot$',
+#              '2sg': u'^([a-zăâîşţ]+)oţi$',
+#              '3sg': u'^([a-zăâîşţ]+)oată$',
+#              '1pl': u'^([a-zăâîşţ]+)otăm$',
+#              '2pl': u'^([a-zăâîşţ]+)otaţi$',
+#              '3pl': u'^([a-zăâîşţ]+)oată$'})
+
+# (alternanta in flectiv t->ţ la 2sg + căpăta)
+#rules.append({'1sg': u'^([a-zăâîşţ]+)a([a-zăâîşţ]+)ăt$',
+#              '2sg': u'^([a-zăâîşţ]+)a([a-zăâîşţ]+)eţi$',
+#              '3sg': u'^([a-zăâîşţ]+)a([a-zăâîşţ]+)ătă$',
+#              '1pl': u'^([a-zăâîşţ]+)ă([a-zăâîşţ]+)ătăm$',
+#              '2pl': u'^([a-zăâîşţ]+)ă([a-zăâîşţ]+)ătaţi$',
+#              '3pl': u'^([a-zăâîşţ]+)a([a-zăâîşţ]+)ătă$'})
+
+# (alternanta in flectiv t->ţ la 2sg + ă-e-a)
+rules.append({'1sg': u'^([a-zăâîşţ]+)ăt$',
+              '2sg': u'^([a-zăâîşţ]+)eţi$',
+              '3sg': u'^([a-zăâîşţ]+)ată$',
+              '1pl': u'^([a-zăâîşţ]+)ătăm$',
+              '2pl': u'^([a-zăâîşţ]+)ătaţi$',
+              '3pl': u'^([a-zăâîşţ]+)ată$'})
+
+# imbata cred (alternanta in flectiv t->ţ la 2sg + ă-e-a)
+#rules.append({'1sg': u'^([a-zăâîşţ]+)ăt$',
+#              '2sg': u'^([a-zăâîşţ]+)ăţi$',
+#              '3sg': u'^([a-zăâîşţ]+)ată$',
+#              '1pl': u'^([a-zăâîşţ]+)ătăm$',
+#              '2pl': u'^([a-zăâîşţ]+)ătaţi$',
+#              '3pl': u'^([a-zăâîşţ]+)ată$'})
+              
+# pt verbe care se conjuga cu ez (cita)  (e pus pentru dansa mai jos)
+#rules.append({'1sg': u'^([a-zăâîşţ]+)ez$',
+#             '2sg': u'^([a-zăâîşţ]+)ezi$',
+#             '3sg': u'^([a-zăâîşţ]+)ează$',
+#             '1pl': u'^([a-zăâîşţ]+)ăm$',
+#             '2pl': u'^([a-zăâîşţ]+)aţi$',
+#             '3pl': u'^([a-zăâîşţ]+)ează$'})
+
+# a consta
+#rules.append({'1sg': u'^([a-zăâîşţ]+)au$',
+#              '2sg': u'^([a-zăâîşţ]+)ai$',
+#              '3sg': u'^([a-zăâîşţ]+)ă$',
+#              '1pl': u'^([a-zăâîşţ]+)ăm$',
+#              '2pl': u'^([a-zăâîşţ]+)aţi$',
+#              '3pl': u'^([a-zăâîşţ]+)ă$'})
+
 
 # conj a 2a (infinitivul in -ea)
 # ->la fel ca primul pattern de la conj a 3a
@@ -110,6 +209,13 @@ rules.append({'1sg': u'^([a-zăâîşţ]+)a([a-zăâîşţ]+)$',
               '2pl': u'^([a-zăâîşţ]+)ă([a-zăâîşţ]+)eţi$',
               '3pl': u'^([a-zăâîşţ]+)a([a-zăâîşţ]+)$'})
 
+rules.append({'1sg': u'^([a-zăâîşţ]+)ăd$',
+              '2sg': u'^([a-zăâîşţ]+)ezi$',
+              '3sg': u'^([a-zăâîşţ]+)ede$',
+              '1pl': u'^([a-zăâîşţ]+)edem$',
+              '2pl': u'^([a-zăâîşţ]+)edeţi$',
+              '3pl': u'^([a-zăâîşţ]+)ăd$'})
+              
 # conj a 3a (infinitivul in -e)
 
 rules.append({'1sg': u'^([a-zăâîşţ]+)$',
@@ -138,10 +244,25 @@ rules.append({'1sg': u'^([a-zăâîşţ]+)sc$',
 # pt -ne la infinitiv (l-ai pus deja) ex: a pune
 rules.append({'1sg': u'^([a-zăâîşţ]+)n$', 
               '2sg': u'^([a-zăâîşţ]+)i$',
-              '3sg': u'^([a-zăâîşţ]+)ne$',
+              '3sg': u'^([a-zădâîşţ]+)ne$',
               '1pl': u'^([a-zăâîşţ]+)nem$',
               '2pl': u'^([a-zăâîşţ]+)neţi$',
               '3pl': u'^([a-zăâîşţ]+)n$'})
+
+#pt a crede
+rules.append({'1sg': u'^([a-zăâîşţ]+)d$',
+              '2sg': u'^([a-zăâîşţ]+)zi$',
+              '3sg': u'^([a-zăâîşţ]+)de$',
+              '1pl': u'^([a-zăâîşţ]+)dem$',
+              '2pl': u'^([a-zăâîşţ]+)deţi$',
+              '3pl': u'^([a-zăâîşţ]+)d$'})
+
+rules.append({'1sg': u'^([a-zăâîşţ]+)ă([a-zăâîşţ]*)d$',
+              '2sg': u'^([a-zăâîşţ]+)e([a-zăâîşţ]*)zi$',
+              '3sg': u'^([a-zăâîşţ]+)e([a-zăâîşţ]*)de$',
+              '1pl': u'^([a-zăâîşţ]+)e([a-zăâîşţ]*)dem$',
+              '2pl': u'^([a-zăâîşţ]+)e([a-zăâîşţ]*)deţi$',
+              '3pl': u'^([a-zăâîşţ]+)ă([a-zăâîşţ]*)d$'})
 
 # conj a 4a
 
