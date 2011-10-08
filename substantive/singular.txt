@@ -1,4 +1,5 @@
 exoneraţie	1
+lipcănean	0
 lipcăneană	1
 torsadă	1
 rezervaţie	1
@@ -12,6 +13,7 @@ grivan	0
 dascăl	0
 canea	1
 recipiendar	0
+tomist	0
 tomistă	1
 oxidaţie	1
 devitalizare	1
@@ -44,6 +46,7 @@ deificare	1
 turuitură	1
 aerotaxaţie	1
 batere	1
+sirian	0
 siriană	1
 pebrină	1
 scânteiuţă	1
@@ -68,6 +71,7 @@ bocire	1
 cârlănar	0
 canoist	0
 mielopatie	1
+nebun	0
 nebună	1
 şoş	0
 noriţă	1
@@ -82,6 +86,7 @@ intimare	1
 radiocombină	1
 om-zi	1
 ţolină	1
+celuitor	0
 celuitoare	1
 stăruire	1
 somn	0
@@ -101,7 +106,9 @@ musculiţă	1
 fabulistă	1
 naţionalitate	1
 potroacă	1
+rubeolos	0
 rubeoloasă	1
+gimnofob	0
 gimnofobă	1
 blazonist	0
 futilitate	1
@@ -201,6 +208,7 @@ scrumbioară	1
 fototopografie	1
 clapetă	1
 inserare	1
+vaccinator	0
 vaccinatoare	1
 stăruinţă	1
 băciţă	1
@@ -278,6 +286,7 @@ fasoleală	1
 închisoare	1
 livadă	1
 octodă	1
+meridional	0
 meridională	1
 strepezeală	1
 calandrare	1
@@ -286,7 +295,9 @@ remitenţă	1
 cianat	0
 indicaţie	1
 prognostician	0
+fitosanitar	0
 fitosanitară	1
+ioanit	0
 ioanită	1
 biometeorologă	1
 gogoşea	1
@@ -327,6 +338,7 @@ năşic	0
 luculă	1
 năşie	1
 haustor	0
+votant	0
 votantă	1
 hurie	1
 bâtlănaş	0
@@ -335,7 +347,10 @@ academie	1
 zincare	1
 bază	1
 exfoliere	1
+tavernier	0
 tavernieră	1
+iubit	0
+iubită	1
 han	0
 puiculeană	1
 impuritate	1
@@ -348,6 +363,7 @@ centrare	1
 sferolit	0
 hiperchinezie	1
 arbitru	0
+varvar	0
 varvară	1
 metaistorie	1
 corijare	1
@@ -383,17 +399,21 @@ zermacup	0
 străjuire	1
 alică	1
 apercepţie	1
+bulgar	0
 bulgară	1
 mojicie	1
 nielă	1
 historiogramă	1
+bombardier	0
 puricaş	0
 fosilizare	1
+demistificator	0
 demistificatoare	1
 procopsire	1
 şicanatoare	1
 mestecănaş	0
 oglindire	1
+uşarnic	0
 uşarnică	1
 monoprogramare	1
 calozitate	1
@@ -416,7 +436,9 @@ aerologă	1
 ariergardă	1
 semifondistă	1
 vulcanologă	1
+lucrător	0
 lucrătoare	1
+devot	0
 devotă	1
 văioagă	1
 pasatrice	1
@@ -455,10 +477,12 @@ hainie	1
 cedent	0
 canelură	1
 stabilire	1
+sanpaulian	0
 sanpauliană	1
 policioară	1
 dormeză	1
 bibiloi	0
+decedat	0
 decedată	1
 panoplie	1
 aspersare	1
@@ -517,6 +541,7 @@ vârtute	1
 papilă	1
 prodecan	0
 şoldeală	1
+apostat	0
 apostată	1
 senzaţie	1
 cioată	1
@@ -559,13 +584,16 @@ prepotenţă	1
 miezuină	1
 confecţie	1
 specialistă	1
+ilir	0
 iliră	1
 tult	0
 broboană	1
 muşcată	1
 miciman	0
+persan	0
 persană	1
 folcloristă	1
+generativist	0
 generativistă	1
 ştrengar	0
 aprod	0
@@ -585,6 +613,7 @@ sponsor	0
 sfară	1
 antifrază	1
 fleşcăială	1
+nominalist	0
 nominalistă	1
 plesiozaur	0
 recompunere	1
@@ -608,6 +637,9 @@ slujire	1
 adolesecent	0
 urbanizare	1
 gaiţă	1
+născut	0
+născută	1
+şintoist	0
 şintoistă	1
 bacteriofag	0
 transmutaţie	1
@@ -617,6 +649,7 @@ buiandrug	0
 celiotomie	1
 crisoidină	1
 găgăuţă	0
+găgăuţă	1
 catavaloare	1
 necrofobie	1
 ecoscopie	1
@@ -656,6 +689,7 @@ parazitoză	1
 cotitură	1
 recalculare	1
 dumitriţă	1
+stimulator	0
 stimulatoare	1
 tratamentist	0
 asanare	1
@@ -663,7 +697,9 @@ bănuţel	0
 hârşie	1
 apretor	0
 nemulţumire	1
+imoralist	0
 imoralistă	1
+huţan	0
 huţană	1
 bandajist	0
 hiritisire	1
@@ -672,13 +708,16 @@ chitră	1
 mâzgăleală	1
 evacuaţie	1
 parcare	1
+eczematos	0
 eczematoasă	1
 galvanostereotipie	1
 băieţoi	0
 epistemologă	1
 bâzâitură	1
 columbacă	1
+doljean	0
 doljeană	1
+lepros	0
 leproasă	1
 monarh	0
 colocutor	0
@@ -751,6 +790,7 @@ paleofitologă	1
 condensare	1
 pentatlonistă	1
 videofrecvenţă	1
+coralier	0
 coralieră	1
 bursucar	0
 cornaci	0
@@ -758,6 +798,7 @@ muzicologă	1
 hangioaică	1
 expansibilitate	1
 sfiiciune	1
+pacient	0
 pacientă	1
 torcător	0
 camănă	1
@@ -768,6 +809,7 @@ micromicron	0
 fotograf	0
 vraci	0
 idioţenie	1
+ţintar	0
 pionier	0
 clorit	0
 tulichină	1
@@ -781,6 +823,7 @@ reglare	1
 bagdadie	1
 tamarin	0
 pescăraş	0
+sinaiot	0
 sinaiotă	1
 sisinel	0
 undiţar	0
@@ -798,10 +841,12 @@ debilitate	1
 amarare	1
 periuţă	1
 hiperlatinist	0
+extracontabil	0
 extracontabilă	1
 împrejmuire	1
 cutare	1
 lacinie	1
+preadolescent	0
 preadolescentă	1
 năsilnicie	1
 cloceală	1
@@ -809,6 +854,7 @@ sastisire	1
 pofidă	1
 macrospor	0
 meşteşugar	0
+cooperativist	0
 cooperativistă	1
 ilustratotecă	1
 potolire	1
@@ -826,11 +872,13 @@ evanghelie	1
 zgripţor	0
 imputaţie	1
 refuzare	1
+localnic	0
 localnică	1
 manghier	0
 întrunire	1
 buneţe	1
 metopă	1
+brazilian	0
 braziliană	1
 sumă	1
 caraban	0
@@ -882,6 +930,7 @@ spartachiadă	1
 viitură	1
 meteorizaţie	1
 distingere	1
+trăirist	0
 trăiristă	1
 aspirare	1
 seanţă	1
@@ -899,9 +948,11 @@ stereotipie	1
 văduvoi	0
 pendularist	0
 pornograf	0
+înotător	0
 înotătoare	1
 hămurar	0
 fantoşă	1
+motoretist	0
 motoretistă	1
 stropitură	1
 zornăială	1
@@ -940,8 +991,10 @@ depalatalizare	1
 colniţă	1
 cataramă	1
 lobodă	1
+zurbagiu	0
 zurbagie	1
 sainetă	1
+mort	0
 moartă	1
 colană	1
 poeticiană	1
@@ -970,11 +1023,13 @@ pivnicioară	1
 ţigară	1
 memorialist	0
 psihoză	1
+şchiop	0
 şchioapă	1
 poftire	1
 colonistă	1
 hidroamelioraţie	1
 bridgist	0
+fatalist	0
 fatalistă	1
 pastramagiu	0
 vârstean	0
@@ -999,6 +1054,7 @@ reflexie	1
 ţopârlan	0
 sfigmogramă	1
 epiforă	1
+muribund	0
 muribundă	1
 hectolitru	0
 imensitate	1
@@ -1019,6 +1075,7 @@ hotărnicie	1
 merinde	1
 dactil	0
 trefilator	0
+lusitan	0
 lusitană	1
 vilozitate	1
 propagaţie	1
@@ -1029,6 +1086,7 @@ autobenă	1
 vacanţă	1
 cămaşă	1
 morocăneală	1
+spiritualist	0
 spiritualistă	1
 apreciere	1
 depănător	0
@@ -1047,9 +1105,12 @@ dogărie	1
 voluptate	1
 cofă	1
 obelă	1
+ticălos	0
 ticăloasă	1
+intervievat	0
 intervievată	1
 dezagregaţie	1
+dolorist	0
 doloristă	1
 mânaş	0
 mandarină	1
@@ -1057,6 +1118,7 @@ osteoartrită	1
 sfâşiere	1
 înzăpezire	1
 vrăjitură	1
+emanatist	0
 emanatistă	1
 pielită	1
 strictură	1
@@ -1064,6 +1126,7 @@ tiralior	0
 poetă	1
 triatlonist	0
 cardare	1
+sumerian	0
 sumeriană	1
 scotă	1
 obşte	1
@@ -1097,6 +1160,7 @@ neurologă	1
 sclav	0
 daradaică	1
 ieduţă	1
+irochez	0
 irocheză	1
 lozincă	1
 răbuire	1
@@ -1113,6 +1177,7 @@ risturnă	1
 cârciogar	0
 îmbuibare	1
 lombardă	1
+lombard	0
 migrenă	1
 gazificare	1
 tăblăluţa	1
@@ -1120,11 +1185,13 @@ satiră	1
 magnetoizolant	0
 crinolină	1
 reptaţie	1
+ingrat	0
 ingrată	1
 asclepiadacee	1
 minimizare	1
 folicul	0
 lamă	1
+paraşutist	0
 paraşutistă	1
 glasieră	1
 împăturire	1
@@ -1162,7 +1229,9 @@ smreduire	1
 sisal	0
 cabulă	1
 bucătură	1
+harghitean	0
 harghiteană	1
+configuraţionist	0
 configuraţionistă	1
 vinietist	0
 taxifurgonetă	1
@@ -1183,6 +1252,7 @@ mozaist	0
 oţetărie	1
 soroceancă	1
 rostogolire	1
+neptunist	0
 neptunistă	1
 antanagogă	1
 continuatoare	1
@@ -1262,6 +1332,7 @@ hemovaccinare	1
 şarjare	1
 patrulare	1
 sirologă	1
+deponent	0
 deponentă	1
 căptuşeală	1
 zarafiţă	1
@@ -1277,6 +1348,7 @@ reticenţă	1
 binormală	1
 pompagiu	0
 barman	0
+controlor	0
 mărăcinar	0
 gomfrenă	1
 poezie	1
@@ -1309,6 +1381,7 @@ marmeladă	1
 rubricare	1
 forfecar	0
 lodbă	1
+concurent	0
 concurentă	1
 gardenie	1
 îngropăciune	1
@@ -1324,9 +1397,12 @@ militarizare	1
 totemi	0
 xerobole	1
 clientă	1
+înlocuitor	0
 înlocuitoare	1
 babă	1
+xenofob	0
 xenofobă	1
+stenoterm	0
 stenotermă	1
 poiată	1
 cenur	0
@@ -1335,6 +1411,7 @@ tencuire	1
 meloide	1
 carmelit	0
 altoitor	0
+nasol	0
 nasoală	1
 mutaţie	1
 pilitură	1
@@ -1364,6 +1441,7 @@ dârdală	1
 ibis	0
 maquisard	0
 demultiplicare	1
+boşiman	0
 boşimană	1
 matracucă	1
 gerontocrată	1
@@ -1376,6 +1454,7 @@ remige	1
 insinuaţie	1
 tipăritor	0
 teleleu	0
+yemenit	0
 yemenită	1
 fanerogamist	0
 retor	0
@@ -1421,6 +1500,7 @@ străşnicie	1
 areolă	1
 antropomorfist	0
 picăţică	1
+mondialist	0
 mondialistă	1
 făptuitor	0
 botoaşă	1
@@ -1430,9 +1510,11 @@ cornicular	0
 ortopedist	0
 derogaţiune	1
 hemotoxie	1
+huşean	0
 huşeană	1
 odaie	1
 revitalizare	1
+târş	0
 degazare	1
 nepoţel	0
 putinţă	1
@@ -1444,10 +1526,12 @@ astăreală	1
 comoţie	1
 tafrofite	1
 biodeteriorare	1
+sprijinitor	0
 sprijinitoare	1
 şopârlaiţă	1
 teoremă	1
 lăcrimiţă	1
+seducător	0
 seducătoare	1
 brichetare	1
 arnăut	0
@@ -1467,6 +1551,7 @@ petală	1
 ostoire	1
 pudretă	1
 mântuş	0
+suedez	0
 suedeză	1
 decompoziţie	1
 cromotipografie	1
@@ -1487,12 +1572,14 @@ aerofrână	1
 posteucă	1
 clăditor	0
 supleant	0
+declasat	0
 declasată	1
 lacovişte	1
 izofonă	1
 vămeşie	1
 dezavuare	1
 pielar	0
+lumen	0
 nagaică	1
 tromboplastină	1
 hidrografă	1
@@ -1503,6 +1590,7 @@ uremie	1
 uranofan	0
 incizor	0
 policlinică	1
+uremic	0
 uremică	1
 spatulă	1
 hodoroagă	1
@@ -1583,11 +1671,13 @@ ultracentrifugă	1
 concretizare	1
 încetinire	1
 barită	1
+preroman	0
 preromană	1
 umplutură	1
 obiectivizare	1
 culturolog	0
 pacheşcă	1
+indice	0
 obturare	1
 prescură	1
 izolatoare	1
@@ -1618,6 +1708,7 @@ flăcău	0
 urmaş	0
 clamare	1
 scorbură	1
+fugar	0
 fugară	1
 proroc	0
 odivoi	0
@@ -1644,6 +1735,7 @@ bumbăcar	0
 vespasiană	1
 columbide	1
 nimfă	1
+dornic	0
 dornică	1
 ofertă	1
 cabanos	0
@@ -1665,6 +1757,7 @@ diaree	1
 gealat	0
 splendoare	1
 acetazolamidă	1
+pietist	0
 pietistă	1
 trubadur	0
 boicotare	1
@@ -1675,6 +1768,7 @@ acusticiană	1
 contrareformă	1
 cosar	0
 ţesătură	1
+gurmand	0
 gurmandă	1
 portsculă	1
 evaporare	1
@@ -1687,6 +1781,7 @@ coşenilă	1
 potlogărie	1
 dunamogramă	1
 inframicrob	0
+mâncăcios	0
 mâncăcioasă	1
 tăbăcărie	1
 sămeşie	1
@@ -1722,13 +1817,17 @@ chiculiţă	1
 osânză	1
 platoşă	1
 alpaca	1
+hidropicos	0
 hidropicoasă	1
 peştişoară	1
+trăgător	0
+trăgătoare	1
 paiantă	1
 apepsie	1
 distincţie	1
 coropcar	0
 cerinţă	1
+conector	0
 cosaş	0
 vineţeală	1
 uniune	1
@@ -1754,9 +1853,11 @@ biologă	1
 contraepolet	0
 redistilare	1
 izotahă	1
+omonim	0
 antevorbitoare	1
 oportunitate	1
 handicapat	0
+capsator	0
 bărbieriţă	1
 colegian	0
 procură	1
@@ -1778,6 +1879,7 @@ biber	0
 caraulă	1
 cotcodăcire	1
 poanter	0
+subiectivist	0
 subiectivistă	1
 platcă	1
 capucin	0
@@ -1792,6 +1894,7 @@ tenisman	0
 achenă	1
 samurai	0
 mămăliguţă	1
+josean	0
 joseană	1
 cuviinţă	1
 cizmăreasă	1
@@ -1802,8 +1905,10 @@ nuculă	1
 rearanjare	1
 readmisie	1
 arcă	1
+perfecţionist	0
 perfecţionistă	1
 traheotomie	1
+anglo-saxon	0
 anglo-saxonă	1
 surpare	1
 apoplexie	1
@@ -1831,7 +1936,9 @@ plop	0
 auroră	1
 fenazonă	1
 peracid	0
+plod	0
 sclifosire	1
+junimist	0
 junimistă	1
 calcificare	1
 radiodetecţie	1
@@ -1850,22 +1957,26 @@ crainică	1
 hemosideroză	1
 glorie	1
 acrimonie	1
+hondurian	0
 honduriană	1
 târnuială	1
 rotagramă	1
 rotire	1
 cosiţel	0
+profilator	0
 profilatoare	1
 mentalitate	1
 maşină	1
 moron	0
 moroi	0
 bulină	1
+chinez	0
 chineză	1
 economisire	1
 comis-voiajor	0
 confederat	0
 dezvinovăţire	1
+seminarist	0
 seminaristă	1
 grifon	0
 cosmonaut	0
@@ -1887,6 +1998,7 @@ trupă	1
 broşatoare	1
 teleemisiune	1
 cartograf	0
+muton	0
 stereotipar	0
 despărţenie	1
 supraconducţie	1
@@ -1904,6 +2016,7 @@ aşchie	1
 rozacee	1
 organiciană	1
 dolină	1
+stihar	0
 fetişcană	1
 arheograf	0
 ţâşnire	1
@@ -1921,6 +2034,7 @@ urcare	1
 necesitate	1
 ursoaie	1
 monopolizare	1
+maniac	0
 maniacă	1
 tătucă	0
 rotiliţă	1
@@ -1928,6 +2042,7 @@ formare	1
 druşcă	1
 sirfide	1
 ziarist	0
+ipohondru	0
 ipohondră	1
 onanie	1
 genunchi	0
@@ -1963,6 +2078,7 @@ cercetaş	0
 bucătar	0
 servitudine	1
 mătuire	1
+repatriat	0
 repatriată	1
 heliotehnician	0
 limpezire	1
@@ -2022,9 +2138,11 @@ babană	1
 babac	0
 flecărie	1
 suspantă	1
+transcendentalist	0
 transcendentalistă	1
 clădire	1
 sinagogă	1
+minoritar	0
 minoritară	1
 acordantă	1
 panglicărie	1
@@ -2041,7 +2159,9 @@ secretară	1
 monotipist	0
 insurgentă	1
 furnalist	0
+tont	0
 toantă	1
+infirm	0
 infirmă	1
 codroş	0
 recuzare	1
@@ -2055,6 +2175,7 @@ infirmieră	1
 falconiformă	1
 şiretenie	1
 tobiţă	1
+plebeian	0
 plebeiană	1
 tumul	0
 tencuitor	0
@@ -2073,6 +2194,7 @@ coaptaţie	1
 demoliţiune	1
 virgulă	1
 trântoriţă	1
+osman	0
 osmană	1
 mărmurar	0
 dedentiţie	1
@@ -2098,6 +2220,7 @@ ramolire	1
 aberanţă	1
 newton	0
 semicivilizaţie	1
+fluşturatic	0
 fluşturatică	1
 halterofil	0
 burzuluială	1
@@ -2106,6 +2229,7 @@ deţinută	1
 metaplazie	1
 zigofite	1
 apicultor	0
+narodnic	0
 narodnică	1
 bandeletă	1
 pulpită	1
@@ -2127,6 +2251,7 @@ percheziţie	1
 astrucare	1
 penişă	1
 scânduriţă	1
+longobard	0
 longobardă	1
 tumoare	1
 entropie	1
@@ -2152,6 +2277,7 @@ cacofonie	1
 curion	0
 nepoţică	1
 devansare	1
+interimar	0
 interimară	1
 dulgher	0
 pernuţă	1
@@ -2160,6 +2286,7 @@ silicifiere	1
 voroavă	1
 reorganizaţie	1
 frizer	0
+japonez	0
 japoneză	1
 şiră	1
 coafeză	1
@@ -2171,6 +2298,7 @@ laticlavă	1
 grumaz	0
 ghilotină	1
 cromatogramă	1
+vasluian	0
 vasluiană	1
 secetă	1
 cuţitoaie	1
@@ -2188,6 +2316,7 @@ reinterogare	1
 pirostrie	1
 radiopirat	0
 camforcă	1
+francofon	0
 francofonă	1
 anereză	1
 putină	1
@@ -2199,6 +2328,7 @@ joimir	0
 frazeologă	1
 carmangerie	1
 animator	0
+cuperos	0
 cuperoasă	1
 băcănie	1
 crăculiţă	1
@@ -2235,6 +2365,7 @@ depoluare	1
 dezamăgire	1
 năframă	1
 odolean	0
+ecumenist	0
 ecumenistă	1
 cardiolog	0
 pluton	0
@@ -2252,6 +2383,7 @@ combatant	0
 ghipsotecă	1
 imprecaţie	1
 franklin	0
+călcător	0
 prohibire	1
 scorpion	0
 cuminecătură	1
@@ -2283,21 +2415,27 @@ dialelă	1
 caimacam	0
 orelistă	1
 huţancă	1
+galet	0
 galet	1
 intruziune	1
+fanfaron	0
 fanfaroană	1
 biograf	0
 cabalist	0
 legaţie	1
 infecţiozitate	1
 exemplificare	1
+cahulean	0
 cahuleană	1
 răcilă	1
+pesimist	0
 pesimistă	1
 hiperfrecvenţă	1
 cenotip	0
 cosă	1
+tărcăuan	0
 tărcăuană	1
+kurd	0
 kurdă	1
 afurisenie	1
 pigmentaţie	1
@@ -2310,8 +2448,10 @@ vocală	1
 supraveghere	1
 pastelist	0
 experimentare	1
+cafard	0
 cafardă	1
 dermatozoonoză	1
+babilonian	0
 babiloniană	1
 stilb	0
 dezbobinare	1
@@ -2335,12 +2475,14 @@ teşire	1
 vâlvoare	1
 sor	0
 colibacil	0
+drob	0
 zmăcinare	1
 diorie	1
 bestialitate	1
 coreligionar	0
 butisă	1
 imunochimist	0
+lăieţ	0
 lăiaţă	1
 aşteptare	1
 ocupatoare	1
@@ -2356,7 +2498,9 @@ sunnită	1
 brăţea	1
 mezofită	1
 micologă	1
+expozant	0
 expozantă	1
+tripolian	0
 tripoliană	1
 indiscreţie	1
 gradaţie	1
@@ -2368,6 +2512,7 @@ conirostră	1
 bulgăre	0
 erborist	0
 bâzâială	1
+inspirator	0
 inspiratoare	1
 kirghiză	1
 justificare	1
@@ -2428,8 +2573,10 @@ ataman	0
 desolidarizare	1
 mătăhuie	1
 saramură	1
+sărăcan	0
 sărăcană	1
 amină	1
+semidoct	0
 semidoctă	1
 imprecizie	1
 stambă	1
@@ -2463,6 +2610,7 @@ pleoscăitură	1
 rafinare	1
 supraveghetoare	1
 recunoştinţă	1
+emigrant	0
 emigrantă	1
 distorsiune	1
 olteancă	1
@@ -2486,6 +2634,7 @@ mindirigiu	0
 despachetare	1
 modeleră	1
 astronavigaţie	1
+înălbitor	0
 înălbitoare	1
 seminţenie	1
 mineralog	0
@@ -2510,6 +2659,7 @@ buchiseală	1
 dinodă	1
 distribuţie	1
 jumelă	1
+gângav	0
 gângavă	1
 hudicioară	1
 închinător	0
@@ -2568,6 +2718,7 @@ viorist	0
 imunoprofilaxie	1
 cavatină	1
 îmbuteliatoare	1
+manipulator	0
 pomojnic	0
 pistolar	0
 bioniciană	1
@@ -2612,6 +2763,7 @@ concrescenţă	1
 umbrelar	0
 taxă	1
 plapumă	1
+asiro-babilonian	0
 asiro-babiloniană	1
 juncuţă	1
 reaudiere	1
@@ -2633,7 +2785,9 @@ fecioară	1
 şovăială	1
 ambrozie	1
 câner	0
+cipriot	0
 cipriotă	1
+arvanit	0
 arvanită	1
 coreu	0
 intradă	1
@@ -2672,6 +2826,7 @@ anonim	0
 berărie	1
 antecesor	0
 parafrazare	1
+osc	0
 oscă	1
 antiformant	0
 balestră	1
@@ -2681,6 +2836,7 @@ sfârâire	1
 monocultură	1
 misandrie	1
 revopsire	1
+minor	0
 minoră	1
 centrozom	0
 cuişoriţă	1
@@ -2699,6 +2855,7 @@ meteorit	0
 telecameră	1
 violenţă	1
 pigmee	1
+incisiv	0
 incisivă	1
 executare	1
 limnolog	0
@@ -2721,9 +2878,11 @@ trombopatie	1
 mimograf	0
 doxologie	1
 jucărie	1
+legiuitor	0
 legiuitoare	1
 arenă	1
 electroliză	1
+cubist	0
 cubistă	1
 publicist	0
 microaliere	1
@@ -2740,6 +2899,7 @@ rezinificare	1
 aeromodelist	0
 plumbat	0
 diblar	0
+barabanci	0
 acatafazie	1
 fiziocrat	0
 moralizare	1
@@ -2764,13 +2924,16 @@ radioterapeută	1
 catalpă	1
 aiurit	0
 şuierătoare	1
+corintian	0
 corintiană	1
 limnologă	1
 cutie	1
 cistită	1
 scizionare	1
+ceh	0
 cehă	1
 dubeală	1
+cer	0
 necumpănire	1
 acontare	1
 baracudă	1
@@ -2784,6 +2947,7 @@ girant	0
 pagaie	1
 desţelenire	1
 ceaşcă	1
+tăvălug	0
 gintă	1
 tucan	0
 ţintire	1
@@ -2804,6 +2968,7 @@ hipiatrie	1
 embriotomie	1
 cuşetă	1
 filatură	1
+american	0
 americană	1
 nulă	1
 manifestaţie	1
@@ -2832,6 +2997,7 @@ satiseală	1
 predestinaţie	1
 săturare	1
 strigătură	1
+grec	0
 coafor	0
 proclamaţie	1
 fecundare	1
@@ -2875,6 +3041,7 @@ sulfoconjugare	1
 carposferă	1
 monograf	0
 stanat	0
+flamand	0
 flamandă	1
 campanilă	1
 subgrindă	1
@@ -2889,6 +3056,7 @@ afon	0
 brezaie	1
 consfătuire	1
 pestelcă	1
+severinean	0
 severineană	1
 elice	1
 fiscalitate	1
@@ -2897,15 +3065,18 @@ deflaţie	1
 consecinţă	1
 savarină	1
 iederă	1
+înaintaş	0
 înaintaşă	1
 tocitor	0
 nucşoară	1
 căciuliţă	1
 iacint	0
 cunoaştere	1
+carcalete	0
 isprăvire	1
 creastă	1
 irealitate	1
+spasmofilic	0
 spasmofilică	1
 drăgosteală	1
 amforă	1
@@ -2913,16 +3084,20 @@ onorificenţă	1
 fenec	0
 proton	0
 etocrat	0
+electroizolant	0
 electroizolantă	1
 xantopsie	1
 promilă	1
 trânjoaică	1
 gevrea	1
 tapare	1
+prevaricator	0
 prevaricatoare	1
 multiprogramare	1
+destructor	0
 destructoare	1
 menoragie	1
+mistificator	0
 mistificatoare	1
 ieteră	1
 retortă	1
@@ -2933,7 +3108,9 @@ osmoză	1
 balcanolog	0
 merindare	1
 rânjitură	1
+struţ	0
 franzelă	1
+stângist	0
 stângistă	1
 coerede	0
 pace	1
@@ -2945,6 +3122,7 @@ albatros	0
 factorizare	1
 bărzăun	0
 heliotrop	0
+mâncător	0
 mâncătoare	1
 schizomanie	1
 ramă	1
@@ -2958,6 +3136,7 @@ ciupeală	1
 spiritizare	1
 mestecă	1
 socru	0
+primogenit	0
 primogenită	1
 perucăreasă	1
 monografist	0
@@ -2972,10 +3151,13 @@ mânăstioară	1
 orezărie	1
 sofită	1
 osana	1
+vietnamez	0
 vietnameză	1
 şacal	0
 vanilie	1
+mecanicist	0
 mecanicistă	1
+legalist	0
 legalistă	1
 subchiriaş	0
 peştoaică	1
@@ -2996,6 +3178,7 @@ stratigrafie	1
 purină	1
 plasmoliză	1
 tuberculoză	1
+profanator	0
 profanatoare	1
 manită	1
 locuitoare	1
@@ -3038,6 +3221,7 @@ nefrită	1
 criptanalist	0
 pleurodinie	1
 căsean	0
+mahomedan	0
 mahomedană	1
 mesagerie	1
 zimniceancă	1
@@ -3045,6 +3229,7 @@ achiziţionare	1
 restituţie	1
 cărmăcuţ	0
 nevinovăţie	1
+antiscorbutic	0
 umectare	1
 redacţie	1
 terfelire	1
@@ -3095,6 +3280,7 @@ orăşean	0
 trincă	1
 cuplă	1
 înverşunare	1
+europoid	0
 europoidă	1
 ebenistă	1
 oblojire	1
@@ -3136,6 +3322,7 @@ tutelă	1
 tocată	1
 rezită	1
 zdrobeală	1
+seminomad	0
 seminomadă	1
 tehnicizare	1
 industrializare	1
@@ -3168,7 +3355,9 @@ solanee	1
 compatriot	0
 micotoxicoză	1
 dornă	1
+conducător	0
 conducătoare	1
+estetizant	0
 estetizantă	1
 centrator	0
 jucătoare	1
@@ -3192,6 +3381,7 @@ revalorificare	1
 mărgea	1
 supremaţie	1
 volant	0
+talan	0
 baghetă	1
 zidire	1
 întomnare	1
@@ -3199,8 +3389,10 @@ nemernicie	1
 cuscrişor	0
 fabulist	0
 sultană	1
+ornitofil	0
 ornitofilă	1
 inaugurator	0
+enciclopedist	0
 enciclopedistă	1
 inaderenţă	1
 comoditate	1
@@ -3225,6 +3417,7 @@ faultare	1
 listă	1
 pseudoparazit	0
 aldosteron	0
+dacoromân	0
 dacoromână	1
 tribun	0
 raşchetă	1
@@ -3233,10 +3426,12 @@ deţinătoare	1
 kaizer	0
 sobuşoară	1
 căniţă	1
+sofiot	0
 sofiotă	1
 românistă	1
 avocat	0
 ghiorăială	1
+namibian	0
 namibiană	1
 cimă	1
 decapsulare	1
@@ -3254,9 +3449,11 @@ calic	0
 calif	0
 cufundare	1
 achiu	0
+pietrean	0
 pietreană	1
 pădurar	0
 cotarlă	1
+incitativ	0
 incitativă	1
 covrigăreasă	1
 groşiţă	1
@@ -3278,6 +3475,7 @@ candelă	1
 locotenent-colonel	0
 închinare	1
 creaţie	1
+revendicator	0
 revendicatoare	1
 feerie	1
 ţiţeică	1
@@ -3293,9 +3491,11 @@ mămăruţă	1
 neologist	0
 tribrah	0
 fluorescenţă	1
+ecuadorian	0
 ecuadoriană	1
 formalină	1
 povăţuitoare	1
+bastard	0
 bastardă	1
 intubaţie	1
 sarcomicete	1
@@ -3336,6 +3536,7 @@ tocătoare	1
 tarsioidee	1
 prăştină	1
 consecvenţă	1
+conjuncturist	0
 conjuncturistă	1
 astuţie	1
 cârcserdar	0
@@ -3349,6 +3550,7 @@ parazitare	1
 anarhosindicalist	0
 spicher	0
 presator	0
+granat	0
 înţesare	1
 bimembru	0
 păstrăvărie	1
@@ -3362,6 +3564,7 @@ eluant	0
 stână	1
 priveghere	1
 dizenterie	1
+dizenteric	0
 dizenterică	1
 explicitare	1
 vulgarizatoare	1
@@ -3378,6 +3581,7 @@ cherestegerie	1
 bromură	1
 mitroacă	1
 terţă	1
+terţ	0
 hoţoaică	1
 păpăradă	1
 anarhist	0
@@ -3397,6 +3601,7 @@ pretăbăcire	1
 răbuială	1
 abrogaţie	1
 netezime	1
+leovean	0
 leoveană	1
 seminarizare	1
 rătăcire	1
@@ -3446,6 +3651,7 @@ rumegătură	1
 balizare	1
 bărbişoară	1
 sărăcie	1
+lăptişor	0
 miliardară	1
 arhivă	1
 detorsiune	1
@@ -3457,6 +3663,7 @@ regresat	0
 cabanieră	1
 dăruire	1
 făgăduială	1
+scarlatinos	0
 scarlatinoasă	1
 recitator	0
 ferţă	1
@@ -3512,6 +3719,7 @@ renunţare	1
 pluşare	1
 târsă	1
 împotriveală	1
+zburător	0
 zburătoare	1
 rectoscopie	1
 fişcă	1
@@ -3530,9 +3738,11 @@ vivandieră	1
 răzgândire	1
 trompetist	0
 ţoşcă	1
+utopist	0
 utopistă	1
 băsmuitor	0
 colectazie	1
+infectocontagios	0
 infectocontagioasă	1
 grindină	1
 hidrofugare	1
@@ -3541,6 +3751,7 @@ flibustier	0
 enterocolită	1
 fitoterapeut	0
 colecţionare	1
+asociat	0
 asociată	1
 slujnicar	0
 vicecomite	0
@@ -3575,6 +3786,7 @@ prevaricaţiune	1
 puradel	0
 docent	0
 ipoteză	1
+hipnotizator	0
 hipnotizatoare	1
 hurducăială	1
 sforăire	1
@@ -3634,6 +3846,7 @@ ungătoare	1
 statornicire	1
 concesie	1
 brâncariţă	1
+titular	0
 titulară	1
 hetairă	1
 colonie	1
@@ -3670,6 +3883,7 @@ chelie	1
 pleşuvie	1
 taxologă	1
 semiindustrializare	1
+slavon	0
 slavonă	1
 ambiţios	0
 dipsacacee	1
@@ -3710,20 +3924,24 @@ predominanţă	1
 silvicultoare	1
 chimist	0
 răzeşie	1
+lustruitor	0
 sclipeală	1
 misdiviziune	1
 pietrărie	1
 casetă	1
+cornar	0
 brădişoară	1
 prespălare	1
 municipalizare	1
 întristare	1
 malacologă	1
 pojarnic	0
+creţ	0
 fluoroză	1
 peso	0
 recogniţiune	1
 stomată	1
+angrosist	0
 angrosistă	1
 plagă	1
 lingvistică	1
@@ -3731,7 +3949,9 @@ gerah	0
 amfetamină	1
 piuă	1
 turnură	1
+marocan	0
 marocană	1
+pavlovist	0
 pavlovistă	1
 junglă	1
 microstaţie	1
@@ -3751,6 +3971,7 @@ fotă	1
 recenzare	1
 contrascotă	1
 petrificare	1
+auditor	0
 auditoare	1
 lăcuitor	0
 cincilă	1
@@ -3805,7 +4026,9 @@ globalist	0
 destindere	1
 vrăjire	1
 catavasie	1
+scuipat	0
 tocilărie	1
+plonjor	0
 proboscidian	0
 dezechipare	1
 antelie	1
@@ -3843,6 +4066,7 @@ orăşenie	1
 alozaur	0
 cauţiune	1
 perper	0
+portughez	0
 portugheză	1
 metaloplastie	1
 degazator	0
@@ -3876,10 +4100,12 @@ izoseistă	1
 degenerare	1
 oinist	0
 protoiereu	0
+cretin	0
 cretină	1
 pianină	1
 alomorfie	1
 pavator	0
+confuzionar	0
 confuzionară	1
 clinică	1
 servoreglare	1
@@ -3895,6 +4121,7 @@ honuire	1
 carabuşcă	1
 maltozurie	1
 asimetrie	1
+fugaci	0
 fugace	1
 eleagnacee	1
 perişor	0
@@ -3902,6 +4129,7 @@ cipic	0
 crisofenină	1
 inicvitate	1
 sponsorizare	1
+semigreu	0
 semigrea	1
 pterozaurian	0
 dedogmatizare	1
@@ -3921,8 +4149,10 @@ culpaşă	1
 camerist	0
 narină	1
 recompartimentare	1
+spătar	0
 grafolog	0
 mihalţ	0
+locator	0
 englezoaică	1
 comeseană	1
 peţitor	0
@@ -3937,16 +4167,19 @@ casmofite	1
 salatieră	1
 văduvioară	1
 despărţire	1
+toporaş	0
 deferire	1
 pocnitură	1
 bulbuc	0
 bulvan	0
 ipocrizie	1
 mârlire	1
+zambian	0
 zambiană	1
 biofiziciană	1
 halucinată	1
 lunaut	0
+cronograf	0
 păcănitură	1
 drumeaţă	1
 vitişoară	1
@@ -3954,6 +4187,7 @@ fixator	0
 alpinistă	1
 zerar	0
 reprofilare	1
+exportator	0
 exportatoare	1
 fântânioară	1
 sticluliţă	1
@@ -3961,11 +4195,13 @@ depreciere	1
 jneapăn	0
 citogenetician	0
 zdrobitură	1
+cacom	0
 doctoreasă	1
 dragă	1
 ranforsare	1
 flebotomie	1
 doinar	0
+idolatru	0
 idolatră	1
 berbecuţ	0
 alambicare	1
@@ -3989,6 +4225,7 @@ schilodenie	1
 antecedenţă	1
 parametron	0
 schiagrafie	1
+elan	0
 radiotelegrafistă	1
 încercuire	1
 tigăiţă	1
@@ -4000,7 +4237,9 @@ supravieţuitor	0
 limfadenie	1
 evocare	1
 indignare	1
+destrăbălat	0
 destrăbălată	1
+suspect	0
 suspectă	1
 eritrofobie	1
 înfiinţare	1
@@ -4010,6 +4249,7 @@ prerogativă	1
 placardare	1
 defazare	1
 scăiuş	0
+euhemerist	0
 euhemeristă	1
 franzeluţă	1
 box	0
@@ -4017,6 +4257,8 @@ boz	0
 bos	0
 bou	0
 comisie	1
+extrem	0
+extremă	1
 accelerare	1
 protosinghel	0
 raganelă	1
@@ -4043,12 +4285,14 @@ fâşie	1
 relocaţiune	1
 ursăreasă	1
 spută	1
+solidarist	0
 solidaristă	1
 parafiză	1
 încununare	1
 surată	1
 lepădătură	1
 prepeliţă	1
+gălbior	0
 gălbioară	1
 ridicare	1
 avansare	1
@@ -4093,6 +4337,7 @@ sulfamidă	1
 lampetră	1
 glorificare	1
 aţă	1
+taoist	0
 taoistă	1
 evapotranspiraţie	1
 fotoceramist	0
@@ -4130,6 +4375,7 @@ hătmăneasă	1
 tripartiţie	1
 autocaptare	1
 lume	1
+fracţionist	0
 fracţionistă	1
 trofeine	1
 tăblie	1
@@ -4143,6 +4389,7 @@ prosternare	1
 glodire	1
 difracţie	1
 fitolog	0
+depolarizant	0
 depolarizantă	1
 jidovină	1
 anagramă	1
@@ -4151,6 +4398,7 @@ chelăriţă	1
 greieraş	0
 costandă	1
 oncologă	1
+monomaniac	0
 monomaniacă	1
 fotoliză	1
 cifrator	0
@@ -4172,6 +4420,7 @@ mandibulă	1
 cacaotier	0
 botcă	1
 popie	1
+capitul	0
 iteraţie	1
 catacombă	1
 lunură	1
@@ -4204,9 +4453,11 @@ păr	0
 garnizoană	1
 derogaţie	1
 mintie	1
+get	0
 getă	1
 tulnicăreasă	1
 licitator	0
+difuzibil	0
 difuzibilă	1
 antropopitec	0
 agonie	1
@@ -4228,6 +4479,8 @@ uclei	0
 tresărire	1
 agasare	1
 motorcadă	1
+lemnar	0
+spartan	0
 spartană	1
 curcubetă	1
 gramolă	1
@@ -4255,6 +4508,7 @@ turuială	1
 scornire	1
 joncă	1
 congestie	1
+hoinar	0
 hoinară	1
 blendă	1
 ţarigrădeancă	1
@@ -4302,6 +4556,7 @@ măslinar	0
 fluctuaţie	1
 pologar	0
 matisire	1
+galofil	0
 galofilă	1
 matahală	1
 mesalină	1
@@ -4309,6 +4564,7 @@ cleptobioză	1
 antropologă	1
 osteonecroză	1
 găină-de-mare	1
+ciuf	0
 dictare	1
 beucă	1
 bocănitoare	1
@@ -4334,6 +4590,7 @@ admiraţie	1
 heliogravură	1
 cusătorie	1
 sudaţie	1
+omuşor	0
 simpaticotomie	1
 solicitator	0
 cocoaşă	1
@@ -4348,6 +4605,7 @@ redevenire	1
 zârnă	1
 reconsiderare	1
 grevare	1
+educator	0
 educatoare	1
 sfită	1
 pustă	1
@@ -4373,6 +4631,7 @@ antisocialist	0
 gunoire	1
 glumă	1
 fonotecă	1
+prusac	0
 prusacă	1
 surplombă	1
 mâncătură	1
@@ -4383,6 +4642,7 @@ deparafinare	1
 dominare	1
 caţă	1
 balercuţă	1
+fanatic	0
 fanatică	1
 asprişoară	1
 burtieră	1
@@ -4419,13 +4679,16 @@ cumulard	0
 cenuşă	1
 colatitudine	1
 elagare	1
+alsacian	0
 alsaciană	1
 bolniţă	1
 promotor	0
 zălezeală	1
+antiprogresist	0
 antiprogresistă	1
 haltă	1
 portbobină	1
+ajutor	0
 automatist	0
 botgros	0
 conlucrare	1
@@ -4455,6 +4718,7 @@ ocină	1
 sinizaţie	1
 băşică	1
 pelinuţă	1
+anexionist	0
 anexionistă	1
 lecţie	1
 lăptar	0
@@ -4480,6 +4744,7 @@ cetenă	1
 seducţie	1
 ctitor	0
 povestitoare	1
+mărit	0
 duşegubină	1
 componistă	1
 mărie	1
@@ -4530,6 +4795,9 @@ prolanemie	1
 hematolog	0
 catapultare	1
 lutărie	1
+dragon	0
+dragor	0
+plutonist	0
 plutonistă	1
 luleluşă	1
 glajă	1
@@ -4556,12 +4824,14 @@ microscopie	1
 custură	1
 petrochimistă	1
 chininizare	1
+etrusc	0
 etruscă	1
 coreferent	0
 subclasificare	1
 ordură	1
 relevanţă	1
 gambetă	1
+pedofil	0
 pedofilă	1
 lubrificaţie	1
 batigramă	1
@@ -4573,7 +4843,9 @@ băietănaş	0
 liliuţă	1
 sitiofobie	1
 tapiride	1
+intermediar	0
 intermediară	1
+calomniator	0
 calomniatoare	1
 hidroterapie	1
 solist	0
@@ -4586,6 +4858,7 @@ obleţ	0
 dieceză	1
 liftă	1
 gingivită	1
+bărbat	0
 bărbată	1
 păpurişte	1
 unificare	1
@@ -4601,6 +4874,7 @@ cursoare	1
 cimbalist	0
 veşnicie	1
 ciocoiaş	0
+nativist	0
 nativistă	1
 ihtioză	1
 aromatizare	1
@@ -4626,12 +4900,14 @@ preducea	1
 designare	1
 cartografiere	1
 penişoară	1
+mizerabil	0
 mizerabilă	1
 subdirector	0
 umbrişoară	1
 penetranţă	1
 javră	1
 carbonat	0
+bâzoi	0
 carbonar	0
 pasărea-liră	1
 căluşar	0
@@ -4679,6 +4955,7 @@ scuză	1
 metresă	1
 expert	0
 normalistă	1
+antimaterialist	0
 antimaterialistă	1
 sfinx	0
 argintărie	1
@@ -4691,6 +4968,7 @@ sumănar	0
 pogăcea	1
 destabilizare	1
 gălbiniţă	1
+defunct	0
 defunctă	1
 saponificare	1
 caprimulg	0
@@ -4704,11 +4982,13 @@ liftier	0
 năşel	0
 evorsiune	1
 veşcă	1
+pamfletar	0
 pamfletară	1
 epuraţie	1
 sortire	1
 deploraţie	1
 internistă	1
+panamerican	0
 panamericană	1
 recidivă	1
 nivelă	1
@@ -4728,6 +5008,7 @@ priinţă	1
 agresivitate	1
 alimentaţie	1
 încordare	1
+episcop	0
 zdreanţă	1
 rugare	1
 prerie	1
@@ -4757,6 +5038,7 @@ consumator	0
 scribăreţ	0
 cuc	0
 sfănţişor	0
+sanmarinez	0
 sanmarineză	1
 reîmpădurire	1
 stagelaţie	1
@@ -4765,11 +5047,13 @@ lipitor	0
 etalajist	0
 naturalizare	1
 alivancă	1
+ricanator	0
 ricanatoare	1
 făptaş	0
 glaciolog	0
 holoangăr	0
 metabolit	0
+timişorean	0
 timişoreană	1
 leucogramă	1
 scălâmbăiere	1
@@ -4850,6 +5134,7 @@ baschetbalistă	1
 acordeonist	0
 metafiziciană	1
 armăşel	0
+franciscan	0
 franciscană	1
 tulburare	1
 ştampilograf	0
@@ -4869,6 +5154,7 @@ testea	1
 podan	0
 megohm	0
 slavistă	1
+balamut	0
 balamută	1
 parazitemie	1
 ameninţare	1
@@ -4888,15 +5174,18 @@ introducere	1
 ocheană	1
 poetician	0
 hidroenergetician	0
+erotoman	0
 erotomană	1
 prostată	1
 doime	1
+poleac	0
 poleacă	1
 zidărie	1
 generaţie	1
 holdă	1
 cheltuitor	0
 biberet	0
+cretan	0
 cretană	1
 scriitoare	1
 demitologizare	1
@@ -4950,6 +5239,7 @@ drăcuşor	0
 vicar	0
 trinchet	0
 moşmoană	1
+vădan	0
 vădană	1
 cuantificare	1
 regletă	1
@@ -4976,6 +5266,7 @@ tărâţare	1
 psihagog	0
 locotenent-major	0
 cârlan	0
+binefăcător	0
 binefăcătoare	1
 weber	0
 microbiolog	0
@@ -4988,6 +5279,7 @@ modelare	1
 tulpină	1
 carnefice	0
 brustan	0
+monogam	0
 monogamă	1
 inervaţie	1
 operaţiune	1
@@ -5002,6 +5294,7 @@ chiriaş	0
 radiere	1
 epistolieră	1
 căpitan-locotenent	0
+pivot	0
 coligare	1
 divagare	1
 metaforă	1
@@ -5039,6 +5332,7 @@ somnambulă	1
 unghiuţă	1
 dungă	1
 anexită	1
+hemiplegic	0
 hemiplegică	1
 autoreproducere	1
 petroşeneancă	1
@@ -5092,6 +5386,7 @@ diletantă	1
 culturalizare	1
 secfiu	0
 afaniptere	1
+miştocar	0
 miştocară	1
 deuteron	0
 şamotor	0
@@ -5111,6 +5406,7 @@ lanieră	1
 miliţiancă	1
 prădare	1
 repolarizare	1
+invariant	0
 invariantă	1
 oprimare	1
 bufnire	1
@@ -5122,6 +5418,7 @@ birtaş	0
 dietă	1
 metrologă	1
 transfiguraţie	1
+turc	0
 turcă	1
 deficienţă	1
 împărţire	1
@@ -5131,11 +5428,13 @@ viţel	0
 grozăvenie	1
 morfopatolog	0
 meteoropatie	1
+sinofil	0
 sinofilă	1
 notabilitate	1
 noveletă	1
 vâlvătaie	1
 pasienţă	1
+ifosard	0
 ifosardă	1
 hipovitaminoză	1
 gustătoare	1
@@ -5207,6 +5506,7 @@ geometriciană	1
 hipoplazie	1
 acreală	1
 amorsă	1
+titirez	0
 groapă	1
 presenitate	1
 decantare	1
@@ -5244,12 +5544,14 @@ boască	1
 anafază	1
 predicaţie	1
 grecoaică	1
+purist	0
 puristă	1
 eşuare	1
 anticorp	0
 destupare	1
 miază	1
 arsină	1
+spontaneist	0
 spontaneistă	1
 canoneală	1
 politehnician	0
@@ -5273,6 +5575,7 @@ pătlagină	1
 reumatolog	0
 împletitor	0
 etimologistă	1
+frenic	0
 frenică	1
 diplură	1
 schimă	1
@@ -5283,6 +5586,7 @@ ghioagă	1
 mocofan	0
 talăncuţă	1
 podăriţă	1
+furnicar	0
 oscilare	1
 intercepţie	1
 direcţionare	1
@@ -5332,6 +5636,7 @@ trandafiraş	0
 arahidă	1
 cetate	1
 paricidă	1
+paricid	0
 subliteratură	1
 omoi	0
 virtuoz	0
@@ -5368,6 +5673,7 @@ reimportare	1
 strâmbătate	1
 persulfat	0
 prescripţie	1
+gălăţean	0
 gălăţeană	1
 pribolnic	0
 corvadă	1
@@ -5397,6 +5703,7 @@ lepidopterolog	0
 dreptaci	0
 ferăstrăiaş	0
 porfirogenet	0
+corigent	0
 corigentă	1
 miroznă	1
 bădică	0
@@ -5405,6 +5712,7 @@ adsorbant	0
 reamenajare	1
 milimicron	0
 osteolog	0
+finalist	0
 finalistă	1
 talaşcă	1
 jocheu	0
@@ -5435,6 +5743,7 @@ teiuleţ	0
 urecheală	1
 oranz	0
 zooiatru	0
+orant	0
 orantă	1
 estradă	1
 odăiţă	1
@@ -5451,6 +5760,7 @@ respingere	1
 linariţă	1
 anticărie	1
 apostilă	1
+informator	0
 informatoare	1
 herald	0
 arteriopatie	1
@@ -5480,10 +5790,12 @@ supraîncărcare	1
 păpădie	1
 biocurent	0
 crevetă	1
+galeofob	0
 galeofobă	1
 prădăciune	1
 tartoriţă	1
 simpaticotonie	1
+greco-latin	0
 greco-latină	1
 paraponisire	1
 jiană	1
@@ -5497,8 +5809,10 @@ fantast	0
 desag	1
 contagiere	1
 şlefuire	1
+lătrător	0
 lătrătoare	1
 mocăncuţă	1
+mistic	0
 mistică	1
 acuzaţie	1
 medicalizare	1
@@ -5514,6 +5828,7 @@ pileat	0
 rânduială	1
 mandoră	1
 huligan	0
+retardatar	0
 retardatară	1
 prădător	0
 înfiere	1
@@ -5534,6 +5849,7 @@ carcasă	1
 erepsină	1
 derea	1
 strongil	0
+făţarnic	0
 făţarnică	1
 desudaţie	1
 amputare	1
@@ -5592,6 +5908,7 @@ preechipă	1
 lăuzie	1
 racordare	1
 telelecţie	1
+mut	0
 mută	1
 breaslă	1
 mus	0
@@ -5606,6 +5923,7 @@ semiconductor	0
 soartă	1
 bocăneală	1
 tăfâlcă	1
+galben	0
 martalog	0
 achingiu	0
 scapulă	1
@@ -5625,15 +5943,18 @@ pârjoală	1
 şiştăvire	1
 cocoloşire	1
 nemărginire	1
+haloid	0
 haloidă	1
 verigă	1
 moşnean	0
 dublu-ster	0
 coobligaţie	1
 surdocameră	1
+infinit	0
 ploştină	1
 curtoazie	1
 haită	1
+jeluitor	0
 jeluitoare	1
 sperare	1
 încondeietură	1
@@ -5648,6 +5969,7 @@ milosârdie	1
 translatoare	1
 vagmistru	0
 artritic	0
+macropod	0
 macropodă	1
 jder	0
 rulotă	1
@@ -5672,6 +5994,7 @@ depanator	0
 supraimpunere	1
 tânguire	1
 hipsogramă	1
+est-european	0
 est-europeană	1
 sterilizatoare	1
 curentometru	0
@@ -5697,6 +6020,7 @@ preludare	1
 psihologă	1
 hesperidă	1
 smirdar	0
+simbolist	0
 simbolistă	1
 pufoaică	1
 semănător	0
@@ -5707,6 +6031,7 @@ coafare	1
 zâmbru	0
 arşinic	0
 notătoare	1
+ocniţean	0
 ocniţeană	1
 împrejurare	1
 bată	1
@@ -5717,6 +6042,7 @@ reactanţă	1
 poliachenă	1
 heliolitografie	1
 scrântire	1
+acar	0
 ghipură	1
 fulie	1
 pictură	1
@@ -5728,6 +6054,7 @@ teleanchetă	1
 cicatrizare	1
 diagnostician	0
 franţuzire	1
+constructivist	0
 constructivistă	1
 şerpariţă	1
 cercopitec	0
@@ -5753,8 +6080,10 @@ legănare	1
 cotizator	0
 rostire	1
 caligraf	0
+percepţionist	0
 percepţionistă	1
 etimologă	1
+santhiaghez	0
 santhiagheză	1
 furcar	0
 denominalizare	1
@@ -5795,6 +6124,7 @@ receptură	1
 acvaplanist	0
 ceapcân	0
 fărâmiţare	1
+rom	0
 rob	0
 schizogonie	1
 alesidă	1
@@ -5805,6 +6135,7 @@ amfibologie	1
 supraapreciere	1
 urătură	1
 orăstică	1
+furător	0
 furătoare	1
 clopoţel	0
 penalizaţie	1
@@ -5822,16 +6153,19 @@ adăpare	1
 eutrofie	1
 simplificaţie	1
 fluxiune	1
+hotelier	0
 hotelieră	1
 băşcălie	1
 margaretă	1
 reflexologă	1
 popritoare	1
 colin	0
+existenţialist	0
 existenţialistă	1
 talangă	1
 celebratoare	1
 compresoristă	1
+venusian	0
 venusiană	1
 ciulama	1
 inexactitate	1
@@ -5904,6 +6238,7 @@ scurteicuţă	1
 cardă	1
 verucă	1
 cizmar	0
+înrobitor	0
 înrobitoare	1
 băsnar	0
 ofiologă	1
@@ -5935,6 +6270,7 @@ boală	1
 abrogare	1
 guvernant	0
 plenipotenţiar	0
+toxicoman	0
 toxicomană	1
 deviză	1
 năpatcă	1
@@ -5942,6 +6278,7 @@ criminalistă	1
 conchistador	0
 mărşăluire	1
 păsăruică	1
+coposesor	0
 coposesoare	1
 codificare	1
 pederast	0
@@ -5962,6 +6299,7 @@ complotist	0
 frezor	0
 chehaia	1
 chehaie	1
+văduv	0
 văduvă	1
 patimă	1
 diligenţă	1
@@ -5972,13 +6310,17 @@ masala	1
 bucurie	1
 contratreaptă	1
 fugasă	1
+indonezian	0
 indoneziană	1
 ecoseză	1
 zmeoaică	1
+grunz	0
 paracistită	1
 comersant	0
+parkinsonian	0
 parkinsoniană	1
 etichetă	1
+organicist	0
 organicistă	1
 roxolan	0
 săpătoare	1
@@ -5987,7 +6329,9 @@ călţunăreasă	1
 branhogramă	1
 sustracţiune	1
 becisnic	0
+zoolatru	0
 zoolatră	1
+centrafrican	0
 centrafricană	1
 tură	1
 superman	0
@@ -6010,6 +6354,7 @@ dedublare	1
 recţiune	1
 rolare	1
 gerontologă	1
+fundac	0
 individă	1
 tămâierniţă	1
 scrofulariacee	1
@@ -6054,6 +6399,7 @@ sârboaică	1
 canţonetă	1
 instaurator	0
 divergenţă	1
+zăblău	0
 accepţie	1
 lobelină	1
 inechitate	1
@@ -6078,6 +6424,7 @@ scufie	1
 actofite	1
 ţârlâitură	1
 pilon	0
+heterodont	0
 heterodontă	1
 pilor	0
 andrea	1
@@ -6094,6 +6441,7 @@ plescaviţă	1
 dinamitare	1
 ironie	1
 întemniţare	1
+participant	0
 participantă	1
 bâză	1
 baciloză	1
@@ -6124,6 +6472,7 @@ contemplator	0
 cheratită	1
 reverberaţie	1
 bombonieră	1
+feminist	0
 feministă	1
 romanţă	1
 ţăruş	0
@@ -6158,6 +6507,7 @@ coptolog	0
 finală	1
 pungăşie	1
 izopagă	1
+spumant	0
 spumantă	1
 smârdoare	1
 tabletare	1
@@ -6177,6 +6527,7 @@ buzunăreală	1
 luminoschemă	1
 tastă	1
 estimator	0
+ocazionalist	0
 ocazionalistă	1
 heterogamie	1
 meserniţă	1
@@ -6186,6 +6537,8 @@ fomentaţie	1
 solicitant	0
 expediţie	1
 pitecantrop	0
+supinator	0
+supinatoare	1
 nănaşă	1
 vămuire	1
 amentifere	1
@@ -6196,10 +6549,12 @@ pioşenie	1
 tricicletă	1
 magnilocvenţă	1
 contabilizare	1
+scizionist	0
 scizionistă	1
 ovulaţie	1
 literă	1
 letrină	1
+haitian	0
 haitiană	1
 cruciferă	1
 autoreplică	1
@@ -6207,6 +6562,7 @@ micime	1
 dezasimilaţie	1
 ectazie	1
 cărucioară	1
+parodiator	0
 parodiatoare	1
 taxodiacee	1
 crezare	1
@@ -6233,6 +6589,7 @@ răscumpărare	1
 orier	0
 vulpe	1
 decalcificare	1
+roi	0
 abnormitate	1
 identaţie	1
 păgubaş	0
@@ -6258,6 +6615,7 @@ ventilatorist	0
 canceros	0
 mofluzit	0
 agrometeorologă	1
+uruguayan	0
 uruguayană	1
 cărare	1
 hologramă	1
@@ -6305,6 +6663,7 @@ mire	0
 miloagă	1
 penticostal	0
 mirt	0
+umanitarist	0
 umanitaristă	1
 vază	1
 arină	1
@@ -6330,6 +6689,7 @@ antelă	1
 osteomalacie	1
 purificaţie	1
 infanticidă	1
+infanticid	0
 disimilaţie	1
 muguraş	0
 facilitare	1
@@ -6338,6 +6698,7 @@ pecingine	1
 acţionar	0
 tearfă	1
 seimă	1
+venezuelan	0
 venezuelană	1
 litograf	0
 epistat	0
@@ -6347,6 +6708,7 @@ romaşcancă	1
 oleacee	1
 sabiţă	1
 franctiror	0
+galo-roman	0
 galo-romană	1
 etnarhie	1
 clorhidrină	1
@@ -6354,14 +6716,17 @@ persistenţă	1
 badijonare	1
 exsicaţie	1
 legiuire	1
+negroid	0
 negroidă	1
 bour	0
 compulsiune	1
 rechiziţionare	1
 înmuiere	1
 călugăraş	0
+algerian	0
 algeriană	1
 cercar	0
+meglenit	0
 meglenită	1
 portiţă	1
 abagiu	0
@@ -6386,6 +6751,7 @@ declarare	1
 peripiscă	1
 stipulare	1
 gârbiţă	1
+turan	0
 turană	1
 heliofită	1
 calandror	0
@@ -6403,8 +6769,10 @@ singurătate	1
 scleroză	1
 melisă	1
 lufar	0
+misogin	0
 misogină	1
 întăritură	1
+antimalaric	0
 metadină	1
 îmbrobodire	1
 concetăţeană	1
@@ -6415,6 +6783,7 @@ microfilmotecă	1
 alocutor	0
 albime	1
 petrolistă	1
+abandonic	0
 abandonică	1
 bacterie	1
 lainică	1
@@ -6425,14 +6794,17 @@ muson	0
 lamină	1
 hidrotehnician	0
 resurgenţă	1
+pelasg	0
 pelasgă	1
 neurofibrilă	1
 auxină	1
 plămânărică	1
+copil	0
 decemvir	0
 vechitură	1
 copie	1
 ficologă	1
+vest-german	0
 vest-germană	1
 decister	0
 deboşă	1
@@ -6451,6 +6823,7 @@ terpenă	1
 octatlonist	0
 haldă	1
 flintă	1
+platonician	0
 platoniciană	1
 coadministrator	0
 ied	0
@@ -6470,6 +6843,7 @@ evanghelizator	0
 termocolare	1
 pieton	0
 numerotare	1
+panamericanist	0
 panamericanistă	1
 despăturire	1
 friză	1
@@ -6500,6 +6874,8 @@ picurătoare	1
 explorare	1
 curticică	1
 eozină	1
+operat	0
+operată	1
 reducere	1
 morfinomană	1
 ţap-negru	0
@@ -6533,6 +6909,7 @@ tunică	1
 sezină	1
 petardă	1
 mugire	1
+mordant	0
 mordantă	1
 monodramă	1
 chirfoseală	1
@@ -6541,6 +6918,7 @@ demon	0
 chirovnic	0
 paradigmă	1
 duduiţă	1
+trepădător	0
 trepădătoare	1
 inion	0
 plastifiant	0
@@ -6551,6 +6929,7 @@ echipieră	1
 repasare	1
 cânepar	0
 sfănţuică	1
+renovator	0
 renovatoare	1
 căsnicie	1
 ezitare	1
@@ -6579,6 +6958,7 @@ mulţime	1
 mediatecă	1
 apnee	1
 tumefiere	1
+sufragiu	0
 reptilă	1
 congratulaţie	1
 studenţie	1
@@ -6587,6 +6967,8 @@ evisceraţie	1
 apologie	1
 barbotare	1
 abilitate	1
+martir	0
+taler	0
 şandrama	1
 viţeluşă	1
 arămire	1
@@ -6598,6 +6980,7 @@ vorbărie	1
 dală	1
 vintre	1
 conioză	1
+neostalinist	0
 neostalinistă	1
 estacadă	1
 clarinetist	0
@@ -6612,6 +6995,7 @@ complimentare	1
 impostă	1
 comercialist	0
 tehnologie	1
+apreciator	0
 apreciatoare	1
 materializatoare	1
 juisor	0
@@ -6634,6 +7018,7 @@ subfamilie	1
 meşă	1
 tătarnică	1
 concertmaistru	0
+sălbatic	0
 sălbatică	1
 protopop	0
 piuială	1
@@ -6642,6 +7027,7 @@ plăcintuţă	1
 lugojeancă	1
 meteoinformaţie	1
 monohibridare	1
+antiamerican	0
 antiamericană	1
 sarcoplasmă	1
 răcire	1
@@ -6649,6 +7035,7 @@ nervură	1
 zălug	0
 hagiu	0
 fideiusor	0
+triturator	0
 trituratoare	1
 fâşioară	1
 hematofobie	1
@@ -6662,16 +7049,20 @@ aristocraţie	1
 singhel	0
 caridă	1
 turnătorie	1
+zmeu	0
 despriponire	1
 boţitură	1
 ambivalenţă	1
 peribronşită	1
 măcăleandru	0
 dilogie	1
+orfelin	0
 orfelină	1
 prujitură	1
 grefare	1
+decasilab	0
 decasilabă	1
+daco-roman	0
 daco-romană	1
 microclimă	1
 venulă	1
@@ -6692,12 +7083,15 @@ zdelcă	1
 apă	1
 laringopatie	1
 donaţie	1
+ducă	0
 planarie	1
 ochelaristă	1
+ciubucar	0
 acil	0
 jude	0
 pitarcă	1
 predestinare	1
+acid	0
 acidă	1
 reprobare	1
 evitare	1
@@ -6722,6 +7116,7 @@ vacuolă	1
 căciulă	1
 zavistnicie	1
 entimemă	1
+seralist	0
 seralistă	1
 configurare	1
 volt	0
@@ -6745,6 +7140,7 @@ ikebană	1
 redactoare	1
 năşicuţă	1
 prăsad	0
+azerbaidjan	0
 azerbaidjană	1
 gâsculiţă	1
 zilişoară	1
@@ -6754,12 +7150,14 @@ opritoare	1
 ţundră	1
 fiolă	1
 timoftică	1
+epicurian	0
 epicuriană	1
 consistenţă	1
 confecţionare	1
 săgetaş	0
 locatoare	1
 tâlhărea	1
+coşar	0
 bobiţă	1
 caruselist	0
 pietricică	1
@@ -6769,7 +7167,9 @@ hidatodă	1
 scrofulă	1
 holocefal	0
 tătâne	0
+militarist	0
 militaristă	1
+deltoid	0
 deltoidă	1
 moderanţă	1
 zăvolniţă	1
@@ -6789,8 +7189,10 @@ cotineaţă	1
 pelotă	1
 frumuseţe	1
 prunişte	1
+sânt	0
 sântă	1
 fermentator	0
+poduţ	0
 suspectare	1
 flautist	0
 crenoterapeut	0
@@ -6810,6 +7212,7 @@ astrolog	0
 boroană	1
 edil	0
 orândă	1
+dogmatic	0
 dogmatică	1
 nelinişte	1
 pârtie	1
@@ -6820,6 +7223,7 @@ microfonistă	1
 pipă	1
 cafegiu	0
 arhanghel	0
+fascist	0
 fascistă	1
 sifiligraf	0
 văcuşoară	1
@@ -6845,6 +7249,7 @@ apelantă	1
 balenide	1
 paragină	1
 onichie	1
+bonnez	0
 bonneză	1
 pretextare	1
 despecializare	1
@@ -6919,6 +7324,7 @@ autodepanare	1
 însurăţel	0
 asiriolog	0
 maximizare	1
+denigrator	0
 denigratoare	1
 linoleat	0
 problematizare	1
@@ -6946,6 +7352,7 @@ usturătură	1
 escarpen	0
 joi	1
 riglă	1
+concordist	0
 concordistă	1
 husăş	0
 mastoză	1
@@ -6981,8 +7388,10 @@ flămânzire	1
 helcoză	1
 nascorniţă	1
 exorbitanţă	1
+rigorist	0
 rigoristă	1
 radiomanometrie	1
+progresist	0
 progresistă	1
 neurochirurg	0
 repulsie	1
@@ -7021,19 +7430,23 @@ răriţare	1
 alozom	0
 coroidă	1
 orograf	0
+angloman	0
 anglomană	1
 sărutare	1
 fantezie	1
 otoscleroză	1
 floristă	1
+falit	0
 falită	1
 guvernantă	1
+musulman	0
 musulmană	1
 abulie	1
 săpunărie	1
 abulic	0
 vitrifiere	1
 şoşon	0
+murind	0
 murindă	1
 scrijeleală	1
 desantare	1
@@ -7050,6 +7463,7 @@ colombină	1
 musaip	0
 mediere	1
 troică	1
+defetist	0
 defetistă	1
 electrificare	1
 invitată	1
@@ -7069,8 +7483,10 @@ desăgel	0
 dropioi	0
 mercantilist	0
 cheie	1
+futurist	0
 futuristă	1
 constructor	0
+visător	0
 visătoare	1
 crăcănuţă	1
 strigare	1
@@ -7084,11 +7500,13 @@ odrăslire	1
 transcriere	1
 izohipsă	1
 pentagrilă	1
+pucist	0
 pucistă	1
 scrobeală	1
 agrogeolog	0
 rafală	1
 gută	1
+monoacid	0
 monoacidă	1
 cantonieră	1
 povaţă	1
@@ -7119,6 +7537,7 @@ majordom	0
 peroxidază	1
 fundare	1
 editoare	1
+hipnotizor	0
 hipnotizoare	1
 barochist	0
 restricţie	1
@@ -7152,6 +7571,7 @@ pleiadă	1
 viscozimetrie	1
 pensulaţie	1
 umbride	1
+tălpig	0
 glotaş	0
 consultaţie	1
 jerbă	1
@@ -7172,11 +7592,13 @@ muzicalizare	1
 ascidie	1
 referenţă	1
 pantofărie	1
+hăitaş	0
 tăifăsuială	1
 suceveancă	1
 colaboraţionistă	1
 interferon	0
 priză	1
+lamaist	0
 lamaistă	1
 pleoapă	1
 orhidee	1
@@ -7184,15 +7606,18 @@ croşă	1
 soţior	0
 buimăceală	1
 fermentogramă	1
+monoman	0
 monomană	1
 piperină	1
 patografie	1
 autodictare	1
+pronator	0
 pronatoare	1
 pinguin	0
 sfârâitoare	1
 alinătură	1
 hipermnezie	1
+iacobin	0
 iacobină	1
 biblie	1
 famen	0
@@ -7212,6 +7637,7 @@ carpofită	1
 parfumerie	1
 curiepunctură	1
 plăcintărie	1
+crescător	0
 crescătoare	1
 coachiziţie	1
 motomitralieră	1
@@ -7227,12 +7653,14 @@ păstorire	1
 hăitar	0
 prestare	1
 asiriancă	1
+secretos	0
 secretoasă	1
 agnată	1
 streliţ	0
 astrobotanist	0
 meseriaşă	1
 vaccinaţie	1
+eterat	0
 eterată	1
 cetonă	1
 calţavetă	1
@@ -7254,14 +7682,17 @@ armă	1
 şoaldă	1
 moaşă	1
 contraltă	1
+izobar	0
 izobară	1
 piromană	1
+tătar	0
 tătară	1
 tontolete	0
 monoclat	0
 umbrire	1
 prăjire	1
 felah	0
+naturalist	0
 naturalistă	1
 judecător	0
 coachizitor	0
@@ -7275,9 +7706,12 @@ coordonare	1
 cusurgiu	0
 diiamb	0
 antispumant	0
+financiar	0
 financiară	1
 elitră	1
+calcan	0
 homicidă	1
+homicid	0
 compactizare	1
 velatură	1
 vector	0
@@ -7298,7 +7732,9 @@ aeromedicină	1
 cazacliu	0
 pufăială	1
 cunună	1
+hidatocor	0
 hidatocoră	1
+ucigaş	0
 ucigaşă	1
 pulsar	0
 nefericire	1
@@ -7319,6 +7755,7 @@ deidolatrizare	1
 hidoşenie	1
 formaldehidă	1
 baculit	0
+zairez	0
 zaireză	1
 segmentare	1
 ulicioară	1
@@ -7337,6 +7774,7 @@ reunificare	1
 cerificare	1
 turnător	0
 nourel	0
+sighişorean	0
 sighişoreană	1
 saxicolă	1
 cactus	0
@@ -7355,6 +7793,7 @@ căpitănie	1
 dovadă	1
 nomograf	0
 prefăcătură	1
+cocător	0
 cocătoare	1
 belea	1
 scarlatinetă	1
@@ -7382,6 +7821,7 @@ baroană	1
 otfel	0
 chilă	1
 presurizare	1
+instrumentalist	0
 instrumentalistă	1
 geosferă	1
 încâlceală	1
@@ -7415,12 +7855,14 @@ fotocronică	1
 păţire	1
 recunoaştere	1
 metapsihist	0
+federalist	0
 federalistă	1
 cedru	0
 năzbâtie	1
 şip	0
 agitatoare	1
 dublu-decimetru	0
+asanator	0
 asanatoare	1
 deszăvorâre	1
 pseudolingvist	0
@@ -7432,6 +7874,8 @@ ramificaţie	1
 aducere-aminte	1
 recucerire	1
 păpuşică	1
+mănunchiaş	0
+sudanez	0
 sudaneză	1
 floretistă	1
 jupă	1
@@ -7472,6 +7916,7 @@ clipeală	1
 zapcierie	1
 fabricant	0
 traversă	1
+legist	0
 legistă	1
 hăinărie	1
 ciobanel	0
@@ -7501,6 +7946,7 @@ micturiţie	1
 acidamină	1
 gălăgie	1
 hăituială	1
+miop	0
 mioapă	1
 pronaţie	1
 apoftegmă	1
@@ -7521,6 +7967,7 @@ epanortoză	1
 semicarbonizare	1
 fon	0
 extragalaxie	1
+măsurător	0
 frământare	1
 pedel	0
 gologan	0
@@ -7557,6 +8004,7 @@ rechemare	1
 albinos	0
 purjă	1
 fotoreproducere	1
+plătitor	0
 plătitoare	1
 lestare	1
 noaten	0
@@ -7628,18 +8076,21 @@ dată	1
 destroienire	1
 pălăvrăgeală	1
 colindătoare	1
+irakian	0
 irakiană	1
 iard	0
 uretroscopie	1
 zăcăşeală	1
 facultate	1
 subcontrarietate	1
+dezorganizator	0
 dezorganizatoare	1
 pieluşică	1
 escrocherie	1
 asibilaţie	1
 interjecţie	1
 îngenuchere	1
+şahist	0
 şahistă	1
 epactă	1
 sediţiune	1
@@ -7647,14 +8098,17 @@ meloterapie	1
 găgăire	1
 lopată	1
 xenomorfie	1
+slăbănog	0
 slăbănoagă	1
 pepenoaică	1
 protură	1
+bădăran	0
 bădărană	1
 şarlatan	0
 aserţiune	1
 străchinea	1
 izoclină	1
+nătăfleţ	0
 nătăfleaţă	1
 jordiţă	1
 descriptor	0
@@ -7663,8 +8117,10 @@ reînnoire	1
 stobor	0
 urzică-de-mare	1
 carpetă	1
+italofon	0
 italofonă	1
 pentagramă	1
+italofob	0
 italofobă	1
 limbuţă	1
 ştempar	0
@@ -7679,7 +8135,9 @@ potcoavă	1
 renură	1
 viespariţă	1
 cuvântare	1
+spor	0
 zonulă	1
+senzualist	0
 senzualistă	1
 variolă	1
 opalescenţă	1
@@ -7688,10 +8146,12 @@ diplobacil	0
 primăreasă	1
 hieroglifă	1
 mocasin	0
+pedocentrist	0
 pedocentristă	1
 cistogramă	1
 pionieră	1
 prolificare	1
+corodant	0
 corodantă	1
 convoluţie	1
 schitean	0
@@ -7703,8 +8163,10 @@ cinologă	1
 ascarid	0
 cârnăcior	0
 gropăreasă	1
+liber-schimbist	0
 liber-schimbistă	1
 insomnie	1
+germanofil	0
 germanofilă	1
 megafarad	0
 selecţionator	0
@@ -7730,6 +8192,7 @@ scăriţă	1
 bancrutar	0
 mitocancă	1
 rontgen	0
+năvălitor	0
 năvălitoare	1
 alunea	1
 campadură	1
@@ -7737,6 +8200,7 @@ alunel	0
 barochistă	1
 harbuz	0
 cişmea	1
+scrofulos	0
 scrofuloasă	1
 călifar	0
 soribitură	1
@@ -7754,6 +8218,7 @@ târşitoare	1
 culminanţă	1
 zgâriere	1
 păpuşoişte	1
+yoghist	0
 yoghistă	1
 anticoncepţie	1
 rival	0
@@ -7771,6 +8236,7 @@ recompensă	1
 manierizare	1
 atelajier	0
 arendă	1
+creştin	0
 creştină	1
 hemotoxină	1
 magnificenţă	1
@@ -7785,10 +8251,12 @@ servofrână	1
 abur	0
 unealtă	1
 bragă	1
+holeric	0
 holerică	1
 sfredelire	1
 aplecătoare	1
 strâmtoare	1
+compactor	0
 fizionomie	1
 reprezentanţă	1
 răcoreală	1
@@ -7800,6 +8268,7 @@ mediastinoscopie	1
 cotă-parte	1
 plombină	1
 ştoluire	1
+caucazian	0
 caucaziană	1
 juxtapoziţie	1
 surescitaţie	1
@@ -7810,9 +8279,11 @@ babuin	0
 pâlpâială	1
 serolog	0
 sărăntoc	0
+molete	0
 lostriţă	1
 delapidare	1
 personificaţie	1
+neutralist	0
 neutralistă	1
 nutuire	1
 terţarolare	1
@@ -7845,6 +8316,7 @@ rocărie	1
 călire	1
 mărmurire	1
 tiveală	1
+sebeşean	0
 sebeşeană	1
 componenţă	1
 îngrăşătorie	1
@@ -7855,21 +8327,25 @@ prun	0
 cacologie	1
 combiner	0
 cerezină	1
+muritor	0
 muritoare	1
 pseudoscorpion	0
 vrăbete	0
 lagună	1
 grecoman	0
+papuaş	0
 papuaşă	1
 fibră	1
 viziune	1
 hipoacuzie	1
 peruş	0
+finlandez	0
 finlandeză	1
 lăcustar	0
 siliculă	1
 autocaracterizare	1
 activizare	1
+motociclist	0
 motociclistă	1
 limnee	1
 spinărie	1
@@ -7888,6 +8364,7 @@ puşcare	1
 gunoişte	1
 dricar	0
 aldehidă	1
+siamez	0
 siameză	1
 mumie	1
 lingurea	1
@@ -7898,6 +8375,7 @@ relonistă	1
 persiană	1
 eurovalută	1
 lichidare	1
+sevillan	0
 sevillană	1
 amplasare	1
 plastician	0
@@ -7914,6 +8392,7 @@ infiltraţie	1
 supercampion	0
 marnă	1
 termoficare	1
+alarmist	0
 alarmistă	1
 pseudosavant	0
 învârtejire	1
@@ -7952,6 +8431,7 @@ slană	1
 spoitor	0
 gimnazistă	1
 săltătură	1
+rafinor	0
 metateză	1
 acumulare	1
 stupizenie	1
@@ -7964,12 +8444,15 @@ spalacide	1
 sfârlă	1
 plutică	1
 tapetare	1
+osmanliu	0
 osmanlie	1
+erotograf	0
 erotografă	1
 daltonist	0
 antilopă	1
 osteită	1
 caravelă	1
+eschimos	0
 eschimosă	1
 stâlpuşor	0
 covaci	0
@@ -8027,6 +8510,7 @@ divinitate	1
 ciozvârtă	1
 performanţă	1
 vinărie	1
+tuberculos	0
 tuberculoasă	1
 motocarist	0
 stârpitură	1
@@ -8035,6 +8519,7 @@ tufişoară	1
 rusalie	1
 teletipistă	1
 organistă	1
+topitor	0
 stalactită	1
 abietacee	1
 bumbăcăreasă	1
@@ -8046,6 +8531,7 @@ lubrifiant	0
 logodnică	1
 asfixiere	1
 jeler	0
+antisemit	0
 antisemită	1
 încurcătură	1
 incertitudine	1
@@ -8115,6 +8601,7 @@ rochie	1
 ambidextru	0
 băştinaş	0
 rază	1
+multimilionar	0
 multimilionară	1
 şalupar	0
 speleonaută	1
@@ -8132,6 +8619,7 @@ petiţionară	1
 interoceptor	0
 peritoneoscopie	1
 idealizare	1
+sinistrat	0
 sinistrată	1
 comitentă	1
 pulbere	1
@@ -8163,6 +8651,8 @@ polizor	0
 venghercă	1
 jazofilă	1
 caransebeşean	0
+accelerator	0
+acceleratoare	1
 fântânel	0
 aplaudare	1
 acordor	0
@@ -8172,6 +8662,7 @@ rudar	0
 reînmatriculare	1
 radiobiolog	0
 eşarfă	1
+sezonier	0
 sezonieră	1
 malariologă	1
 teleimprimare	1
@@ -8232,6 +8723,7 @@ helioplastie	1
 anteridie	1
 alienare	1
 smălţuitoare	1
+hâtru	0
 hâtre	1
 orfanotrofie	1
 landgraf	0
@@ -8253,11 +8745,13 @@ interdicţie	1
 afinor	0
 pălmaşă	1
 otită	1
+monopolist	0
 monopolistă	1
 arteriotomie	1
 îmbrobodeală	1
 stânjen	0
 biogeosferă	1
+indicator	0
 obială	1
 exhibiţionistă	1
 condor	0
@@ -8267,6 +8761,7 @@ normator	0
 avionetă	1
 mioarcă	1
 plăcuţă	1
+mutualist	0
 mutualistă	1
 depozant	0
 gratie	1
@@ -8289,6 +8784,7 @@ jurătoare	1
 vociferant	0
 tindalizare	1
 reconvalescentă	1
+nenorocit	0
 nenorocită	1
 halagea	1
 holistă	1
@@ -8407,6 +8903,7 @@ goeland	0
 nemţişor	0
 mascur	0
 escadrilă	1
+mascul	0
 masculă	1
 dulceaţă	1
 gutui	0
@@ -8446,7 +8943,9 @@ scăzător	0
 mitocănie	1
 exsudaţie	1
 altogravură	1
+formalist	0
 formalistă	1
+uzurar	0
 uzurară	1
 stereografă	1
 frizare	1
@@ -8463,6 +8962,7 @@ obstruare	1
 jardă	1
 butirat	0
 previziune	1
+logopat	0
 logopată	1
 autoapreciere	1
 boiernaş	0
@@ -8483,6 +8983,7 @@ tătăroi	0
 iluminaţie	1
 imploraţie	1
 omisiune	1
+mărginean	0
 mărgineană	1
 bocceluţă	1
 uliu	0
@@ -8502,18 +9003,22 @@ apelant	0
 boxă	1
 oogeneză	1
 năpăstuitor	0
+asigurat	0
 asigurată	1
 subregiune	1
 gaură	1
 exterminare	1
 tălaniţă	1
+walon	0
 walonă	1
 ruptaş	0
 demontare	1
 coinculpat	0
 negus	0
+anticonvulsivant	0
 anticonvulsivantă	1
 neintervenţie	1
+index	0
 aspirină	1
 vrere	1
 înălţime	1
@@ -8531,6 +9036,8 @@ benă	1
 răsuflătoare	1
 meditaţie	1
 cătrăneală	1
+trăgaci	0
+trăgace	1
 tapisier	0
 citomorfoză	1
 dăunaşă	1
@@ -8598,9 +9105,11 @@ luxaţie	1
 aminoacid	0
 stereofotogramă	1
 picăturică	1
+ghioc	0
 sulfatază	1
 agată	1
 supralicitatoare	1
+demotivat	0
 demotivată	1
 şalupist	0
 pielicică	1
@@ -8624,6 +9133,7 @@ miliardar	0
 driada	1
 împotrivire	1
 banan	0
+kirghiz	0
 kirghiză	1
 zdrobitoare	1
 gargară	1
@@ -8665,10 +9175,12 @@ denudaţie	1
 jujubier	0
 vălătuceală	1
 fontură	1
+străşenean	0
 străşeneană	1
 înştiinţare	1
 espadrilă	1
 afidieni	1
+cartaginez	0
 cartagineză	1
 susceptanţă	1
 turtă	1
@@ -8712,6 +9224,7 @@ ocheadă	1
 petrecere	1
 catrinţă	1
 prezidenţie	1
+schizotim	0
 schizotimă	1
 sachelar	0
 anticongelant	0
@@ -8729,6 +9242,7 @@ hartă	1
 răsfoire	1
 galvanizare	1
 bală	1
+samoed	0
 samoedă	1
 fosfatază	1
 sprâncenuţă	1
@@ -8737,6 +9251,7 @@ hepatopatie	1
 colecţie	1
 cizelare	1
 pandur	0
+bolivian	0
 boliviană	1
 zebereală	1
 împerechere	1
@@ -8752,12 +9267,14 @@ transformaţie	1
 dăinuire	1
 zburdătură	1
 arestat	0
+moscovit	0
 moscovită	1
 îngrămădire	1
 filmare	1
 farad	0
 frondă	1
 stilizator	0
+băligar	0
 monumentalizare	1
 epigon	0
 purceluşă	1
@@ -8769,6 +9286,7 @@ smochinuţă	1
 buxacee	1
 bioacumulare	1
 aparenţă	1
+maur	0
 maură	1
 croitor	0
 ierbărie	1
@@ -8776,6 +9294,7 @@ motofurgonetă	1
 cacealma	1
 însurare	1
 ocupaţie	1
+academist	0
 academistă	1
 fotoforeză	1
 foiletonistă	1
@@ -8785,6 +9304,7 @@ panacodar	0
 coscenarist	0
 concusionar	0
 fetică	1
+improvizator	0
 improvizatoare	1
 hotnog	0
 vasoconstricţie	1
@@ -8792,6 +9312,7 @@ sfeştanie	1
 demenţă	1
 sugilaţie	1
 şoricuţ	0
+simoniac	0
 simoniacă	1
 cărbunărie	1
 şevalieră	1
@@ -8833,6 +9354,8 @@ pareză	1
 dezaxare	1
 ancorare	1
 impietate	1
+murg	0
+murgă	1
 efractor	0
 somatofite	1
 căldăraş	0
@@ -8852,6 +9375,7 @@ promisiune	1
 suduitură	1
 letcă	1
 chiparos	0
+intimist	0
 intimistă	1
 boneţică	1
 relatare	1
@@ -8870,6 +9394,7 @@ fotosensibilizare	1
 cotutoare	1
 şleapcă	1
 flebologă	1
+fetişist	0
 fetişistă	1
 vozglaşenie	1
 autoturist	0
@@ -8877,6 +9402,8 @@ roză	1
 băjenie	1
 complezenţă	1
 omoaie	1
+dobitoc	0
+dobitoacă	1
 căldărar	0
 căpău	0
 trampă	1
@@ -8890,6 +9417,7 @@ ochelariţă	1
 flenderiţă	1
 teobromină	1
 fazanerie	1
+neavizat	0
 neavizată	1
 biliargiu	0
 scârţâitoare	1
@@ -8898,15 +9426,19 @@ distracţie	1
 înfrânare	1
 damblagire	1
 autocodor	0
+cartist	0
 cartistă	1
 pastelizare	1
+anglo-francez	0
 anglo-franceză	1
 cefalotomie	1
 disculpă	1
+alb	0
 găzar	0
 fontanelă	1
 chişcar	0
 manie	1
+mândru	0
 mândră	1
 viscozitate	1
 parafrenie	1
@@ -8926,6 +9458,7 @@ corvetă	1
 acrinie	1
 pornire	1
 enterohemoragie	1
+nord-vietnamez	0
 nord-vietnameză	1
 monorimă	1
 bipatridă	1
@@ -8942,6 +9475,7 @@ pitar	0
 papetărie	1
 paleoastronaut	0
 stenotipist	0
+palestinian	0
 palestiniană	1
 repartiţie	1
 criptografie	1
@@ -8953,6 +9487,7 @@ treabă	1
 bulzişor	0
 ferură	1
 fragmentare	1
+mehedinţean	0
 mehedinţeană	1
 durere	1
 tricomonază	1
@@ -8964,6 +9499,7 @@ colibaş	0
 leşinătură	1
 ultragiere	1
 hansă	1
+paşă	0
 paşa	1
 carnasieră	1
 ambliopie	1
@@ -8971,6 +9507,7 @@ supralicitator	0
 oţărâre	1
 subparcelă	1
 expatriere	1
+stalinist	0
 stalinistă	1
 vacă	1
 coşcovă	1
@@ -9010,6 +9547,7 @@ cementaţie	1
 prunculeţ	0
 anvergură	1
 obnubilare	1
+nigerian	0
 nigeriană	1
 perifrază	1
 percepţie	1
@@ -9018,6 +9556,7 @@ meşină	1
 tragediană	1
 milepor	0
 metodică	1
+luteran	0
 luterană	1
 antiromantic	0
 bibliofobie	1
@@ -9061,6 +9600,7 @@ drojdioară	1
 scumpire	1
 răscroitură	1
 chiolhănos	0
+mofturos	0
 mofturoasă	1
 boreasă	1
 pocladă	1
@@ -9075,6 +9615,7 @@ dospire	1
 submediantă	1
 compensare	1
 adjudecătoare	1
+hebertist	0
 hebertistă	1
 lexie	1
 înălbire	1
@@ -9088,6 +9629,7 @@ scurtcircuitare	1
 supraalimentare	1
 gornist	0
 retrofuzee	1
+bănăţean	0
 bănăţeană	1
 gâtlană	1
 uscare	1
@@ -9114,6 +9656,7 @@ confirmare	1
 băltoacă	1
 gimnosofist	0
 tetraclorură	1
+agresor	0
 agresoare	1
 detonare	1
 ticsire	1
@@ -9133,6 +9676,7 @@ gesticulare	1
 norvegiancă	1
 supraveghetor	0
 olimpiadă	1
+instituţionalist	0
 instituţionalistă	1
 urdinare	1
 contestaţie	1
@@ -9141,24 +9685,33 @@ scutire	1
 pseudopatriot	0
 confederaţie	1
 voltă	1
+timişean	0
 timişeană	1
+cot	0
 socotire	1
+luminător	0
+luminătoare	1
 baraboi	0
+coc	0
 gazetăraş	0
 corifeu	0
+scufundător	0
 scufundătoare	1
 locandieră	1
 teleecranizare	1
 învârstare	1
 fizioterapeut	0
 cioban	0
+râbniţean	0
 râbniţeană	1
 comodă	1
 pică	1
+sudist	0
 sudistă	1
 hrişcar	0
 chinolină	1
 yoghină	1
+cubanez	0
 cubaneză	1
 scrimeră	1
 gadină	1
@@ -9196,6 +9749,7 @@ slugă	1
 devaluare	1
 ocniţeancă	1
 stănoagă	1
+îngrijitor	0
 îngrijitoare	1
 agricultor	0
 urgisire	1
@@ -9209,6 +9763,7 @@ polimer	0
 crenvurşt	0
 mavrofor	0
 tăşculiţă	1
+orzar	0
 coloratură	1
 surfilare	1
 jugastru	0
@@ -9218,6 +9773,7 @@ garsonieră	1
 arap	0
 pseudoliterat	0
 etnologă	1
+arab	0
 arabă	1
 arac	0
 defaunizare	1
@@ -9260,11 +9816,13 @@ nazalizare	1
 hâzenie	1
 cumpărător	0
 păcătoşie	1
+trotuşean	0
 trotuşeană	1
 schifistă	1
 sângeapă	1
 mladă	1
 fripturică	1
+malaric	0
 malarică	1
 răzbunică	1
 atârnare	1
@@ -9280,7 +9838,9 @@ chimografie	1
 bombiţă	1
 estompare	1
 secăciune	1
+electrofob	0
 electrofobă	1
+savoiard	0
 plasmă	1
 cvadrifonie	1
 chiorăitură	1
@@ -9300,6 +9860,7 @@ mituitor	0
 deconfitură	1
 mediatizare	1
 testor	0
+frugivor	0
 frugivoră	1
 termovizieră	1
 afereză	1
@@ -9323,6 +9884,7 @@ rupere	1
 hipocastanacee	1
 pazie	1
 convieţuire	1
+împotrivitor	0
 împotrivitoare	1
 dragonet	0
 prihană	1
@@ -9337,6 +9899,7 @@ admonestaţie	1
 estompă	1
 aluzie	1
 consilier	0
+logonevrotic	0
 logonevrotică	1
 uimă	1
 babete	0
@@ -9348,13 +9911,16 @@ oxifită	1
 monostrofă	1
 derealizare	1
 suiforme	1
+fotogrammetru	0
 madrepor	0
 stratificare	1
 noadă	1
 deputată	1
 casaţie	1
 ortodiagrafie	1
+derivat	0
 mânuire	1
+polonez	0
 poloneză	1
 regeneraţie	1
 precursor	0
@@ -9369,11 +9935,13 @@ nucuţ	0
 aulă	1
 colţun	0
 buterolă	1
+jap	0
 babetă	1
 şoimuleţ	0
 cârtiţă	1
 hăinuţă	1
 autofon	0
+otoman	0
 otomană	1
 smălţuitor	0
 ischemie	1
@@ -9405,6 +9973,7 @@ vedută	1
 veselire	1
 electrodiagnoză	1
 pseudovaloare	1
+nihilist	0
 nihilistă	1
 coridă	1
 şvăboaică	1
@@ -9417,8 +9986,10 @@ ungere	1
 spuză	1
 nisipar	0
 frizeriţă	1
+satanist	0
 satanistă	1
 regularizare	1
+surguci	0
 precipitaţie	1
 şenilă	1
 delibaşă	0
@@ -9432,6 +10003,7 @@ străfulgerare	1
 codist	0
 stivare	1
 pazvantoglu	0
+ubicuitar	0
 ubicuitară	1
 maximalizare	1
 minuţie	1
@@ -9443,6 +10015,7 @@ linogravură	1
 achitare	1
 comercializare	1
 antracnoză	1
+arboret	0
 iezătură	1
 fotocronist	0
 fericire	1
@@ -9465,6 +10038,7 @@ plastomer	0
 târlire	1
 izbire	1
 păşune	1
+coacţionar	0
 coacţionară	1
 frăncuşor	0
 ferestruică	1
@@ -9475,6 +10049,7 @@ reziliere	1
 tenie	1
 legumă	1
 oceanologă	1
+colţ	0
 hotentot	0
 arămeasă	1
 camforar	0
@@ -9483,6 +10058,7 @@ broască	1
 furchiţă	1
 cerceluş	0
 suptură	1
+inaderent	0
 inaderentă	1
 rusoaică	1
 lăcustă	1
@@ -9496,12 +10072,14 @@ duriţă	1
 oculogramă	1
 intemperanţă	1
 săsoaică	1
+puiet	0
 paraflacără	1
 mişină	1
 recromare	1
 gâlceavă	1
 căscăundă	1
 dresură	1
+slavofil	0
 slavofilă	1
 seter	0
 difluenţă	1
@@ -9525,6 +10103,7 @@ plutăşie	1
 verbalizare	1
 aclamare	1
 tanagra	1
+bufon	0
 bufonă	1
 litieră	1
 arendăşiţă	1
@@ -9544,10 +10123,12 @@ odografie	1
 pistră	1
 piţigăială	1
 andosant	0
+irlandez	0
 irlandeză	1
 obligare	1
 pielonefrită	1
 ministeriabil	0
+vienez	0
 vieneză	1
 subtitrare	1
 epidermă	1
@@ -9564,6 +10145,7 @@ ureche	1
 palancă	1
 haimana	1
 muflă	1
+comsomolist	0
 comsomolistă	1
 reactant	0
 conspiratoare	1
@@ -9587,6 +10169,7 @@ teratolog	0
 mulsoare	1
 antecesoare	1
 prispuşoară	1
+sud-american	0
 sud-americană	1
 consacrare	1
 neurit	0
@@ -9594,6 +10177,7 @@ joantă	1
 avancronică	1
 ovibos	0
 puricare	1
+scontator	0
 scontatoare	1
 congregaţie	1
 iotacizare	1
@@ -9601,6 +10185,7 @@ amant	0
 bucătăreasă	1
 flegmă	1
 manteluţă	1
+împricinat	0
 împricinată	1
 conlucrător	0
 grecuşor	0
@@ -9625,6 +10210,7 @@ mantisă	1
 ţurcă	1
 metodist	0
 sculă	1
+moralizator	0
 moralizatoare	1
 helge	1
 punticică	1
@@ -9648,6 +10234,7 @@ colibaciloză	1
 nenufar	0
 arădeancă	1
 femeie	1
+sportiv	0
 sportivă	1
 retuşor	0
 gastroenterolog	0
@@ -9656,8 +10243,10 @@ tropofite	1
 picador	0
 deliberare	1
 deteriorare	1
+vulcăneştean	0
 vulcăneşteană	1
 plasmagenă	1
+real	0
 pritoacă	1
 mărunţire	1
 împăciuire	1
@@ -9680,6 +10269,7 @@ pululaţie	1
 albeală	1
 râpă	1
 rodire	1
+merişor	0
 propensiune	1
 colăcar	0
 criptograf	0
@@ -9689,6 +10279,7 @@ coproducţie	1
 jidan	0
 urnire	1
 anchiloză	1
+patagonez	0
 patagoneză	1
 consonanţă	1
 detracţiune	1
@@ -9720,12 +10311,15 @@ fascie	1
 gelivură	1
 ospătărie	1
 celulă	1
+homeoterm	0
 homeotermă	1
 ticăloşie	1
 învălurare	1
 surmenare	1
 antologist	0
+dominican	0
 dominicană	1
+invadator	0
 invadatoare	1
 polinucleoză	1
 epitropie	1
@@ -9777,6 +10371,7 @@ fătare	1
 sparanghel	0
 acromat	0
 cireşar	0
+şovin	0
 şovină	1
 excoriaţie	1
 mangrovă	1
@@ -9788,6 +10383,7 @@ pedestrime	1
 suşă	1
 muşcare	1
 complice	0
+complice	1
 bogătan	0
 pelviperitonită	1
 demonstrantă	1
@@ -9860,6 +10456,7 @@ abstractizare	1
 zgâtie	1
 podvodar	0
 calindroi	0
+nonbeligerant	0
 nonbeligerantă	1
 salinitate	1
 moarte	1
@@ -9870,6 +10467,7 @@ vecernie	1
 locantieră	1
 instruire	1
 observatoare	1
+observator	0
 preindustrializare	1
 performeră	1
 repercusiune	1
@@ -9877,6 +10475,7 @@ fumărar	0
 prăbuşire	1
 animist	0
 morăraş	0
+micrometru	0
 geognost	0
 izonefă	1
 bârfitor	0
@@ -9892,6 +10491,7 @@ ahtiere	1
 helmint	0
 precipitare	1
 tărbăcire	1
+toscan	0
 toscană	1
 radioactualitate	1
 listerioză	1
@@ -9906,6 +10506,8 @@ semisolid	0
 puf	0
 păcurar	0
 piodermită	1
+basc	0
+bască	1
 sofisticărie	1
 râncă	1
 pup	0
@@ -9934,6 +10536,7 @@ meşterie	1
 velistă	1
 sfirenide	1
 haşcă	1
+gestionar	0
 gestionară	1
 rachetist	0
 măiculiţă	1
@@ -9942,6 +10545,7 @@ miuon	0
 maslă	1
 narcomană	1
 bărdăcuţă	1
+greco-catolic	0
 greco-catolică	1
 megabit	0
 ştangă	1
@@ -9956,13 +10560,16 @@ corcodel	0
 filială	1
 pârpăleală	1
 marţi	1
+mic-burghez	0
 mic-burgheză	1
 înjurare	1
 dună	1
 vitamină	1
 năpădire	1
+pitic	0
 pitică	1
 bărdăcuţ	1
+moderantist	0
 moderantistă	1
 animaţie	1
 surmontare	1
@@ -9979,6 +10586,7 @@ mastif	0
 driblare	1
 cariatidă	1
 degerminare	1
+conceptist	0
 conceptistă	1
 istorisire	1
 refenea	1
@@ -9989,8 +10597,10 @@ laringită	1
 tutuire	1
 murguşor	0
 densigramă	1
+calabrez	0
 calabreză	1
 epistolie	1
+ursitor	0
 ursitoare	1
 apendicită	1
 poligală	1
@@ -10003,12 +10613,14 @@ electrovalenţă	1
 putrezeală	1
 făurişte	1
 arhitectă	1
+arabofon	0
 arabofonă	1
 dispepsie	1
 won	0
 strigoaică	1
 chirie	1
 ştab-ofiţer	0
+liberian	0
 liberiană	1
 muscinee	1
 sitişoară	1
@@ -10029,6 +10641,7 @@ plăpumar	0
 depeşă	1
 stereoramă	1
 cooperatoare	1
+austromarxist	0
 austromarxistă	1
 loggia	1
 cojire	1
@@ -10048,6 +10661,7 @@ sâneaţă	1
 freschist	0
 meteorolog	0
 agitaţie	1
+prolog	0
 supratemă	1
 seminţie	1
 buză	1
@@ -10076,6 +10690,7 @@ rodie	1
 şipcă	1
 cramă	1
 secătură	1
+rodiu	0
 ologeală	1
 pătrunjel	0
 poftorire	1
@@ -10116,8 +10731,10 @@ ramificare	1
 depresurizare	1
 reînfăşurare	1
 arestare	1
+rug	0
 frunzuţă	1
 hlamidă	1
+rus	0
 rusă	1
 sinergidă	1
 electronist	0
@@ -10129,6 +10746,7 @@ instrumentaţie	1
 rezineancă	1
 feştelire	1
 marcă	1
+egalitarist	0
 egalitaristă	1
 curuţ	0
 îngăduială	1
@@ -10153,9 +10771,11 @@ bou-de-apă	0
 seringă	1
 furcă	1
 mărgeluşă	1
+ţarigrădean	0
 ţarigrădeană	1
 bătăiaş	0
 plumb	0
+aromân	0
 aromână	1
 angeită	1
 fitopatolog	0
@@ -10174,6 +10794,7 @@ mucezeală	1
 sfârâială	1
 histologă	1
 pescăreasă	1
+cunoscut	0
 cunoscută	1
 fanfară	1
 copleşire	1
@@ -10185,7 +10806,9 @@ aril	0
 clemenţă	1
 arie	1
 refacere	1
+mândruţ	0
 mândruţă	1
+intensificator	0
 intensificatoare	1
 răsucitură	1
 kilovar	0
@@ -10205,6 +10828,7 @@ pezevenche	1
 exersare	1
 deformaţie	1
 bioenergetician	0
+bikinian	0
 bikiniană	1
 agendă	1
 săceală	1
@@ -10220,6 +10844,7 @@ loază	1
 liniatură	1
 sfinţenie	1
 postsonorizare	1
+hipertensiv	0
 hipertensivă	1
 miopatie	1
 epură	1
@@ -10239,6 +10864,7 @@ poposire	1
 antilogaritm	0
 hodorogeală	1
 înfigere	1
+belgian	0
 belgiană	1
 ţârcovnic	0
 hoplomahie	1
@@ -10252,12 +10878,14 @@ nună	1
 întorsură	1
 bidinea	1
 drăcărie	1
+antiroman	0
 antiromană	1
 galantomie	1
 ochete	0
 arierplajă	1
 stancă	1
 clocoţel	0
+laburist	0
 laburistă	1
 retezare	1
 schipăr	0
@@ -10295,6 +10923,7 @@ nisipişte	1
 culturistă	1
 arhondăreasă	1
 chintă	1
+tirolez	0
 tiroleză	1
 mânătarcă	1
 nemţoicuţă	1
@@ -10334,6 +10963,7 @@ hâdoşenie	1
 tătuc	0
 modă	1
 pocitură	1
+drogat	0
 drogată	1
 căzănărie	1
 trapezan	0
@@ -10341,6 +10971,7 @@ postcură	1
 slătineancă	1
 turcoază	1
 scleroproteină	1
+terţiu	0
 terţiei	1
 teorbă	1
 sinecură	1
@@ -10348,6 +10979,7 @@ precizare	1
 bei	0
 bel	0
 povarnagiu	0
+bec	0
 cafenea	1
 zburlire	1
 privighetoare	1
@@ -10356,6 +10988,7 @@ vetrice	1
 probare	1
 bundiţă	1
 catalizator	0
+montant	0
 montantă	1
 îngânare	1
 halima	1
@@ -10396,10 +11029,13 @@ balauroaică	1
 baletist	0
 lectoră	1
 autonomizare	1
+calmuc	0
 calmucă	1
 jurisconsultă	1
 pergamentar	0
 lup	0
+lux	0
+migrant	0
 migrantă	1
 săgetare	1
 reglor	0
@@ -10442,10 +11078,12 @@ semnificare	1
 detenţiune	1
 scobire	1
 concluzie	1
+izvorâtor	0
 izvorâtoare	1
 omuleţ	0
 negel	0
 ametrop	0
+nipon	0
 niponă	1
 lamba	1
 străşeneancă	1
@@ -10454,6 +11092,7 @@ ditionit	0
 vâlcea	1
 intensitate	1
 bandit	0
+sectar	0
 sectară	1
 sacrificare	1
 odontalgie	1
@@ -10511,6 +11150,7 @@ microfotografie	1
 hoanghină	1
 denunţătoare	1
 muzicograf	0
+monogenist	0
 monogenistă	1
 chinovie	1
 netrebnicie	1
@@ -10535,6 +11175,7 @@ stagiune	1
 inconsecvenţă	1
 decrepitare	1
 elicotecă	1
+interaliat	0
 interaliată	1
 balustru	0
 nostrom	0
@@ -10564,6 +11205,7 @@ bobovină	1
 muzicoman	0
 ozonoterapie	1
 pontare	1
+laoţian	0
 laoţiană	1
 suveranitate	1
 năbuşeală	1
@@ -10634,6 +11276,7 @@ argumentare	1
 cleptofobie	1
 eră	1
 licorn	0
+lustru	0
 geofiziciană	1
 vrăbioară	1
 decolare	1
@@ -10649,6 +11292,7 @@ interpret	0
 halca	1
 tâlcuitor	0
 mitraliere	1
+intelectualist	0
 intelectualistă	1
 încheietor	0
 slăbătură	1
@@ -10658,6 +11302,7 @@ molos	0
 moloh	0
 zgârietură	1
 patrontaşcă	1
+anglo-american	0
 anglo-americană	1
 reformă	1
 gagistă	1
@@ -10710,6 +11355,7 @@ textilistă	1
 tăgăduire	1
 muzicant	0
 lustră	1
+monofizit	0
 monofizită	1
 tigru	0
 amnistiere	1
@@ -10725,6 +11371,7 @@ broscuţă	1
 muezin	0
 cuirasă	1
 acronimie	1
+hipoacuzic	0
 hipoacuzică	1
 prezident	0
 compostare	1
@@ -10754,6 +11401,7 @@ inventator	0
 amplificaţie	1
 cronologist	0
 colonetă	1
+guatemalez	0
 guatemaleză	1
 scorneală	1
 encefaloragie	1
@@ -10782,7 +11430,9 @@ camorist	0
 echilibrare	1
 picher	0
 pichet	0
+corsican	0
 corsicană	1
+angajat	0
 angajată	1
 miniinstalaţie	1
 interesare	1
@@ -10790,6 +11440,7 @@ dedolomitizare	1
 grandoman	0
 anaclază	1
 vorbuţă	1
+gândirist	0
 gândiristă	1
 deblocare	1
 agripnie	1
@@ -10832,6 +11483,7 @@ redoare	1
 linşor	0
 băcăuancă	1
 spicheriţă	1
+farfasit	0
 farfasită	1
 deroşeză	1
 bălmăjeală	1
@@ -10846,6 +11498,7 @@ glicoproteidă	1
 anteflexiune	1
 colhoznic	0
 şanfrenare	1
+numărător	0
 ţâr	0
 proptă	1
 răsfirare	1
@@ -10862,12 +11515,14 @@ bucăţel	0
 ecleror	0
 reclamantă	1
 bucăţea	1
+eleat	0
 eleată	1
 ficus	0
 antivitamină	1
 îmbrâncire	1
 păstoraş	0
 întrepătrundere	1
+telespicher	0
 buclă	1
 fâlfâitură	1
 bălăcărie	1
@@ -10903,13 +11558,17 @@ iridolog	0
 târgmureşeancă	1
 bolborosire	1
 radionevrită	1
+exploatator	0
 exploatatoare	1
+florentin	0
 florentină	1
 contrapondere	1
 oboist	0
 nanomel	0
+htonian	0
 htoniană	1
 driopitec	0
+baladic	0
 baladică	1
 calcul	0
 motorist	0
@@ -10923,6 +11582,7 @@ congresist	0
 cureluşă	1
 aglomerant	0
 ie	1
+imobilist	0
 imobilistă	1
 voliţiune	1
 încadrare	1
@@ -10933,6 +11593,7 @@ colobomă	1
 restaurator	0
 ostilitate	1
 electroradiolog	0
+mazdeist	0
 mazdeistă	1
 judocan	0
 bobuşor	0
@@ -10943,6 +11604,7 @@ vierme	0
 echilibristă	1
 sumuşoară	1
 amfiteriu	0
+praghez	0
 pragheză	1
 poveste	1
 improbitate	1
@@ -10958,6 +11620,7 @@ viermuleţ	0
 căpcăun	0
 tocănire	1
 şuşuitură	1
+poştalion	0
 ţigănuş	0
 strâmtare	1
 planorist	0
@@ -10975,7 +11638,9 @@ geluire	1
 radicalizare	1
 cahuleancă	1
 păcuină	1
+semianalfabet	0
 semianalfabetă	1
+empirist	0
 empiristă	1
 acarioză	1
 efet	0
@@ -10987,17 +11652,20 @@ maxilă	1
 beteag	0
 energetician	0
 agerime	1
+corugator	0
 corugatoare	1
 dextrină	1
 docimazie	1
 raliformă	1
 zoopsie	1
+samur	0
 clementină	1
 fosfatator	0
 monantă	1
 violatoare	1
 cupură	1
 hiperacuzie	1
+maşinist	0
 maşinistă	1
 gamelă	1
 colonlinie	1
@@ -11007,10 +11675,12 @@ dogmatist	0
 antiferment	0
 scăiecior	0
 proră	1
+colector	0
 degustătoare	1
 centrospermă	1
 zare	1
 promotoare	1
+clevetitor	0
 clevetitoare	1
 rabotor	0
 zapcială	1
@@ -11031,6 +11701,7 @@ mozaicar	0
 diez	0
 sculărie	1
 optar	0
+matuf	0
 matufă	1
 schifist	0
 fele	1
@@ -11048,6 +11719,7 @@ ocupator	0
 biosociolog	0
 snamenie	1
 denaturant	0
+ipocrit	0
 ipocrită	1
 cabală	1
 pristăvoaie	1
@@ -11060,6 +11732,7 @@ magnet	0
 colaboratoare	1
 indoeuropenist	0
 necăjire	1
+criticant	0
 criticantă	1
 inductivitate	1
 salpingoscopie	1
@@ -11079,11 +11752,13 @@ scărmăneală	1
 dădăceală	1
 brişcă	1
 durificare	1
+poliţist	0
 poliţistă	1
 interpunctuaţie	1
 blamare	1
 termopilă	1
 vielă	1
+suzeran	0
 suzerană	1
 groş	0
 fricţiune	1
@@ -11100,12 +11775,15 @@ adoptare	1
 menajare	1
 reciprocitate	1
 băcălie	1
+spărgător	0
+spărgătoare	1
 conăcărie	1
 boleşniţă	1
 pretenţie	1
 radiosursă	1
 pentametru	0
 debiteză	1
+neaoşist	0
 neaoşistă	1
 lutier	0
 schimbaş	0
@@ -11130,10 +11808,12 @@ terorizare	1
 râşcăneancă	1
 tambură	1
 celofibră	1
+gros	0
 aviator	0
 prundaş	0
 contraprobă	1
 excoriere	1
+exterminator	0
 exterminatoare	1
 multitudine	1
 mărunţime	1
@@ -11206,6 +11886,7 @@ revalidare	1
 birlic	0
 horă	1
 ciumă	1
+maramureşean	0
 maramureşeană	1
 nepot	0
 semizeu	0
@@ -11270,6 +11951,7 @@ morvă	1
 degonflare	1
 bănuţ	0
 hispanofilă	1
+slovac	0
 slovacă	1
 spinetă	1
 preavizare	1
@@ -11281,6 +11963,7 @@ atragere	1
 diolefină	1
 agrozootehniciană	1
 ceviană	1
+ultraprogresist	0
 ultraprogresistă	1
 polifonie	1
 matiseală	1
@@ -11292,11 +11975,13 @@ macaragistă	1
 dragare	1
 braconier	0
 microhenri	0
+dunărean	0
 dunăreană	1
 denigrare	1
 păpălău	0
 bagatelă	1
 custode	0
+valon	0
 valonă	1
 tomogramă	1
 călugăr	0
@@ -11307,6 +11992,7 @@ măţar	0
 inversiune	1
 regăsire	1
 nămete	1
+uzbec	0
 uzbecă	1
 piuneză	1
 deriziune	1
@@ -11314,13 +12000,18 @@ ariceală	1
 urlup	0
 verandă	1
 juncană	1
+şerlai	0
 pulverină	1
+legitimist	0
 legitimistă	1
 tonsură	1
 invocaţie	1
 nomenclatură	1
 ramură	1
+neocapitalist	0
 neocapitalistă	1
+breton	0
+bretonă	1
 automitralieră	1
 specificaţie	1
 senilizare	1
@@ -11328,6 +12019,7 @@ arici	0
 sculptare	1
 revigorare	1
 cişmegiu	0
+porumb	0
 radă	1
 kilogrammetru	0
 agrochimist	0
@@ -11338,6 +12030,7 @@ gâtiţă	1
 homoplastie	1
 medicinist	0
 jitărie	1
+pumnist	0
 pumnistă	1
 pohoaţă	1
 tasare	1
@@ -11354,6 +12047,7 @@ bifoliculă	1
 cârâitoare	1
 mănuşărie	1
 mursă	1
+zagrebian	0
 zagrebiană	1
 cupelă	1
 relegaţie	1
@@ -11384,6 +12078,7 @@ omitere	1
 benchetuială	1
 mare	1
 mucozitate	1
+stratigraf	0
 broker	0
 dărâmare	1
 analiză	1
@@ -11440,6 +12135,7 @@ urluitoare	1
 căpătuială	1
 muflon	0
 noatenă	1
+plantator	0
 hipolog	0
 omofonie	1
 macrostructură	1
@@ -11458,16 +12154,19 @@ jupuire	1
 chiorăială	1
 biblistă	1
 cumulardă	1
+fandosit	0
 fandosită	1
 onirolog	0
 dermatolog	0
 şuierătură	1
+intervenient	0
 intervenientă	1
 cuscră	1
 namiază	1
 legalitate	1
 tetrea	1
 bâjbâire	1
+dugliş	0
 duglişă	1
 degorjare	1
 tachinărie	1
@@ -11486,15 +12185,19 @@ radioreporter	0
 împestriţare	1
 schizofazie	1
 irigaţie	1
+javanez	0
 javaneză	1
 expromisiune	1
+fluturatic	0
 fluturatică	1
 capsomană	1
 apertură	1
+tolomac	0
 tolomacă	1
 bâţan	0
 instilaţie	1
 capelă	1
+domnitor	0
 domnitoare	1
 amiotrofie	1
 actinopterigian	0
@@ -11511,6 +12214,8 @@ glotolog	0
 nostimadă	1
 vale	1
 columbotecă	1
+conte	0
+culturalist	0
 culturalistă	1
 frăgezire	1
 craidon	0
@@ -11560,6 +12265,7 @@ vălurire	1
 purtare	1
 autocaravană	1
 roabă	1
+izraelian	0
 izraeliană	1
 arătură	1
 scumpătate	1
@@ -11569,9 +12275,11 @@ aplicaţie	1
 radiolocatorist	0
 ulm	0
 sălăşluire	1
+năvleg	0
 năvleagă	1
 broscăriţă	1
 albiniţă	1
+emisar	0
 moroşan	0
 decompensaţie	1
 nemţeancă	1
@@ -11592,6 +12300,8 @@ castravete	0
 duzină	1
 improprietate	1
 gogoşărie	1
+tăietor	0
+tăietoare	1
 evocaţie	1
 mamă	1
 abolire	1
@@ -11603,7 +12313,9 @@ caun	0
 prietenie	1
 idee	1
 curvie	1
+mongoloid	0
 mongoloidă	1
+hipermetrop	0
 hipermetropă	1
 colider	0
 criptogamă	1
@@ -11630,10 +12342,12 @@ contrasemnătură	1
 paing	0
 decolmatare	1
 închinăciune	1
+lotru	0
 loatră	1
 iradiere	1
 modist	0
 cazma	1
+mănuşar	0
 slujitor	0
 pizmuire	1
 lată	1
@@ -11641,6 +12355,7 @@ descompletare	1
 sălcioară	1
 beşleagă	0
 exostoză	1
+fondator	0
 fondatoare	1
 chiuretare	1
 electroacustician	0
@@ -11660,6 +12375,7 @@ tolbaş	0
 caravană	1
 porfirogenetă	1
 ofensare	1
+popândeţ	0
 căpuşă	1
 tărtăcuţă	1
 şuşoteală	1
@@ -11689,8 +12405,10 @@ morişcă	1
 uscăturea	1
 suspensor	0
 înfundătură	1
+teatralist	0
 teatralistă	1
 instalatoare	1
+ştemuitor	0
 mieluşor	0
 dezgrădire	1
 nautil	0
@@ -11725,6 +12443,7 @@ moţogancă	1
 aloe	1
 iconodul	0
 pârnaie	1
+dualist	0
 dualistă	1
 pajură	1
 radionavigant	0
@@ -11737,17 +12456,21 @@ armatură	1
 megaciclu	0
 porumbă	1
 megasporogeneză	1
+discriminant	0
 discriminantă	1
 ţiglină	1
 circumscripţie	1
 tempestă	1
+cambodgian	0
 cambodgiană	1
 zoralie	1
 parabulie	1
 pteridospermă	1
 trifoişte	1
+zoantrop	0
 zoantropă	1
 fur	0
+trinitarian	0
 trinitariană	1
 apartenenţă	1
 strigiformă	1
@@ -11755,6 +12478,7 @@ antijunimist	0
 malacă	1
 erubescenţă	1
 cartolină	1
+scoţian	0
 scoţiană	1
 pirotehnician	0
 omonimie	1
@@ -11778,6 +12502,8 @@ plămânăriţă	1
 pâinişoară	1
 volnicie	1
 statuie	1
+cositor	0
+cositoare	1
 sapient	0
 trapeză	1
 drezină	1
@@ -11793,6 +12519,7 @@ reorânduire	1
 decondiţionare	1
 calefacţie	1
 reunire	1
+cuboid	0
 cuboidă	1
 inducere	1
 gondoletă	1
@@ -11805,6 +12532,7 @@ mutageneză	1
 fotografă	1
 vrăbiuţă	1
 iscoadă	1
+tabac	0
 popustă	1
 fonogramă	1
 excorporaţie	1
@@ -11818,6 +12546,7 @@ torefiere	1
 amarilidacee	1
 baci	0
 scrib	0
+berechet	0
 fălcea	1
 deraziune	1
 monoxid	0
@@ -11831,6 +12560,7 @@ considerare	1
 priveghetoare	1
 conduraş	0
 proctologă	1
+molatic	0
 molatică	1
 epitelizare	1
 camelie	1
@@ -11848,6 +12578,7 @@ vărguliţă	1
 modulaţie	1
 peniţă	1
 acaparare	1
+retrocedant	0
 retrocedantă	1
 metisare	1
 ţiitoare	1
@@ -11874,6 +12605,7 @@ psihodiagnoză	1
 cotar	0
 zvârlire	1
 vociferantă	1
+ducat	0
 megieşie	1
 bacă	1
 credent	0
@@ -11883,9 +12615,11 @@ târfă	1
 corecţie	1
 superaeronavă	1
 pneumologă	1
+chilom	0
 dughie	1
 pipernicire	1
 negaţie	1
+papist	0
 papistă	1
 cărdăşie	1
 recuzită	1
@@ -11901,6 +12635,7 @@ progen	0
 prefect	0
 ghioşă	1
 întinerire	1
+narcoleptic	0
 narcoleptică	1
 cistină	1
 calcină	1
@@ -11946,6 +12681,7 @@ acuarelistă	1
 prebendă	1
 budapestan	0
 porcărie	1
+naţionalist	0
 naţionalistă	1
 normare	1
 semidiferenţă	1
@@ -11954,6 +12690,7 @@ dispersare	1
 repopulare	1
 pronosticare	1
 pufăire	1
+hematofag	0
 hematofagă	1
 draperie	1
 stucator	0
@@ -11990,10 +12727,12 @@ proacţiune	1
 mucoitină	1
 altistă	1
 mireasmă	1
+sarmatic	0
 sarmatică	1
 falangetă	1
 antireformist	0
 ciclotimie	1
+ciclotimic	0
 ciclotimică	1
 şcolăriţă	1
 luminiţă	1
@@ -12004,12 +12743,15 @@ metec	0
 biopolitică	1
 iasomie	1
 bonitate	1
+criminal	0
+criminală	1
 reide	1
 globigerină	1
 cabaniţă	1
 rusticizare	1
 tetrametru	0
 migălire	1
+dielectric	0
 dielectrică	1
 micromoleculă	1
 elevare	1
@@ -12023,6 +12765,7 @@ autoobservaţie	1
 broscuţ	0
 ren	0
 rem	0
+holoparazit	0
 holoparaziă	1
 franc	0
 autocisternă	1
@@ -12032,6 +12775,7 @@ gălbeneală	1
 preceptistă	1
 oponentă	1
 fărâmică	1
+egofob	0
 egofobă	1
 eroare	1
 cruşân	0
@@ -12041,6 +12785,7 @@ tăinuire	1
 expuncţiune	1
 zvârlugă	1
 detunare	1
+olandez	0
 olandeză	1
 răzăluială	1
 prognoză	1
@@ -12127,6 +12872,7 @@ delean	0
 atenansă	1
 scărpinătoare	1
 epifrază	1
+păcală	1
 cernavodean	0
 vitaminizare	1
 cavernă	1
@@ -12137,6 +12883,7 @@ grogrenă	1
 avizare	1
 conchiliolog	0
 albioară	1
+napolitan	0
 napolitană	1
 dusisatoare	1
 soluţie	1
@@ -12147,11 +12894,13 @@ forjărie	1
 salmie	1
 rugozitate	1
 decadenţă	1
+malaiez	0
 malaieză	1
 năfurică	1
 fandare	1
 reînălţare	1
 rabatare	1
+universalist	0
 universalistă	1
 faringoscopie	1
 fotomicroscopie	1
@@ -12181,6 +12930,7 @@ husar	0
 părangină	1
 fuegian	0
 maramureşeancă	1
+structuralist	0
 structuralistă	1
 hemoterapie	1
 nutrire	1
@@ -12254,6 +13004,7 @@ celtist	0
 silicatare	1
 cristaloid	0
 estradiol	0
+sincretist	0
 sincretistă	1
 dansator	0
 comemoraţie	1
@@ -12273,6 +13024,7 @@ sută	1
 dendrometrist	0
 mânuţă	1
 talasoterapeut	0
+manierist	0
 manieristă	1
 amorsare	1
 portărel	0
@@ -12280,9 +13032,12 @@ păienjenel	0
 metamerie	1
 ţarevici	0
 reînscriere	1
+bur	0
 bură	1
 învăţătură	1
 santal	0
+bun	0
+bună	1
 ibovnicuţă	1
 buc	0
 mătuşă	1
@@ -12301,6 +13056,7 @@ hemocultură	1
 rezemătoare	1
 strâmtorare	1
 minimalizare	1
+conceptualist	0
 conceptualistă	1
 rămăşeală	1
 oceanobiologă	1
@@ -12313,11 +13069,13 @@ plivitură	1
 balustradă	1
 hematurie	1
 pomuleţ	0
+fideist	0
 fideistă	1
 plătică	1
 sipetar	0
 grinduţă	1
 psamoterapie	1
+sorocean	0
 soroceană	1
 reinterpretare	1
 drumaş	0
@@ -12334,6 +13092,7 @@ dodă	1
 grofoaie	1
 escamoter	0
 lăstărire	1
+vitalist	0
 vitalistă	1
 zincografie	1
 aninătoare	1
@@ -12362,15 +13121,19 @@ forajist	0
 scordatură	1
 tăciunaş	0
 deflator	0
+legionar	0
 legionară	1
 drusetă	1
+gulerat	0
 gulerată	1
 sforăială	1
+rebusist	0
 rebusistă	1
 micoriză	1
 plasare	1
 alergătoare	1
 împunsătură	1
+descriptivist	0
 descriptivistă	1
 ulmacee	1
 sudit	0
@@ -12407,10 +13170,12 @@ indigosol	0
 învârteală	1
 rapsodie	1
 vultur	0
+exploatat	0
 exploatată	1
 inamic	0
 dinozaur	0
 pedolog	0
+anticalofil	0
 anticalofilă	1
 plasmochină	1
 garafă	1
@@ -12428,6 +13193,7 @@ fotomicrografie	1
 petrochimist	0
 stropşire	1
 practicantă	1
+sinofob	0
 sinofobă	1
 hemoptizic	0
 zburdălnicie	1
@@ -12454,6 +13220,7 @@ devastare	1
 monitoare	1
 percuţie	1
 ştergere	1
+horezean	0
 horezeană	1
 screperist	0
 onicomalacie	1
@@ -12461,6 +13228,7 @@ molfăială	1
 bunică	1
 haldeu	0
 simetrie	1
+curent	0
 etilenă	1
 graminee	1
 reconfigurare	1
@@ -12480,14 +13248,17 @@ termonastie	1
 înălţare	1
 pudrare	1
 perinevrită	1
+moldav	0
 moldavă	1
 birocrat	0
 speleotemă	1
 agrometeorolog	0
+absolutist	0
 absolutistă	1
 obidă	1
 calorifugare	1
 madrigalist	0
+iniţiator	0
 iniţiatoare	1
 codină	1
 apofonie	1
@@ -12497,6 +13268,7 @@ compunător	0
 autopropulsie	1
 semiconservă	1
 cislă	1
+trimis	0
 rochiţă	1
 endofită	1
 năvălire	1
@@ -12527,6 +13299,8 @@ patalama	1
 spadă	1
 pseudobacă	1
 rapsodist	0
+necunoscut	0
+necunoscută	1
 clocitoare	1
 bioinginer	0
 milionar	0
@@ -12551,6 +13325,7 @@ lentă	1
 tărăbuţă	1
 organosol	0
 măguleală	1
+anuric	0
 anurică	1
 pleurotomie	1
 patriarhie	1
@@ -12560,6 +13335,7 @@ puitoare	1
 credincer	0
 ampelograf	0
 staţie	1
+aztec	0
 aztecă	1
 motoflete	0
 joimăriţă	1
@@ -12571,6 +13347,7 @@ restauratoare	1
 scăunoaie	1
 frunzărire	1
 strâmbătură	1
+epifenomenalist	0
 epifenomenalistă	1
 encefalogramă	1
 meningococ	0
@@ -12590,8 +13367,11 @@ circumvoluţie	1
 deshidratoristă	1
 răcăduire	1
 relator	0
+satiric	0
+satirică	1
 galantină	1
 columelă	1
+lăturaş	0
 lăturaşă	1
 vânjoşie	1
 oftalmopatie	1
@@ -12605,6 +13385,7 @@ catedrală	1
 acreditat	0
 lobul	0
 slăvire	1
+condescendent	0
 condescendentă	1
 adjudecător	0
 polemarh	0
@@ -12670,9 +13451,11 @@ strânsură	1
 bogoslov	0
 sluţenie	1
 pârghie	1
+doctrinar	0
 doctrinară	1
 oroare	1
 monotonie	1
+invidios	0
 invidioasă	1
 cârpire	1
 scălâmbăială	1
@@ -12696,6 +13479,7 @@ statogramă	1
 liniere	1
 grizetă	1
 epodă	1
+copiat	0
 acupuncturistă	1
 înfiolare	1
 buchetieră	1
@@ -12728,11 +13512,15 @@ femelă	1
 draniţă	1
 porfiră	1
 schimbea	1
+fălticinean	0
 fălticineană	1
 etolă	1
 corb	0
+corn	0
+monoteist	0
 monoteistă	1
 catarin	0
+mofluz	0
 mofluză	1
 borfăşie	1
 regalitate	1
@@ -12755,9 +13543,11 @@ latice	1
 carmaniolă	1
 levint	0
 interpretă	1
+verzişor	0
 verzişoară	1
 parametru	0
 fază	1
+credincios	0
 credincioasă	1
 protopsalt	0
 corticosteron	0
@@ -12765,6 +13555,7 @@ corticosteron	0
 maledicţie	1
 dediţel-de-mare	0
 piersică	1
+devorator	0
 devoratoare	1
 magnetoterapie	1
 colindător	0
@@ -12776,8 +13567,10 @@ acefalie	1
 simbrioară	1
 neghinuţă	1
 bolnav	0
+catedratic	0
 catedratică	1
 sunetist	0
+ieşean	0
 ieşeană	1
 campare	1
 tehnoredacţie	1
@@ -12809,6 +13602,7 @@ clupeide	1
 matiţă	1
 intercurent	0
 dezminţire	1
+haţegan	0
 haţegană	1
 cumulizare	1
 macrosporange	0
@@ -12830,6 +13624,7 @@ taur	0
 arheocivilizaţie	1
 cormofită	1
 psihobiogramă	1
+politeist	0
 politeistă	1
 motoristă	1
 electroterapeut	0
@@ -12857,12 +13652,14 @@ felucă	1
 ţicneală	1
 dalie	1
 rovină	1
+vălug	0
 haşmă	1
 antiterorist	0
 asistent	0
 pasivizare	1
 după-masă	1
 pterodon	0
+proclamator	0
 proclamatoare	1
 pescăruş	0
 demitere	1
@@ -12888,6 +13685,7 @@ gulie	1
 urlătoare	1
 şopteală	1
 ţapină	1
+medico-veterinar	0
 medico-veterinară	1
 înfundătoare	1
 proviziune	1
@@ -12902,18 +13700,21 @@ complinire	1
 recriminaţie	1
 concentraţie	1
 casâncă	1
+bengalez	0
 bengaleză	1
 jumuleală	1
 monitorizare	1
 gerare	1
 unghioară	1
 înţelegere	1
+congolez	0
 congoleză	1
 ortografist	0
 rifluire	1
 areometrie	1
 canara	1
 siminichie	1
+slavofob	0
 slavofobă	1
 zicătură	1
 enotecă	1
@@ -12954,6 +13755,7 @@ subtemă	1
 finanţatoare	1
 cartuşieră	1
 răcoare	1
+frecventator	0
 frecventatoare	1
 eterodină	1
 târlie	1
@@ -12965,6 +13767,7 @@ fortificaţie	1
 presoare	1
 castan	0
 sihăstrie	1
+sinăian	0
 sinăiană	1
 birnică	1
 săpător	0
@@ -12990,6 +13793,7 @@ dezmeticire	1
 scabie	1
 incoerenţă	1
 resortisant	0
+manihean	0
 maniheană	1
 cutiuţă	1
 comentator	0
@@ -13005,8 +13809,10 @@ viespe	1
 oglindă	1
 slujnică	1
 moaşte	1
+etiopian	0
 etiopiană	1
 răţuşcă	1
+discromatop	0
 discromatopă	1
 bubă	1
 nitraţie	1
@@ -13035,6 +13841,7 @@ penetraţie	1
 fuzionist	0
 înăduşeală	1
 ginestră	1
+afgan	0
 afgană	1
 ortopol	0
 premieră	1
@@ -13086,14 +13893,17 @@ racilă	1
 reintroducere	1
 parataxă	1
 inferenţă	1
+herul	0
 herulă	1
 stomatită	1
 deceleraţie	1
 dichiu	0
 peni	0
+substanţialist	0
 substanţialistă	1
 ament	0
 radioelectriciană	1
+hitit	0
 hitită	1
 şopăială	1
 hemoliză	1
@@ -13103,6 +13913,7 @@ tighelire	1
 aripioară	1
 comicărie	1
 dezactivare	1
+siberian	0
 siberiană	1
 finisare	1
 porumbărie	1
@@ -13199,6 +14010,7 @@ ministrant	0
 haplologie	1
 apiterapeut	0
 rădaşcă	1
+iredentist	0
 iredentistă	1
 regurgitaţie	1
 macrofotografie	1
@@ -13211,17 +14023,21 @@ supraînălţare	1
 absolvenţă	1
 făclier	0
 caşerată	1
+idiot	0
 idioată	1
 dălcăuş	0
 reacţie	1
+descântător	0
 descântătoare	1
 scăfiţă	1
 faliere	1
 actoraş	0
 melită	1
 antranol	0
+petrarchist	0
 petrarchistă	1
 năbădaie	1
+şoldăneştean	0
 şoldăneşteană	1
 fustă	1
 ilot	0
@@ -13233,12 +14049,15 @@ mânzat	0
 lingurăreasă	1
 ierarhizare	1
 investigare	1
+naturist	0
 naturistă	1
 depilare	1
+montanist	0
 montanistă	1
 forjă	1
 glorietă	1
 topometru	0
+investitor	0
 investitoare	1
 avarie	1
 droagă	1
@@ -13270,6 +14089,7 @@ vizuină	1
 translare	1
 contorsionist	0
 crispaţie	1
+tei	0
 barbă	1
 festă	1
 tec	0
@@ -13294,6 +14114,7 @@ epigramist	0
 viză	1
 perdegiu	0
 varistenţă	1
+machist	0
 machistă	1
 pleşcaş	0
 securist	0
@@ -13346,6 +14167,7 @@ rată	1
 emanare	1
 metodă	1
 antantă	1
+murguţ	0
 murguţă	1
 modificare	1
 garant	0
@@ -13419,6 +14241,7 @@ miografie	1
 oişte	1
 pericolecistită	1
 cavitate	1
+friulan	0
 friulană	1
 lactat	0
 cărăbuş	0
@@ -13475,6 +14298,7 @@ nisfia	1
 camee	1
 bătălie	1
 frânghierie	1
+văzător	0
 văzătoare	1
 superputere	1
 imunitate	1
@@ -13491,6 +14315,7 @@ dilataţie	1
 muieruşcă	1
 trifoiaş	0
 asimptotă	1
+bizantin	0
 bizantină	1
 gârlă	1
 selfinducţie	1
@@ -13515,6 +14340,7 @@ pitoaşcă	1
 vidare	1
 reînşurubare	1
 albire	1
+contabil	0
 contabilă	1
 declinaţie	1
 spermatogramă	1
@@ -13544,11 +14370,13 @@ pterodactil	0
 şâşâire	1
 pulmonariţă	1
 dumbrăvioară	1
+poşidic	0
 împiedicare	1
 supravizită	1
 barcană	1
 dăscălici	0
 inciză	1
+ostrovean	0
 ostroveană	1
 frăguşoară	1
 intonaţie	1
@@ -13599,6 +14427,7 @@ claustraţie	1
 striaţie	1
 delfinieră	1
 nigrozină	1
+şiit	0
 şiită	1
 polihistor	0
 siminoc	0
@@ -13620,6 +14449,7 @@ andabat	0
 adnotaţie	1
 tapangea	1
 clănţăneală	1
+neozeelandez	0
 neozeelandeză	1
 saramurare	1
 metonomasie	1
@@ -13632,6 +14462,7 @@ cămilă	1
 pleasnă	1
 asiată	1
 antemăsurătoare	1
+promovator	0
 promovatoare	1
 onomast	0
 festivalist	0
@@ -13640,6 +14471,7 @@ undaţie	1
 eudist	0
 timpanist	0
 tahigraf	0
+vagabond	0
 vagaboandă	1
 etimologie	1
 tulbureală	1
@@ -13665,6 +14497,7 @@ hidroenergeticiană	1
 politehniciană	1
 cicloalchenă	1
 armăsăraş	0
+comunist	0
 comunistă	1
 parameci	0
 logofeţie	1
@@ -13674,6 +14507,7 @@ ciomăgar	0
 bulevardistă	1
 larice	1
 cateheză	1
+bihorean	0
 bihoreană	1
 virtuozitate	1
 scriptolog	0
@@ -13705,10 +14539,13 @@ columbă	1
 eritrotoxină	1
 grenadier	0
 nefrectomie	1
+străbun	0
 străbună	1
 soră	1
 compactare	1
+materialist	0
 materialistă	1
+mocoşit	0
 mocoşită	1
 sihastră	1
 chilioară	1
@@ -13727,6 +14564,7 @@ bihuncă	1
 ciclistă	1
 margraf	0
 osmometrie	1
+car	0
 selbă	1
 liberare	1
 brânculiţă	1
@@ -13760,6 +14598,7 @@ moftangiu	0
 beldie	1
 proprietară	1
 concitadin	0
+galez	0
 galeză	1
 profetesă	1
 lăuruscă	1
@@ -13812,6 +14651,7 @@ lepton	0
 judecătoraş	0
 cogitaţiune	1
 aromire	1
+necrofag	0
 necrofagă	1
 momiţoi	0
 colonizator	0
@@ -13837,6 +14677,7 @@ nimfomană	1
 tânjală	1
 fineţe	1
 competitoare	1
+mureşean	0
 mureşeană	1
 nostalgie	1
 dilatanţă	1
@@ -13863,12 +14704,14 @@ fermecătorie	1
 cănăţuie	1
 hârşoveancă	1
 exorcizare	1
+şoiman	0
 şoimană	1
 nord-americancă	1
 columbiformă	1
 grănicer	0
 licitare	1
 glandulă	1
+bolşevic	0
 bolşevică	1
 presgarnitură	1
 muzeolog	0
@@ -13881,6 +14724,7 @@ autopompă	1
 pichetare	1
 ciuboţică	1
 îmboldire	1
+semiasiatic	0
 semiasiatică	1
 organician	0
 acetaldehidă	1
@@ -13902,6 +14746,7 @@ rebeliune	1
 grăsun	0
 obştire	1
 pomişoară	1
+avangardist	0
 avangardistă	1
 strigoaie	1
 mânjire	1
@@ -13912,6 +14757,7 @@ rochioară	1
 joseancă	1
 năclăială	1
 euharistie	1
+mogul	0
 mogulă	1
 eterofonie	1
 prelat	0
@@ -13925,7 +14771,9 @@ atmoliză	1
 câmpeancă	1
 pahidermie	1
 jantă	1
+provensal	0
 provensală	1
+iresponsabil	0
 iresponsabilă	1
 frunzucă	1
 culisă	1
@@ -13943,6 +14791,7 @@ floretă	1
 celafibră	1
 sârmă	1
 montanologă	1
+italofil	0
 italofilă	1
 vaporizaţie	1
 piedicuţă	1
@@ -13950,6 +14799,7 @@ mijlocire	1
 redevenţiar	0
 sacoşă	1
 rumoare	1
+mozambican	0
 mozambicană	1
 scheunare	1
 trompetă	1
@@ -13972,6 +14822,7 @@ popicară	1
 măturare	1
 persecutor	0
 iurtă	1
+ftizic	0
 ftizică	1
 poezea	1
 tablă	1
@@ -13995,7 +14846,9 @@ rezervare	1
 libretist	0
 instaurare	1
 înnorare	1
+avă	1
 asemănare	1
+dement	0
 dementă	1
 iarbă	1
 flintuliţă	1
@@ -14009,6 +14862,10 @@ polidipsie	1
 venectazie	1
 tutor	0
 manufacturare	1
+determinant	0
+determinantă	1
+istoric	0
+istorică	1
 iobag	0
 citocrom	0
 lunecare	1
@@ -14028,6 +14885,7 @@ meteosputnic	0
 încetăţenire	1
 salbandă	1
 fluieriţă	1
+gamoman	0
 gamomană	1
 intimitate	1
 împlinire	1
@@ -14071,11 +14929,14 @@ agnost	0
 vadră	1
 călărăşeancă	1
 corlă	1
+fenomenalist	0
 fenomenalistă	1
+nefritic	0
 nefritică	1
 rachetomodelist	0
 obrăjor	0
 parafazie	1
+imbecil	0
 imbecilă	1
 cremoză	1
 balenar	0
@@ -14095,12 +14956,14 @@ măsluitor	0
 chimogramă	1
 petrografă	1
 miner	0
+thailandez	0
 thailandeză	1
 etaloner	0
 lapicid	0
 parotidită	1
 spectatoare	1
 microbistă	1
+galican	0
 galicană	1
 ober	0
 ilustrată	1
@@ -14151,6 +15014,7 @@ marmurier	0
 actualitate	1
 remorcă	1
 şurubuire	1
+scit	0
 scită	1
 molipsire	1
 examinare	1
@@ -14191,6 +15055,7 @@ vălţuitoare	1
 galiţă	1
 răscroială	1
 cornăţar	0
+voinic	0
 voinică	1
 racolare	1
 steganipode	1
@@ -14202,6 +15067,8 @@ berberidacee	1
 găină-sălbatică	1
 gorun	0
 mistuire	1
+solid	0
+cistercian	0
 cisterciană	1
 absentare	1
 stivator	0
@@ -14237,6 +15104,7 @@ decimă	1
 hamal	0
 bronşectazie	1
 nitrat	0
+criticist	0
 criticistă	1
 tricotomie	1
 fulguraţie	1
@@ -14246,6 +15114,7 @@ iavaşa	1
 ipohondrie	1
 sortatoare	1
 măceaşă	1
+caravanier	0
 caravanieră	1
 craniolog	0
 cocreator	0
@@ -14264,6 +15133,7 @@ antrenor	0
 grimea	1
 sâsâitură	1
 meharist	0
+împăciuitorist	0
 împăciuitoristă	1
 grimer	0
 pansea	1
@@ -14274,6 +15144,7 @@ digit	0
 telecronicar	0
 rapsod	0
 predelă	1
+sârb	0
 sârbă	1
 masare	1
 ectoendoparazit	0
@@ -14341,12 +15212,15 @@ giurgină	1
 ichilic	0
 roşior	0
 timpanită	1
+diabetic	0
 diabetică	1
+orbalţ	0
 silicon	0
 metilceluloză	1
 şosea	1
 gratificaţie	1
 spălare	1
+husit	0
 husită	1
 tilincuţă	1
 imperator	0
@@ -14364,6 +15238,7 @@ izbă	1
 aprinzătoare	1
 dijmuitor	0
 ordonatoare	1
+contractant	0
 contractantă	1
 mogorogire	1
 ceremonie	1
@@ -14391,6 +15266,7 @@ predilecţie	1
 adunătură	1
 cristelniţă	1
 pulberărie	1
+dizolvant	0
 dizolvantă	1
 mucoracee	1
 dactiloscop	0
@@ -14399,6 +15275,7 @@ histerectomie	1
 ţarcă	1
 creanţieră	1
 enteroanastomoză	1
+neotomist	0
 neotomistă	1
 echinidă	1
 hoţ	0
@@ -14412,6 +15289,7 @@ radioterapeut	0
 ghemuire	1
 săricică	1
 simbioză	1
+amator	0
 amatoare	1
 tabulhana	1
 mămucă	1
@@ -14424,6 +15302,7 @@ antiteză	1
 rezoluţie	1
 gloată	1
 flancare	1
+multimiliardar	0
 multimiliardară	1
 scumpie	1
 afină	1
@@ -14434,12 +15313,14 @@ misofobie	1
 electrogravură	1
 triplusaltist	0
 dipnoi	0
+indigen	0
 indigenă	1
 vicepreşedintă	1
 raită	1
 perier	0
 zăgneată	1
 ravenă	1
+beduin	0
 beduină	1
 strungă	1
 supracopertă	1
@@ -14452,6 +15333,7 @@ reporter	0
 tretin	0
 bucher	0
 plecăciune	1
+latifundiar	0
 latifundiară	1
 lumânare	1
 sforţare	1
@@ -14473,6 +15355,7 @@ felidă	1
 machetist	0
 pneumotomie	1
 agrementare	1
+papetar	0
 papetară	1
 matracă	1
 depleţiune	1
@@ -14495,6 +15378,7 @@ peponidă	1
 decorticare	1
 grafologă	1
 părticică	1
+european	0
 europeană	1
 strămurare	1
 romancier	0
@@ -14542,10 +15426,12 @@ conexiune	1
 oreadă	1
 cernuşcă	1
 condil	0
+francofob	0
 francofobă	1
 căldură	1
 cuţovlahă	1
 price	1
+cultist	0
 cultistă	1
 granulare	1
 barocameră	1
@@ -14579,12 +15465,14 @@ epuizare	1
 prepelicar	0
 zgâire	1
 botanistă	1
+londonez	0
 londoneză	1
 sacadare	1
 azvârlită	1
 enterogastrită	1
 bieletă	1
 corniză	1
+porcoi	0
 abreviaţie	1
 mantelă	1
 lombartroză	1
@@ -14633,6 +15521,7 @@ oftalmometrie	1
 caniş	0
 saltimbanc	0
 micşunea	1
+meşter	0
 meşteră	1
 malformaţie	1
 costumieră	1
@@ -14641,10 +15530,12 @@ lavră	1
 logopedă	1
 vistiernic	0
 bondar	0
+donduşenean	0
 donduşeneană	1
 duduitură	1
 anaconda	1
 biofor	0
+retardat	0
 retardată	1
 confrăţie	1
 cvadriremă	1
@@ -14676,6 +15567,7 @@ autoinfecţie	1
 anadiploză	1
 oftalmografie	1
 ridiche	1
+gâlcevitor	0
 gâlcevitoare	1
 tufă	1
 deviere	1
@@ -14687,6 +15579,7 @@ eparhie	1
 dermatalgie	1
 combineră	1
 desfacere	1
+ignorant	0
 ignorantă	1
 sorcovă	1
 manevrant	0
@@ -14705,11 +15598,13 @@ surioară	1
 sporange	0
 scutelnic	0
 radiostaţiune	1
+frânc	0
 frâncă	1
 flagelare	1
 aneurină	1
 popenchi	0
 ciutură	1
+ţărănist	0
 ţărănistă	1
 sistematiciană	1
 cicadee	1
@@ -14718,6 +15613,7 @@ păraş	0
 agurijoară	1
 optimat	0
 injecţie	1
+marsiliez	0
 marsilieză	1
 vârşar	0
 gebea	1
@@ -14746,6 +15642,7 @@ drajonare	1
 viermănar	0
 plantalgie	1
 reuşită	1
+ischiuzar	0
 ischiuzară	1
 oxigenator	0
 ţâpuritoare	1
@@ -14762,8 +15659,10 @@ moşuleţ	0
 diminutivare	1
 divizare	1
 proudhonist	0
+organizator	0
 organizatoare	1
 urobacterie	1
+săgetător	0
 săgetătoare	1
 metamorfoză	1
 timişeancă	1
@@ -14806,6 +15705,7 @@ hebefrenie	1
 creştere	1
 nuvelă	1
 comediograf	0
+libian	0
 libiană	1
 cămătăreasă	1
 parazăpadă	1
@@ -14824,6 +15724,7 @@ mărire	1
 mânzişor	0
 răstignire	1
 poantă	1
+jansenist	0
 jansenistă	1
 postavă	1
 cuguar	0
@@ -14831,6 +15732,7 @@ recomentare	1
 şelar	0
 mazil	0
 oază	1
+golan	0
 golană	1
 defrişor	0
 tranziter	0
@@ -14846,10 +15748,12 @@ proscripţie	1
 pamfletist	0
 proctită	1
 hidrolog	0
+mânzărar	0
 decodificare	1
 omologare	1
 berbecărie	1
 întâmplare	1
+salvamontist	0
 salvamontistă	1
 bernardină	1
 însemnărică	1
@@ -14872,7 +15776,9 @@ horilcă	1
 fotorobot	0
 ghiuj	0
 copilă	1
+făgărăşean	0
 făgărăşeană	1
+cordonaş	0
 teleredactor	0
 şarlatancă	1
 telebenă	1
@@ -14884,6 +15790,7 @@ antitrinitar	0
 interpretare	1
 simpatizare	1
 voiajor	0
+ionatan	0
 uretră	1
 bătrân	0
 interferenţă	1
@@ -14899,6 +15806,7 @@ poditură	1
 maladresă	1
 oculist	0
 hitleristă	1
+habotnic	0
 habotnică	1
 cheratoplastie	1
 ginecolog	0
@@ -14910,12 +15818,17 @@ stratosferă	1
 fâlfâire	1
 armonograf	0
 gravare	1
+mădular	0
 suplicantă	1
+venit	0
 păţeală	1
+ficţionalist	0
 ficţionalistă	1
 cardama	1
 repezitură	1
+uriaş	0
 uriaşă	1
+intelectual	0
 intelectuală	1
 lăbărţare	1
 frustrare	1
@@ -14924,6 +15837,7 @@ dejucare	1
 monohidrat	0
 transpiraţie	1
 sinuzie	1
+consultant	0
 consultantă	1
 deplanare	1
 fosforescenţă	1
@@ -14937,11 +15851,13 @@ fligornist	0
 hiperosmie	1
 amfibrah	0
 coregrafă	1
+verslibrist	0
 verslibristă	1
 microbar	0
 mediaţie	1
 duodecimă	1
 măgăriţă	1
+tulcean	0
 tulceană	1
 ardei	0
 terasă	1
@@ -14971,12 +15887,14 @@ depravaţiune	1
 ţopenie	1
 haiducie	1
 pneumotrop	0
+monegasc	0
 monegască	1
 satârgiu	0
 regie	1
 dara	1
 dare	1
 cicălire	1
+ladin	0
 ladină	1
 aprovare	1
 depunere	1
@@ -14998,6 +15916,7 @@ muzicantă	1
 microagent	0
 beznă	1
 interpelator	0
+germanofon	0
 germanofonă	1
 dezinteresare	1
 citaţie	1
@@ -15028,6 +15947,7 @@ strălucire	1
 stupărie	1
 cenuşăreasă	1
 toceală	1
+atentist	0
 atentistă	1
 literator	0
 bancher	0
@@ -15042,7 +15962,9 @@ sclifoseală	1
 mărunţişar	0
 culee	1
 rulare	1
+ucrainean	0
 ucraineană	1
+cvadragenar	0
 cvadragenară	1
 geodez	0
 pleuropneumonie	1
@@ -15054,6 +15976,7 @@ bandă	1
 cosemnatară	1
 purice	0
 besactea	1
+istroromân	0
 istroromână	1
 palpaţie	1
 audienţă	1
@@ -15077,9 +16000,11 @@ dimerlie	1
 maclă	1
 emendator	0
 brusture	0
+emetrop	0
 emetropă	1
 pliroforie	1
 antropofob	0
+iugoslav	0
 iugoslavă	1
 virusologă	1
 satelizare	1
@@ -15133,6 +16058,7 @@ rotilă	1
 scai	0
 radioastronom	0
 răvăşeală	1
+aglutinant	0
 închistare	1
 ancrasare	1
 excizie	1
@@ -15159,12 +16085,14 @@ velocipedist	0
 sidelcă	1
 stăpânire	1
 pomadă	1
+pozitivist	0
 pozitivistă	1
 coloristă	1
 ciclogeneză	1
 ambidextrie	1
 căciulire	1
 ceratit	0
+postşcolar	0
 postşcolară	1
 licitatoare	1
 arbore	0
@@ -15190,6 +16118,7 @@ curtare	1
 mungerie	1
 ragilă	1
 isprăvniceasă	1
+englez	0
 engleză	1
 privată	1
 transcriitor	0
@@ -15199,6 +16128,7 @@ farandolă	1
 smuceală	1
 penticostală	1
 permutare	1
+populist	0
 populistă	1
 imigrare	1
 foac	0
@@ -15225,6 +16155,7 @@ situare	1
 zguduire	1
 râmă	1
 agenţie	1
+şpan	0
 jep	0
 sumacare	1
 surlişoară	1
@@ -15242,6 +16173,7 @@ turbină	1
 scorpenă	1
 donatară	1
 disproporţionalitate	1
+cleptoman	0
 cleptomană	1
 prezbiofrenie	1
 consideraţie	1
@@ -15260,10 +16192,12 @@ morărel	0
 miruire	1
 intumescenţă	1
 tirant	0
+antirăzboinic	0
 antirăzboinică	1
 istoriografie	1
 iertare	1
 arendaş	0
+hamit	0
 hamită	1
 vânzător	0
 lăutar	0
@@ -15291,6 +16225,7 @@ spunere	1
 dermatoză	1
 existenţă	1
 blănăreasă	1
+corticosteroid	0
 corticosteroidă	1
 cobeală	1
 mitomană	1
@@ -15311,6 +16246,7 @@ ajustor	0
 sinonimie	1
 başbuzuc	0
 marcotă	1
+nefropat	0
 nefropată	1
 geamie	1
 trivalenţă	1
@@ -15322,6 +16258,7 @@ gemănariţă	1
 acorie	1
 jambieră	1
 contracandidată	1
+neolatin	0
 neolatină	1
 cârjaliu	0
 comanş	0
@@ -15338,6 +16275,7 @@ măciulie	1
 agăţătoare	1
 toxicologă	1
 legislatură	1
+reconciliator	0
 reconciliatoare	1
 instigaţie	1
 eliberare	1
@@ -15345,6 +16283,7 @@ coconieră	1
 şustăr	0
 botriocefal	0
 sculişoară	1
+învrăjbitor	0
 învrăjbitoare	1
 scumpenie	1
 cumătru	0
@@ -15358,6 +16297,7 @@ măgădău	0
 rabin	0
 dermatită	1
 coştereaţă	1
+elen	0
 elenă	1
 conjunctură	1
 simonie	1
@@ -15365,14 +16305,17 @@ elev	0
 acadea	1
 posedare	1
 antiastmatic	0
+pediman	0
 pedimană	1
 schematizare	1
 butură	1
+panslav	0
 panslavă	1
 câştigător	0
 înfiripare	1
 şevretă	1
 formar	0
+australid	0
 australidă	1
 impoliteţe	1
 facturare	1
@@ -15386,6 +16329,7 @@ ampriză	1
 hoţoman	0
 vuială	1
 palm	0
+corneci	0
 reoxidare	1
 ospătător	0
 monogeneză	1
@@ -15398,12 +16342,15 @@ xantelasmă	1
 echinococoză	1
 invincibilitate	1
 bărdaş	0
+retoroman	0
 retoromană	1
 oftalmotomie	1
 consolare	1
+malaiezian	0
 malaieziană	1
 finanţare	1
 străchinuţă	1
+fofolog	0
 fofoloagă	1
 înteţire	1
 stipendiere	1
@@ -15430,6 +16377,7 @@ supralicitaţie	1
 tăpălagă	1
 polipier	0
 cil	0
+cir	0
 cabină	1
 animalculist	0
 scafă	1
@@ -15459,6 +16407,7 @@ hidroizopieză	1
 retroversiune	1
 cardiogramă	1
 cârneleagă	1
+bărdac	0
 bărdac	1
 fonetistă	1
 exalaţie	1
@@ -15474,6 +16423,7 @@ trufie	1
 postpoziţie	1
 ileocolită	1
 enigmist	0
+transasiatic	0
 transasiatică	1
 azurare	1
 munteancă	1
@@ -15487,6 +16437,7 @@ secretar	0
 şoltuz	0
 rizacă	1
 hemoglobinurie	1
+chilian	0
 chiliană	1
 magie	1
 protecţie	1
@@ -15506,15 +16457,19 @@ sursă	1
 cimişir	0
 sucombare	1
 diavol	0
+stimabil	0
 stimabilă	1
 eterizare	1
+darwinist	0
 darwinistă	1
 alcool	0
 antirepublican	0
 ciconiidă	1
 asediere	1
+scepticist	0
 scepticistă	1
 constricţie	1
+transformist	0
 transformistă	1
 şmecherire	1
 lemă	1
@@ -15538,8 +16493,10 @@ poliritmie	1
 colegatar	0
 tubare	1
 sudură	1
+euribar	0
 euribară	1
 cinolog	0
+susţinător	0
 susţinătoare	1
 pseudoartist	0
 covertă	1
@@ -15596,6 +16553,7 @@ baboşă	1
 streptococ	0
 taumaturg	0
 carpotecă	1
+gepid	0
 gepidă	1
 dezincrustare	1
 cumnăţel	0
@@ -15610,6 +16568,7 @@ adenohipofiză	1
 surghiunire	1
 hebetudine	1
 imagerie	1
+araucan	0
 araucană	1
 păstârnac	0
 stupă	1
@@ -15622,6 +16581,7 @@ ornitofită	1
 ieşire	1
 ofrandă	1
 frământătură	1
+hindus	0
 hindusă	1
 ceucă	1
 promulgaţie	1
@@ -15638,6 +16598,7 @@ arhierie	1
 egalare	1
 cioroaică	1
 survenire	1
+unitarist	0
 unitaristă	1
 corb-de-noapte	0
 hipertonie	1
@@ -15653,6 +16614,7 @@ serdăreasă	1
 decuplare	1
 fâsâitură	1
 logolatrie	1
+monohibrid	0
 monohibridă	1
 drapare	1
 ştim	0
@@ -15667,14 +16629,17 @@ milog	0
 traforare	1
 ovaţie	1
 absorbire	1
+segment	0
 contragabier	0
 ţinută	1
+venezuelian	0
 venezueliană	1
 congruenţă	1
 ridicătură	1
 tentă	1
 deperulaţie	1
 zădărnicie	1
+socinian	0
 sociniană	1
 coală	1
 economist	0
@@ -15708,6 +16673,7 @@ lingotieră	1
 premedicaţie	1
 excentrare	1
 sobar	0
+lipici	0
 adeverinţă	1
 puştiulică	0
 răsucire	1
@@ -15735,6 +16701,7 @@ perlare	1
 ţambalagiu	0
 sâmburel	0
 ştănţuire	1
+mojic	0
 mojică	1
 contraoctavă	1
 amiantă	1
@@ -15749,6 +16716,7 @@ hulub	0
 decană	1
 penumbră	1
 iluzionare	1
+truditor	0
 truditoare	1
 acvatintă	1
 hidrocarbonat	0
@@ -15806,6 +16774,7 @@ justificatoare	1
 enterobacterie	1
 stupitură	1
 sălăţică	1
+imanentist	0
 imanentistă	1
 bătelişte	1
 brădui	0
@@ -15827,6 +16796,7 @@ trambalare	1
 dăruitoare	1
 canibal	0
 laminatoare	1
+filantropist	0
 filantropistă	1
 pediatră	1
 neagresivitate	1
@@ -15844,6 +16814,7 @@ vrajă	1
 berlinez	0
 reintervenţie	1
 merar	0
+iris	0
 zimază	1
 giratar	0
 colegă	1
@@ -15852,6 +16823,7 @@ termocentrală	1
 poliţmaistru	0
 fiziograf	0
 galvanocauterizare	1
+centrist	0
 centristă	1
 cioclu	0
 bazilică	1
@@ -15882,11 +16854,13 @@ renegociere	1
 recenzor	0
 excursionistă	1
 brăduţ	0
+baptist	0
 baptistă	1
 exoelectron	0
 mojdrean	0
 încruntătură	1
 bormaşină	1
+peceneg	0
 pecenegă	1
 semivoltă	1
 compresiune	1
@@ -15910,6 +16884,7 @@ insatisfacţie	1
 carbonarcoză	1
 aportor	0
 capsă	1
+ultraliberal	0
 ultraliberală	1
 pecetluire	1
 cicar	0
@@ -15917,6 +16892,7 @@ ortopedagog	0
 rămurişte	1
 codebitoare	1
 adulmecare	1
+iubeţ	0
 iubeaţă	1
 prăznuire	1
 protopopoaie	1
@@ -15945,9 +16921,11 @@ lemurian	0
 invitaţie	1
 lefşoară	1
 plimbare	1
+subaltern	0
 subalternă	1
 cuculeasă	1
 reîntregire	1
+irealist	0
 irealistă	1
 galeopitec	0
 reaerisire	1
@@ -16046,6 +17024,7 @@ mangafa	1
 estavelă	1
 graforee	1
 simplificare	1
+sorab	0
 sorabă	1
 necrobioză	1
 echitate	1
@@ -16059,6 +17038,7 @@ cutnie	1
 drupeolă	1
 ruscă	1
 corhan	0
+dulap	0
 falangist	0
 rinolog	0
 zăbavă	1
@@ -16101,6 +17081,7 @@ revenire	1
 vehiculare	1
 bană	1
 robotizare	1
+camerunez	0
 cameruneză	1
 dezideologizare	1
 nielură	1
@@ -16110,6 +17091,7 @@ elevă	1
 surcică	1
 holercă	1
 vafelă	1
+neocatolic	0
 neocatolică	1
 brizant	0
 furbură	1
@@ -16119,16 +17101,20 @@ sugătoare	1
 fasolire	1
 angobă	1
 performare	1
+învăţător	0
 învăţătoare	1
 priveală	1
 paraganglion	0
 reclădire	1
 beldiţă	1
 pretor	0
+macedoromân	0
 macedoromână	1
 încleială	1
+hidrofob	0
 hidrofobă	1
 siluire	1
+năsăudean	0
 năsăudeană	1
 cromozom	0
 fondist	0
@@ -16139,6 +17125,7 @@ presintetizare	1
 termodinamician	0
 pontifice	0
 grupare	1
+puitor	0
 preluxaţie	1
 hădărag	0
 bursucă	1
@@ -16182,6 +17169,7 @@ palatită	1
 voinicel	0
 emisferă	1
 radiogramă	1
+cosmopolit	0
 cosmopolită	1
 sciafite	1
 tapotare	1
@@ -16196,6 +17184,8 @@ brav	0
 odeletă	1
 loveală	1
 avalizat	0
+şpiţ	0
+brac	0
 garofiţă	1
 acioală	1
 convocare	1
@@ -16212,6 +17202,7 @@ microcantină	1
 furoare	1
 heteroauxină	1
 potlogar	0
+râşcănean	0
 râşcăneană	1
 dafnie	1
 pişcare	1
@@ -16220,15 +17211,18 @@ anarhistă	1
 canişă	1
 baud	0
 caragaţă	1
+antigrevist	0
 antigrevistă	1
 coşarcă	1
 analogie	1
 năluceală	1
 afurcare	1
 sinie	1
+vestitor	0
 vestitoare	1
 expulzare	1
 drosofilă	1
+luetic	0
 luetică	1
 represor	0
 ombrofită	1
@@ -16254,16 +17248,19 @@ cerometrie	1
 tureatcă	1
 iscălire	1
 drenare	1
+nechemat	0
 nechemată	1
 cartofior	0
 ortocentru	0
 agrozootehnician	0
 honved	0
 premeditare	1
+potrivnic	0
 potrivnică	1
 rejansă	1
 culcare	1
 săltătoare	1
+piept	0
 micropsie	1
 psihodramatist	0
 bulcă	1
@@ -16280,7 +17277,9 @@ subtilitate	1
 manipulaţie	1
 dârjală	1
 jumară	1
+sloven	0
 slovenă	1
+augur	0
 ţevişoară	1
 muşamalizare	1
 adjudecatară	1
@@ -16307,8 +17306,10 @@ răsucitor	0
 teleleică	1
 maregramă	1
 autosalvare	1
+coral	0
 crestomaţie	1
 portretist	0
+huţul	0
 huţulă	1
 concurenţă	1
 tautofonie	1
@@ -16330,6 +17331,7 @@ stebluţă	1
 hagadă	1
 sintetizare	1
 concediere	1
+umanist	0
 umanistă	1
 infanterie	1
 admiratoare	1
@@ -16381,6 +17383,7 @@ vizitare	1
 neofalină	1
 diluată	1
 suprimare	1
+neodarvinist	0
 neodarvinistă	1
 parafinare	1
 provă	1
@@ -16409,10 +17412,12 @@ avulsiune	1
 remaiere	1
 descuamare	1
 trigramă	1
+limbut	0
 limbută	1
 greaţă	1
 probozeală	1
 inversare	1
+nemţofil	0
 nemţofilă	1
 zăgan	0
 gluton	0
@@ -16424,7 +17429,9 @@ vătuie	1
 raţionalizare	1
 biban	0
 spălătură	1
+termidorian	0
 termidoriană	1
+teleormănean	0
 teleormăneană	1
 editură	1
 invenţie	1
@@ -16434,12 +17441,14 @@ stâlcitură	1
 şupurire	1
 stăruială	1
 ascet	0
+cap	0
 nomogramă	1
 cal	0
 tovărăşie	1
 perdea	1
 trăncăneală	1
 homozigot	0
+somalez	0
 somaleză	1
 piciforme	1
 mâţ	0
@@ -16450,6 +17459,7 @@ prefaţator	0
 terminare	1
 cianoficee	1
 utricul	0
+utriculă	1
 canibală	1
 fotogravură	1
 cursă	1
@@ -16462,6 +17472,7 @@ străpungere	1
 cristalizaţie	1
 chiflă	1
 favorit	0
+favorită	1
 curtezan	0
 teugă	1
 îndurare	1
@@ -16471,20 +17482,25 @@ partenocarpie	1
 supraexcitare	1
 răbojire	1
 paraditură	1
+tebecist	0
 tebecistă	1
 tragicomedie	1
 demnitate	1
+verist	0
 veristă	1
 unsoare	1
+suprarealist	0
 suprarealistă	1
 reţea	1
 grandomanie	1
 poziţionare	1
 substituent	0
 retroproiecţie	1
+selecţionat	0
 selecţionată	1
 coocupant	0
 textier	0
+gruzin	0
 gruzină	1
 emasculare	1
 mândrişoară	1
@@ -16506,10 +17522,12 @@ garderobă	1
 tomografie	1
 prefiguraţie	1
 întortochere	1
+nogai	0
 nogaie	1
 linotipie	1
 paleontolog	0
 coleretă	1
+navetist	0
 navetistă	1
 indisponibilitate	1
 glasare	1
@@ -16519,6 +17537,7 @@ fizionomist	0
 microbiologă	1
 ardenez	0
 retractare	1
+străin	0
 străină	1
 colilie	1
 căulă	1
@@ -16526,9 +17545,12 @@ instituţie	1
 tiză	1
 interpunere	1
 conidie	1
+tragic	0
+tragică	1
 abstenţiune	1
 peţitorie	1
 peruchier	0
+spiritist	0
 spiritistă	1
 electronistă	1
 formă	1
@@ -16537,12 +17559,14 @@ cateterizare	1
 acăriţă	1
 abreacţie	1
 etnolingvist	0
+nizam	0
 cătină	1
 cromogen	0
 trupete	0
 vel-spătar	0
 translocaţie	1
 magazie	1
+slav	0
 slavă	1
 deliu	0
 ingineră	1
@@ -16552,7 +17576,9 @@ expoliţiune	1
 vuvar	0
 configuraţie	1
 axiomă	1
+cilindru	0
 acidofite	1
+mangosit	0
 mangosită	1
 născocitură	1
 minicasetă	1
@@ -16572,6 +17598,7 @@ turnare	1
 institutor	0
 extrafin	0
 reciclare	1
+german	0
 germană	1
 molare	1
 ascomicetă	1
@@ -16579,6 +17606,7 @@ siflee	1
 propăşire	1
 hăcuire	1
 simfiză	1
+donatist	0
 donatistă	1
 monoftong	0
 bandurist	0
@@ -16593,6 +17621,7 @@ injoncţiune	1
 fiuleţ	0
 timonier	0
 actinomicoză	1
+preşcolar	0
 preşcolară	1
 vitezist	0
 ienicer	0
@@ -16607,8 +17636,10 @@ beschie	1
 polioximetilenă	1
 impresionare	1
 picurare	1
+demoralizator	0
 demoralizatoare	1
 sitomanie	1
+livan	0
 paloare	1
 simulantă	1
 radiofarmaceutică	1
@@ -16618,10 +17649,12 @@ cicerone	0
 tildă	1
 calpuzan	0
 traforetă	1
+fixist	0
 fixistă	1
 eroină	1
 cariogramă	1
 figurină	1
+zemos	0
 zemoasă	1
 municipalitate	1
 planctonolog	0
@@ -16632,11 +17665,13 @@ binagiu	0
 surjecţie	1
 stăpân	0
 pălărie	1
+liberal	0
 liberală	1
 cotoşman	0
 expulsie	1
 discofil	0
 droşcar	0
+gutos	0
 gutoasă	1
 zvântare	1
 ceată	1
@@ -16679,6 +17714,7 @@ descentrare	1
 torsiune	1
 şubrezenie	1
 defecţiune	1
+boşorog	0
 boşoroagă	1
 convicţiune	1
 cumetrie	1
@@ -16705,6 +17741,7 @@ nevrită	1
 supraimpresiune	1
 revelare	1
 cucură	1
+loialist	0
 loialistă	1
 răsturnare	1
 ferecătură	1
@@ -16756,6 +17793,7 @@ repezină	1
 morenă	1
 neuropsihiatru	0
 reconstrucţie	1
+lob	0
 preînnoire	1
 flebolog	0
 placentă	1
@@ -16796,6 +17834,7 @@ parabioză	1
 pavoazare	1
 perişoară	1
 misolog	0
+invocator	0
 invocatoare	1
 desime	1
 citocromie	1
@@ -16830,6 +17869,7 @@ muletă	1
 benedicţiune	1
 insubordonanţă	1
 simţire	1
+determinist	0
 deterministă	1
 amenajare	1
 canapea	1
@@ -16848,8 +17888,10 @@ doinişoară	1
 defectoscopie	1
 bujoraş	0
 penalist	0
+aborigen	0
 aborigenă	1
 tarisfat	0
+vasal	0
 vasală	1
 denaţionalizare	1
 tăcere	1
@@ -16862,6 +17904,7 @@ neolingvist	0
 terist	0
 africanologă	1
 căputare	1
+icteric	0
 icterică	1
 năsăudeancă	1
 dendrologă	1
@@ -16869,10 +17912,15 @@ străbatere	1
 vornicie	1
 triadă	1
 zgancă	1
+ungător	0
+europenist	0
 europenistă	1
 ambiguizare	1
+încărcător	0
 parfumier	0
+colţişor	0
 precorectură	1
+progresivist	0
 progresivistă	1
 redingotă	1
 golişte	1
@@ -16883,6 +17931,7 @@ habenulă	1
 lăcrimare	1
 pălitură	1
 leming	0
+naufragiat	0
 naufragiată	1
 ostatic	0
 castanietă	1
@@ -16908,7 +17957,9 @@ balama	1
 amăruţă	1
 stâlcire	1
 nană	1
+somnişor	0
 convenţie	1
+delegatar	0
 delegatară	1
 directoare	1
 necrologie	1
@@ -16946,6 +17997,7 @@ machetator	0
 patologist	0
 matisor	0
 pantalonaş	0
+mistreţ	0
 mistreaţă	1
 schemă	1
 banană	1
@@ -16969,13 +18021,16 @@ contraanchetă	1
 inspecţie	1
 descoperitor	0
 arestantă	1
+sângerean	0
 sângereană	1
 judecătoare	1
 stomatolog	0
+novator	0
 novatoare	1
 frigăruie	1
 remanenţă	1
 perseverenţă	1
+şcolar	0
 şcolară	1
 tricotare	1
 despăduchere	1
@@ -17009,6 +18064,7 @@ eluare	1
 luntrişoară	1
 denombrare	1
 dezorganizare	1
+ştab	0
 trunchiere	1
 viermuire	1
 vătuire	1
@@ -17027,11 +18083,14 @@ privaţiune	1
 buhuşean	0
 nictaţie	1
 contadină	1
+brahman	0
 brahmană	1
 fumegare	1
 dârvar	0
 raportare	1
+paranoic	0
 paranoică	1
+abstracţionist	0
 abstracţionistă	1
 virginitate	1
 emulsionare	1
@@ -17051,6 +18110,7 @@ titratoare	1
 naratoare	1
 antipoluare	1
 depigmentare	1
+nătâng	0
 nătângă	1
 turnătoare	1
 stenograf	0
@@ -17059,6 +18119,7 @@ ipotecă	1
 instrucţie	1
 zgâlţâială	1
 bumbuşor	0
+neopozitivist	0
 neopozitivistă	1
 automedicaţie	1
 răsculător	0
@@ -17083,6 +18144,7 @@ pungă	1
 protector	0
 sumuliţă	1
 policitemie	1
+puritan	0
 puritană	1
 jigăraie	1
 umblare	1
@@ -17090,6 +18152,7 @@ buhai	0
 suprapopulare	1
 paletă	1
 cianopsie	1
+ulceros	0
 ulceroasă	1
 disparitate	1
 contravântuire	1
@@ -17106,6 +18169,7 @@ gură-de-lup	1
 marşandă	1
 hormonoterapie	1
 hemartroză	1
+danez	0
 daneză	1
 declorizare	1
 preanestezie	1
@@ -17116,6 +18180,7 @@ laringolog	0
 consimţire	1
 taină	1
 autoacuzaţie	1
+argint	0
 pecete	1
 hârjoană	1
 jitnicer	0
@@ -17186,6 +18251,7 @@ găzărie	1
 recăsătorire	1
 şucăreală	1
 curiozitate	1
+arghirofil	0
 arghirofilă	1
 trezorerie	1
 tracologă	1
@@ -17198,6 +18264,7 @@ tăvălire	1
 serotin	0
 olfacţie	1
 aeroionizare	1
+zanzibarean	0
 zanzibareană	1
 credenţă	1
 picrat	0
@@ -17208,26 +18275,33 @@ mecanostructură	1
 consătean	0
 amibă	1
 amploiat	0
+băcan	0
 păcurărie	1
 polivitamină	1
 xantodermie	1
 cistopatie	1
 angstrom	0
+francez	0
 franceză	1
+vlăguitor	0
 vlăguitoare	1
 permanentizare	1
 izolator	0
 repasatoare	1
 excluziune	1
 defluent	0
+jainist	0
 jainistă	1
+muiant	0
 muiantă	1
+intrigant	0
 intrigantă	1
 conopidă	1
 colegatară	1
 megawatt	0
 pitiadă	1
 acidimetrie	1
+nord-american	0
 nord-americană	1
 mocancă	1
 bazaltină	1
@@ -17238,6 +18312,7 @@ armeancă	1
 grădinar	0
 conectare	1
 prosteală	1
+straşnic	0
 straşnică	1
 balsaminacee	1
 audientă	1
@@ -17250,6 +18325,7 @@ zi	1
 ascitic	0
 za	1
 coeficient	0
+colonel	0
 încovoietură	1
 imitator	0
 nomenclaturistă	1
@@ -17257,6 +18333,7 @@ primăriţă	1
 navalist	0
 frontieră	1
 albgardist	0
+stereograf	0
 deţinut	0
 toartă	1
 dăltuitor	0
@@ -17264,6 +18341,7 @@ banchină	1
 dischetă	1
 betulacee	1
 gliride	1
+monarhist	0
 monarhistă	1
 deconservare	1
 indeterminare	1
@@ -17298,6 +18376,7 @@ pontil	0
 tarapangiu	0
 kilovolt	0
 ulceraţie	1
+tiran	0
 tirană	1
 sustentaţie	1
 lăstăraş	0
@@ -17319,6 +18398,7 @@ cerneală	1
 aprecaţie	1
 metoşă	1
 dăscăliţă	1
+reductor	0
 invectivare	1
 infractor	0
 dexteritate	1
@@ -17334,12 +18414,14 @@ cooperaţie	1
 papilomatoză	1
 căldărărie	1
 silicoză	1
+beninez	0
 benineză	1
 imprimerie	1
 colivă	1
 oligocitemie	1
 ploşniţă	1
 radiotelegrafist	0
+acaparant	0
 acaparantă	1
 gâzulie	1
 sardeluţă	1
@@ -17359,8 +18441,10 @@ intervievator	0
 comunardă	1
 licuaţie	1
 rujioară	1
+decolorant	0
 decolorantă	1
 mudir	0
+pruncucigaş	0
 pruncucigaşă	1
 antibiogramă	1
 maree	1
@@ -17413,9 +18497,11 @@ ablefarie	1
 tocmire	1
 rotogravură	1
 buciardă	1
+leninist	0
 leninistă	1
 memorizare	1
 narcotraficant	0
+dâmboviţean	0
 dâmboviţeană	1
 pelincă	1
 belhiţă	1
@@ -17433,6 +18519,7 @@ melomană	1
 raşchetare	1
 vătăşoaie	1
 elasmometru	0
+evoluţionist	0
 evoluţionistă	1
 poloist	0
 urmaşă	1
@@ -17447,6 +18534,7 @@ cuscutacee	1
 zătonar	0
 torcretare	1
 potricălire	1
+dodecasilab	0
 dodecasilabă	1
 cetnic	0
 cantonieriţă	1
@@ -17462,6 +18550,7 @@ autopastişare	1
 neacceptare	1
 spolocanie	1
 electoare	1
+graf	0
 amendă	1
 sociolingvistă	1
 antropografie	1
@@ -17497,6 +18586,7 @@ orie	1
 presiune	1
 cafetieră	1
 prăsire	1
+sard	0
 sardă	1
 sare	1
 persistare	1
@@ -17552,6 +18642,7 @@ poarcă	1
 prejudecată	1
 osteosinteză	1
 fenix	0
+ilfovean	0
 ilfoveană	1
 cosmeticiană	1
 pufnitură	1
@@ -17564,12 +18655,14 @@ pociumb	0
 prigonitoare	1
 miogramă	1
 hidrologă	1
+miciurinian	0
 miciuriniană	1
 exterminaţie	1
 crocodil	0
 vorbişoară	1
 diftongare	1
 sinafie	1
+sterilizator	0
 prundăraş	0
 vaselină	1
 bechie	1
@@ -17596,6 +18689,7 @@ alopat	0
 lacertide	1
 panachidă	1
 comportare	1
+individualist	0
 individualistă	1
 centaur	0
 japşă	1
@@ -17610,6 +18704,7 @@ rifluitor	0
 încântare	1
 remisiune	1
 orteză	1
+semit	0
 semită	1
 oceanofite	1
 concavitate	1
@@ -17622,8 +18717,10 @@ ricin	0
 pălire	1
 egumen	0
 cârcotaş	0
+holist	0
 holistă	1
 sală	1
+negrid	0
 negridă	1
 popincă	1
 ţuiculeană	1
@@ -17693,6 +18790,7 @@ revizoare	1
 perineorafie	1
 calcosferă	1
 sedaţie	1
+socialist	0
 socialistă	1
 scrumbie	1
 păcorniţă	1
@@ -17712,6 +18810,7 @@ tractare	1
 propovăduitor	0
 progerie	1
 dinamitieră	1
+orheian	0
 orheiană	1
 romanist	0
 maseză	1
@@ -17722,12 +18821,14 @@ dedicator	0
 demagogie	1
 viţă	1
 izopentan	0
+hitlerist	0
 hitleristă	1
 soldat	0
 algolog	0
 jujub	0
 defensor	0
 aerodinamician	0
+negativist	0
 negativistă	1
 viforâre	1
 doctorie	1
@@ -17763,11 +18864,14 @@ brigand	0
 neoformaţie	1
 stânişoară	1
 hoplit	0
+oltean	0
 olteană	1
 jilăvire	1
 distonie	1
 dezinhibiţie	1
+bosniac	0
 bosniacă	1
+creaţionist	0
 creaţionistă	1
 cântărire	1
 obijduire	1
@@ -17782,6 +18886,7 @@ tălmăcitor	0
 leiţă	1
 preolimpiadă	1
 şoacăţ	0
+irenist	0
 irenistă	1
 citadin	0
 calvinist	0
@@ -17831,21 +18936,25 @@ indigenare	1
 ciortănaş	0
 malaxorist	0
 mâncare	1
+chişinăuian	0
 chişinăuiană	1
 bonom	0
 trăpaş	0
 nabab	0
+şmecher	0
 şmecheră	1
 cărămidărie	1
 lăstunaş	0
 meditator	0
 solubilitate	1
 neolingvistă	1
+stoic	0
 stoică	1
 hatman	0
 lăcovişte	1
 bioterapeut	0
 calusare	1
+exorcist	0
 exorcistă	1
 stăncuţă	1
 ziuşoară	1
@@ -17860,10 +18969,13 @@ pupăzoi	0
 fascină	1
 amilogramă	1
 mozaicară	1
+buton	0
 frunză	1
 parantetizare	1
 albişor	0
 heptan	0
+translator	0
+timar	0
 ţintuire	1
 tunelist	0
 potârniche	1
@@ -17878,21 +18990,26 @@ vătăşie	1
 interogaţie	1
 bureţel	0
 doctorand	0
+jupuitor	0
 jupuitoare	1
+titrat	0
 titrată	1
 antirachetă	1
 fofelniţă	1
 apiterapie	1
 felonie	1
+tiraspolean	0
 tiraspoleană	1
 bugetofag	0
 despicătură	1
 uranoscopie	1
 glicol	0
 zdruncinare	1
+papistaş	0
 papistaşă	1
 luptător	0
 ieremiadă	1
+jemanfişist	0
 jemanfişistă	1
 pulpare	1
 hidrofinare	1
@@ -17905,6 +19022,7 @@ vampir	0
 absidiolă	1
 zimţuire	1
 balastieră	1
+savant	0
 savantă	1
 ecospecie	1
 gheriler	0
@@ -17912,6 +19030,7 @@ lingurăriţă	1
 exponent	0
 spermatoree	1
 indemnizare	1
+nătântoc	0
 nătântoacă	1
 arţar	0
 băloşire	1
@@ -17929,6 +19048,7 @@ farsă	1
 sărăntoacă	1
 azbuche	1
 mâlire	1
+fricos	0
 fricoasă	1
 delitescenţă	1
 ontolog	0
@@ -17937,6 +19057,7 @@ decantaţie	1
 carotă	1
 inimioară	1
 jidov	0
+mandant	0
 mandantă	1
 avanscenă	1
 reîntâlnire	1
@@ -17946,6 +19067,7 @@ defectologă	1
 sunnit	0
 acceptor	0
 idol	0
+sărar	0
 coechipieră	1
 belfer	0
 fotografie	1
@@ -17959,7 +19081,9 @@ tărăgănare	1
 pastişare	1
 sarcopt	0
 reaprovizionare	1
+impresionist	0
 impresionistă	1
+albanez	0
 albaneză	1
 corsetieră	1
 propelant	0
@@ -17994,12 +19118,15 @@ propagandă	1
 bigamie	1
 învăluială	1
 canabioză	1
+şved	0
 şvedă	1
 autosanitară	1
+utilitarist	0
 utilitaristă	1
 fatrasie	1
 optician	0
 provocaţie	1
+microcefal	0
 microcefală	1
 excentricitate	1
 piteşteancă	1
@@ -18015,10 +19142,12 @@ traco-dacă	1
 trivializare	1
 putinar	0
 exploataţie	1
+semiagnostic	0
 semiagnostică	1
 psihopată	1
 calotă	1
 profesare	1
+destabilizator	0
 destabilizatoare	1
 arăpoaică	1
 camarad	0
@@ -18032,6 +19161,7 @@ torturare	1
 lichenolog	0
 păţanie	1
 gheişă	1
+profesionist	0
 profesionistă	1
 analist	0
 nuvelistă	1
@@ -18046,6 +19176,7 @@ sapă-foraj	1
 călcătorie	1
 cosmografă	1
 funcţionare	1
+umblător	0
 umblătoare	1
 compatrioată	1
 leşială	1
@@ -18061,11 +19192,15 @@ răşchiere	1
 oleat	0
 cârtire	1
 teocrat	0
+semnalizator	0
+semnalizatoare	1
 avocată	1
 gubernie	1
+spartiat	0
 spartiată	1
 microconferinţă	1
 homunculus	0
+maoist	0
 maoistă	1
 barbetă	1
 floare	1
@@ -18090,6 +19225,7 @@ cârnat	0
 repezeală	1
 vindecea	1
 tarabagiu	0
+obraz	0
 plasmalemă	1
 devianţă	1
 întrerupere	1
@@ -18109,6 +19245,7 @@ intrătură	1
 dudă	1
 stomatologă	1
 hemosiderină	1
+ironist	0
 ironistă	1
 mitenă	1
 intermitenţă	1
@@ -18149,6 +19286,8 @@ paiaţărie	1
 balalaică	1
 penicilinază	1
 ovreică	1
+tipograf	0
+manciurian	0
 manciuriană	1
 cărătoare	1
 infracţiune	1
@@ -18162,6 +19301,8 @@ cointeresare	1
 satirizare	1
 secularizare	1
 tecşilă	1
+aruncător	0
+aruncătoare	1
 pasare	1
 pavian	0
 strofant	0
@@ -18179,6 +19320,7 @@ plafonieră	1
 orator	0
 florăreasă	1
 luminaţie	1
+român	0
 română	1
 maturare	1
 frunzăreală	1
@@ -18202,6 +19344,7 @@ fungidă	1
 sântuleţ	0
 cumpărătură	1
 mac	0
+dalmaţian	0
 dalmaţiană	1
 junghiere	1
 adunare	1
@@ -18216,6 +19359,7 @@ adversar	0
 dobândire	1
 satrapie	1
 topometrist	0
+inovator	0
 inovatoare	1
 bufancă	1
 dărăpănătură	1
@@ -18224,6 +19368,7 @@ congestionare	1
 febleţe	1
 acvanaut	0
 dozare	1
+dogar	0
 pentatlonist	0
 denunţare	1
 vicepremier	0
@@ -18235,6 +19380,7 @@ isteţie	1
 pilonare	1
 patinator	0
 centrală	1
+presor	0
 favorizare	1
 liniarizare	1
 nepricepere	1
@@ -18257,6 +19403,7 @@ ocrotire	1
 tahicardie	1
 scânceală	1
 canotor	0
+ort	0
 mezon	0
 desfătare	1
 cazuistică	1
@@ -18268,6 +19415,7 @@ colţunaş	0
 năzăritură	1
 crin	0
 farsoare	1
+pacificator	0
 pacificatoare	1
 fermentare	1
 rocă	1
@@ -18276,7 +19424,9 @@ minarea	1
 etiolare	1
 sistematician	0
 producţie	1
+particularist	0
 particularistă	1
+modernist	0
 modernistă	1
 spătăreasă	1
 spongier	0
@@ -18292,6 +19442,7 @@ pegas	0
 găină-de-apă	1
 intercesor	0
 escortă	1
+latinist	0
 latinistă	1
 referinţă	1
 poligraf	0
@@ -18310,6 +19461,7 @@ oră	1
 pneumoftiziologă	1
 moţăială	1
 lămâie	1
+giurgiuvean	0
 giurgiuveană	1
 mafiotă	1
 leoaică	1
@@ -18327,12 +19479,14 @@ scenografă	1
 cambulă	1
 făuritor	0
 cadiascher	0
+eston	0
 estonă	1
 cornee	1
 sprijinire	1
 genealogist	0
 dracilă	1
 păgubaşă	1
+cornet	0
 partidă	1
 comentare	1
 retrogradaţie	1
@@ -18349,6 +19503,7 @@ ireverenţă	1
 stimulare	1
 ocolaş	0
 măceş	0
+mesianist	0
 mesianistă	1
 evecţiune	1
 mâţucă	1
@@ -18360,6 +19515,7 @@ petliţă	1
 colină	1
 bunel	0
 homogrefă	1
+iniţiat	0
 iniţiată	1
 prinsoare	1
 vânătorie	1
@@ -18368,7 +19524,9 @@ degivrare	1
 panteră	1
 prometazină	1
 fulminaţie	1
+maltez	0
 malteză	1
+dajnic	0
 dajnică	1
 tăvăleală	1
 misionar	0
@@ -18379,6 +19537,7 @@ parental	0
 mărginire	1
 cabană	1
 cruce	1
+demachiant	0
 demachiantă	1
 danaidă	1
 evacuare	1
@@ -18406,6 +19565,7 @@ industriaş	0
 vânzătoare	1
 pregustare	1
 demonstrant	0
+latinofon	0
 latinofonă	1
 miţă	1
 zorea	1
@@ -18439,6 +19599,7 @@ cordilieră	1
 spoitoreasă	1
 ţâţacă	1
 tunicier	0
+dezoxidant	0
 dezoxidantă	1
 clucereasă	1
 foliolă	1
@@ -18448,6 +19609,7 @@ precomă	1
 gonidie	1
 ademenire	1
 tetrachenă	1
+anabaptist	0
 anabaptistă	1
 tragere	1
 prefăcătorie	1
@@ -18497,6 +19659,7 @@ creşă	1
 necrotomie	1
 vuvuitoare	1
 stâlpar	0
+oligofren	0
 oligofrenă	1
 planetă	1
 elenist	0
@@ -18513,6 +19676,7 @@ conăcire	1
 albitoare	1
 oftalmoplegie	1
 ovarită	1
+afro-asiatic	0
 afro-asiatică	1
 îndesare	1
 duşumea	1
@@ -18531,6 +19695,7 @@ armăşie	1
 măcelar	0
 zmeuleţ	0
 pupiloscopie	1
+dărăcitor	0
 plesnitură	1
 primeneală	1
 irmilic	0
@@ -18557,6 +19722,7 @@ cuvă	1
 milogire	1
 paznic	0
 gastroenterită	1
+transcaucazian	0
 transcaucaziană	1
 rablă	1
 viişoară	1
@@ -18610,6 +19776,7 @@ interfaţă	1
 amuţire	1
 rizoid	0
 cortină	1
+component	0
 laminaţie	1
 gigahertz	0
 orătanie	1
@@ -18634,6 +19801,7 @@ răzgâiere	1
 sculptoriţă	1
 drupă	1
 radină	1
+neghiob	0
 neghioabă	1
 laringotomie	1
 amantă	1
@@ -18642,6 +19810,7 @@ curcănie	1
 teleagă	1
 sacrificator	0
 retinită	1
+deist	0
 deistă	1
 vilă	1
 enumerare	1
@@ -18656,6 +19825,7 @@ măsură	1
 dezmiriştire	1
 percică	1
 furcuţă	1
+tbilisian	0
 tbilisiană	1
 mazilaş	0
 sclerodermie	1
@@ -18671,14 +19841,17 @@ cernire	1
 patroană	1
 şarpantă	1
 gâgâlice	1
+neogrec	0
 azbucoavnă	1
 copărtaşă	1
+monofag	0
 monofagă	1
 sintaxonomie	1
 planare	1
 crăpcean	0
 acetofenonă	1
 rupie	1
+econom	0
 econoamă	1
 diseminare	1
 măgulitură	1
@@ -18687,10 +19860,12 @@ delectare	1
 urticacee	1
 pară	1
 sargasă	1
+vătămător	0
 vătămătoare	1
 încăpăţânare	1
 maroană	1
 foaie	1
+dizolvat	0
 dizolvată	1
 remizieră	1
 excerptare	1
@@ -18699,10 +19874,12 @@ inorog	0
 miliwatt	0
 sardea	1
 ziuă	1
+suflător	0
 minuţiozitate	1
 contrapagină	1
 represie	1
 servantă	1
+sălăjean	0
 sălăjeană	1
 văietătură	1
 locutor	0
@@ -18714,6 +19891,7 @@ cuşmă	1
 sarcosporidioză	1
 difterie	1
 ceferist	0
+difteric	0
 difterică	1
 stavilă	1
 miliţian	0
@@ -18750,16 +19928,20 @@ braşoveancă	1
 greierel	0
 sparos	0
 caleaşcă	1
+militant	0
 militantă	1
 intermediatoare	1
+histidină	1
 buhuşeancă	1
 curăţenie	1
 para	1
 solistă	1
 apetenţă	1
+dentist	0
 dentistă	1
 alocuţiune	1
 cobur	0
+inexploatat	0
 inexploatată	1
 autoecranizare	1
 fâneaţă	1
@@ -18770,6 +19952,7 @@ coincidenţă	1
 mahar	0
 blinie	1
 butelcuţă	1
+pol	0
 votrie	1
 gheaţă	1
 eneodă	1
@@ -18780,6 +19963,7 @@ ghiorăitură	1
 giugiuleală	1
 preparare	1
 uşă	1
+mosc	0
 irupţie	1
 corhană	1
 sunare	1
@@ -18804,6 +19988,7 @@ câmpulungeancă	1
 ratieră	1
 vană	1
 oscilometrie	1
+terorist	0
 teroristă	1
 visceroptoză	1
 bruxeleză	1
@@ -18823,6 +20008,7 @@ poprire	1
 californian	0
 contingenţă	1
 intarsiator	0
+egiptean	0
 egipteană	1
 torcătoare	1
 bacterioză	1
@@ -18835,6 +20021,7 @@ pescărime	1
 tristeţe	1
 săltare	1
 criminologist	0
+teribilist	0
 teribilistă	1
 ranunculacee	1
 ampulă	1
@@ -18876,6 +20063,7 @@ spumă	1
 crenelură	1
 zamparagiu	0
 paleospeologă	1
+sociologist	0
 sociologistă	1
 termorezistenţă	1
 arheologă	1
@@ -18886,6 +20074,7 @@ cafeluţă	1
 laban	0
 glosită	1
 majusculă	1
+veleitar	0
 veleitară	1
 pirotehnie	1
 indianist	0
@@ -18893,7 +20082,9 @@ timin	0
 pisoi	0
 cangur	0
 tenalgie	1
+isteric	0
 isterică	1
+izbăvitor	0
 izbăvitoare	1
 isterie	1
 rândunel	0
@@ -18927,6 +20118,7 @@ tezaurizare	1
 golănel	0
 alovionare	1
 fluidizare	1
+hodorog	0
 croncănire	1
 scobai	0
 cameraman	0
@@ -18939,6 +20131,7 @@ detracare	1
 lighioană	1
 coletărie	1
 rinichi	0
+aramean	0
 arameană	1
 mărturisire	1
 zetetică	1
@@ -18952,6 +20145,7 @@ scalogramă	1
 cârmuire	1
 leguminoasă	1
 framee	1
+silezian	0
 sileziană	1
 muschetărie	1
 contrainformaţie	1
@@ -18961,6 +20155,7 @@ narcoză	1
 metaeducaţie	1
 pivotaţie	1
 ceaşnic	0
+benedictin	0
 benedictină	1
 disciplină	1
 ungur	0
@@ -18970,6 +20165,7 @@ jumătate	1
 hărmălaie	1
 dănănaie	1
 debazificare	1
+prefăcător	0
 prefăcătoare	1
 moimiţă	1
 arivistă	1
@@ -19001,6 +20197,7 @@ tătăraş	0
 repriză	1
 gaiză	1
 drăcoaică	1
+columbian	0
 columbiană	1
 mărăcinaş	0
 irită	1
@@ -19010,10 +20207,12 @@ randomizare	1
 irizare	1
 mândrişor	0
 fiorin	0
+metafizic	0
 metafizică	1
 sabie	1
 sodomită	1
 scămoşare	1
+sabin	0
 sabină	1
 paraboloid	0
 claudicaţie	1
@@ -19029,6 +20228,7 @@ covăseală	1
 toltec	0
 şerpoi	0
 heliografistă	1
+maghiar	0
 maghiară	1
 morfologist	0
 putorişcă	1
@@ -19075,6 +20275,7 @@ miezuitor	0
 marcotare	1
 patentă	1
 arhistrateg	0
+poligam	0
 poligamă	1
 funduc	0
 japanologă	1
@@ -19100,6 +20301,7 @@ genă	1
 drelă	1
 malaxare	1
 hămăială	1
+greco-răsăritean	0
 greco-răsăriteană	1
 luxurie	1
 holoferment	0
@@ -19126,6 +20328,7 @@ perfuzie	1
 idioglosie	1
 venetic	0
 şustă	1
+trecător	0
 trecătoare	1
 tetrodă	1
 brăzduire	1
@@ -19147,11 +20350,14 @@ orfevru	0
 soţie	1
 stup	0
 trombă	1
+păpuşar	0
 cotruţă	1
+paperasier	0
 paperasieră	1
 fagotistă	1
 crâşmuliţă	1
 reşută	1
+pacifist	0
 pacifistă	1
 înţărcătoare	1
 profesoraş	0
@@ -19185,6 +20391,7 @@ decapsulaţie	1
 magistrat	0
 belgrădean	0
 încremeneală	1
+situaţionist	0
 situaţionistă	1
 recuzitoare	1
 râznar	0
@@ -19195,6 +20402,8 @@ vulpişoară	1
 obrinteală	1
 tisă	1
 arăboaică	1
+mim	0
+tăbâltoc	0
 mic	0
 agudă	1
 mie	1
@@ -19206,8 +20415,11 @@ xenoman	0
 figuraţie	1
 terministă	1
 ofensivă	1
+tolstoist	0
 tolstoistă	1
 mată	1
+creier	0
+incult	0
 incultă	1
 ovoplasmă	1
 fecundaţie	1
@@ -19220,6 +20432,7 @@ batjocură	1
 teatrolog	0
 cactacee	1
 stilistician	0
+costarican	0
 costaricană	1
 intarsieră	1
 tiranie	1
@@ -19229,6 +20442,7 @@ presărătură	1
 bulă	1
 împărăţie	1
 chinguliţă	1
+cutezător	0
 cutezătoare	1
 fulguire	1
 unisonanţă	1
@@ -19254,6 +20468,7 @@ antipirină	1
 adiţionare	1
 brânduşă	1
 ţaică	1
+câmpean	0
 câmpeană	1
 coşniţă	1
 simpatriot	0
@@ -19266,6 +20481,7 @@ dorneancă	1
 potaie	1
 chicinetă	1
 declivitate	1
+urmărit	0
 urmărită	1
 băjenar	0
 cocleală	1
@@ -19285,6 +20501,7 @@ sleire	1
 stilaţie	1
 bulb	0
 sicar	0
+comportamentist	0
 comportamentistă	1
 stalie	1
 vută	1
@@ -19297,6 +20514,7 @@ fugărire	1
 taximetrist	0
 odihnire	1
 raţionalizator	0
+morav	0
 moravă	1
 condiţionare	1
 năprasnă	1
@@ -19319,6 +20537,7 @@ burniţeală	1
 păsuială	1
 sanscritolog	0
 novice	0
+novice	1
 stratagemă	1
 tromboflebită	1
 deliricizare	1
@@ -19346,6 +20565,7 @@ zămoşiţă	1
 deconotare	1
 ruinare	1
 radiostereografie	1
+italian	0
 italiană	1
 slugoi	0
 întinsoare	1
@@ -19359,6 +20579,7 @@ hidroniu	0
 protează	1
 parolă	1
 plevilă	1
+sicativ	0
 sicativă	1
 lacherdă	1
 văcuţă	1
@@ -19370,6 +20591,7 @@ oceanograf	0
 pectografie	1
 susetă	1
 clasicist	0
+mărturisitor	0
 mărturisitoare	1
 microvolt	0
 prezicător	0
@@ -19380,11 +20602,13 @@ abjurare	1
 gabie	1
 actuar	0
 fecioraş	0
+sucevean	0
 suceveană	1
 agresiune	1
 semicocsificare	1
 vanitură	1
 spaimă	1
+silnic	0
 silnică	1
 transfuzor	0
 epizootie	1
@@ -19406,6 +20630,8 @@ paladizare	1
 matcă	1
 braserie	1
 impulsie	1
+frumos	0
+frumoasă	1
 esterificare	1
 şerpişor	0
 limbariţă	1
@@ -19413,6 +20639,7 @@ levit	0
 decimalist	0
 lepădare	1
 curcioaică	1
+fraier	0
 fraieră	1
 colun	0
 faţă	1
@@ -19426,6 +20653,7 @@ fitogeograf	0
 subîmpărţire	1
 zburare	1
 africanolog	0
+mimant	0
 mimantă	1
 râsoaică	1
 mercerie	1
@@ -19436,14 +20664,18 @@ ferfeniţire	1
 amorţire	1
 semaforizare	1
 urină	1
+liliputan	0
 liliputană	1
 euglenă	1
 consolidaţie	1
 bălbisă	1
 evazionistă	1
 recoltă	1
+hunedorean	0
 hunedoreană	1
+agitator	0
 naistă	1
+extraşcolar	0
 extraşcolară	1
 căpială	1
 bontire	1
@@ -19503,15 +20735,18 @@ cotilosaurian	0
 căzătură	1
 născoceală	1
 ţurcan	0
+ţurcană	1
 marsupial	0
 madea	1
 durdă	1
 galactoterapie	1
 alboradă	1
+vălean	0
 văleană	1
 braşovenie	1
 densificare	1
 valorificare	1
+zălăuan	0
 zălăuană	1
 hialită	1
 ciochină	1
@@ -19524,7 +20759,9 @@ retranscriere	1
 prelucrare	1
 moşioară	1
 tătăiş	0
+fijian	0
 fijiană	1
+mistacocet	0
 umbriţă	1
 efemeridă	1
 băsmăluţă	1
@@ -19570,6 +20807,7 @@ iepure	0
 gustare	1
 scormonire	1
 arhondăriţă	1
+mărţişor	0
 stihoavnă	1
 demolare	1
 salmoneloză	1
@@ -19581,6 +20819,7 @@ cumnăţică	1
 coborâtoare	1
 sângereancă	1
 albiuţă	1
+fotomecanic	0
 fotomecanică	1
 stasofite	1
 fâşâială	1
@@ -19592,6 +20831,7 @@ mexicanist	0
 flocoşel	0
 bombare	1
 heteroplazie	1
+corupător	0
 corupătoare	1
 calorie	1
 autoreclamă	1
@@ -19601,6 +20841,8 @@ construire	1
 şamotier	0
 tehniciană	1
 geofită	1
+ton	0
+turkmen	0
 turkmenă	1
 legătoreasă	1
 speculantă	1
@@ -19623,6 +20865,7 @@ tăietoare	1
 snop	0
 tartarin	0
 aponevrotic	0
+snob	0
 snoabă	1
 ogradă	1
 navlosire	1
@@ -19632,6 +20875,7 @@ banchetă	1
 pedanterie	1
 uranografă	1
 răcuşor	0
+tibetan	0
 tibetană	1
 seară	1
 maimuţică	1
@@ -19660,6 +20904,7 @@ topitură	1
 marchiză	1
 întindere	1
 furură	1
+pelagian	0
 pelagiană	1
 sanctificare	1
 iaurgerie	1
@@ -19678,6 +20923,7 @@ preserie	1
 marmură	1
 bujeniţă	1
 polimerizare	1
+electromecanic	0
 electromecanică	1
 ucenic	0
 pledoarie	1
@@ -19747,6 +20993,7 @@ exacţiune	1
 păunaş	0
 dulcegărie	1
 edecliu	0
+marinist	0
 marinistă	1
 ţelină	1
 înjunghiere	1
@@ -19798,6 +21045,7 @@ toponimist	0
 dibăcie	1
 ambutisare	1
 propagandistă	1
+başkir	0
 başkiră	1
 buldozerist	0
 scurtime	1
@@ -19807,6 +21055,7 @@ schiţă	1
 investitoare	1
 amper-oră	1
 pagur	0
+galiţian	0
 galiţiană	1
 surditate	1
 vărzar	0
@@ -19828,10 +21077,12 @@ permanganat	0
 chenopodiacee	1
 opozantă	1
 retiar	0
+interzis	0
 interzisă	1
 aprehensiune	1
 pitulare	1
 pateră	1
+peruvian	0
 peruviană	1
 plastografă	1
 latrină	1
@@ -19844,10 +21095,12 @@ serigrafiere	1
 recalificare	1
 târâială	1
 lampă	1
+penitent	0
 penitentă	1
 gelificare	1
 violină	1
 gripare	1
+vinărici	0
 cleric	0
 posomorâre	1
 pază	1
@@ -19862,14 +21115,19 @@ amărâre	1
 monografistă	1
 unitate	1
 evulsiune	1
+stabilizator	0
+stabilizatoare	1
+monist	0
 monistă	1
 reporteraş	0
 năuceală	1
 cotonoagă	1
 însurătoare	1
+năimit	0
 năimită	1
 pleaşă	1
 severineancă	1
+tanzanian	0
 tanzaniană	1
 mirişte	1
 ocurenţă	1
@@ -19892,6 +21150,7 @@ nucelă	1
 algologă	1
 omatidie	1
 slalomistă	1
+semibursier	0
 semibursieră	1
 celuială	1
 frică	1
@@ -19904,6 +21163,7 @@ juruinţă	1
 notiţă	1
 licean	0
 autonomist	0
+tuţiorist	0
 tuţioristă	1
 zaicoi	0
 cazarmă	1
@@ -19914,6 +21174,7 @@ acomodator	0
 hirotonisire	1
 defibratorist	0
 neregularitate	1
+premarxist	0
 premarxistă	1
 formaţie	1
 hexan	0
@@ -19928,6 +21189,7 @@ variaţie	1
 oaspete	0
 geală	1
 sicomor	0
+firoscos	0
 firoscoasă	1
 răşchirare	1
 vătămare	1
@@ -19945,6 +21207,7 @@ comunicaţie	1
 ursidă	1
 antiimperialist	0
 coalizare	1
+zăvod	0
 vetriţă	1
 şiştor	0
 abager	0
@@ -19962,6 +21225,7 @@ cardinal	0
 rubia	1
 neregulă	1
 milimetru	0
+gheţar	0
 servire	1
 simulant	0
 prădalică	1
@@ -19981,6 +21245,7 @@ respondent	0
 farmacist	0
 debarasoare	1
 emoncţiune	1
+galoman	0
 galomană	1
 scandalagiu	0
 catetă	1
@@ -20002,9 +21267,11 @@ fabulaţie	1
 parabază	1
 bimbaşă	0
 amfibian	0
+luxemburghez	0
 luxemburgheză	1
 măsluire	1
 ciclamă	1
+ciocan	0
 glazurator	0
 regizare	1
 sufocaţie	1
@@ -20012,6 +21279,7 @@ termoconducţie	1
 dactilografă	1
 zgaibă	1
 magnetorezistenţă	1
+şanhaian	0
 şanhaiană	1
 fractură	1
 târgoveaţă	1
@@ -20026,6 +21294,7 @@ sufită	1
 logisticiană	1
 fideiusoare	1
 fătătoare	1
+atenian	0
 ateniană	1
 pictoriţă	1
 marşă	1
@@ -20043,6 +21312,8 @@ realitate	1
 tiparniţă	1
 ruginare	1
 luxare	1
+copt	0
+coptă	1
 poliloghie	1
 sărăcire	1
 prahoveancă	1
@@ -20052,6 +21323,7 @@ turmă	1
 discuire	1
 potamofită	1
 fornăială	1
+ignobil	0
 ignobilă	1
 subsemnat	0
 celebraţie	1
@@ -20059,14 +21331,18 @@ medulocultură	1
 vărărie	1
 placă	1
 măzărar	0
+necredincios	0
 necredincioasă	1
 defalcare	1
 emigrare	1
 cârmuitor	0
 adaptator	0
 partizană	1
+marţian	0
 marţiană	1
 lupoi	0
+surghiun	0
+târgmureşean	0
 târgmureşeană	1
 stelă	1
 tulipă	1
@@ -20078,6 +21354,7 @@ chirurg	0
 valută	1
 dendrolog	0
 iuşcă	1
+lituanian	0
 lituaniană	1
 târnosire	1
 ţărişoară	1
@@ -20102,6 +21379,7 @@ contribuţie	1
 draghină	1
 steatonecroză	1
 erotizare	1
+suplinitor	0
 suplinitoare	1
 alăptare	1
 poticnire	1
@@ -20122,12 +21400,14 @@ călcătoreasă	1
 cordelier	0
 confidentă	1
 mireasă	1
+nervist	0
 nervistă	1
 vecinie	1
 federat	0
 congregaţionistă	1
 rezervă	1
 havră	1
+nevăzător	0
 nevăzătoare	1
 planimetrare	1
 nacafa	1
@@ -20177,6 +21457,7 @@ toancă	1
 încărcătură	1
 regionare	1
 etanşare	1
+uliţarnic	0
 uliţarnică	1
 iubiţel	0
 tetrapodie	1
@@ -20214,6 +21495,7 @@ ogar	0
 orăşeancă	1
 zăbăluţă	1
 reclamagiu	0
+tip	0
 găină-cu-mărgăritare	1
 coroană	1
 albinioară	1
@@ -20249,9 +21531,12 @@ suplicant	0
 leoveancă	1
 vestimentaţie	1
 optime	1
+turdean	0
 turdeană	1
+neconformist	0
 neconformistă	1
 plugar	0
+hidrocefal	0
 hidrocefală	1
 micrococ	0
 recipisă	1
@@ -20319,6 +21604,7 @@ corniţă	1
 filigranologă	1
 rizeafcă	1
 siciliană	1
+sicilian	0
 viconte	0
 gângăvire	1
 reprogramare	1
@@ -20342,6 +21628,7 @@ repudiere	1
 sfetnic	0
 partită	1
 telăliţă	1
+naţional-socialist	0
 naţional-socialistă	1
 voleibalist	0
 adjudecaţie	1
@@ -20364,6 +21651,7 @@ magnolie	1
 poleială	1
 decimetru	0
 radioficaţie	1
+asiatic	0
 asiatică	1
 cheraţiţă	1
 velicorusă	1
@@ -20373,6 +21661,7 @@ corfă	1
 înstrăinare	1
 zăbală	1
 afecţiune	1
+interceptor	0
 protostea	1
 tocătură	1
 covrigel	0
@@ -20388,6 +21677,7 @@ mescalină	1
 frate	0
 ironizare	1
 habitaţie	1
+reducţionist	0
 reducţionistă	1
 interconexiune	1
 surlaş	0
@@ -20413,6 +21703,7 @@ sanscritist	0
 petiţă	1
 ciclop	0
 nevoinţă	1
+stăpânitor	0
 stăpânitoare	1
 alcătuire	1
 butucel	0
@@ -20431,6 +21722,7 @@ licenţiat	0
 tabără	1
 gutiferale	1
 mâncărică	1
+taşist	0
 taşistă	1
 taxolog	0
 frunzică	1
@@ -20466,6 +21758,7 @@ cloncănire	1
 negustor	0
 florişoară	1
 duioşie	1
+distribuitor	0
 borşăreasă	1
 conturist	0
 falsificaţie	1
@@ -20478,6 +21771,7 @@ cafeonă	1
 şpilhozen	0
 tactician	0
 eglogă	1
+sud-african	0
 sud-africană	1
 sedimentare	1
 pedologă	1
@@ -20510,6 +21804,7 @@ darabană	1
 traumatologie	1
 blondin	0
 despoţie	1
+cunoscător	0
 cunoscătoare	1
 măgăreaţă	1
 montare	1
@@ -20528,14 +21823,17 @@ eteroinfecţie	1
 păcălitură	1
 vuvă	1
 cuscută	1
+donor	0
 donoare	1
 seismogramă	1
+instigator	0
 instigatoare	1
 glazuratoare	1
 coterie	1
 sluguţă	1
 asociaţie	1
 toxemie	1
+războinic	0
 războinică	1
 luntraş	0
 sâmbraş	0
@@ -20554,6 +21852,7 @@ daciadă	1
 abreviator	0
 etirare	1
 acotiledonată	1
+dodecafonist	0
 dodecafonistă	1
 lăcomire	1
 chiuitură	1
@@ -20567,12 +21866,14 @@ gupă	1
 plachetă	1
 lunculiţă	1
 faringolaringită	1
+iranian	0
 iraniană	1
 curte	1
 carierist	0
 deviator	0
 pertuizană	1
 meremetiseală	1
+ecluzier	0
 ecluzieră	1
 susean	0
 baş-boier	0
@@ -20591,7 +21892,9 @@ viking	0
 antimonopolist	0
 băieţaş	0
 şemizetă	1
+latin	0
 latină	1
+jefuitor	0
 jefuitoare	1
 misidie	1
 covergă	1
@@ -20604,6 +21907,8 @@ rambleiator	0
 drusă	1
 untieră	1
 zăticnire	1
+roman	0
+romană	1
 zincografiere	1
 sindicalizare	1
 mustăcire	1
@@ -20624,6 +21929,7 @@ narcotizare	1
 scutier	0
 sodomistă	1
 grădinuţă	1
+prelatin	0
 prelatină	1
 celuloză	1
 traiectorie	1
@@ -20652,16 +21958,20 @@ gheruţă	1
 scădere	1
 ofiţeroi	0
 ţintaură	1
+expropriat	0
 expropriată	1
 negatron	0
 polizare	1
+trapist	0
 sporulaţie	1
 câmpulungean	0
 aghesmuire	1
 dinozaurian	0
+pristav	0
 acetilare	1
 cămătar	0
 năzuinţă	1
+samoan	0
 samoană	1
 evolventă	1
 omucigaşă	1
@@ -20695,7 +22005,9 @@ electrocarist	0
 recâştigare	1
 tontălău	0
 stabilizare	1
+stenohalin	0
 stenohalină	1
+fruntaş	0
 fruntaşă	1
 oligopotă	1
 oraniţă	1
@@ -20710,9 +22022,11 @@ problemă	1
 afidă	1
 preexistenţă	1
 umăr	0
+desicativ	0
 desicativă	1
 orbire	1
 cănăriţă	1
+litofit	0
 litofită	1
 propagare	1
 căţelul-frasinului	0
@@ -20725,12 +22039,14 @@ tresăltare	1
 prescurtare	1
 jignire	1
 dezinvestiţie	1
+sansalvadorian	0
 sansalvadoriană	1
 sonetă	1
 sărătură	1
 elongaţie	1
 plastă	1
 peptonurie	1
+propagator	0
 propagatoare	1
 stare	1
 filer	0
@@ -20743,6 +22059,8 @@ recreaţie	1
 rudenie	1
 găman	0
 muică	1
+junior	0
+junioară	1
 dezlegare	1
 guriţă	1
 patriot	0
@@ -20762,6 +22080,7 @@ cinereporter	0
 ciordeală	1
 micromonografie	1
 discordie	1
+eudemonist	0
 eudemonistă	1
 imprimare	1
 coapsă	1
@@ -20780,6 +22099,7 @@ dombră	1
 vigie	1
 năruire	1
 şamotar	0
+spălător	0
 propovedanie	1
 vinotecă	1
 fuzetă	1
@@ -20800,7 +22120,9 @@ suflerie	1
 asortare	1
 pospăială	1
 tastieră	1
+filumenist	0
 filumenistă	1
+antisionist	0
 antisionistă	1
 sânişor	0
 meteoromanţie	1
@@ -20853,6 +22175,7 @@ microbiografie	1
 omilie	1
 etnografă	1
 crijac	0
+dorohoian	0
 dorohoiană	1
 blenoragie	1
 tutungioaică	1
@@ -20866,6 +22189,7 @@ nitrare	1
 adnotator	0
 iepuroi	0
 descătuşare	1
+creol	0
 creolă	1
 smiorcăială	1
 mazilie	1
@@ -20893,6 +22217,7 @@ pieptănuş	0
 monoproducţie	1
 lăscaie	1
 mugurel	0
+patron	0
 mucezire	1
 icioglan	0
 efigie	1
@@ -20909,14 +22234,19 @@ afurcă	1
 contentaţie	1
 polizator	0
 filozoafă	1
+fălţuitor	0
 sincopă	1
 frânghiuţă	1
 culoglu	0
 reechilibrare	1
+guraliv	0
 guralivă	1
 taolă	1
 cremaţiune	1
+batal	0
+eurasian	0
 eurasiană	1
+batav	0
 batavă	1
 batat	0
 nituire	1
@@ -20925,6 +22255,7 @@ tumorigeneză	1
 maselotă	1
 auramină	1
 ştrecuire	1
+ciuvaş	0
 ciuvaşă	1
 bibliologă	1
 geriatru	0
@@ -20949,9 +22280,11 @@ colivie	1
 destinatar	0
 evidare	1
 neatârnare	1
+criofil	0
 criofilă	1
 necromanie	1
 bogăţie	1
+leneş	0
 leneşă	1
 nitroceluloză	1
 comoară	1
@@ -20966,14 +22299,18 @@ begoniacee	1
 autopilot	0
 idiopatie	1
 atestaţie	1
+sud-vietnamez	0
 sud-vietnameză	1
 hidrazidă	1
 banalitate	1
 metafizician	0
+clasificator	0
+clasificatoare	1
 desofisticare	1
 asecare	1
 tranzitare	1
 situlă	1
+contractualist	0
 contractualistă	1
 crepitaţie	1
 elogiere	1
@@ -20993,12 +22330,14 @@ dorinţă	1
 cruponare	1
 fobie	1
 dezgheţare	1
+corector	0
 acordare	1
 fenolat	0
 mreajă	1
 naftil	0
 potriveală	1
 notiţie	1
+debitor	0
 debitoare	1
 hrincuţă	1
 vie	1
@@ -21026,9 +22365,12 @@ consemnaţiune	1
 tălpuitor	0
 mirodenie	1
 meşteşugire	1
+perdant	0
 perdantă	1
+familiarist	0
 familiaristă	1
 ventricea	1
+dulcişor	0
 dulcişoară	1
 bărbătuş	0
 năvodar	0
@@ -21057,6 +22399,7 @@ microb	0
 coxă	1
 muchie	1
 pâslar	0
+colţar	0
 basculantă	1
 butar	0
 colţan	0
@@ -21080,6 +22423,7 @@ teratologă	1
 desăvârşire	1
 iscusinţă	1
 duant	0
+exsudant	0
 exsudantă	1
 subredacţie	1
 cină	1
@@ -21087,6 +22431,7 @@ anchetare	1
 autocomandă	1
 tabulare	1
 ploiţă	1
+prusian	0
 prusiană	1
 senescenţă	1
 forţă	1
@@ -21110,14 +22455,17 @@ savonieră	1
 voinicie	1
 împrăştiere	1
 conjuraţie	1
+braşovean	0
 braşoveană	1
 perieră	1
 autoliniştire	1
+indeterminist	0
 indeterministă	1
 tabacoză	1
 lapidaţie	1
 stârc	0
 substituţie	1
+sămănătorist	0
 sămănătoristă	1
 zgârciob	0
 slujbaşă	1
@@ -21126,6 +22474,7 @@ mandril	0
 hidrolază	1
 epagog	0
 mucenic	0
+gânditor	0
 gânditoare	1
 calomfir	0
 finisor	0
@@ -21139,12 +22488,14 @@ milisecundă	1
 student	0
 genţiană	1
 prelegere	1
+masochist	0
 masochistă	1
 blastulă	1
 lastră	1
 şchioapă	1
 româncuţă	1
 schizofrenie	1
+schizofrenic	0
 schizofrenică	1
 sechestratoare	1
 pulpă	1
@@ -21156,7 +22507,9 @@ vameş	0
 retrogradare	1
 ermetist	0
 manieră	1
+ostrogot	0
 ostrogotă	1
+sortator	0
 uranide	1
 estimare	1
 somare	1
@@ -21165,6 +22518,7 @@ parageneză	1
 buşitură	1
 palicar	0
 teică	1
+istorist	0
 istoristă	1
 plavă	1
 spulberare	1
@@ -21198,6 +22552,7 @@ revizie	1
 zuluf	0
 huruială	1
 encarpă	1
+var	0
 paperaserie	1
 mutelcă	1
 consolă	1
@@ -21209,6 +22564,7 @@ bronhopneumonie	1
 ascultător	0
 echină	1
 cartator	0
+vest-european	0
 vest-europeană	1
 hidrofită	1
 bractee	1
@@ -21224,6 +22580,7 @@ bibliofag	0
 ecvisetacee	1
 platitudine	1
 diplomată	1
+diplomat	0
 epidemiologă	1
 hăituşcă	1
 simeză	1
@@ -21249,10 +22606,12 @@ plagiator	0
 termoanalgezie	1
 sensibilizator	0
 alunaş	0
+cucuruz	0
 fumizare	1
 îngălbenire	1
 computare	1
 mezelărie	1
+britanic	0
 britanică	1
 căţeluş	0
 stadie	1
@@ -21292,6 +22651,7 @@ turcoaică	1
 autodemascare	1
 clientelă	1
 alunar	0
+gonitor	0
 gonitoare	1
 înghesuială	1
 gliptodon	0
@@ -21310,6 +22670,7 @@ stivuitoare	1
 dregătorie	1
 acatagrafie	1
 georgiană	1
+georgian	0
 lungană	1
 peşingiu	0
 solomonire	1
@@ -21321,9 +22682,11 @@ grămătic	0
 caiman	0
 stenografă	1
 lamantin	0
+medico-sanitar	0
 medico-sanitară	1
 turculeţ	0
 amănunţime	1
+provincial	0
 provincială	1
 cârnăţărie	1
 infecţionist	0
@@ -21347,10 +22710,13 @@ centrifugare	1
 hegemon	0
 ingeniozitate	1
 heroinoman	0
+luddit	0
 luddită	1
+şovinist	0
 şovinistă	1
 papionare	1
 pantahuză	1
+lugojean	0
 lugojeană	1
 garderobieră	1
 asfaltor	0
@@ -21363,6 +22729,7 @@ venerolog	0
 lambert	0
 fizionomistă	1
 imolaţie	1
+parizian	0
 pariziană	1
 sublimitate	1
 integralistă	1
@@ -21423,19 +22790,23 @@ pneumonie	1
 scafandru	0
 blastemă	1
 lumânărică	1
+ghanez	0
 ghaneză	1
 defetişizare	1
 pieptănare	1
 tricoter	0
 patocenoză	1
+corespondent	0
 corespondentă	1
 huhurez	0
 hudubaie	1
 lăcar	0
 hidartroză	1
+ultraconservator	0
 ultraconservatoare	1
 laptagiu	0
 şotie	1
+apriorist	0
 aprioristă	1
 sechelă	1
 desinenţă	1
@@ -21473,6 +22844,7 @@ isteciune	1
 şterpeleală	1
 oligarh	0
 halebardier	0
+izmenit	0
 izmenită	1
 interogare	1
 buleandră	1
@@ -21510,6 +22882,7 @@ absolvire	1
 etufare	1
 coblizan	0
 autoscară	1
+învingător	0
 învingătoare	1
 psihosociolog	0
 companie	1
@@ -21542,7 +22915,9 @@ bataxină	1
 abjuraţie	1
 chelnă	1
 pită	1
+malthusian	0
 malthusiană	1
+scoliotic	0
 scoliotică	1
 istorioară	1
 spirtieră	1
@@ -21580,12 +22955,14 @@ tripletă	1
 laviţă	1
 bărbiereală	1
 pănură	1
+transilvănean	0
 transilvăneană	1
 naşă	1
 descovoiere	1
 xilotipie	1
 coccidă	1
 gospodină	1
+plebeu	0
 plebee	1
 brădişor	0
 chersofite	1
@@ -21594,6 +22971,7 @@ cadână	1
 triturare	1
 agrionide	1
 basnă	1
+dorian	0
 doriană	1
 retratare	1
 cazare	1
@@ -21674,7 +23052,9 @@ stradelă	1
 amortizare	1
 tamburină	1
 autostivuitor	0
+timp	0
 pion	0
+filantropinist	0
 filantropinistă	1
 salarizare	1
 nalbă	1
@@ -21683,7 +23063,9 @@ discromie	1
 puşcăriaşă	1
 mentenanţă	1
 cataplasmă	1
+australoid	0
 australoidă	1
+asirian	0
 asiriană	1
 dezrăsucire	1
 bicicletă	1
@@ -21691,6 +23073,7 @@ eviraţie	1
 cantonadă	1
 plăpumărie	1
 robinsonadă	1
+zefir	0
 curteancă	1
 zileră	1
 antituberculos	0
@@ -21709,6 +23092,7 @@ peptonă	1
 duruitură	1
 piuitură	1
 antiintelectualist	0
+suveran	0
 suverană	1
 boambă	1
 fâşâitură	1
@@ -21718,6 +23102,7 @@ ortofosfat	0
 ierarhie	1
 zimţ	0
 proslăvitoare	1
+militar	0
 militară	1
 cefalalgie	1
 cratimă	1
@@ -21726,6 +23111,7 @@ benzaldehidă	1
 degazificare	1
 drojdiuţă	1
 echipare	1
+infuzor	0
 nemargine	1
 pivniţă	1
 absolventă	1
@@ -21734,17 +23120,21 @@ sporire	1
 radist	0
 diplodoc	0
 prostituare	1
+flagel	0
 gloriolă	1
 curbetă	1
 mamornic	0
 slimuire	1
 sprinteneală	1
+menşevic	0
 menşevică	1
+şah	0
 pocănitură	1
 exedră	1
 portbrancardă	1
 trudnicie	1
 carub	0
+social-democrat	0
 social-democrată	1
 dialectician	0
 castraţie	1
@@ -21767,6 +23157,7 @@ iudeu	0
 aplazie	1
 coferment	0
 zăpuşeală	1
+madrilen	0
 madrilenă	1
 vocabulă	1
 înfăşurare	1
@@ -21807,6 +23198,7 @@ chilnă	1
 balansare	1
 dinastie	1
 melodistă	1
+malgaş	0
 malgaşă	1
 monoachenă	1
 fructărie	1
@@ -21814,9 +23206,11 @@ antofitoză	1
 slobozian	0
 fetişoară	1
 fabian	0
+perspectivist	0
 perspectivistă	1
 ghildă	1
 culucciu	0
+semanticist	0
 semanticistă	1
 psihopat	0
 miezuitoare	1
@@ -21877,6 +23271,7 @@ amiciţie	1
 entamibă	1
 sac	0
 abstinentă	1
+sas	0
 indianistă	1
 decentrare	1
 prestaţie	1
@@ -21888,6 +23283,7 @@ libelulide	1
 partiţiune	1
 riţuire	1
 elecţiune	1
+deboşat	0
 deboşată	1
 hemerolog	0
 neicuşor	0
@@ -21904,6 +23300,7 @@ memorare	1
 dominaţie	1
 cobra	1
 ciovică	1
+menajer	0
 menajeră	1
 atom	0
 chinidină	1
@@ -21945,6 +23342,7 @@ certare	1
 hemopatie	1
 hulubiţă	1
 conturare	1
+mops	0
 subţiere	1
 petimbroasă	1
 marmorare	1
@@ -21971,7 +23369,9 @@ cotreanţă	1
 autovaccinare	1
 mârâitură	1
 tranziţie	1
+hăţaş	0
 malaxoristă	1
+neoplatonician	0
 neoplatoniciană	1
 pediculoză	1
 sociogramă	1
@@ -21990,6 +23390,7 @@ hidrocoră	1
 rapieră	1
 stereogramă	1
 ambasador	0
+corporatist	0
 corporatistă	1
 presădire	1
 cronogramă	1
@@ -22009,12 +23410,14 @@ semiolog	0
 paracuzie	1
 explicaţie	1
 cabinier	0
+declarant	0
 declarantă	1
 descreştere	1
 mierliţă	1
 şef	0
 bulevardier	0
 asemuire	1
+focşănean	0
 focşăneană	1
 asupreală	1
 acvilă	1
@@ -22059,29 +23462,36 @@ ghebă	1
 clupă	1
 codan	0
 videocameră	1
+majorant	0
 majorantă	1
 hreapcă	1
+drăguţ	0
 drăguţă	1
 cercetaşă	1
 tâlhăroaică	1
+trimer	0
 înmugurire	1
 bătaie	1
 logoped	0
 semiarbust	0
 năzărire	1
 panzootie	1
+localist	0
 localistă	1
 surprindere	1
 moşier	0
 conciliaţie	1
 tilişcă	1
+lapon	0
 laponă	1
+melanezian	0
 melaneziană	1
 împotmolire	1
 organoterapie	1
 dantelare	1
 tarifare	1
 combainistă	1
+confucianist	0
 confucianistă	1
 debruiard	0
 consignatară	1
@@ -22089,6 +23499,7 @@ pehlivănie	1
 reanclanşare	1
 citire	1
 eseistă	1
+kievean	0
 kieveană	1
 cădire	1
 cardioidă	1
@@ -22098,12 +23509,15 @@ bouroaică	1
 europocentrist	0
 cusătoreasă	1
 daică	1
+transafrican	0
 transafricană	1
 midriază	1
 negustoraş	0
 arhitravă	1
 bienală	1
 albian	0
+mozaic	0
+mozaică	1
 autotoxină	1
 cătuşnică	1
 supratopire	1
@@ -22111,6 +23525,7 @@ puntişoară	1
 plăcintioară	1
 autoinducţie	1
 scârnă	1
+codaş	0
 codaşă	1
 aga	1
 intimată	1
@@ -22136,6 +23551,7 @@ cioancă	1
 reşarjare	1
 lavină	1
 dispersie	1
+rezilient	0
 rezilientă	1
 incas	0
 temenea	1
@@ -22143,12 +23559,14 @@ spermocultură	1
 debitant	0
 dubălar	0
 oleandrină	1
+scorumnic	0
 scorumnică	1
 pisicuţ	0
 zeflemisire	1
 şolticărie	1
 bahorniţă	1
 subcultură	1
+cvadrat	0
 scarabeu	0
 radiofotografie	1
 climatizare	1
@@ -22164,6 +23582,7 @@ laur	0
 peon	0
 mizare	1
 preeminenţă	1
+mentalist	0
 mentalistă	1
 tarsichinezie	1
 agrogeologă	1
@@ -22194,6 +23613,7 @@ oftare	1
 zeţar	0
 maturizare	1
 trepanaţie	1
+mexican	0
 mexicană	1
 carabinier	0
 iahnie	1
@@ -22202,6 +23622,7 @@ ghinionistă	1
 articulaţie	1
 periodizare	1
 mugicultură	1
+bielorus	0
 bielorusă	1
 regenţă	1
 trezie	1
@@ -22236,6 +23657,8 @@ traumatizare	1
 bostănel	0
 dermaptere	1
 şantieristă	1
+transsiberian	0
+transsiberiană	1
 vrăjar	0
 decongelare	1
 vulgarizare	1
@@ -22259,7 +23682,9 @@ hurcă	1
 diatomee	1
 inversie	1
 reconvalescent	0
+hidromecanic	0
 hidromecanică	1
+epileptic	0
 epileptică	1
 delincvenţă	1
 serigrafie	1
@@ -22274,6 +23699,7 @@ vece	1
 araliacee	1
 ceauşel	0
 coţofană	1
+analfabet	0
 analfabetă	1
 demonstraţie	1
 alunecare	1
@@ -22289,14 +23715,18 @@ glicozidă	1
 semiaxă	1
 particularitate	1
 retrocedare	1
+nicaraguan	0
 nicaraguană	1
+silicotic	0
 silicotică	1
 metalurgist	0
 seminţerie	1
 izvodire	1
+făţuitor	0
 picătură	1
 zarzavagioaică	1
 stelniţă	1
+montagnard	0
 montagnardă	1
 înapoiere	1
 buştenar	0
@@ -22324,6 +23754,7 @@ ascultare	1
 reporteră	1
 înfeudare	1
 scriitoraş	0
+estetist	0
 estetistă	1
 recepţioner	0
 tinetă	1
@@ -22339,6 +23770,7 @@ metroanexită	1
 poruncă	1
 pianistă	1
 detaliere	1
+compus	0
 avalist	0
 fluturare	1
 defoliere	1
@@ -22350,15 +23782,19 @@ ginefobă	1
 octocoralier	0
 desablare	1
 mănuşă	1
+distrofic	0
 distrofică	1
+geognostic	0
 geognostică	1
 distrofie	1
 vetrelă	1
 osmol	0
 reconversiune	1
+hibrid	0
 hibridă	1
 toamnă	1
 cenzurare	1
+veneţian	0
 veneţiană	1
 mimodramă	1
 poamă	1
@@ -22375,9 +23811,12 @@ sacadă	1
 sfârnar	0
 difuzare	1
 perineografie	1
+indian	0
+indiană	1
 oştire	1
 pihotaş	0
 scopire	1
+şpriţuitor	0
 cărucer	0
 otorinolaringologă	1
 primărie	1
@@ -22390,6 +23829,7 @@ carenă	1
 columbofil	0
 prăsilă	1
 prenoţiune	1
+creator	0
 creatoare	1
 contraescarpă	1
 abazie	1
@@ -22421,6 +23861,7 @@ desăgăriţă	1
 modelier	0
 dăscălie	1
 devorare	1
+regent	0
 regentă	1
 telulură	1
 repeziciune	1
@@ -22446,16 +23887,19 @@ robie	1
 prăpastie	1
 pingelire	1
 eversiune	1
+calculator	0
 şerpărie	1
 inventariere	1
 harpă	1
 serovaccinare	1
+sătmărean	0
 sătmăreană	1
 scriitură	1
 ghiocel	0
 submergenţă	1
 zodie	1
 continuare	1
+strabic	0
 strabică	1
 efemerotecă	1
 desertizare	1
@@ -22468,6 +23912,7 @@ scapet	0
 acuarelă	1
 argăsire	1
 prosoplegie	1
+filipinez	0
 filipineză	1
 fluenţă	1
 tigoare	1
@@ -22477,6 +23922,7 @@ stelişoară	1
 strămoş	0
 invadare	1
 rudire	1
+vâlcean	0
 vâlceană	1
 fuzionistă	1
 năvrap	0
@@ -22484,6 +23930,7 @@ trosnire	1
 plevuşcă	1
 coachizitoare	1
 tarsoptoză	1
+inelar	0
 fiică	1
 celebrator	0
 vicontesă	1
@@ -22494,6 +23941,7 @@ arhivoltă	1
 sorbetieră	1
 corinteu	0
 şuguire	1
+ihtiofobic	0
 ihtiofobică	1
 expurgare	1
 kilotonă	1
@@ -22540,6 +23988,7 @@ julire	1
 zlot	0
 muzeologă	1
 circumscriere	1
+democrat	0
 democrată	1
 teleloaică	1
 zicere	1
@@ -22548,6 +23997,7 @@ drepnea	1
 fesfesea	1
 certitudine	1
 căţelandru	0
+obscurizat	0
 obscurizată	1
 văpăiere	1
 dospeală	1
@@ -22555,6 +24005,7 @@ descântătură	1
 scoarţă	1
 cioară	1
 peripatetician	0
+mecanic	0
 mecanică	1
 estropiere	1
 ortografiere	1
@@ -22575,8 +24026,10 @@ extravaganţă	1
 paratuberculoză	1
 trustman	0
 puşcărire	1
+micronezian	0
 microneziană	1
 edulcorare	1
+surdomut	0
 surdomută	1
 şpor	0
 pletismogramă	1
@@ -22592,6 +24045,7 @@ papanaş	0
 compozitor	0
 mormăitură	1
 maimuţăreală	1
+apostol	0
 minitehnician	0
 vâjâire	1
 exurgenţă	1
@@ -22612,6 +24066,7 @@ mezaventură	1
 încuscrire	1
 burelet	0
 pensiune	1
+legat	0
 pseudoestet	0
 hematoză	1
 remobilare	1
@@ -22626,6 +24081,7 @@ pistolard	0
 şaman	0
 teleimprimatoristă	1
 amănunţire	1
+tunisian	0
 tunisiană	1
 distilator	0
 ploşniţoasă	1
@@ -22646,12 +24102,14 @@ perlită	1
 abordor	0
 tăvălitură	1
 ciripede	1
+oratorian	0
 oratoriană	1
 sticlete	0
 tapetar	0
 enoriaşă	1
 rectificare	1
 băimărean	0
+frenator	0
 frenatoare	1
 invertază	1
 pomostină	1
@@ -22660,21 +24118,25 @@ microbalanţă	1
 clemă	1
 schelă	1
 troiană	1
+troian	0
 ciorbagiu	0
 zgâmboi	0
 semiconsoană	1
 macedoromâncă	1
 mlaştină	1
 ciocnire	1
+izraelit	0
 izraelită	1
 tortură	1
 vâlcică	1
+prosumator	0
 prosumatoare	1
 amper-spiră	1
 floretist	0
 vel-armaş	0
 hărţaş	0
 orientalistă	1
+ţarist	0
 ţaristă	1
 colectare	1
 pluviodenudare	1
@@ -22694,6 +24156,7 @@ talpă	1
 profundă	1
 sableză	1
 octavă	1
+detersiv	0
 detersivă	1
 cerenţel	0
 depozitar	0
@@ -22724,6 +24187,7 @@ porumbar	0
 buracă	1
 forezie	1
 elită	1
+semifeudal	0
 semifeudală	1
 croncănitură	1
 işlicar	0
@@ -22734,14 +24198,17 @@ absenteist	0
 omletă	1
 ziaristă	1
 iconolog	0
+normand	0
 normandă	1
 drângălău	0
 broşă	1
 circulaţie	1
+rujeolos	0
 rujeoloasă	1
 clăiţă	1
 neplăcere	1
 extemporalizare	1
+peruan	0
 peruană	1
 şeuliţă	1
 putrezitură	1
@@ -22776,6 +24243,7 @@ baronet	0
 calomniere	1
 erată	1
 lucrătoare	1
+tinerel	0
 tinerea	1
 heterotermie	1
 limfopatie	1
@@ -22804,6 +24272,7 @@ dajdie	1
 inferioritate	1
 semisumă	1
 lampagiu	0
+scandinav	0
 scandinavă	1
 mongolist	0
 frasin	0
@@ -22843,10 +24312,12 @@ plutaş	0
 exhibiţionist	0
 permisie	1
 gutuie	1
+dravidian	0
 dravidiană	1
 nitrificaţie	1
 microrilă	1
 nitroderivat	0
+platan	0
 isnaf	0
 mongolistă	1
 zdupăială	1
@@ -22889,6 +24360,7 @@ prohibiţie	1
 intrigă	1
 homosexual	0
 plescăitură	1
+confecţioner	0
 confecţioneră	1
 pisetă	1
 opilaţie	1
@@ -22916,6 +24388,7 @@ mieluş	0
 discobol	0
 denunţător	0
 fermentatoare	1
+vrăjmaş	0
 vrăjmaşă	1
 dinar	0
 eritrodermie	1
@@ -22956,6 +24429,7 @@ pieptănătoare	1
 cenzor	0
 importaţiune	1
 digestie	1
+miciurinist	0
 miciurinistă	1
 mărginuţă	1
 izopteră	1
@@ -22973,6 +24447,7 @@ prispuliţă	1
 barocoră	1
 acompaniatoare	1
 hăulire	1
+automutilat	0
 automutilată	1
 cinteză	1
 afundătură	1
@@ -22994,7 +24469,9 @@ cooperativizare	1
 valvulită	1
 croazetă	1
 reversiune	1
+veterinar	0
 veterinară	1
+sefard	0
 sefardă	1
 pneumoconioză	1
 şerpuire	1
@@ -23011,6 +24488,7 @@ culasă	1
 carstolog	0
 cardită	1
 declaraţie	1
+vecin	0
 vecină	1
 jojă	1
 vopsitorie	1
@@ -23018,6 +24496,7 @@ odontocie	1
 uvulă	1
 osteolit	0
 tâmplă	1
+internaţionalist	0
 internaţionalistă	1
 mulgară	1
 paremiografie	1
@@ -23049,6 +24528,7 @@ paleoetnologă	1
 vuietoare	1
 zgârcenie	1
 mersol	0
+scalar	0
 scalară	1
 slatină	1
 reînchidere	1
@@ -23069,6 +24549,7 @@ ocitocină	1
 ambasadoare	1
 nitrofenol	0
 mânuriţă	1
+hegelian	0
 hegeliană	1
 colonialist	0
 pogăcioară	1
@@ -23084,9 +24565,11 @@ inerţie	1
 transhumanţă	1
 spusă	1
 radioficare	1
+laş	0
 laşă	1
 hidrostatician	0
 fracturare	1
+onirist	0
 oniristă	1
 paronomază	1
 borură	1
@@ -23097,12 +24580,14 @@ clădărie	1
 spermatofită	1
 egretă	1
 dichisire	1
+ursit	0
 ursită	1
 cablogramă	1
 scorţoneră	1
 mamelă	1
 brutăreasă	1
 administrare	1
+necombatant	0
 necombatantă	1
 impiegat	0
 muţenie	1
@@ -23113,6 +24598,7 @@ gladiolă	1
 precumpănire	1
 casetotecă	1
 cretă	1
+păgân	0
 păgână	1
 folclorist	0
 aşchiuţă	1
@@ -23128,12 +24614,17 @@ nelămurire	1
 molie	1
 samsar	0
 zăpodie	1
+rutean	0
 ruteană	1
+lat	0
+trinitar	0
 trinitară	1
 şablonar	0
+berber	0
 berberă	1
 conjugare	1
 romancieră	1
+arzător	0
 deflegmare	1
 placodont	0
 puişor	0
@@ -23142,6 +24633,7 @@ trapezare	1
 fâţişoară	1
 tocire	1
 speculaţie	1
+supus	0
 supusă	1
 bernsteinist	0
 cerealist	0
@@ -23150,6 +24642,7 @@ asumare	1
 retroactivitate	1
 recomandare	1
 noime	1
+singalez	0
 singaleză	1
 uzurpare	1
 pralină	1
@@ -23158,6 +24651,7 @@ armată	1
 federaţie	1
 movilire	1
 scufiţă	1
+suitor	0
 suitoare	1
 matisoare	1
 povăţuire	1
@@ -23178,6 +24672,8 @@ autoanticorp	0
 vitejie	1
 sinizare	1
 glicogen	0
+negru	0
+neagră	1
 ciorăpărie	1
 segmentaţie	1
 râgâitură	1
@@ -23197,6 +24693,7 @@ dicţiune	1
 eleveză	1
 norocire	1
 completare	1
+comic	0
 indantren	0
 hârciog	0
 perpelire	1
@@ -23206,6 +24703,7 @@ granitizare	1
 consignatar	0
 povestioară	1
 patinatoare	1
+esperantist	0
 esperantistă	1
 coroidită	1
 gastrotomie	1
@@ -23223,8 +24721,10 @@ iconolatru	0
 paleozoolog	0
 schingiuire	1
 dirigenţie	1
+sconcs	0
 hipertiroidie	1
 prichindel	0
+mauritan	0
 mauritană	1
 camionagiu	0
 broşurică	1
@@ -23260,9 +24760,11 @@ spermatie	1
 oaie	1
 armonică	1
 bistriţean	0
+travestit	0
 travestită	1
 dehidrogenază	1
 cuvioşie	1
+khmer	0
 khmeră	1
 sturzuleţ	0
 bibliotecar	0
@@ -23282,6 +24784,7 @@ bâiguială	1
 radiofonotecă	1
 justiţiabilă	1
 extrasistolă	1
+mulgător	0
 mulgătoare	1
 stenografiere	1
 tioalcool	0
@@ -23321,6 +24824,7 @@ muziciană	1
 fasonare	1
 tipotecă	1
 bătătorniţă	1
+roşu	0
 glicină	1
 microamper	0
 filmologă	1
@@ -23342,7 +24846,9 @@ miliţiană	1
 nit	0
 blagomanie	1
 simfonietă	1
+norvegian	0
 norvegiană	1
+impertinent	0
 impertinentă	1
 solomonar	0
 premoniţie	1
@@ -23356,6 +24862,7 @@ peninsulă	1
 fibrilă	1
 găteală	1
 păcănitoare	1
+poporanist	0
 poporanistă	1
 lansetă	1
 diaclază	1
@@ -23369,6 +24876,7 @@ defăimare	1
 induraţie	1
 branhiozaur	0
 eutocie	1
+otosclerotic	0
 otosclerotică	1
 desfrânare	1
 fălticineancă	1
@@ -23380,6 +24888,7 @@ radiocomentator	0
 cancerofobie	1
 indispunere	1
 vulturel	0
+fuzibil	0
 fuzibilă	1
 escală	1
 enunţare	1
@@ -23394,12 +24903,16 @@ engastrimit	0
 fustanelă	1
 valvă	1
 căpetenie	1
+intervenţionist	0
 intervenţionistă	1
 parcimonie	1
+descendent	0
 descendentă	1
 microproducţie	1
+croat	0
 croată	1
 transgresoare	1
+aristotelician	0
 aristoteliciană	1
 telegrafist	0
 pompistă	1
@@ -23412,6 +24925,7 @@ fulguleţ	0
 ciubotar	0
 uşiţă	1
 naftenă	1
+tăzlăuan	0
 tăzlăuană	1
 grămădire	1
 răpuitoare	1
@@ -23431,6 +24945,7 @@ nituitoare	1
 autoobservare	1
 mieloză	1
 centumvir	0
+intern	0
 internă	1
 găzdoi	0
 reumă	1
@@ -23438,6 +24953,7 @@ caschetă	1
 semaforist	0
 relaţie	1
 extindere	1
+ionian	0
 ioniană	1
 paraşută	1
 larmă	1
@@ -23452,6 +24968,7 @@ falaitar	0
 peţire	1
 alarmare	1
 prezentator	0
+scorer	0
 dăscălaş	0
 eritropsină	1
 subîncrengătură	1
@@ -23465,6 +24982,7 @@ danci	0
 aderent	0
 izopletă	1
 pocănire	1
+negrofil	0
 negrofilă	1
 matroz	0
 nebunie	1
@@ -23475,6 +24993,7 @@ canistrelă	1
 valenţă	1
 eşantionare	1
 demolator	0
+fumigant	0
 fumigantă	1
 adjoncţiune	1
 meteoropat	0
@@ -23482,8 +25001,10 @@ oblăduire	1
 repetare	1
 remontă	1
 palavră	1
+idealist	0
 idealistă	1
 fetişizare	1
+macedonean	0
 macedoneană	1
 scârţâire	1
 zărzărică	1
@@ -23493,12 +25014,14 @@ beţivancă	1
 direclie	1
 peltea	1
 pernioară	1
+fălitor	0
 fălitoare	1
 turelă	1
 cleveteală	1
 siderolit	0
 conlocutor	0
 melanină	1
+leton	0
 letonă	1
 legător	0
 lorică	1
@@ -23507,6 +25030,7 @@ primulă	1
 tigaie	1
 divă	1
 ghiduşie	1
+secerător	0
 secerătoare	1
 mitizare	1
 treponemoză	1
@@ -23549,6 +25073,7 @@ narator	0
 stropire	1
 negustoreasă	1
 hantru	0
+mijlocaş	0
 mijlocaşă	1
 scârţ	0
 patină	1
@@ -23557,6 +25082,7 @@ sepion	0
 nuga	1
 safranină	1
 jazolog	0
+măr	0
 farsor	0
 moslim	0
 bucă	1
@@ -23588,6 +25114,7 @@ praporgic	0
 supuraţie	1
 nucleon	0
 ştempluire	1
+blidar	0
 ulcică	1
 tonoscopie	1
 extremitate	1
@@ -23599,10 +25126,12 @@ brigadier	0
 gazistă	1
 interpolare	1
 mânare	1
+manevrier	0
 manevrieră	1
 şarlă	1
 topografă	1
 haznă	1
+motolog	0
 motoloagă	1
 stafidă	1
 cancerologă	1
@@ -23623,6 +25152,7 @@ pănuşiţă	1
 tremie	1
 randalină	1
 fantomă	1
+tânăr	0
 tânără	1
 siestă	1
 giraţie	1
@@ -23634,6 +25164,7 @@ pavlichiancă	1
 deşablonizare	1
 şontorogeală	1
 crilă	1
+fildeş	0
 posconiţă	1
 sondor	0
 crupă	1
@@ -23646,6 +25177,7 @@ armonistă	1
 grosime	1
 hârâitură	1
 perfecţionare	1
+imaterialist	0
 imaterialistă	1
 papură	1
 pitulice	1
@@ -23669,6 +25201,7 @@ mirtacee	1
 telecabină	1
 desprejmuire	1
 naţionalizare	1
+bacalaureat	0
 marină	1
 tipizare	1
 decălire	1
@@ -23699,6 +25232,7 @@ nematelmint	0
 hidalgie	1
 suscitare	1
 galerie	1
+protestant	0
 protestantă	1
 legătură	1
 benzinărie	1
@@ -23733,6 +25267,7 @@ tutore	0
 alămar	0
 aducător	0
 bătătură	1
+gazonant	0
 gazonantă	1
 sipică	1
 crăiasă	1
@@ -23744,6 +25279,7 @@ voscreasnă	1
 triclorură	1
 caret	0
 antetrupiţă	1
+zaharat	0
 zaharată	1
 spicuială	1
 mulură	1
@@ -23753,6 +25289,7 @@ trufanda	1
 furtunar	0
 strungăreaţă	1
 slăbiciune	1
+pălămar	0
 ţigănaş	0
 alelă	1
 participaţie	1
@@ -23778,6 +25315,7 @@ enolog	0
 urechelniţă	1
 gardă	1
 plută-far	1
+manufacturier	0
 manufacturieră	1
 coinstigator	0
 căscioară	1
@@ -23785,6 +25323,7 @@ dârmoz	0
 sedimentometrie	1
 paladin	0
 spadicifloră	1
+anorectic	0
 anorectică	1
 bibliotecă	1
 virdare	1
@@ -23792,7 +25331,9 @@ feudă	1
 încuietoare	1
 bănicer	0
 decriptare	1
+ţoi	0
 angină	1
+ţol	0
 steapsină	1
 parturientă	1
 păzitor	0
@@ -23841,6 +25382,7 @@ cahlă	1
 troglobie	1
 bobotaie	1
 termosterilizare	1
+iudeofob	0
 iudeofobă	1
 berjeră	1
 plopuşor	0
@@ -23859,6 +25401,7 @@ filozofie	1
 rădăcină	1
 pentoză	1
 astenosferă	1
+duşman	0
 duşmană	1
 persecuţie	1
 paracivilizaţie	1
@@ -23874,6 +25417,7 @@ rebutare	1
 viroagă	1
 sarment	0
 vacuitate	1
+constituţionalist	0
 constituţionalistă	1
 triangulaţie	1
 şleau	0
@@ -23884,7 +25428,9 @@ dârdâială	1
 despresurare	1
 bandură	1
 nădăjduire	1
+următor	0
 următoare	1
+tecucean	0
 tecuceană	1
 magherniţă	1
 entrată	1
@@ -23911,6 +25457,7 @@ pasivist	0
 albeaţă	1
 vizită	1
 expiaţie	1
+zimnicean	0
 zimniceană	1
 dezvelire	1
 milirontgen	0
@@ -23918,6 +25465,7 @@ apologistă	1
 corb-albastru	0
 şalvaragiu	0
 carpen	0
+anglican	0
 anglicană	1
 drosometrie	1
 fleandură	1
@@ -23928,12 +25476,15 @@ podişcă	1
 chiblă	1
 zigospor	0
 vrilă	1
+jupitor	0
 jupitoare	1
 levigaţie	1
+fenician	0
 feniciană	1
 efemerizare	1
 intuire	1
 goliard	0
+programator	0
 programatoare	1
 caşalot	0
 veselie	1
@@ -23952,8 +25503,10 @@ junime	1
 probabilitate	1
 bunătate	1
 hârtiuţă	1
+atlantist	0
 atlantistă	1
 matricidă	1
+matricid	0
 coagulaţie	1
 ventrilocă	1
 rudă	1
@@ -23963,14 +25516,19 @@ hiperbolă	1
 plagioclaz	0
 scrijea	1
 locatar	0
+coreean	0
 coreeană	1
 osteologă	1
 coconar	0
+învârtit	0
+învârtită	1
 dislocaţie	1
 sorocire	1
 ravieră	1
+antifascist	0
 antifascistă	1
 galilean	0
+logicist	0
 logicistă	1
 alonimă	1
 gropană	1
@@ -23981,6 +25539,7 @@ iridectomie	1
 antropolog	0
 conferenţiară	1
 pălmiţă	1
+tadjic	0
 tadjică	1
 şarpe	0
 mediator	0
@@ -24009,6 +25568,7 @@ coconaş	0
 zemărie	1
 dasie	1
 hipotensivă	1
+hipotensiv	0
 desprindere	1
 jonctor	0
 sperietură	1
@@ -24016,9 +25576,11 @@ comerciantă	1
 trifolioză	1
 călugăriţă	1
 gală	1
+sceptic	0
 sceptică	1
 temeritate	1
 cuticulă	1
+doritor	0
 doritoare	1
 capitalizare	1
 trisecţie	1
@@ -24029,7 +25591,9 @@ coacăz	0
 dijmar	0
 condotier	0
 stilare	1
+libanez	0
 libaneză	1
+kampuchian	0
 kampuchiană	1
 dadofor	0
 bridă	1
@@ -24037,6 +25601,7 @@ erou	0
 mâncău	0
 europeancă	1
 obstrucţie	1
+viteaz	0
 vitează	1
 osteoclazie	1
 marmorizare	1
@@ -24075,12 +25640,15 @@ tiribombă	1
 pocie	1
 cerebroscleroză	1
 coafă	1
+medico-militar	0
 medico-militară	1
 burlescă	1
+coparticipant	0
 coparticipantă	1
 cucută	1
 umbră	1
 calcografiere	1
+ploier	0
 paraşutare	1
 inhalaţie	1
 ciorbă	1
@@ -24102,6 +25670,7 @@ subinginer	0
 hârtie	1
 vatelină	1
 săpunire	1
+nazarinean	0
 nazarineană	1
 dijmaş	0
 bilon	0
@@ -24109,6 +25678,7 @@ corfiţă	1
 moviolă	1
 localitate	1
 rumenire	1
+efector	0
 efectoare	1
 xilolitogravură	1
 cartogramă	1
@@ -24124,6 +25694,7 @@ semiproletar	0
 isprăvnicie	1
 mocan	0
 sladniţă	1
+seulez	0
 seuleză	1
 loitră	1
 gliadină	1
@@ -24136,6 +25707,7 @@ plisare	1
 polinuculă	1
 ienuperă	1
 porucic	0
+lin	0
 superfiniţie	1
 îndeletnicire	1
 mustuială	1
@@ -24157,6 +25729,7 @@ practicare	1
 cuvertură	1
 chisnovat	0
 rublă	1
+banjoist	0
 banjoistă	1
 absidă	1
 lotcă	1
@@ -24195,6 +25768,7 @@ isop	0
 cobiliţă	1
 coborâtor	0
 abreviere	1
+hiperparazit	0
 hiperparazită	1
 şugubinar	0
 bioenergeticiană	1
@@ -24202,6 +25776,7 @@ pustuloză	1
 psihopatie	1
 proslăvire	1
 verişoară	1
+vegetarian	0
 vegetariană	1
 ploscar	0
 boştină	1
@@ -24222,10 +25797,12 @@ lunulă	1
 imam	0
 traumatologă	1
 dănciuc	0
+argentinian	0
 argentiniană	1
 semnatar	0
 tinctură	1
 agentură	1
+fapt	0
 chinezărie	1
 angolez	0
 deformare	1
@@ -24238,6 +25815,7 @@ botă	1
 diaspor	0
 normatoare	1
 oaste	1
+simian	0
 simiană	1
 invalidare	1
 copiere	1
@@ -24259,6 +25837,7 @@ macrodefiniţie	1
 ploscaş	0
 gherizer	0
 yuan	0
+bob	0
 cervicotomie	1
 ping-pongistă	1
 oboseală	1
@@ -24271,13 +25850,16 @@ raţiune	1
 transmisiune	1
 firuţă	1
 tripanozomă	1
+mişel	0
 mişea	1
 refacţie	1
 maleabilizare	1
+chiabur	0
 chiabură	1
 streaşină	1
 meseriaş	0
 armie	1
+emigrat	0
 emigrată	1
 decimaţie	1
 decocţie	1
@@ -24287,6 +25869,7 @@ hidraulician	0
 pteranodon	0
 caliornă	1
 spirografie	1
+incitator	0
 incitatoare	1
 doagă	1
 reportare	1
@@ -24295,6 +25878,7 @@ demonetizare	1
 şoaptă	1
 vermiculaţie	1
 rezinat	0
+sovietic	0
 sovietică	1
 stiloidă	1
 crochetă	1
@@ -24319,6 +25903,7 @@ pensulare	1
 bubuliţă	1
 vargă	1
 babacă	0
+spondeu	0
 montoare	1
 mituire	1
 scăldătoare	1
@@ -24393,6 +25978,7 @@ exacerbaţie	1
 maşină-unealtă	1
 gângăvie	1
 damaschinare	1
+izolaţionist	0
 izolaţionistă	1
 tânpină	1
 coroziune	1
@@ -24415,6 +26001,7 @@ teleînregistrare	1
 dereflecţie	1
 chiverniseală	1
 orbecăire	1
+celt	0
 celtă	1
 narceină	1
 băbaică	1
@@ -24428,6 +26015,7 @@ săgeţică	1
 cadrare	1
 buştean	0
 ambutisor	0
+frigian	0
 frigiană	1
 aglică	1
 adsorbat	0
@@ -24435,6 +26023,7 @@ zornăitură	1
 căsuţă	1
 stipendistă	1
 antenă	1
+teuton	0
 teutonă	1
 colecistopatie	1
 dispariţie	1
@@ -24450,6 +26039,7 @@ hipocratist	0
 bifurcare	1
 concesiune	1
 căutătură	1
+apărător	0
 apărătoare	1
 melodicizare	1
 pugilist	0
@@ -24470,6 +26060,7 @@ inspectare	1
 scârţâială	1
 parlagiu	0
 rantie	1
+ugandez	0
 ugandeză	1
 autofecundare	1
 gaşper	0
@@ -24481,8 +26072,10 @@ simţivară	1
 bocşă	1
 gargariseală	1
 aptitudine	1
+togolez	0
 togoleză	1
 apelpisie	1
+nepalez	0
 nepaleză	1
 mâzgălitură	1
 strădanie	1
@@ -24508,11 +26101,13 @@ perdeluire	1
 gâtuire	1
 discriminare	1
 bărat	0
+voluntar	0
 voluntară	1
 aerotermoterapie	1
 manganat	0
 primulacee	1
 prospectivă	1
+arlechin	0
 capsare	1
 lecţiune	1
 neurină	1
@@ -24521,6 +26116,7 @@ cocârla	1
 cocie	1
 plutonier	0
 sutură	1
+nătărău	0
 nătăroaică	1
 stabilivolt	0
 marinar	0
@@ -24528,6 +26124,7 @@ răţoiaş	0
 dezincrustaţie	1
 uitare	1
 culegător	0
+hurmuz	0
 reveneală	1
 dubă	1
 schimonoseală	1
@@ -24555,6 +26152,7 @@ sonorizare	1
 răstălmăcire	1
 navigare	1
 argilă	1
+tific	0
 tifică	1
 corbuleţ	0
 vaginită	1
@@ -24614,9 +26212,11 @@ menghină	1
 medelniţă	1
 vulvă	1
 interpolatoare	1
+longeviv	0
 longevivă	1
 galopare	1
 botoşăneancă	1
+poponeţ	0
 decodare	1
 bouşor	0
 fâsă	1
@@ -24631,6 +26231,7 @@ azoderivat	0
 maculă	1
 celibatară	1
 karatist	0
+kazah	0
 kazahă	1
 oftalmolog	0
 înmulţire	1
@@ -24658,8 +26259,10 @@ contrapoziţie	1
 vervenă	1
 emailor	0
 ranchiună	1
+mongol	0
 mongolă	1
 colaborare	1
+elveţian	0
 elveţiană	1
 spumozitate	1
 dezechilibrare	1
@@ -24702,6 +26305,7 @@ cobzişoară	1
 programatecă	1
 antropofobie	1
 poliţie	1
+demonolatru	0
 demonolatră	1
 decurie	1
 covăsneancă	1
@@ -24717,6 +26321,7 @@ măstuială	1
 stupiniţă	1
 tăvală	1
 conservare	1
+izomer	0
 izomeră	1
 vergeluţă	1
 feldmareşal	0
@@ -24774,7 +26379,9 @@ naufragiere	1
 voleibalistă	1
 şantajoare	1
 grevă	1
+trimiţător	0
 trimiţătoare	1
+puritanist	0
 puritanistă	1
 scriptomană	1
 contesă	1
@@ -24786,6 +26393,7 @@ râşniţă	1
 caracteristică	1
 etapă	1
 chiulasă	1
+ocultist	0
 ocultistă	1
 puiuleţ	0
 mulatră	1
@@ -24846,6 +26454,7 @@ ectenie	1
 stupilă	1
 bimediană	1
 suprarăcire	1
+moldovean	0
 moldoveană	1
 arestant	0
 traversieră	1
@@ -24858,8 +26467,10 @@ anafora	1
 defenestraţie	1
 bocanc	0
 tergiversaţiune	1
+behavorist	0
 behavoristă	1
 prăjină	1
+ştergător	0
 cală	1
 cenobit	0
 wattsecundă	1
@@ -24927,12 +26538,14 @@ paucă	1
 biofizician	0
 minusculă	1
 antropolatru	0
+valah	0
 valahă	1
 signatar	0
 bulucbăşie	1
 paragramă	1
 moracee	1
 fotodiodă	1
+gomos	0
 gomoasă	1
 maişă	1
 betonică	1
@@ -24943,6 +26556,7 @@ biserică	1
 semnificant	0
 gimnazier	0
 gârliţă	1
+lesbian	0
 lesbiană	1
 ziditor	0
 dribler	0
@@ -24953,6 +26567,7 @@ siluride	1
 capitalist	0
 postăvar	0
 penalitate	1
+birman	0
 birmană	1
 invariabilitate	1
 fetus	0
@@ -24969,6 +26584,7 @@ prisacă	1
 cofondator	0
 fierar	0
 hidroceluloză	1
+inhibitor	0
 inhibitoare	1
 microwatt	0
 mecanomorfoză	1
@@ -24985,6 +26601,7 @@ sensitometrie	1
 corabie	1
 străinătate	1
 plăcinţică	1
+productivist	0
 productivistă	1
 înglodare	1
 ambulaţie	1
@@ -25026,22 +26643,27 @@ barată	1
 spulberătură	1
 decriptor	0
 afişare	1
+podolian	0
 podoliană	1
 delincvent	0
 misadă	1
+cărător	0
 strungărie	1
 colocatară	1
 articulare	1
 signatură	1
+cotropitor	0
 cotropitoare	1
 şefă	1
 iezişor	0
 dezinfestant	0
+colbertist	0
 colbertistă	1
 naingiu	0
 druză	1
 exhibiţie	1
 desferecare	1
+saxon	0
 saxonă	1
 craulistă	1
 maghiran	0
@@ -25092,9 +26714,11 @@ saia	1
 măscărie	1
 invazie	1
 suprainfecţie	1
+proband	0
 probandă	1
 rezultantă	1
 camefiţe	1
+diluvial	0
 diluvială	1
 bonjurist	0
 râşcov	0
@@ -25111,6 +26735,7 @@ bostan	0
 hurducare	1
 francmason	0
 dramatizare	1
+stimul	0
 ierbuliţă	1
 şălvirie	1
 scuzare	1
@@ -25128,12 +26753,16 @@ compoundare	1
 gospodărie	1
 inaptitudine	1
 viticultor	0
+kenyan	0
 kenyană	1
 antenist	0
+funambul	0
 funambulă	1
+verbalist	0
 verbalistă	1
 predare	1
 lepismă	1
+stamatian	0
 stamatiană	1
 liză	1
 epanalepsă	1
@@ -25164,10 +26793,12 @@ zmeoaie	1
 măturătoare	1
 cârmuitoare	1
 sedare	1
+catalan	0
 catalană	1
 tardion	0
 decalcare	1
 şlepar	0
+aloglot	0
 aloglotă	1
 înmormântare	1
 măcelărire	1
@@ -25207,6 +26838,7 @@ helicicultoare	1
 reafirmare	1
 gotcan	0
 tinduţă	1
+sionist	0
 sionistă	1
 zbârceală	1
 precauţie	1
@@ -25248,6 +26880,7 @@ rutierist	0
 vagonetar	0
 recuperator	0
 monocer	0
+dalmat	0
 dalmată	1
 cefalometrie	1
 încovoială	1
@@ -25261,6 +26894,7 @@ catismă	1
 antisicativ	0
 tetă	1
 ursar	0
+marxist	0
 marxistă	1
 neurofibromatoză	1
 cronometrare	1
@@ -25277,15 +26911,18 @@ amnezic	0
 amnezie	1
 jujubă	1
 mucină	1
+scopit	0
 scopită	1
 muhurdar	0
 ciurdar	0
 sinantrop	0
 elenistă	1
 gabară	1
+ojog	0
 caprifoi	0
 absurditate	1
 codoşcă	1
+maniheist	0
 maniheistă	1
 zmeurată	1
 strecurare	1
@@ -25323,6 +26960,7 @@ critică	1
 corodare	1
 atomist	0
 dactilograf	0
+macrocefal	0
 macrocefală	1
 bănică	1
 însufleţire	1
@@ -25331,6 +26969,7 @@ ciocănire	1
 dinamizare	1
 ticăială	1
 zonare	1
+canadian	0
 canadiană	1
 polivalenţă	1
 bambus	0
@@ -25351,6 +26990,7 @@ ranide	1
 grăpătură	1
 stropitoare	1
 perj	0
+armaş	0
 pers	0
 fotoreporteră	1
 suide	1
@@ -25368,6 +27008,7 @@ aspru	0
 aducţie	1
 milă	1
 favoare	1
+cărăşel	0
 mugur	0
 berar	0
 claie	1
@@ -25377,16 +27018,20 @@ nucleoproteidă	1
 agent	0
 boiştean	0
 imigraţie	1
+strângător	0
 strângătoare	1
 telemetror	0
 pastişă	1
 rablionetă	1
 şerbetelniţă	1
 bretesă	1
+hedonist	0
 hedonistă	1
 râtan	0
 rotacizare	1
 morfolog	0
+spârc	0
+intrus	0
 intrusă	1
 plută	1
 lacază	1
@@ -25397,6 +27042,7 @@ preciroză	1
 etnologist	0
 pataramă	1
 momiţărie	1
+african	0
 africană	1
 halor	0
 electrofotografie	1
@@ -25406,6 +27052,7 @@ latinizator	0
 ţap	0
 sepedon	0
 gurnă	1
+maia	1
 popândău	0
 taoistă	1
 condescendenţă	1
@@ -25419,6 +27066,7 @@ bifare	1
 ceşcuţă	1
 roşcov	0
 cleştişor	0
+patagon	0
 patagonă	1
 tămăduire	1
 temelie	1
@@ -25440,6 +27088,7 @@ portretistă	1
 proteină	1
 colecistografie	1
 semitolog	0
+fermecător	0
 fermecătoare	1
 bijuterie	1
 enclavă	1
@@ -25465,13 +27114,16 @@ institutoare	1
 jimblar	0
 inovare	1
 berbec	0
+cantor	0
 comitent	0
 atacatoare	1
 bojdeucă	1
+indo-european	0
 indo-europeană	1
 obedienţă	1
 contratimp	0
 depectinizare	1
+milanez	0
 conştientizare	1
 plivire	1
 moşneguţ	0
@@ -25484,6 +27136,8 @@ auripigment	0
 centilă	1
 redactor	0
 aspreală	1
+moderator	0
+moderatoare	1
 blagoslovenie	1
 peletizare	1
 demonstrator	0
@@ -25512,6 +27166,7 @@ nicol	0
 digresiune	1
 gâtuitură	1
 tregher	0
+secentist	0
 secentistă	1
 ornamentaţie	1
 experienţă	1
@@ -25556,12 +27211,14 @@ rameră	1
 picioică	1
 mişelie	1
 îndatorire	1
+greco-oriental	0
 greco-orientală	1
 archebuză	1
 contramaistru	0
 acru	0
 copilandru	0
 drăgălăşenie	1
+dadaist	0
 dadaistă	1
 industrie	1
 năzuire	1
@@ -25572,6 +27229,7 @@ cobaie	1
 oceanicultură	1
 fantă	1
 şeptic	0
+nonagenar	0
 nonagenară	1
 beşliu	0
 hatie	1
@@ -25583,6 +27241,7 @@ ghimpe-pădureţ	0
 aventură	1
 lupoaie	1
 arteriolă	1
+moldovalah	0
 moldovalahă	1
 cuproxid	0
 psihopatolog	0
@@ -25600,6 +27259,7 @@ amendare	1
 criptă	1
 paj	0
 pan	0
+vânturel	0
 hidroree	1
 grămădeală	1
 înnodătură	1
@@ -25630,6 +27290,7 @@ autocrator	0
 tetragramă	1
 borat	0
 pricepere	1
+pointilist	0
 pointilistă	1
 termogramă	1
 capugiu	0
@@ -25658,12 +27319,15 @@ ortografie	1
 apocopă	1
 şiţă	1
 ansă	1
+egocentric	0
 egocentrică	1
 histonă	1
 prosimian	0
 parură	1
+însoţitor	0
 însoţitoare	1
 electronavigaţie	1
+strigător	0
 strigătoare	1
 rumegare	1
 aniversare	1
@@ -25698,6 +27362,7 @@ filonichie	1
 moţ	0
 magistrală	1
 telereglare	1
+mezin	0
 mezină	1
 odontoiatru	0
 străgălie	1
@@ -25746,6 +27411,7 @@ imunopatolog	0
 atlant	0
 editorialist	0
 pomuşoară	1
+chiştoc	0
 toxicoză	1
 filarmonică	1
 mânătoare	1
@@ -25768,9 +27434,12 @@ debordare	1
 pericolpită	1
 lectică	1
 decedare	1
+cenuşar	0
 afunzime	1
 chichineaţă	1
 şătruţă	1
+monetar	0
+grevist	0
 grevistă	1
 sporofilă	1
 paiaţă	1
@@ -25837,7 +27506,9 @@ aristocrată	1
 xenocraţie	1
 autoraş	0
 craulist	0
+igienist	0
 igienistă	1
+solipsist	0
 solipsistă	1
 decurion	0
 descolăcire	1
@@ -25847,6 +27518,7 @@ enterectomie	1
 înnisipare	1
 plenipotenţă	1
 paparună	1
+pricinaş	0
 pricinaşă	1
 văduvoaie	1
 hidroftalmie	1
@@ -25861,6 +27533,7 @@ putrefiere	1
 sculare	1
 diplococ	0
 huzmetar	0
+comis	0
 suavitate	1
 cadmie	1
 funigel	0
@@ -25868,8 +27541,10 @@ apofiză	1
 străchinoaie	1
 simpatie	1
 căsoaie	1
+mizer	0
 mizeră	1
 reambalare	1
+cuceritor	0
 cuceritoare	1
 cupă	1
 minijupă	1
@@ -25885,6 +27560,7 @@ pantofior	0
 prezervare	1
 gângurire	1
 giurumea	1
+creditor	0
 creditoare	1
 zvastică	1
 recitire	1
@@ -25893,6 +27569,7 @@ prolanurie	1
 mediană	1
 salicilat	0
 parcelă	1
+kantian	0
 kantiană	1
 scursură	1
 abatere	1
@@ -25941,8 +27618,10 @@ micrometeorit	0
 rectrice	1
 cazemată	1
 măcinătură	1
+someşean	0
 someşeană	1
 balocoră	1
+comornic	0
 răcănel	0
 intercesiune	1
 stegocefal	0
@@ -25952,6 +27631,7 @@ arietă	1
 injurie	1
 stigmă	1
 organist	0
+negator	0
 negatoare	1
 agrotehniciană	1
 scăpărătoare	1
@@ -25982,6 +27662,7 @@ gurluire	1
 chiftea	1
 fretă	1
 reordonanţare	1
+entomofag	0
 entomofagă	1
 psaltire	1
 oculaţie	1
@@ -26022,6 +27703,8 @@ coagulopatie	1
 lagenă	1
 târsână	1
 scleră	1
+levantin	0
+levantină	1
 supleanţă	1
 hemobiolog	0
 badian	0
@@ -26048,9 +27731,12 @@ fină	1
 rândaş	0
 lăudător	0
 zelatoare	1
+megieş	0
 megieşă	1
+imperialist	0
 imperialistă	1
 spinel	0
+marginalist	0
 marginalistă	1
 perfectare	1
 monarhie	1
@@ -26070,14 +27756,18 @@ vină	1
 încărcare	1
 tăicuţă	0
 clipă	1
+săditor	0
+săditoare	1
 fiuţ	0
 hăinar	0
+greco-roman	0
 greco-romană	1
 puştancă	1
 insultare	1
 detribalizare	1
 prăpăstuire	1
 ocel	0
+textualist	0
 textualistă	1
 semiobscuritate	1
 motoc	0
@@ -26101,9 +27791,11 @@ potoleală	1
 triceratops	0
 iritaţie	1
 dovleac	0
+extremist	0
 extremistă	1
 consfinţire	1
 helioterapie	1
+expeditor	0
 expeditoare	1
 cooperator	0
 nalbar	0
@@ -26117,19 +27809,23 @@ contorsionare	1
 tinichigerie	1
 palatalizare	1
 holteiaş	0
+oşean	0
 oşeană	1
 scroambă	1
 eligară	1
 apicultoare	1
 turiţă	1
+ultranaţionalist	0
 ultranaţionalistă	1
 dezangajare	1
 caşare	1
 terebraţie	1
 dizolvare	1
+liberator	0
 liberatoare	1
 alemandă	1
 imnografă	1
+nazist	0
 nazistă	1
 subrogare	1
 cordea	1
@@ -26159,6 +27855,7 @@ dramă	1
 smochină	1
 as	0
 plagiatoare	1
+năprui	0
 năpruie	1
 orăşeană	1
 răzlog	0
@@ -26179,7 +27876,9 @@ derviş	0
 pârş	0
 scanare	1
 şvab	0
+şvabă	1
 blagoman	0
+galactofag	0
 galactofagă	1
 titirisire	1
 milibar	0
@@ -26214,6 +27913,7 @@ barbişă	1
 mierluţă	1
 biogramă	1
 sugere	1
+estonian	0
 estoniană	1
 procurator	0
 clanţă	1
@@ -26244,6 +27944,7 @@ refulare	1
 pănuşă	1
 odontoragie	1
 tălăzuire	1
+paleoslav	0
 paleoslavă	1
 lubrifiere	1
 carboxil	0
@@ -26261,8 +27962,10 @@ umblătoare	1
 sadomasochist	0
 hidrochimist	0
 taiga	1
+xenofil	0
 xenofilă	1
 vătui	0
+gnostic	0
 gnostică	1
 plivitor	0
 cavilă	1
@@ -26283,6 +27986,7 @@ clubman	0
 capucinadă	1
 buldog	0
 poliglobulie	1
+ecologist	0
 ecologistă	1
 bistriţeancă	1
 terapeutică	1
@@ -26300,6 +28004,7 @@ spiţereasă	1
 impregnaţie	1
 autoimunitate	1
 butuc	0
+austriac	0
 austriacă	1
 excavatoristă	1
 copoclefil	0
@@ -26312,7 +28017,9 @@ struguraş	0
 rizofită	1
 exînscriere	1
 menire	1
+dac	0
 dacă	1
+dam	0
 meschinărie	1
 pisar	0
 armăsăruş	0
@@ -26320,8 +28027,10 @@ boială	1
 centralizaţie	1
 hemolimfă	1
 camelotă	1
+multhusianist	0
 multhusianistă	1
 setcar	0
+voltairian	0
 voltairiană	1
 radiogazetă	1
 traheidă	1
@@ -26371,6 +28080,7 @@ prunuţ	0
 tătăroaică	1
 electromiografie	1
 expectorare	1
+întorsurean	0
 întorsureană	1
 şaisprezecime	1
 ocară	1
@@ -26379,9 +28089,11 @@ prunc	0
 orăcăială	1
 prezentaţie	1
 detractoare	1
+cerchez	0
 cercheză	1
 frunzătură	1
 prăfuire	1
+galofob	0
 galofobă	1
 ignorare	1
 milogeală	1
@@ -26411,12 +28123,15 @@ păzitoare	1
 lectură	1
 sciatică	1
 prorector	0
+mocăit	0
 mocăită	1
 amazoană	1
+drept-credincios	0
 drept-credincioasă	1
 anesteziolog	0
 lipitoare	1
 greutate	1
+sfânt	0
 sfântă	1
 biomatematician	0
 disipare	1
@@ -26426,6 +28141,7 @@ alcoolic	0
 urgentare	1
 bombardă	1
 depanare	1
+hilozoist	0
 hilozoistă	1
 brasardă	1
 iuncher	0
@@ -26437,6 +28153,7 @@ balansină	1
 ghiorţăitură	1
 talofită	1
 zidăreasă	1
+guşat	0
 guşată	1
 denisipare	1
 ţistuitură	1
@@ -26452,9 +28169,11 @@ trabant	0
 mascare	1
 mascara	1
 venă	1
+eugenist	0
 eugenistă	1
 balată	1
 cratiţă	1
+eritematos	0
 eritematoasă	1
 şambrană	1
 epatare	1
@@ -26472,6 +28191,7 @@ muiere	1
 cromoproteidă	1
 nedreptate	1
 scenografie	1
+molet	0
 cosmetolog	0
 receptare	1
 pichire	1
@@ -26497,6 +28217,7 @@ albinuşă	1
 fermieră	1
 ciocoi	0
 lovire	1
+pakistanez	0
 pakistaneză	1
 silabă	1
 mastopatie	1
@@ -26507,6 +28228,7 @@ gărgăun	0
 camionetă	1
 entomolog	0
 adorator	0
+panarabist	0
 panarabistă	1
 împresurare	1
 poligrafie	1
@@ -26524,6 +28246,7 @@ iov	0
 dârstă	1
 ion	0
 găbuire	1
+tăinuitor	0
 tăinuitoare	1
 ştănţar	0
 grăjdar	0
@@ -26549,6 +28272,8 @@ găluşcuţă	1
 melasare	1
 recepare	1
 şeptar	0
+trac	0
+tracă	1
 sofa	1
 paranestezie	1
 gazetă	1
@@ -26567,7 +28292,9 @@ antipod	0
 zărgan	0
 incorecţiune	1
 prefixare	1
+preformist	0
 preformistă	1
+islandez	0
 islandeză	1
 consumare	1
 nastie	1
@@ -26577,6 +28304,7 @@ comunard	0
 gruiforme	1
 aprobare	1
 toporişcă	1
+feştelitor	0
 feştelitoare	1
 dură	1
 aranjor	0
@@ -26629,6 +28357,7 @@ trepanare	1
 africanistă	1
 scriptoman	0
 stanţă	1
+membru	0
 semilună	1
 telexist	0
 valonee	1
@@ -26645,6 +28374,7 @@ apaş	0
 zarzăr	0
 musă	1
 radiomicrometru	0
+halogen	0
 halogenă	1
 grisină	1
 geanabet	0
@@ -26653,10 +28383,13 @@ generalizaţie	1
 psihastenică	1
 şerfuire	1
 pomieră	1
+ţigan	0
 ţigană	1
+sud-dunărean	0
 sud-dunăreană	1
 veric	0
 speteală	1
+vizigot	0
 vizigotă	1
 şamotare	1
 termofixare	1
@@ -26667,6 +28400,7 @@ sancţionare	1
 slugărnicie	1
 carnasier	0
 minte	1
+cotei	0
 tasterist	0
 scrânteală	1
 zugrăvire	1
@@ -26689,6 +28423,7 @@ refrigeraţie	1
 gudronare	1
 ortac	0
 înflorire	1
+iconoclast	0
 iconoclastă	1
 terebintacee	1
 nuia	1
@@ -26697,6 +28432,7 @@ degudronare	1
 purulenţă	1
 scabrozitate	1
 şireglă	1
+mirean	0
 mireană	1
 apar	0
 felceriţă	1
@@ -26712,6 +28448,7 @@ anghilide	1
 amuletă	1
 cromist	0
 fratricidă	1
+fratricid	0
 suficienţă	1
 înglobare	1
 lânar	0
@@ -26747,13 +28484,16 @@ boarfă	1
 împroşcătură	1
 lapidator	0
 digestă	1
+iordanian	0
 iordaniană	1
 megadină	1
 clătinare	1
 filolog	0
+abonat	0
 abonată	1
 cardatoare	1
 pirandă	1
+gogoman	0
 gogomană	1
 cetăţeană	1
 orografă	1
@@ -26776,6 +28516,7 @@ viorică	1
 nefârtat	0
 crotalie	1
 aortografie	1
+defrişator	0
 abilitare	1
 undire	1
 recarburare	1
@@ -26806,6 +28547,7 @@ ergotoxină	1
 hipertermie	1
 vindere	1
 valvolină	1
+sibarit	0
 sibarită	1
 balneolog	0
 profanare	1
@@ -26846,6 +28588,7 @@ periostoză	1
 substitut	0
 orândaş	0
 fioritură	1
+disimulator	0
 disimulatoare	1
 metamorfozare	1
 studeniţă	1
@@ -26856,8 +28599,10 @@ nuculeţ	0
 tibia	1
 jupaniţă	1
 mozaistă	1
+glob	0
 tombateră	1
 operetă	1
+curie	1
 patisier	0
 paratiroidectomie	1
 timariot	0
@@ -26893,6 +28638,7 @@ spirometrie	1
 endecasilab	0
 flotare	1
 calamitate	1
+începător	0
 începătoare	1
 junghietură	1
 crăcuşor	0
@@ -26918,6 +28664,7 @@ surpătură	1
 viermişor	0
 godină	1
 mutare	1
+utilizator	0
 utilizatoare	1
 percusiune	1
 ineaţă	1
@@ -26943,8 +28690,10 @@ popă	0
 aurar	0
 sacristan	0
 fonon	0
+eponim	0
 eponimă	1
 decongelaţie	1
+marcator	0
 bastonadă	1
 subagent	0
 autolibrărie	1
@@ -26965,6 +28714,7 @@ covariaţie	1
 incendiatoare	1
 căţelul-pământului	0
 inspirare	1
+târgoviştean	0
 târgovişteană	1
 sfidare	1
 crabot	0
@@ -26997,7 +28747,9 @@ hibridare	1
 clacare	1
 godie	1
 chicoteală	1
+difuzor	0
 metabolă	1
+godin	0
 bagea	1
 carafă	1
 răpăitură	1
@@ -27019,14 +28771,17 @@ horitură	1
 testoare	1
 invenţiune	1
 cicloliză	1
+grafoman	0
 grafomană	1
 drumeţ	0
 prepunere	1
 pervertire	1
+concordatar	0
 concordatară	1
 narcomanie	1
 luxfer	0
 timonerie	1
+găgăuz	0
 găgăuză	1
 crâşmuşoară	1
 suprapopulaţie	1
@@ -27081,6 +28836,7 @@ inflamare	1
 amforetă	1
 reînsănătoşire	1
 polemistă	1
+călărăşean	0
 călărăşeană	1
 aterizare	1
 prezbiopie	1
@@ -27122,7 +28878,9 @@ guşuliţă	1
 ciuciulete	0
 motoaşcă	1
 ceauş	0
+italienist	0
 italienistă	1
+confluent	0
 confluentă	1
 meningită	1
 lustragiu	0
@@ -27142,12 +28900,15 @@ lichidator	0
 ecranare	1
 visătorie	1
 udeală	1
+australian	0
 australiană	1
 îndoitură	1
 reinstaurare	1
 predispoziţie	1
 poetesă	1
+megaloman	0
 megalomană	1
+conductor	0
 stereotipare	1
 selvă	1
 properdină	1
@@ -27162,11 +28923,13 @@ macagiu	0
 microanchetă	1
 vâlceluşă	1
 zeamă	1
+fericit	0
 fericită	1
 decalare	1
 arminden	0
 relicvă	1
 anacruză	1
+zălog	0
 neascultare	1
 sărbătorire	1
 rafinărie	1
@@ -27174,6 +28937,8 @@ catarinian	0
 neper	0
 şapă	1
 pisică	1
+florar	0
+spaniol	0
 spaniolă	1
 jurisdicţie	1
 polisinteză	1
@@ -27210,6 +28975,7 @@ gentilom	0
 catapeteasmă	1
 maior	0
 gândac	0
+examinator	0
 examinatoare	1
 sosire	1
 viereasă	1
@@ -27245,6 +29011,7 @@ văgăună	1
 emfiteoză	1
 microuzină	1
 cincar	0
+claustrofob	0
 claustrofobă	1
 pelican	0
 ursoaică	1
@@ -27257,6 +29024,7 @@ măcăitură	1
 hărăzire	1
 galvanizator	0
 molasă	1
+difluent	0
 difluentă	1
 rincocefal	0
 sincronizare	1
@@ -27271,6 +29039,7 @@ proliferare	1
 duşmancă	1
 evaziune	1
 hectowatt	0
+reasigurator	0
 reasiguratoare	1
 eurobancă	1
 supraproblemă	1
@@ -27285,6 +29054,7 @@ injustiţie	1
 mecenat	0
 polaron	0
 mândrulică	1
+fantascientist	0
 fantascientistă	1
 dezintoxicare	1
 namestie	1
@@ -27304,12 +29074,16 @@ târsoagă	1
 strună	1
 ontogenist	0
 extragere	1
+multiplu	0
 multiplă	1
+judeţ	0
 ceşculiţă	1
+dobrogean	0
 dobrogeană	1
 luxon	0
 bizantinist	0
 returnare	1
+senior	0
 senioară	1
 caldarâmgiu	0
 difuzoare	1
@@ -27340,6 +29114,7 @@ stropuşor	0
 bujor	0
 toracenteză	1
 apropriere	1
+tezist	0
 tezistă	1
 harpie	1
 farmacopee	1
@@ -27349,6 +29124,7 @@ narval	0
 concreştere	1
 referire	1
 trosnitură	1
+copartajant	0
 copartajantă	1
 nevestică	1
 magistru	0
@@ -27359,6 +29135,7 @@ leucoderivat	0
 geochimistă	1
 pătimire	1
 postulant	0
+transnistrian	0
 transnistriană	1
 decopertare	1
 cauciucare	1
@@ -27420,6 +29197,7 @@ sirenă	1
 comă	1
 chelonian	0
 zaharniţă	1
+lapte	0
 incisivitate	1
 mirmidon	0
 suprafin	0
@@ -27480,6 +29258,7 @@ ionizare	1
 congresman	0
 ţoală	1
 xilolitografie	1
+feudal	0
 feudală	1
 juxtapunere	1
 sălăşluinţă	1
@@ -27501,14 +29280,18 @@ convecţie	1
 trântire	1
 coarnă	1
 risbermă	1
+ultrademocrat	0
 ultrademocrată	1
+ectoparazit	0
 ectoparazită	1
 smotocire	1
 inamiciţie	1
 activitate	1
+trasator	0
 venită	1
 izolexă	1
 durată	1
+unguligrad	0
 unguligradă	1
 descensiune	1
 tetradrahmă	1
@@ -27536,13 +29319,16 @@ căsăpie	1
 cetiniţă	1
 faţetă	1
 infirmare	1
+zelator	0
 zelatoare	1
 inie	1
 suprapresiune	1
 pupare	1
+libertar	0
 libertară	1
 colăcărie	1
 horezeancă	1
+lupan	0
 lupană	1
 decembrist	0
 curelar	0
@@ -27577,14 +29363,17 @@ mangaliţă	1
 epulon	0
 uşuţă	1
 orchestrină	1
+neofascist	0
 neofascistă	1
 pulsiune	1
+hârşovean	0
 hârşoveană	1
 cătăniţă	1
 ipochimen	0
 blănar	0
 capişte	1
 sârmar	0
+expresionist	0
 expresionistă	1
 noruţ	0
 alcoxid	0
@@ -27599,6 +29388,7 @@ oreşniţă	1
 hiperemie	1
 revocaţie	1
 muzeograf	0
+rezinean	0
 rezineană	1
 popreală	1
 definire	1
@@ -27607,6 +29397,7 @@ generalitate	1
 grindă	1
 lipovean	0
 microradiografie	1
+senegalez	0
 senegaleză	1
 curăţare	1
 despuiere	1
@@ -27624,6 +29415,7 @@ martiră	1
 coabitare	1
 colaborator	0
 megalopsie	1
+bursier	0
 bursieră	1
 stoarcere	1
 secreţie	1
@@ -27634,9 +29426,11 @@ rachierie	1
 trăistioară	1
 cafegioaică	1
 exultanţă	1
+lidian	0
 lidiană	1
 cartnic	0
 frăsinel	0
+vânj	0
 teatralistă	1
 trilemă	1
 grande	0
@@ -27646,6 +29440,7 @@ lavrac	0
 graficiană	1
 viroză	1
 manivelă	1
+scientist	0
 scientistă	1
 dană	1
 acuzată	1
@@ -27653,12 +29448,15 @@ derută	1
 pânzar	0
 beladonă	1
 psihofiziciană	1
+opresor	0
 opresoare	1
 hidroizolant	0
 părângă	1
 paporniţă	1
+conformist	0
 conformistă	1
 scorojire	1
+armean	0
 armeană	1
 psihometrician	0
 cerebrozidă	1
@@ -27676,11 +29474,13 @@ intervievare	1
 trişcă	1
 autoritate	1
 stamină	1
+osmanlâu	0
 osmanlâie	1
 frescă	1
 eleuterie	1
 îmbucare	1
 îmbrânceală	1
+rezident	0
 rezidentă	1
 nulitate	1
 regată	1
@@ -27704,10 +29504,12 @@ patinare	1
 clironom	0
 trestie	1
 radical	0
+năprasnic	0
 năprasnică	1
 idioplasmă	1
 canava	1
 fluorurare	1
+meglenoromân	0
 meglenoromână	1
 rinoscopie	1
 manşă	1
@@ -27715,6 +29517,7 @@ repaginare	1
 macioală	1
 motănel	0
 primitivizare	1
+nisporenean	0
 nisporeneană	1
 dimie	1
 camuflare	1
@@ -27726,6 +29529,7 @@ rabinist	0
 impozitare	1
 pisare	1
 cătană	1
+triumfalist	0
 triumfalistă	1
 bronhiolă	1
 albie	1
@@ -27753,8 +29557,10 @@ branişte	1
 soarea	1
 cuibărire	1
 cuirasare	1
+endoparazit	0
 endoparazită	1
 entorsă	1
+confuzionist	0
 confuzionistă	1
 surpriză	1
 ţinutaş	0
@@ -27765,6 +29571,7 @@ fudulie	1
 sechestrare	1
 sincopare	1
 compresorist	0
+răufăcător	0
 răufăcătoare	1
 trândăveală	1
 nerozie	1
@@ -27787,17 +29594,20 @@ comorian	0
 frăguliţă	1
 moină	1
 antrachinonă	1
+covăsnean	0
 covăsneană	1
 peregrinare	1
 combainist	0
 petrecanie	1
 diachenă	1
 bortă	1
+făcător	0
 făcătoare	1
 jitniţă	1
 păltinel	0
 gestaţie	1
 peroraţie	1
+profascist	0
 profascistă	1
 infinitate	1
 şfei	0
@@ -27814,6 +29624,7 @@ radioprotecţie	1
 paleobotanist	0
 minibaschetbalistă	1
 giberelină	1
+mercenar	0
 mercenară	1
 fardare	1
 dactilomegalie	1
@@ -27824,6 +29635,7 @@ hidrocentrală	1
 rocarniţă	1
 îngăimare	1
 computeristă	1
+c	0
 ialomiţeană	1
 roşăţea	1
 ciuturea	1
@@ -27850,6 +29662,7 @@ toponimie	1
 orchestraţie	1
 intenţie	1
 pistruială	1
+falansterian	0
 falansteriană	1
 udare	1
 postdatare	1
@@ -27879,6 +29692,7 @@ dezarticulare	1
 descendenţă	1
 colonizare	1
 harfă	1
+deportat	0
 deportată	1
 siemens	0
 metis	0
@@ -27887,6 +29701,7 @@ bară	1
 dănţuire	1
 stabilovolt	0
 ergonă	1
+gimcanist	0
 gimca-nistă	1
 bruş	0
 licenţiată	1
@@ -27898,13 +29713,16 @@ alungare	1
 căprărie	1
 scriptor	0
 butadă	1
+sufist	0
 sufistă	1
 rediscutare	1
 balastare	1
+nord-coreean	0
 nord-coreeană	1
 egalizare	1
 plagiostom	0
 culturologă	1
+sud-coreean	0
 sud-coreeană	1
 jardinieră	1
 eritrină	1
@@ -27923,10 +29741,13 @@ mâţă	1
 verbenacee	1
 decapitaţie	1
 arhimicetă	1
+epicureu	0
 epicuree	1
+pasager	0
 pasageră	1
 ţilindru	0
 paleoetnolog	0
+cuman	0
 cumană	1
 contrasăgeată	1
 tentativă	1
@@ -27940,6 +29761,7 @@ turist	0
 jitar	0
 frigare	1
 transvazare	1
+polinezian	0
 polineziană	1
 aheu	0
 interioritate	1
@@ -27978,6 +29800,7 @@ regiune	1
 bodogăneală	1
 prăvălioară	1
 protocarbură	1
+feroviar	0
 feroviară	1
 pas	0
 batracian	0
@@ -27988,6 +29811,7 @@ mortezare	1
 tonă-kilometru	1
 peticar	0
 zădărnicire	1
+cuvântător	0
 cuvântătoare	1
 reflectare	1
 pescuire	1
@@ -28020,6 +29844,7 @@ mândrie	1
 humă	1
 foşnire	1
 perturbare	1
+hinduist	0
 hinduistă	1
 şleahtic	0
 triatlonistă	1
@@ -28032,6 +29857,7 @@ leat	0
 agud	0
 repetitor	0
 mielărea	1
+modelator	0
 xerografist	0
 zurbavă	1
 împoncişare	1
@@ -28057,6 +29883,7 @@ japă	1
 tropăială	1
 psihologizare	1
 gură	1
+slut	0
 slută	1
 descoperire	1
 profesor	0
@@ -28065,6 +29892,7 @@ poteră	1
 puşcă	1
 cafru	0
 decatlonistă	1
+dornean	0
 dorneană	1
 neuropsiholog	0
 telal	0
@@ -28075,6 +29903,7 @@ universiadă	1
 zoopatie	1
 decapitare	1
 recursie	1
+ghid	0
 neizbândă	1
 iconiţă	1
 păruială	1
@@ -28119,6 +29948,7 @@ izooctan	0
 paleoantropolog	0
 gamogeneză	1
 luptaş	0
+regretat	0
 regretată	1
 progenitură	1
 oftalmie	1
@@ -28131,8 +29961,10 @@ sculptură	1
 ofiolog	0
 yoghin	0
 caracterologă	1
+scorbutic	0
 scorbutică	1
 şarnieră	1
+hipoman	0
 hipomană	1
 filiaţie	1
 mutră	1
@@ -28146,6 +29978,7 @@ trăncănire	1
 graviton	0
 defalsificare	1
 lungan	0
+fanariot	0
 fanariotă	1
 etilenglicol	0
 preamărire	1
@@ -28154,6 +29987,7 @@ disamară	1
 oxigenare	1
 şerb	0
 ponegrire	1
+tist	0
 tras	0
 comândare	1
 muralist	0
@@ -28178,6 +30012,7 @@ cais	0
 parametrită	1
 caid	0
 caia	1
+ionic	0
 ionică	1
 arhondar	0
 muceniţă	1
@@ -28188,6 +30023,7 @@ privare	1
 garare	1
 buhăială	1
 interpenetraţie	1
+sarazin	0
 sarazină	1
 arhimilionar	0
 practică	1
@@ -28203,10 +30039,12 @@ niprală	1
 cantoră	1
 faunistă	1
 mistificaţie	1
+documentalist	0
 documentalistă	1
 nebulozitate	1
 distilerie	1
 coagulogramă	1
+sperjur	0
 ajutoare	1
 hipodermoză	1
 ciută	1
@@ -28225,6 +30063,7 @@ zenana	1
 flibusterie	1
 afemeiat	0
 hecatombă	1
+centru	0
 pacişă	1
 marţafoi	0
 curtean	0
@@ -28234,9 +30073,11 @@ opincă	1
 escobar	0
 betelie	1
 ulan	0
+şlefuitor	0
 şlefuitoare	1
 pensionar	0
 nucleol	0
+holistic	0
 holistică	1
 oxicefalie	1
 hortensie	1
@@ -28248,6 +30089,7 @@ muscuţă	1
 creanţă	1
 insectă	1
 spermatecă	1
+septuagenar	0
 septuagenară	1
 baş-caimacam	0
 oploşire	1
@@ -28263,6 +30105,7 @@ ocnă	1
 ocolire	1
 vier	0
 securice	1
+pizmaş	0
 pizmaşă	1
 îngălare	1
 unghişoară	1
@@ -28278,6 +30121,7 @@ miercuri	1
 diplomă	1
 contemperaţie	1
 sporogeneză	1
+marxist-leninist	0
 marxist-leninistă	1
 miozină	1
 bandotecă	1
@@ -28291,6 +30135,7 @@ sonetist	0
 sonantă	1
 anticar	0
 stâlpuleţ	0
+secesionist	0
 secesionistă	1
 băcăuan	0
 chibiţ	0
@@ -28355,6 +30200,7 @@ patrie	1
 cabaletă	1
 azalee	1
 grizare	1
+intuiţionist	0
 intuiţionistă	1
 microfilmare	1
 poreclire	1
@@ -28445,9 +30291,11 @@ odorizant	0
 oospor	0
 mită	1
 lance	1
+hidropic	0
 hidropică	1
 vatră	1
 junc	0
+june	0
 jună	1
 ecloziune	1
 nitrobacterie	1
@@ -28455,5 +30303,6 @@ răchită	1
 dezbinare	1
 concetăţean	0
 antirasist	0
+muncitor	0
 muncitoare	1
 nervaţiune	1

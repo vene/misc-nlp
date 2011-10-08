@@ -1,4 +1,3 @@
-ponivos
 tahân
 tason
 gavaj
@@ -28,6 +27,7 @@ lănţişor
 octatlon
 stăvilar
 mamifer
+somn
 manicord
 taxofon
 coltucel
@@ -36,13 +36,13 @@ nesfârşit
 şariaj
 hidromonitor
 autoplug
+fertilizator
 fir
 portcuţit
 fibrobeton
 şot
 abţibild
 nixis
-ortodoxist
 exordiu
 aerocartograf
 supliciu
@@ -69,7 +69,6 @@ piscan
 degresaj
 laitmotiv
 increment
-reşiţean
 priboi
 monopodiu
 tecs
@@ -109,15 +108,16 @@ boiler
 vânticel
 depresiometru
 higrograf
-iubit
 hal
 ham
+han
 hac
 haz
 hap
 har
 hat
 preterit
+sferolit
 gravimetru
 dedal
 miniscaf
@@ -141,7 +141,6 @@ algoritm
 incinerator
 duel
 emulsionant
-pelur
 duet
 audioprotector
 repelent
@@ -149,7 +148,6 @@ sanatoriu
 etalonaj
 şteand
 sfărâmător
-psihrofil
 microautomobil
 rechizitoriu
 psihism
@@ -205,7 +203,6 @@ catahris
 jurnal
 menzil
 microagregat
-născut
 zimberechi
 moleschin
 avertisment
@@ -257,9 +254,7 @@ mildiograf
 ţintar
 generator
 tălpoi
-prăşitor
 biomotor
-nemţean
 gisment
 grui
 regulament
@@ -269,7 +264,6 @@ termofor
 termofon
 periact
 crepon
-pocăit
 cuplet
 vehicul
 strapazan
@@ -337,6 +331,7 @@ dozimetru
 echinocţiu
 scruntar
 carmac
+depănător
 megametru
 diafilm
 bavardaj
@@ -356,7 +351,6 @@ aeromodel
 anteport
 oligochet
 miar
-recitant
 arabism
 virus
 homotransplant
@@ -366,6 +360,7 @@ finisaj
 duolet
 trupuşor
 semirecital
+lombard
 caramel
 facturier
 analog
@@ -383,13 +378,11 @@ lingou
 perimetru
 batiscaf
 velociped
-nevropat
 cuptoraş
 portchei
 refrigerent
 şalander
 subsidiu
-prezbiterian
 scâncet
 paiol
 baipas
@@ -514,6 +507,7 @@ demisol
 atic
 costotom
 ostracod
+gălămoz
 nimitez
 brec
 electrofon
@@ -548,7 +542,6 @@ icnet
 avizo
 veleat
 indice
-plointe
 pulverizator
 traforaj
 eritrocit
@@ -566,7 +559,6 @@ manotermograf
 hidroglisor
 triptic
 schilift
-neorealist
 ectip
 paradox
 diedru
@@ -624,12 +616,12 @@ perdaf
 statut
 spălat
 hârzob
-prostănac
 granodiorit
 plot
 plod
 adamant
 gazogenerator
+erg
 portdrapel
 cauter
 jertfelnic
@@ -653,7 +645,6 @@ stihar
 îngrăşătmânt
 cromometru
 autofurgon
-palatin
 sampan
 intertext
 alburn
@@ -675,6 +666,7 @@ prânzuţ
 opăicior
 scarificator
 răşchiat
+blocant
 furtun
 lucru
 agriotip
@@ -690,13 +682,13 @@ tamâş
 puricat
 rahat
 triod
+uricar
 conţ
 economat
 eres
 număr
 termomanometru
 excrement
-nonconformist
 ocinaş
 topmodel
 cuptor
@@ -734,13 +726,11 @@ herpes
 opis
 verbiaj
 lavaj
-ocârmuitor
 debleu
 interimat
 răzuş
 baptisteriu
 trenuleţ
-nou-născut
 nervil
 copartaj
 borţ
@@ -759,9 +749,11 @@ vârf
 tefelug
 ciuroi
 feredeu
+urdar
 rizotom
 cost
 anemotrop
+pluton
 botez
 botei
 ulcus
@@ -800,8 +792,8 @@ declinator
 indigenat
 ghiontit
 tirfon
+sol
 absorbant
-plutonian
 tranzistormetru
 telecentru
 sos
@@ -818,7 +810,6 @@ biciuşor
 panicul
 sferometru
 amnios
-roşiorean
 focuşor
 năsuţ
 puding
@@ -826,13 +817,14 @@ semideşert
 gărdinar
 diagnostic
 eşantionaj
-rutinar
 plastotip
 ring
 rebrusment
 cumul
 ceainic
 ghizd
+antijivrant
+multiplicator
 fârnâit
 platelaj
 borhot
@@ -844,10 +836,10 @@ glisaj
 litosol
 stopaj
 femur
+debavurator
 răsad
 dezarimaj
 diafanoscop
-recurent
 oberec
 hurican
 coccis
@@ -885,7 +877,7 @@ climostat
 taxi
 vagon-cisternă
 înmuietor
-saprofită
+saprofit
 haram
 voal
 anterofor
@@ -902,6 +894,7 @@ cilindrom
 descălţat
 pitoi
 rubefiant
+piton
 jalon
 tempofon
 automotor
@@ -929,9 +922,9 @@ picotaj
 macrosistem
 cetiniş
 puc
+cathartic
 aminoalcool
 mărfar
-rusofob
 crater
 pseudopod
 motoreactor
@@ -962,10 +955,8 @@ cep
 minologhion
 magnetofon
 cortuleţ
-tăvălug
 picur
 tălmăşag
-potcaş
 paraşoc
 antizgomot
 lactometru
@@ -983,7 +974,6 @@ letopiseţ
 scruber
 permeametru
 gref
-greacă
 vibrator
 gren
 încreţ
@@ -1006,7 +996,6 @@ fisurometru
 oronimic
 gărduţ
 strup
-recunoscător
 parmaclâc
 monostil
 reversor
@@ -1017,7 +1006,6 @@ răscol
 şalutier
 dezasamblor
 consimţământ
-carcalete
 mămăligoi
 şrapnel
 tonou
@@ -1031,6 +1019,7 @@ pact
 muşuroi
 aerotopograf
 proluviu
+heliotrop
 deluţ
 salpetraj
 grant
@@ -1046,13 +1035,11 @@ cadou
 minicomputer
 hiacint
 ambulacru
-radicalist
 onorariu
 zăpuc
 anrocament
 foraibăr
 productometru
-pangermanic
 asteronim
 cabotaj
 papus
@@ -1061,7 +1048,6 @@ institut
 rulaj
 meterez
 combinator
-paratific
 aneroid
 coraport
 antiscorbutic
@@ -1078,9 +1064,7 @@ cronometru
 brahianticlinal
 macroelement
 antimăluric
-pidosnic
 turnuleţ
-ritualist
 estimat
 sicriu
 ghiold
@@ -1109,7 +1093,6 @@ nart
 pirheliograf
 talaz
 antinevralgic
-talan
 filament
 fard
 interviu
@@ -1133,6 +1116,7 @@ coferdam
 meniu
 abraziv
 mausoleu
+achiu
 branhiopod
 renghi
 asediu
@@ -1168,7 +1152,6 @@ oxiton
 geoecotip
 miliar
 tipometru
-paleocreştin
 huliganism
 gâtlej
 tunel
@@ -1197,12 +1180,12 @@ gât
 chinonic
 răftuleţ
 aerograf
+focalizator
 balcanism
 ispisoc
 cataif
 radioclub
 balastru
-lăptişor
 crucişător
 diapir
 transsaharian
@@ -1233,6 +1216,7 @@ stal
 dansometru
 radioghidaj
 bronhometru
+sinet
 aul
 patefon
 aut
@@ -1250,7 +1234,6 @@ provizion
 cepăit
 cotărit
 monobloc
-pretorian
 biotip
 receptacul
 şteamp
@@ -1260,7 +1243,6 @@ terminator
 climat
 climax
 autotren
-obsedat
 cineproiector
 plastron
 clinometru
@@ -1314,7 +1296,6 @@ sferoid
 subsecretariat
 marcaj
 umeraş
-scuipat
 plonjor
 irmos
 plonjon
@@ -1328,7 +1309,6 @@ specul
 cojoc
 lapiez
 sculişor
-parolist
 lacrimatoriu
 cant
 umerar
@@ -1348,7 +1328,6 @@ cuiuţ
 bucheţel
 portvizit
 deal
-salonican
 centon
 şenal
 confesional
@@ -1361,7 +1340,6 @@ linţoliu
 ascuţiş
 puşcoci
 simptom
-orez
 spătar
 macmahon
 ametist
@@ -1388,7 +1366,6 @@ rântaş
 pachebot
 arhaism
 cârlig
-pursângele
 derivor
 cvorum
 hlei
@@ -1399,6 +1376,7 @@ zurbalâc
 sarcocel
 mucher
 virulicid
+box
 bor
 bot
 boi
@@ -1419,6 +1397,7 @@ monosilab
 mijloc
 sicrinel
 andruc
+antiholeric
 flajolet
 aerobioscop
 boş
@@ -1427,6 +1406,7 @@ picător
 boţ
 ochean
 rapanghel
+monitor
 comiţiu
 flagelat
 drapaj
@@ -1458,6 +1438,7 @@ carburator
 capitul
 popic
 izdat
+hidrograf
 hidrograd
 colaps
 şopron
@@ -1478,7 +1459,6 @@ iernător
 vertical
 lemnar
 ambitus
-perinefritic
 sagum
 autotransport
 rodor
@@ -1493,7 +1473,6 @@ chicotit
 cocs
 alcazar
 repartizor
-refugiat
 enometru
 huludeţ
 oficleid
@@ -1514,7 +1493,6 @@ ciuf
 conspect
 mareşalat
 scuter
-obstrucţionist
 amalgamator
 şuberec
 omuşor
@@ -1529,6 +1507,7 @@ locativ
 jnepeniş
 decagram
 şiretlic
+deschizător
 zgrunţur
 percept
 coltuc
@@ -1553,6 +1532,7 @@ ajutor
 liogel
 demarcaj
 mărăcinet
+perforator
 glicometru
 ius
 ionizor
@@ -1571,7 +1551,6 @@ gazogen
 nomocanon
 muls
 capitonaj
-mărit
 cuibar
 bageac
 criotron
@@ -1610,12 +1589,12 @@ autodrum
 top
 schiascop
 emporiu
+viespar
 tolometru
 rezervatar
 tom
 inconvenient
 ştempel
-prezbit
 chitonog
 biftec
 contrabaraj
@@ -1648,7 +1627,6 @@ restaurant
 litotom
 microgrup
 termoscop
-poliglot
 practicabil
 gerid
 semiartizanat
@@ -1687,6 +1665,7 @@ contactor
 montaj
 epiu
 cuvânt-cheie
+fistic
 periat
 cincinal
 mezanin
@@ -1713,7 +1692,6 @@ mixaj
 erbivor
 explozor
 zbucium
-recuzat
 patrimoniu
 compost
 garou
@@ -1725,7 +1703,6 @@ racursi
 dolman
 perimet
 cracaj
-safen
 talent
 tractir
 nartex
@@ -1747,18 +1724,16 @@ beilic
 inhalator
 lunecuş
 carcafung
-ocnean
 emulsor
 ieşind
 giroscop
 maracas
 mastisol
+momârlan
 cofraj
 termenvox
-refulat
 scolex
 facometru
-acronim
 rondel
 contraproiect
 dicteu
@@ -1782,13 +1757,13 @@ vaporizator
 acostament
 polonic
 menhir
-neohegelian
 directorat
 acatist
 radiomicrofon
 seiner
 tranchet
 altoi
+gelep
 saric
 alternator
 sitometru
@@ -1801,6 +1776,7 @@ agarlâc
 drumuşor
 nutriment
 jupon
+porcoiaş
 piezograf
 teritoriu
 pedolit
@@ -1818,6 +1794,7 @@ contencios
 pelosol
 cârd
 antinefretic
+grindei
 reglement
 stereocomparator
 suprafluid
@@ -1825,7 +1802,6 @@ monostih
 pacheţel
 compartimentaj
 fliş
-titirez
 miniecran
 clondiraş
 dubas
@@ -1836,7 +1812,6 @@ eneagon
 parloar
 creionaş
 bogasiu
-hioid
 răsunet
 foişor
 adenom
@@ -1848,7 +1823,7 @@ salvconduct
 lepidopter
 omnibuz
 ortotest
-şabacă
+şabac
 tril
 erizipel
 flit
@@ -1867,12 +1842,12 @@ tratat
 şnuruleţ
 sincronizor
 elizeu
+paricid
 microeseu
 avizier
 catavasier
 icositetraedru
 magazinaj
-pădurean
 blum
 impulsor
 revolver
@@ -1885,6 +1860,7 @@ certificat
 bonier
 prescript
 prozodem
+ferăstrăiaş
 hobot
 exponometru
 ornic
@@ -1920,13 +1896,11 @@ agneţ
 pardesiaş
 portal
 sporofit
-paseist
 şampon
 corpus
 sfalerit
 turbogenerator
 gheizer
-regionalist
 dublor
 dublou
 pamflet
@@ -1941,17 +1915,16 @@ măraz
 semiprodus
 schituleţ
 hexareactor
-paşoptist
 pulsometru
 tropic
 sceptru
 ultimatum
+omucid
 jocot
 mucegai
 paroi
 sulac
 răsărit
-galben
 betonaj
 clupaj
 ecleraj
@@ -2008,8 +1981,8 @@ aht
 prepozitiv
 transoceanic
 saleduct
-puturos
 comprimat
+cotizator
 decastil
 morb
 zodiar
@@ -2028,7 +2001,7 @@ fermentograf
 prislop
 purces
 crâmpeiaş
-nomad
+guşter
 rol
 rom
 roc
@@ -2061,7 +2034,6 @@ sextilion
 hipnotic
 partaj
 partal
-preabun
 citostatic
 idiomatism
 miriapod
@@ -2090,11 +2062,11 @@ psihotonic
 turn
 turf
 cotlonaş
+frezor
 ciurechi
 cesuleţ
 cuier
 grund
-grunz
 trocanter
 ventricul
 monoplan
@@ -2132,7 +2104,6 @@ potiraş
 videofon
 dilatograf
 tuleu
-poantilist
 spirit
 exerciţiu
 ecolot
@@ -2155,7 +2126,6 @@ prolaps
 bruft
 suflet
 tecalemit
-reactiv
 schit
 schip
 motocultivator
@@ -2173,7 +2143,6 @@ tahiscop
 portament
 felid
 budoar
-preistoric
 lactobar
 tensometru
 capitel
@@ -2202,7 +2171,6 @@ suflai
 pocnet
 trusou
 crupion
-pângăritor
 vivariu
 sandvici
 hârdău
@@ -2217,13 +2185,13 @@ penticostar
 cicloscop
 flan
 peletic
-purtător
 chiuit
 exuvie
 saivan
 cerambicid
 azur
 buruieniş
+infanticid
 activator
 subgrup
 vârfuşor
@@ -2270,9 +2238,7 @@ ier
 intermezzo
 proces
 gabarit
-ploieştean
 extensor
-nou-venit
 taxid
 băltău
 copolimer
@@ -2291,7 +2257,6 @@ maser
 ecoscop
 defect
 şpul
-profeminist
 liniament
 paraziticid
 eseiaj
@@ -2349,7 +2314,6 @@ radiotelemetru
 blastoderm
 tahistoscop
 macroprogram
-ducă
 kinescop
 ciubucar
 acin
@@ -2357,11 +2321,9 @@ catehism
 compas
 fular
 codruleţ
-peripatetic
 turbotren
 arivaj
 mator
-proletcultist
 portsemnal
 pasametru
 grupuleţ
@@ -2379,7 +2341,6 @@ poduţ
 glei
 glet
 paratoner
-republican
 cleuasm
 şiştar
 cotlon
@@ -2393,12 +2354,10 @@ precompilator
 patvagon
 organit
 tribord
-predelean
 comarnic
 bidon
 mohair
 postulat
-revoluţionar
 colan
 clip
 ouţ
@@ -2414,7 +2373,6 @@ perlaj
 acustomat
 galactometru
 caracterograf
-pravoslavnic
 salutier
 granulocit
 turboseter
@@ -2448,7 +2406,6 @@ selfactor
 plasmocit
 taier
 microelement
-revanşard
 buluc
 emondaj
 navomodel
@@ -2461,7 +2418,6 @@ meleu
 concentrator
 heptacord
 dezagregator
-neurotrop
 profundor
 donjon
 anevrism
@@ -2508,6 +2464,7 @@ tălpig
 radier
 avers
 cadavru
+teleoperator
 dorn
 hăitaş
 ziar
@@ -2549,6 +2506,7 @@ celărel
 calcan
 refren
 tofus
+homicid
 ochit
 pulpar
 batelier
@@ -2562,7 +2520,6 @@ tristih
 batel
 turcism
 tunoscop
-pogromist
 barşon
 tonometru
 decuscutator
@@ -2591,10 +2548,12 @@ dezaburitor
 degazificator
 lenaj
 niplu
+crotal
 grâuşor
 deprimometru
 stelarator
 şir
+şip
 spaţ
 şif
 şic
@@ -2611,7 +2570,6 @@ afrodiziac
 mundir
 juvelnic
 podest
-plăsmuitor
 ilion
 şiroi
 pescaj
@@ -2691,6 +2649,7 @@ copitat
 şorţ
 panou
 degrade
+stobor
 tiraj
 miting
 micronucleu
@@ -2701,6 +2660,7 @@ dendroauxometru
 staurolit
 portstindard
 subamendament
+crâsnic
 faliment
 pridvor
 băhniş
@@ -2731,7 +2691,6 @@ columbar
 compactor
 surplus
 discernământ
-podgorean
 merlin
 tabulat
 metisaj
@@ -2784,6 +2743,7 @@ clac
 tuset
 orăşel
 pod
+spoitor
 rafinor
 contingent
 antapex
@@ -2827,7 +2787,6 @@ sincronizator
 potcapic
 rachiaş
 atelier
-roznovean
 reverberator
 heterociclu
 fotoliu
@@ -2843,14 +2802,13 @@ aeroclub
 clint
 nitrometru
 pogrom
-premonopolist
 alveograf
 relaxant
 soliped
 filit
-remontant
 vagabondaj
 sediu
+polizor
 şubler
 şmag
 calicul
@@ -2859,6 +2817,7 @@ virament
 angajament
 status
 accelerator
+acordor
 eclozionator
 ministeriat
 paragat
@@ -2876,7 +2835,6 @@ organzin
 consult
 sezon
 autotratament
-nictalop
 cutremur
 săptămânal
 pasaj
@@ -2905,14 +2863,12 @@ detunet
 pasavant
 paralel
 condroid
-magnicid
 teanc
 fund
 moto
 bioelement
 decor
 imobiliar
-salariat
 motocompresor
 dodecagon
 focar
@@ -2936,6 +2892,7 @@ lostopan
 şam
 şal
 zelar
+scorţar
 soporifer
 prevenitor
 motocar
@@ -2957,6 +2914,7 @@ succedaneu
 termoreglaj
 bireactor
 sens
+pufuşor
 autocamion
 serviciu
 borangic
@@ -3011,6 +2969,7 @@ ciurel
 pandantiv
 padoc
 parament
+degresor
 pofil
 baian
 hemostatic
@@ -3027,7 +2986,6 @@ cnut
 pocal
 caval
 gnais
-rablagiu
 salamalec
 cerdăcel
 uranisc
@@ -3053,19 +3011,17 @@ rips
 oxidimetru
 flaier
 deliciu
-neurastenic
 slipmetru
 chichirez
 şuierat
-parvenit
 acrescământ
 tahmin
 miniinterviu
 rambleu
 pericentru
+sangeac
 transportor
 povod
-nevrotic
 recurs
 heptaedru
 oleometru
@@ -3084,6 +3040,7 @@ picou
 ultramicroscop
 sistem
 adânc
+muculeţ
 borcănaş
 inspectorat
 benoar
@@ -3103,7 +3060,6 @@ pension
 cardiograf
 orogen
 memorator
-alb
 haspel
 toiag
 plaivaz
@@ -3122,6 +3078,7 @@ spining
 vibrafon
 vaporaş
 gorunet
+pitac
 im
 podzol
 pilug
@@ -3146,10 +3103,7 @@ staniol
 epistolar
 şatrang
 cloroplast
-prefeudal
-parnasian
 fleuron
-polisportiv
 zimberec
 focometru
 decatlon
@@ -3159,12 +3113,12 @@ prejmet
 engraulide
 antihalo
 promenuar
-privilegiat
 biogaz
 sfârâiac
 semnificat
 conectiv
 suc
+left
 ţiuit
 havaj
 leucosafir
@@ -3179,7 +3133,6 @@ endosperm
 răvăşel
 magnetou
 relascop
-rădăuţean
 cărpiniş
 statoscop
 cop
@@ -3232,7 +3185,6 @@ cristalizator
 croşet
 croşeu
 rever
-savoiardă
 subetaj
 ampermetru
 frotiu
@@ -3289,10 +3241,12 @@ adâncitor
 românism
 peroneu
 anglicism
+termen
 decilaj
 epenglu
 aspectomat
 creps
+nisipar
 facsimil
 surguci
 colt
@@ -3301,7 +3255,6 @@ colb
 baston
 sfarog
 geamantănaş
-relativist
 artos
 greblat
 arboret
@@ -3315,15 +3268,12 @@ locotractor
 propilit
 quarc
 sibiaş
-rebel
 gâgâit
 contracalibru
 anhidrit
 colţ
 manuscris
 ştiob
-optimist
-puiet
 autovaccin
 ţăhnit
 acetofan
@@ -3360,6 +3310,7 @@ umezitor
 afacerism
 editorial
 hematocel
+bestiar
 batigraf
 navigraf
 turboinjector
@@ -3373,13 +3324,11 @@ iugăr
 patinoar
 fluxmetru
 trabuc
-real
 specimen
 substantiv
 rusism
 liniment
 distih
-saigonez
 dinţar
 bolţ
 merişor
@@ -3418,7 +3367,6 @@ ineluş
 verb
 rumbatron
 retur
-rasist
 depilator
 horoscop
 merchez
@@ -3454,6 +3402,7 @@ prognostic
 cvintilion
 spargheţ
 plânset
+observator
 săculteţ
 micrometru
 finet
@@ -3462,7 +3411,6 @@ urinal
 germinator
 corelativ
 monodactil
-oficiant
 imprimat
 scrâşnet
 mazagran
@@ -3474,10 +3422,12 @@ caboşon
 eurip
 pul
 pud
+puf
 basc
 basm
 şnit
 fenian
+comănac
 vomitiv
 tromblon
 supertrust
@@ -3509,11 +3459,9 @@ emistih
 pansaj
 beteşug
 prezidiu
-încălţător
 scoci
 alişveriş
 boschet
-nemuritor
 girostabilizator
 mezel
 voleu
@@ -3542,13 +3490,11 @@ caravaning
 cazacioc
 vrej
 zbieret
-plebicol
 xantom
 radioreceptor
 videocasetofon
 răspuns
 grind
-rodiu
 balonaş
 epicraniu
 carat
@@ -3575,8 +3521,8 @@ bumerang
 precept
 căftănel
 heleşteu
+plumb
 vicleşug
-opiofag
 tovălaş
 rizic
 neocortex
@@ -3645,7 +3591,6 @@ bec
 angrenaj
 avans
 bordel
-panamez
 pezevenglâc
 bordei
 piroxenit
@@ -3685,6 +3630,7 @@ moşit
 supin
 modeleu
 terasament
+patricid
 oogon
 acaret
 electromotor
@@ -3761,7 +3707,6 @@ intestin
 polis
 conciliabul
 abdomen
-pricinuitor
 mezencefal
 ghips
 chiulaf
@@ -3778,6 +3723,8 @@ metronom
 artizanat
 pudraj
 matelotaj
+picher
+pichet
 conoscop
 decorticator
 plesnet
@@ -3815,6 +3762,7 @@ arbiu
 zornăit
 tanc
 neam
+calcul
 creion
 iz
 metropolitan
@@ -3855,7 +3803,6 @@ subansamblu
 burdac
 tabinet
 serpentariu
-nevolnic
 parcan
 şuvoi
 homopter
@@ -3869,13 +3816,11 @@ radioheliograf
 muriş
 disipator
 gheroc
-pribeag
 rodaj
 tabs
 clavir
 hatâr
 sâsâiac
-petrecător
 guseu
 coroiaj
 opsas
@@ -3904,7 +3849,6 @@ bason
 reviriment
 dirijabil
 grog
-gros
 grop
 cadril
 îngheţ
@@ -3913,6 +3857,7 @@ galvanotip
 riţ
 emanator
 transvertor
+cornişor
 premontaj
 lapsus
 suprapreţ
@@ -3939,6 +3884,7 @@ hidromel
 water-balast
 grecism
 paralelipiped
+birlic
 interdict
 ionometru
 vientraj
@@ -3965,7 +3911,6 @@ bubat
 selsin
 protal
 contracâmp
-ruandez
 calendar
 heptagon
 lonjeron
@@ -3983,7 +3928,6 @@ spiţelnic
 codicil
 octosilab
 microfotometru
-şerlai
 biocenometru
 destin
 ţigănism
@@ -3999,7 +3943,6 @@ stadion
 cabotier
 autogol
 tuş
-prohibiţionist
 bronzaj
 turbotrepan
 citoblast
@@ -4018,6 +3961,7 @@ marc
 ighemonicon
 radioteodolit
 talgeraş
+asomator
 pluguşor
 târnog
 legănaş
@@ -4047,6 +3991,7 @@ hinterland
 subsolier
 palan
 trio
+muc
 ghiordan
 material
 sărciner
@@ -4056,7 +4001,6 @@ zmeuriş
 cufăraş
 vals
 standard
-conte
 deversor
 sedativ
 butic
@@ -4082,20 +4026,19 @@ sileaf
 ragaci
 carotaj
 denisipator
-opinent
 azotometru
 tăietor
 emiţător
 superfulger
 metamer
 teletransport
+ciocănaş
 cârdişor
 termotelefon
 mortier
 trucaj
 pilotaj
 tasometru
-ovăz
 şopot
 adaos
 comando
@@ -4124,6 +4067,7 @@ velastrai
 auditoriu
 depresant
 volănaş
+suspensor
 presentiment
 crânguleţ
 işlicel
@@ -4141,6 +4085,7 @@ laticifer
 periciclu
 arhipelag
 secret
+ţicling
 bomfaier
 semilichid
 troacar
@@ -4154,7 +4099,6 @@ fitohormon
 arenal
 repicat
 remediu
-cositor
 moment
 encefal
 dublaj
@@ -4173,9 +4117,7 @@ cumacee
 monoxil
 răzălău
 bosaj
-parodiant
 gram-forţă
-premilitar
 tifos
 alogism
 camelid
@@ -4259,7 +4201,6 @@ contur
 ambalaj
 purcoi
 poantou
-profitor
 torşon
 atropism
 runc
@@ -4267,6 +4208,7 @@ rec
 ictus
 franj
 misionariat
+papion
 arbitrar
 neglijeu
 arbitraj
@@ -4294,7 +4236,6 @@ nivelment
 radioreperaj
 barcaz
 pastet
-păcală
 virginal
 monom
 termograf
@@ -4312,7 +4253,6 @@ trotuar
 orticonoscop
 agat
 ultracondensator
-preferat
 zeciuit
 faeton
 năgăruş
@@ -4331,7 +4271,6 @@ marochin
 zăbun
 dejun
 cucui
-insert
 ilău
 struţişor
 preverbiaj
@@ -4341,7 +4280,6 @@ odgon
 lanternou
 graifer
 paner
-providenţialist
 teleampermetru
 simplex
 sincretism
@@ -4371,7 +4309,6 @@ altorelief
 hăinet
 pilaf
 hârâit
-relict
 spirifer
 azimut
 proţăpel
@@ -4384,7 +4321,6 @@ studiu
 rescript
 autostop
 gorgan
-poliploid
 badinaj
 etrier
 geofon
@@ -4396,7 +4332,6 @@ traseu
 slalom
 guleraş
 sifon
-reformator
 postludiu
 drosometru
 aforism
@@ -4412,7 +4347,6 @@ blocstart
 cinism
 ouşor
 drâmboi
-trimis
 gol
 opaxit
 sarcofag
@@ -4422,7 +4356,6 @@ comând
 scrâşnit
 tintometru
 rectificat
-necunoscut
 căpătâi
 perispomen
 haos
@@ -4447,7 +4380,6 @@ băltac
 monociclu
 firicel
 pistofon
-satiric
 expectorant
 amvon
 calcaron
@@ -4456,7 +4388,6 @@ nut
 canalicul
 nud
 prostovol
-pluralist
 probatoriu
 bizotaj
 trepădat
@@ -4479,7 +4410,6 @@ mezocarp
 tulei
 antepat
 sfârc
-copiat
 degradator
 mosorel
 barigiroscop
@@ -4520,6 +4450,7 @@ chipcel
 perfuzor
 landou
 heder
+cioplitor
 poem
 precipitron
 lambrechin
@@ -4564,7 +4495,6 @@ recensământ
 semirelief
 electrodinam
 pneumosept
-neoimpresionist
 umidificator
 astrograf
 aritmogrif
@@ -4575,9 +4505,9 @@ nimb
 trepied
 basculator
 apel
+ţolinc
 felinar
 diorit
-realist
 calibraj
 negoţ
 fotoobiectiv
@@ -4613,7 +4543,6 @@ degrosisor
 dinamograf
 sughiţ
 descărcător
-politicianist
 liturghier
 picnic
 eidofor
@@ -4624,6 +4553,7 @@ foxtrot
 trifoi
 însemn
 sideroscop
+colon
 veston
 balot
 dichis
@@ -4678,6 +4608,7 @@ godeu
 fligorn
 telurometru
 acumetru
+caşerat
 telecopiator
 ferpar
 idiom
@@ -4685,6 +4616,7 @@ picogram
 prizon
 telex
 antreu
+topometru
 inactiv
 maleficiu
 crioscop
@@ -4697,7 +4629,6 @@ filtraj
 ramolisment
 trenci
 tei
-pleuritic
 tex
 videocanal
 cuţitaş
@@ -4724,13 +4655,13 @@ cristalizor
 cauc
 muzoar
 viceregat
-protoistoric
 şanfren
 vagon
 periscop
 atelaj
 fotometru
 paricopitat
+senar
 senat
 ecartor
 limpeziş
@@ -4738,7 +4669,6 @@ făget
 termoregulator
 vitriolaj
 radiofar
-repauzat
 antablament
 palmograf
 circuit
@@ -4759,7 +4689,6 @@ râset
 antihistaminic
 miros
 mineral
-nobil
 spermotip
 duş
 penalti
@@ -4808,14 +4737,15 @@ urometru
 capon
 pitiatism
 capot
+ciomăgaş
 deznodământ
 anunciator
 contăşel
 docăraş
 zvon
 torsiometru
-prostan
 vingalac
+tahigraf
 canal
 canaf
 şabăr
@@ -4829,8 +4759,6 @@ luminobloc
 parafoc
 cleionaj
 sculament
-pervers
-pitagoreic
 detartraj
 gogoloi
 altigraf
@@ -4846,7 +4774,6 @@ torace
 răzbel
 autoexcavator
 spinet
-neokantian
 insectifug
 tel
 lubrificator
@@ -4854,7 +4781,10 @@ gerg
 inel
 fel
 fes
+urat
 megaloblast
+chit
+sorb
 celomat
 augment
 chernăr
@@ -4894,6 +4824,7 @@ priboiaş
 zulum
 dezavantaj
 năsuşor
+arbaletrier
 acoperiş
 vas
 pedometru
@@ -4911,7 +4842,6 @@ radiosemnal
 fanon
 retroproiector
 fasung
-producător
 tubaj
 ihtiometru
 păltiniş
@@ -4923,14 +4853,12 @@ efect
 colţuleţ
 bronz
 intravilan
-avă
 ultraporţelan
 compot
 lăibărac
 determinant
 alimentator
 piscuşor
-istoric
 intrând
 corset
 conservant
@@ -4956,7 +4884,6 @@ panonian
 frecuş
 poghiaz
 geambaşlâc
-predeterminant
 piramidon
 cojitor
 luminaj
@@ -4979,6 +4906,7 @@ astrometru
 subicter
 craniat
 argotism
+păier
 corvide
 grilaj
 ecvideu
@@ -5002,6 +4930,7 @@ marafet
 mieunat
 microdispozitiv
 ştreang
+antrenor
 îndemn
 laringe
 demagnetizor
@@ -5018,8 +4947,8 @@ perfograf
 ceacău
 biociclu
 subiect
-poporan
 planetariu
+trocar
 cochilaj
 repicaj
 haşe
@@ -5032,12 +4961,12 @@ pliant
 neuroleptic
 monomotor
 turnir
-rutinier
 filmpac
 topocentru
 personal
 explozimetru
 orbalţ
+agregat
 miliard
 micafoliu
 tren
@@ -5045,6 +4974,7 @@ covru
 blacheu
 zăvoraş
 deliberat
+algicid
 prelungitor
 escalator
 autosport
@@ -5091,7 +5021,6 @@ hidromasaj
 înconjur
 microtraumatism
 microseism
-predomnitor
 covor
 criptometru
 punctişor
@@ -5107,6 +5036,7 @@ tricot
 propulsor
 spicilegiu
 cercănel
+son
 măsoi
 recepaj
 supravoltor
@@ -5119,6 +5049,7 @@ pătuc
 burghiu
 locşor
 capotaj
+rafinator
 fân
 cearşaf
 oscilograf
@@ -5129,7 +5060,6 @@ peristil
 planimetru
 albeţ
 geanticlinal
-newyorkez
 plastiscop
 convertoplan
 conteiner
@@ -5154,6 +5084,7 @@ etnocid
 cortegiu
 cazinou
 mascon
+tambur
 tău
 slobozitor
 supliment
@@ -5178,7 +5109,6 @@ psefit
 forfet
 detaşor
 rotisor
-panteist
 poansonaj
 catetometru
 sărad
@@ -5252,7 +5182,6 @@ jabou
 portelicopter
 vodevil
 drumeag
-oportunist
 hem
 reostat
 bruiaj
@@ -5294,7 +5223,6 @@ epolment
 fotoreleu
 rugozimetru
 caiac
-octogenar
 gavanos
 prival
 hublou
@@ -5319,7 +5247,6 @@ genom
 portbilet
 optativ
 discriminator
-probabilist
 dendrobiont
 grânar
 decoltaj
@@ -5369,9 +5296,9 @@ brontograf
 feroaliaj
 pian
 laminor
-newtonian
 sincrolift
 testemel
+antiastmatic
 elagaj
 arteriograf
 suiş
@@ -5404,7 +5331,6 @@ retrocedent
 uz
 vertij
 cin
-cir
 cip
 cit
 ud
@@ -5418,6 +5344,7 @@ balafon
 spilit
 tavan
 fonograf
+secretar
 beloniforme
 privilegiu
 foale
@@ -5427,6 +5354,7 @@ indicativ
 motodrom
 iaurt
 ţarţam
+alcool
 punci
 punct
 ucis
@@ -5456,7 +5384,6 @@ petrisaj
 element
 favus
 spintariscop
-neogramatic
 subrau
 pestref
 usuc
@@ -5468,6 +5395,7 @@ modulor
 decofraj
 contraplacaj
 modulometru
+salvamar
 zănat
 huci
 antivomitiv
@@ -5485,7 +5413,6 @@ balonzaid
 lactofermentator
 şipurel
 denotat
-panlogist
 chibz
 batireometru
 umbrar
@@ -5507,6 +5434,7 @@ cavernometru
 mied
 urson
 piston
+pistol
 exhaustor
 distil
 emasculator
@@ -5519,6 +5447,7 @@ incot
 conductometru
 tuşeu
 ablativ
+decupator
 hectogram
 hectograf
 ozonizator
@@ -5532,7 +5461,6 @@ eutectoid
 vârfuţ
 endobiont
 zornet
-nicosian
 antroponim
 stângism
 anticorodal
@@ -5543,7 +5471,6 @@ cartular
 bangăt
 planifilm
 singir
-pârâcios
 taluz
 verticil
 iris
@@ -5556,7 +5483,6 @@ embatic
 catamaran
 peritoneu
 neadevăr
-pitiatic
 ripeag
 calmant
 inc
@@ -5593,6 +5519,7 @@ xenism
 orizont
 podmol
 trieniu
+contrabas
 pulpoduct
 abecedar
 extensograf
@@ -5648,6 +5575,7 @@ puitor
 boghiu
 căldăroi
 areopicnometru
+liude
 prund
 yenerit
 diabet
@@ -5721,6 +5649,8 @@ antiradar
 surtucaş
 dalton
 reportofon
+sân
+diluat
 târnăcop
 caş
 falconet
@@ -5773,7 +5703,6 @@ arpegiu
 condeiaş
 album
 ghiobuleţ
-preromantic
 glosar
 jghebuleţ
 pornitor
@@ -5789,7 +5718,6 @@ barograf
 urbariu
 accelerometru
 pălimar
-tragic
 minicampionat
 semiuscat
 polobocel
@@ -5810,9 +5738,9 @@ cerdac
 bimileniu
 fretaj
 digestor
-livan
 profont
 anotimp
+radiofarmaceutic
 bazinaş
 opust
 pupilometru
@@ -5829,14 +5757,12 @@ angiospasm
 iglu
 astrocompas
 mehtup
-pedant
 trencicot
 fluidifiant
 stelaj
 lignometru
 altitelemetru
 losanj
-proletar
 chilofite
 vergelator
 petroduroscop
@@ -5882,15 +5808,12 @@ apometru
 mestecău
 motocros
 scintiscanograf
-preafrumos
 ungător
 bigotism
 încărcător
 colţişor
 velometru
-sextil
 balansoar
-pelagros
 hemoglobinometru
 epifenomen
 aterisament
@@ -5902,7 +5825,6 @@ recreditiv
 poanson
 talhâş
 sârbism
-somnişor
 ţugui
 borderou
 serclaj
@@ -5911,9 +5833,8 @@ cronometraj
 bici
 paramer
 pârâu
-pârât
 captator
-reproducător
+canceroid
 mărgarit
 arsenal
 teratron
@@ -5925,6 +5846,7 @@ bănărit
 smochinet
 timpanon
 peticuţ
+obol
 meredeu
 şai
 schimbător
@@ -5952,7 +5874,6 @@ lasou
 ştab
 hiponim
 obstacol
-prostatic
 luft
 gnomon
 afundiş
@@ -5978,6 +5899,7 @@ barbotin
 contrar
 dărăbuţ
 boţişor
+buhai
 dicţionăraş
 rectract
 damf
@@ -6011,7 +5933,6 @@ barimetru
 şever
 tertel
 transept
-poltron
 şinar
 defibrator
 scanograf
@@ -6030,7 +5951,6 @@ subteran
 cervide
 aşternut
 iezer
-salvadorian
 harem
 tul
 florilegiu
@@ -6044,10 +5964,10 @@ occiput
 potcap
 apropou
 cămăşoi
-băcan
 aleurolit
 vinuleţ
 căpitălaş
+izolator
 balador
 hipercalculator
 club-bar
@@ -6062,7 +5982,6 @@ bimotor
 bimetal
 călinet
 intraocular
-colonel
 rectorat
 granulom
 ghiuden
@@ -6077,6 +5996,7 @@ chimir
 palmares
 coridoraş
 sorit
+starter
 sanhedrin
 hamalâc
 antresol
@@ -6093,7 +6013,6 @@ reductor
 anticoagulant
 anesteziant
 dendrometru
-preafericit
 guvernământ
 adstrat
 ocoliş
@@ -6106,6 +6025,7 @@ rând
 superstrat
 băţ
 planşeu
+cotigar
 microcalculator
 scrutin
 stilet
@@ -6195,7 +6115,6 @@ triedru
 demerit
 letcon
 supozitor
-pragmatist
 ţignal
 colofon
 macroscop
@@ -6221,7 +6140,6 @@ levantină
 amfiteatru
 impermeabil
 pristornic
-orşovean
 separator
 ost
 paracăzător
@@ -6247,7 +6165,6 @@ bârneţ
 prezent
 microcinematograf
 discuitor
-pannaturist
 depurativ
 rezumat
 sintetizor
@@ -6299,7 +6216,6 @@ trapion
 prospect
 postsincron
 cufăr
-revizionist
 anteproiect
 şifon
 sal
@@ -6360,7 +6276,6 @@ obraz
 subsolaj
 iuit
 noduleţ
-prerevoluţionar
 purjor
 zamparalâc
 icter
@@ -6405,6 +6320,7 @@ aculeat
 safari
 presor
 blindaj
+raportor
 ţigher
 travaliu
 etalon
@@ -6427,7 +6343,6 @@ anus
 autosifon
 verdict
 latinism
-omorâtor
 ultrasonoscop
 cuib
 termovizor
@@ -6449,17 +6364,19 @@ oligopol
 politip
 dărab
 troc
+ocolaş
 osciloscop
 algezimetru
 lepuit
-panicard
 ornament
 teleinterviu
 ştender
 tuci
+creanţier
 ciochinar
 revers
 arhiloc
+centimetru
 aminoplast
 lubricator
 măcel
@@ -6505,7 +6422,6 @@ hanger
 spionaj
 toporel
 alezator
-romantic
 dărăcitor
 exemplar
 dolmen
@@ -6531,7 +6447,6 @@ văsuşor
 demultiplicator
 liparit
 pătrar
-rusofon
 mezorelief
 component
 divizion
@@ -6539,7 +6454,6 @@ anemograf
 autoexil
 cinerecital
 litou
-orădean
 intertip
 bairam
 fototeodolit
@@ -6562,10 +6476,8 @@ avanbec
 pătrăţel
 subcapitol
 decompresor
-neogreacă
 extispiciu
 invertor
-mortieră
 vomisment
 radar
 monorai
@@ -6577,7 +6489,6 @@ dispozitiv
 erzaţ
 supranume
 suflător
-propunător
 hidramnios
 sutien
 exocarp
@@ -6589,14 +6500,12 @@ colontitlu
 târguleţ
 psihrometru
 transpozitiv
-histidină
 parc
 cobuz
 păcănit
 autoconsum
 alunecător
 dezintegrator
-pol
 eurodeviz
 vilaiet
 făcăleţ
@@ -6664,11 +6573,9 @@ vitraj
 pasimetru
 bazament
 cuadrimotor
-paramilitar
 pentaedru
 dezmăţ
 desalinizator
-preparator
 videotelefon
 şaidaj
 adăpost
@@ -6682,7 +6589,6 @@ luxmetru
 ciclofazotron
 ghint
 martiraj
-responsabil
 surjet
 zvâcnet
 derivometru
@@ -6695,10 +6601,11 @@ cerc
 truism
 semitort
 nămol
-petroşenean
 faringoscop
+trasor
 miniteatru
 advon
+patentă
 ghinţ
 decuvaj
 învârtecuş
@@ -6764,7 +6671,6 @@ divertisment
 osteosarcom
 encefaloscop
 fonofilm
-prost
 bimestru
 spardec
 eolit
@@ -6773,6 +6679,7 @@ acuzativ
 panteon
 ultrafiltru
 afront
+râs
 frământător
 tonicardiac
 anticiclon
@@ -6807,7 +6714,6 @@ oţet
 prundoi
 diplograf
 uranoscop
-frumos
 tain
 campus
 defazor
@@ -6844,18 +6750,16 @@ candelabru
 paralelometru
 dezodorizant
 rubricator
-reformist
 gâtişor
 bompres
-mistacocet
 zaharificator
 semagraf
+vapor
 multivibrator
 urcioruş
 semicentenar
 coagulator
 clu
-pizmuitor
 subton
 amănunt
 refierbător
@@ -6890,7 +6794,6 @@ teleconcurs
 analogism
 pericraniu
 postprocesor
-neproducător
 conformator
 ţel
 epilogism
@@ -6921,11 +6824,11 @@ trust
 streler
 rabator
 zoofit
+mucuşor
 extruder
 ginotip
 exterior
 reşapaj
-puber
 mercenariat
 negativ
 zaimf
@@ -6976,7 +6879,6 @@ stabilizator
 cladofor
 instantaneu
 gopac
-psiholeptic
 băltoi
 miliampermetru
 radiocompas
@@ -6984,7 +6886,6 @@ extinctor
 solodiu
 breviar
 chitanţier
-nerod
 şist
 semnalment
 pisolit
@@ -6998,6 +6899,7 @@ tartru
 travling
 paravânt
 hexacord
+şerpar
 amaraj
 anunţ
 sinălău
@@ -7026,11 +6928,11 @@ sabat
 hipogastru
 portulan
 criometru
+şeruitor
 ulişor
 infarct
 ciocan
 chilopod
-obscurantist
 cartilaj
 tuner
 urcioraş
@@ -7072,6 +6974,7 @@ prăgar
 desen
 masaj
 masat
+golomoz
 aglomerator
 vizor
 termobarograf
@@ -7083,6 +6986,7 @@ agest
 viers
 heliostat
 pot
+pop
 tandur
 claustru
 atestat
@@ -7101,15 +7005,15 @@ radioproiector
 imperiu
 preselector
 telemetru
-paraplegic
 sertar
 luth
 tip
 cotor
 termohidrometru
+cotoc
+cotoi
 craniostat
 miofibrom
-salonard
 amplificator
 stalagmometru
 tonic
@@ -7133,13 +7037,13 @@ băltăgel
 glucometru
 agrement
 survolaj
+untar
 afloriment
 divorţ
 sortilegiu
 vinci
 cohalm
 ţuhaus
-renegat
 degras
 abis
 radiomagazin
@@ -7186,6 +7090,7 @@ ospăţ
 aeroautomobil
 parcaj
 ciclon
+pont
 protist
 mişmaş
 stratostat
@@ -7246,6 +7151,7 @@ falset
 acrostol
 roman
 context
+cocoş
 adiator
 italienism
 anafor
@@ -7254,18 +7160,15 @@ blanc
 facies
 microfulger
 volocel
-roz
 fanion
 nărav
 leorpăit
 arhetip
 coşmar
 adulter
-ofertant
 aterizor
 morfonem
 acroşaj
-trapist
 pristav
 alfabet
 catren
@@ -7283,6 +7186,7 @@ entropion
 stelionat
 autovehicul
 diamant
+umăr
 autotroliu
 petrefact
 cuvânt
@@ -7293,11 +7197,11 @@ jintălău
 drifter
 predicat
 ungher
+filer
 vicariat
 fileu
 filet
 simbol
-junior
 havuz
 chimonou
 fruntar
@@ -7323,6 +7227,7 @@ miraj
 ornat
 erector
 ondulor
+ochi
 hobâc
 capital
 caulis
@@ -7364,6 +7269,7 @@ similidiamant
 dezodorizator
 elascop
 seu
+scriitor
 capan
 capac
 cadus
@@ -7410,6 +7316,7 @@ bolero
 mandrin
 chiropter
 gârlici
+finisor
 grohotiş
 samson
 brâuşor
@@ -7430,7 +7337,6 @@ export
 supertanc
 pompon
 depănat
-paraguayan
 matostat
 biolit
 timleac
@@ -7440,12 +7346,12 @@ var
 portjartier
 peridotit
 scintilator
+diplomat
 tetraedru
 stilou
 narcotic
 cloroleucită
 cucuruz
-privitor
 tărtănaş
 sătuc
 tălgerel
@@ -7456,7 +7362,6 @@ reotropism
 herb
 explodor
 electrodiagnostic
-prahovean
 samsarlâc
 controler
 răvar
@@ -7493,7 +7398,6 @@ tetrarhat
 metraj
 spider
 tropotit
-neocolonialist
 şahăr-mahăr
 amorsaj
 străjac
@@ -7513,11 +7417,10 @@ nefograf
 ghemotoc
 cuconet
 rond
-preburghez
 transmiţător
 turbion
 scadenţar
-piemontez
+scafandru
 citometru
 divan
 pelinaş
@@ -7539,7 +7442,9 @@ cler
 clei
 portcart
 patrulater
+lingurar
 chelicer
+accident
 vacarm
 fluometru
 economizor
@@ -7579,7 +7484,6 @@ crenelaj
 ţarat
 antiparalelogram
 piron
-nemernic
 fiting
 simpaticolitic
 pielm
@@ -7597,11 +7501,9 @@ delfinariu
 biotit
 timp
 litier
-râmnicean
 minifrigider
 participiu
 giumbuşluc
-netot
 sistru
 brâu
 contraplonjeu
@@ -7634,7 +7536,6 @@ maraton
 gâtar
 oblânc
 gudronator
-petrecăreţ
 catoscop
 siloz
 berton
@@ -7654,7 +7555,6 @@ patruped
 ultraoptimetru
 aviofon
 semanticism
-revoltant
 grăuncior
 antifonar
 pleu
@@ -7668,7 +7568,6 @@ picior
 calatidiu
 marcotaj
 paralac
-reprimator
 hatişerif
 grizuscop
 platinoid
@@ -7685,8 +7584,8 @@ salt
 electrograf
 otic
 antirid
-prematur
 capacimetru
+colivar
 silabar
 proviant
 grizumetru
@@ -7701,7 +7600,6 @@ guturai
 scrin
 vermicid
 hăţaş
-omolog
 cupeu
 ortotomus
 ghioci
@@ -7767,6 +7665,7 @@ monotrem
 microjurnal
 miaun
 tricolor
+curier
 euploid
 nanchin
 autodric
@@ -7788,10 +7687,12 @@ moloşag
 encomion
 autocitat
 semiauxiliar
+lude
 ceaunaş
 transsiberian
 crâng
 trafic
+identificator
 antenat
 înveliş
 arhiducat
@@ -7814,7 +7715,6 @@ sifonofor
 bedreag
 sulfitaj
 secretariat
-parlamentar
 teriac
 algol
 compus
@@ -7831,7 +7731,6 @@ bruior
 stufat
 sicriaş
 sarafan
-indian
 şpriţuitor
 patrontaş
 stivaj
@@ -7844,6 +7743,7 @@ led
 şuiet
 hipsometru
 şuier
+triton
 filmfonograf
 verascop
 adagiu
@@ -7881,6 +7781,7 @@ impactor
 deltaplan
 minidicţionar
 ciclometru
+muscal
 măiuţ
 chintal
 templu
@@ -7897,16 +7798,15 @@ falus
 falun
 pleonasm
 uxoricid
+alograf
 pernion
 staminodiu
 pripon
 labrador
 ouleţ
-poienar
 măiug
 adjuvant
 tars
-particular
 sigiliu
 scrum
 candelmetru
@@ -7924,12 +7824,14 @@ procedeu
 interpretor
 pavoaz
 debreiaj
+distilator
 pârţ
 colier
 pliseu
 megaperm
 butilcauciuc
 cântecel
+troian
 uger
 lănţug
 zid
@@ -7947,12 +7849,13 @@ răsfăţ
 trenuţ
 gârniţet
 naos
+bariton
 castronel
 turbomotor
+porumbar
 laminat
 laminaj
 pirgeometru
-porumbac
 banditism
 transparent
 electromobil
@@ -7971,9 +7874,10 @@ spalet
 argou
 proptar
 avânt
-pangermanist
+deodorant
 ichi
 testaceu
+fluieraş
 jug
 foşnet
 paragel
@@ -7991,6 +7895,7 @@ contăş
 piedestal
 ansilaj
 platan
+isnaf
 ţopic
 hiposceniu
 tahograf
@@ -8010,9 +7915,7 @@ greder
 mutat
 bageacă
 violoncel
-pectineu
 auspiciu
-protecţionist
 dinam
 lest
 eleron
@@ -8047,7 +7950,6 @@ imobil
 chihlimbar
 derapaj
 laterit
-proscris
 pesticid
 hipnotizant
 ţanc
@@ -8073,9 +7975,9 @@ debitmetru
 lan
 laf
 radiometeorograf
-nerecunoscător
 lat
 arzător
+puişor
 avaet
 rateş
 degajament
@@ -8085,7 +7987,6 @@ cotecior
 cocoloş
 kalipatron
 cadenţmetru
-negru
 olmaz
 afect
 batardou
@@ -8094,7 +7995,6 @@ laringoscop
 urcior
 claxon
 microprogram
-comic
 ten
 căpăcel
 rateu
@@ -8113,7 +8013,6 @@ transconteiner
 pichetaj
 toast
 prepuţ
-pârâtor
 declanşor
 balast
 lapidariu
@@ -8150,13 +8049,13 @@ mieloblast
 behăit
 remu
 proces-verbal
-roşu
 edilaj
 ciclocros
 crochiu
 recolment
 varieteu
 crânguşor
+nit
 grupaj
 drit
 fanotron
@@ -8217,7 +8116,6 @@ gazometru
 club
 finit
 urşinic
-planificator
 terci
 baretor
 indiciu
@@ -8266,7 +8164,6 @@ decolator
 vânturar
 ajustaj
 volan
-personalist
 şezlong
 stadiu
 zoometru
@@ -8299,7 +8196,9 @@ mantelet
 drum
 gheşeft
 glosograf
+cultivator
 ozonometru
+drug
 tonoscop
 dârmon
 teleschi
@@ -8339,7 +8238,6 @@ habitaclu
 chiolhan
 partizanat
 stilem
-prorocitor
 priorat
 declinometru
 stătuleţ
@@ -8357,12 +8255,12 @@ hidroaeroplan
 mestecăniş
 întrerupător
 resac
+matricid
 disruptor
-învârtit
 surogat
+alonim
 fosterit
 aldămaş
-recordist
 dativ
 cosmetic
 lagon
@@ -8372,6 +8270,7 @@ stepaj
 cepchen
 antefix
 pichamăr
+hipotensiv
 şoşoit
 sifilom
 cântar
@@ -8398,6 +8297,7 @@ aberometru
 treasc
 higrostat
 cuarţ
+bilon
 alcoolmetru
 electroforaj
 surmenaj
@@ -8430,21 +8330,22 @@ pirometru
 gardaman
 frizon
 avenant
+antiluetic
 minigenerator
 chiul
+traforator
 chiup
 transfilaj
-platnic
 portcreion
 lichior
 fapt
 vienaj
 depurator
 şniţel
+cavicorn
 bob
 bâzdâc
 vagon-atelier
-preimperialist
 signalment
 ecuson
 abrazor
@@ -8462,7 +8363,6 @@ paragraf
 geosinclinal
 periaj
 transplant
-spondeu
 melasor
 rumen
 produs
@@ -8492,6 +8392,8 @@ modem
 măliniş
 lamento
 pişicherlâc
+olac
+olan
 olat
 hematogen
 carter
@@ -8551,6 +8453,7 @@ final
 rictus
 antihemoragic
 microprocesor
+păpuşoi
 tâlc
 tâlv
 bolometru
@@ -8579,8 +8482,6 @@ claubaj
 ghemuleţ
 cardan
 frunzet
-precapitalist
-răsăritean
 computer
 cubiculum
 muştiuc
@@ -8606,17 +8507,18 @@ superorticon
 servomecanism
 scintigraf
 schi
+zălar
 electroporţelan
 ciubuc
 ovul
 reescont
+trombon
 taheograf
 videorecorder
 trahom
 miniautoturism
 culmiş
 contraserviciu
-rusofil
 helcometru
 octet
 răget
@@ -8628,7 +8530,7 @@ pandişpan
 burduhan
 tentoriu
 primaj
-primar
+receptor
 radioitinerar
 mătăuz
 acvamarin
@@ -8722,7 +8624,6 @@ minaret
 cărător
 bulhac
 pupitru
-proiectant
 schematism
 egalizator
 milesim
@@ -8733,6 +8634,8 @@ viscozimetru
 chepeng
 telescaun
 mehăit
+bar
+bas
 cabotor
 bax
 bac
@@ -8752,7 +8655,6 @@ plusprodus
 conci
 filigran
 stimul
-paralitic
 crosing
 deluleţ
 recul
@@ -8767,7 +8669,6 @@ cercurel
 alaman
 presiometru
 ultraaglomerat
-prevestitor
 seriograf
 ampenaj
 ancastrament
@@ -8780,7 +8681,6 @@ manual
 semifluid
 microrecital
 bastingaj
-parazit
 deflector
 bold
 perşaj
@@ -8801,6 +8701,7 @@ autocaptor
 ischion
 radiometru
 berc
+recuperator
 semiinternat
 vagonetaj
 antifebril
@@ -8856,12 +8757,10 @@ gradual
 clapotament
 ştraf
 roşaj
-maia
 şperţ
 kilogram-forţă
 basorelief
 tiriplic
-oliv
 neras
 orificiu
 cazan
@@ -8896,14 +8795,12 @@ boniment
 radiofonograf
 canton
 xilometru
-cantor
 remorcher
 tamazlâc
 agheasmatar
 epidiascop
 tract
 colorit
-milanez
 criostat
 ghiozdănel
 chipiu
@@ -8920,7 +8817,6 @@ pumnal
 fişet
 teatru
 ghinion
-panelenist
 colorimetru
 solbanc
 hidroseparator
@@ -8961,6 +8857,7 @@ doctorat
 zaharometru
 radiogoniograf
 balader
+mol
 mod
 tifon
 acvaplan
@@ -8978,9 +8875,11 @@ subdozaj
 zbârnâit
 semantism
 tripod
+moţ
 tripou
 oţetar
 episceniu
+scăunaş
 cabestan
 reziduu
 urlet
@@ -8996,15 +8895,17 @@ elicostat
 cenuşar
 monetar
 abc
+diac
 godron
 deghizament
+evaporator
 bârlog
 suflu
 exsudat
 tricopter
 furou
+fierbător
 epitaf
-reactivant
 păcat
 ţărcălan
 sirec
@@ -9026,14 +8927,11 @@ proiector
 microfon
 diploscop
 sarong
-inhalant
 gherghir
 trosnet
-repetent
 antiputrid
 triplan
 vibromasor
-nordist
 peciu
 pretort
 tonus
@@ -9055,6 +8953,7 @@ pediment
 chefnit
 organism
 planator
+porcan
 postăvior
 presezon
 creton
@@ -9065,6 +8964,7 @@ vint
 logometru
 autoradiograf
 apertometru
+năpârstoc
 debuşeu
 deplumator
 undametru
@@ -9073,6 +8973,7 @@ bucar
 metazoar
 decapaj
 levantin
+trapez
 fixativ
 pedotaxon
 pilc
@@ -9136,7 +9037,6 @@ desert
 tedeum
 coviltir
 aliniament
-preaiubit
 uncrop
 atlaz
 atlas
@@ -9147,7 +9047,6 @@ parastas
 diluviu
 oloi
 savantlâc
-rhodesian
 calipso
 oraş
 zumzet
@@ -9158,7 +9057,6 @@ pronostic
 potâng
 limb
 scandal
-recreator
 şeping
 sejur
 microtelefon
@@ -9183,7 +9081,6 @@ ghiordel
 ferber
 lipom
 rădvan
-oriental
 hipometru
 birou
 subjonctiv
@@ -9212,6 +9109,7 @@ sinaxar
 semiporţelan
 vărsământ
 spiniş
+ţimir
 beril
 mosoraş
 termoreleu
@@ -9258,7 +9156,6 @@ eflorisment
 aglomerat
 microtom
 ştrand
-trac
 demulgator
 ajutaj
 normotip
@@ -9295,6 +9192,7 @@ dodecaedru
 şantier
 văscior
 ghintuleţ
+stoper
 divulsor
 microgenerator
 pătucean
@@ -9310,7 +9208,6 @@ cotei
 pefele
 cărţoi
 acaustobiolit
-neonazist
 cuişor
 crioşoc
 tronson
@@ -9324,6 +9221,7 @@ must
 microtron
 conjunctor-disjunctor
 tasator
+fratricid
 biostimulent
 coteţ
 bund
@@ -9337,6 +9235,7 @@ clenci
 burduf
 lepedeu
 namaz
+digest
 carnaj
 retroactiv
 anuscop
@@ -9357,7 +9256,6 @@ pişleag
 accent
 magnacard
 dactilopter
-piteştean
 lăibăruţ
 pregeneric
 diuretic
@@ -9373,7 +9271,6 @@ glod
 pontaj
 cafas
 metal
-curie
 antalgic
 câşti
 foitaj
@@ -9404,6 +9301,7 @@ marcator
 garaj
 ghivent
 dactilometru
+eter
 laptop
 brăţişor
 lenchi
@@ -9448,9 +9346,7 @@ depou
 tic
 penetrometru
 cor
-nemţie
 giroclinometru
-recidivist
 sălaş
 tetracord
 dâmb
@@ -9507,7 +9403,6 @@ duplex
 cinecenaclu
 microcomputer
 maiou
-nord-dunărean
 meandru
 oratoriu
 biodozimetru
@@ -9520,11 +9415,13 @@ rău
 vifor
 balâc
 stipendiu
+galvanizator
 amerizor
 minirecital
 şezut
 hemocit
 dejivror
+ectofit
 episcopat
 hidrogel
 sfigmomanometru
@@ -9561,6 +9458,7 @@ bitum
 gazoscop
 sunet
 sex
+calcinator
 balimez
 magnetizator
 kerdometru
@@ -9577,15 +9475,12 @@ vântuşor
 kilo
 ţărcuşor
 orcan
-postpaşoptist
 bloc
 muget
 megohmmetru
 echivalent
-neoromantic
 schider
 retransmiţător
-prelucrător
 electroventilator
 megafon
 meplat
@@ -9641,13 +9536,11 @@ foliant
 faringe
 semiton
 microordinator
-pedestru
 culion
 bobuleţ
 frăsinet
 afinet
 reflect
-vânj
 maxi-taxi
 teleecran
 polichet
@@ -9655,6 +9548,7 @@ fânaţ
 electroencefalograf
 calcar
 conformism
+pânzar
 agroecotip
 andosament
 sufleu
@@ -9674,7 +9568,6 @@ vurt
 şapirograf
 microbuz
 odorat
-rotaş
 hăit
 microcit
 imperfect
@@ -9722,7 +9615,6 @@ cauper
 picnometru
 auxiliar
 sacos
-jetaj
 rit
 ril
 hidrotropism
@@ -9734,14 +9626,12 @@ ergativ
 genitiv
 sincrociclotron
 eşec
-presocialist
 potenţial
 cabaret
 periclin
 cioculeţ
 solonceac
 proconsulat
-panslavist
 antiseptic
 mariaj
 şpais
@@ -9749,6 +9639,7 @@ trigon
 hinteu
 metrou
 electroscuter
+ţilindru
 turism
 palmer
 biatlon
@@ -9764,6 +9655,7 @@ etnonim
 grep
 stratometru
 ghintuit
+pas
 vot
 luminar
 electrofiltru
@@ -9772,11 +9664,14 @@ horşaf
 partid
 ghelir
 cremometru
+fermenticid
 antropometru
 corimb
 jaret
 izopod
+leat
 graset
+repetitor
 uscător
 modelator
 slogan
@@ -9829,13 +9724,12 @@ audiometru
 arierbec
 sextet
 legatar
-răzvrătitor
 ileon
 făgaş
-tist
 trap
 pal
 emolument
+caid
 caic
 compact-disc
 hipogeu
@@ -9850,7 +9744,6 @@ cumaş
 periteag
 microraion
 prismatin
-râşnovean
 trombus
 spiroscop
 coronometru
@@ -9870,6 +9763,7 @@ ghiorăit
 dispensar
 sediment
 ciprinid
+măsar
 caracul
 decanat
 minereu

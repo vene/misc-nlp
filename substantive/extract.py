@@ -51,31 +51,27 @@ if __name__ == '__main__':
 		if 'ne' not in article:
 			continue  # only take weak forms
 
-		subst.setdefault(base, dict())[number] = (form, gender[0])
-		if number not in ('sg', 'pl'):
-			print base, number
+		subst.setdefault(base, dict()).setdefault(gender[0], dict())[number] \
+			= form
+		#if number not in ('sg', 'pl'):
+		#	print base, number
 	
-	for base, numbers_dict in subst.items():
-		if numbers_dict.has_key('sg') and numbers_dict.has_key('pl'):
-			sg_form, sg_gender = numbers_dict['sg']
-			pl_form, pl_gender = numbers_dict['pl']
-			if sg_gender == pl_gender:
-				if sg_gender == 'm':
+	for base, genders_dict in subst.items():
+		for gender, numbers_dict in genders_dict.items():
+			if numbers_dict.has_key('sg') and numbers_dict.has_key('pl'):
+				sg_form = numbers_dict['sg']
+				pl_form = numbers_dict['pl']
+				if gender == 'm':
 					print >> sg, '%s\t%d' % (sg_form, 0)
 					print >> pl, '%s\t%d' % (pl_form, 0)
-				if sg_gender == 'f':
+				elif gender == 'f':
 					print >> sg, '%s\t%d' % (sg_form, 1)
 					print >> pl, '%s\t%d' % (pl_form, 1)
-				if sg_gender == 'n':
+				elif gender == 'n':
 					print >> sg_n, sg_form
 					print >> pl_n, pl_form
 			else:
-				print >> sg_n, sg_form
-				print >> pl_n, pl_form
-
-		else:
-			print >> df, '%s\t%s' % numbers_dict.get('sg', 
-										             numbers_dict.get('pl',
-										             (base, '??')))
+				print >> df, numbers_dict.get('sg', numbers_dict.get('pl',
+											                         base))
 
 	[f.close() for f in files]

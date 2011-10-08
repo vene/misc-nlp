@@ -1,4 +1,5 @@
 exoneraţii	1
+lipcăneni	0
 lipcănene	1
 torsade	1
 rezervaţii	1
@@ -12,6 +13,7 @@ grivani	0
 dascăli	0
 canele	1
 recipiendari	0
+tomişti	0
 tomiste	1
 oxidaţii	1
 devitalizări	1
@@ -44,6 +46,7 @@ deificări	1
 turuituri	1
 aerotaxaţii	1
 bateri	1
+sirieni	0
 siriene	1
 pebrine	1
 scânteiuţe	1
@@ -68,6 +71,7 @@ bociri	1
 cârlănari	0
 canoişti	0
 mielopatii	1
+nebuni	0
 nebune	1
 şoşi	0
 noriţe	1
@@ -82,6 +86,7 @@ intimări	1
 radiocombine	1
 om	1
 ţoline	1
+celuitori	0
 celuitoare	1
 stăruiri	1
 somni	0
@@ -101,7 +106,9 @@ musculiţe	1
 fabuliste	1
 naţionalităţi	1
 potroace	1
+rubeoloşi	0
 rubeoloase	1
+gimnofobi	0
 gimnofobe	1
 blazonişti	0
 futilităţi	1
@@ -201,6 +208,7 @@ scrumbioare	1
 fototopografii	1
 clapete	1
 inserări	1
+vaccinatori	0
 vaccinatoare	1
 stăruinţe	1
 băciţe	1
@@ -278,6 +286,7 @@ fasoleli	1
 închisori	1
 livezi	1
 octode	1
+meridionali	0
 meridionale	1
 strepezeli	1
 calandrări	1
@@ -286,7 +295,9 @@ remitenţe	1
 cianaţi	0
 indicaţii	1
 prognosticieni	0
+fitosanitari	0
 fitosanitare	1
+ioaniţi	0
 ioanite	1
 biometeorologe	1
 gogoşele	1
@@ -327,6 +338,7 @@ năşici	0
 lucule	1
 năşii	1
 haustori	0
+votanţi	0
 votante	1
 hurii	1
 bâtlănaşi	0
@@ -335,7 +347,10 @@ academii	1
 zincări	1
 baze	1
 exfolieri	1
+tavernieri	0
 taverniere	1
+iubiţi	0
+iubite	1
 hani	0
 puiculene	1
 impurităţi	1
@@ -348,6 +363,7 @@ centrări	1
 sferoliţi	0
 hiperchinezii	1
 arbitri	0
+varvari	0
 varvare	1
 metaistorii	1
 corijări	1
@@ -383,17 +399,21 @@ zermacupi	0
 străjuiri	1
 alice	1
 apercepţii	1
+bulgari	0
 bulgare	1
 mojicii	1
 niele	1
 historiograme	1
+bombardieri	0
 puricaşi	0
 fosilizări	1
+demistificatori	0
 demistificatoare	1
 procopsiri	1
 şicanatoare	1
 mestecănaşi	0
 oglindiri	1
+uşarnici	0
 uşarnice	1
 monoprogramări	1
 calozităţi	1
@@ -416,7 +436,9 @@ aerologe	1
 ariergărzi	1
 semifondiste	1
 vulcanologe	1
+lucrători	0
 lucrătoare	1
+devoţi	0
 devote	1
 văioage	1
 pasatrice	1
@@ -455,10 +477,12 @@ hainii	1
 cedenţi	0
 caneluri	1
 stabiliri	1
+sanpaulieni	0
 sanpauliene	1
 policioare	1
 dormeze	1
 bibiloi	0
+decedaţi	0
 decedate	1
 panoplii	1
 aspersări	1
@@ -517,6 +541,7 @@ vârtuţi	1
 papile	1
 prodecani	0
 şoldeli	1
+apostaţi	0
 apostate	1
 senzaţii	1
 cioate	1
@@ -559,13 +584,16 @@ prepotenţe	1
 miezuini	1
 confecţii	1
 specialiste	1
+iliri	0
 ilire	1
 tulţi	0
 broboane	1
 muşcate	1
 micimani	0
+persani	0
 persane	1
 folcloriste	1
+generativişti	0
 generativiste	1
 ştrengari	0
 aprozi	0
@@ -585,6 +613,7 @@ sponsori	0
 sfare	1
 antifraze	1
 fleşcăieli	1
+nominalişti	0
 nominaliste	1
 plesiozauri	0
 recompuneri	1
@@ -608,6 +637,9 @@ slujiri	1
 adolescenţi	0
 urbanizări	1
 gaiţe	1
+născuţi	0
+născute	1
+şintoişti	0
 şintoiste	1
 bacteriofagi	0
 transmutaţii	1
@@ -617,6 +649,7 @@ buiandrugi	0
 celiotomii	1
 crisoidine	1
 găgăuţe	0
+găgăuţe	1
 catavalori	1
 necrofobii	1
 ecoscopii	1
@@ -656,6 +689,7 @@ parazitoze	1
 cotituri	1
 recalculări	1
 dumitriţe	1
+stimulatori	0
 stimulatoare	1
 tratamentişti	0
 asanări	1
@@ -663,7 +697,9 @@ bănuţei	0
 hârşii	1
 apretori	0
 nemulţumiri	1
+imoralişti	0
 imoraliste	1
+huţani	0
 huţane	1
 bandajişti	0
 hiritisiri	1
@@ -672,13 +708,16 @@ chitre	1
 mâzgăleli	1
 evacuaţii	1
 parcări	1
+eczematoşi	0
 eczematoase	1
 galvanostereotipii	1
 băieţoi	0
 epistemologe	1
 bâzâituri	1
 columbace	1
+doljeni	0
 doljene	1
+leproşi	0
 leproase	1
 monarhi	0
 colocutori	0
@@ -751,6 +790,7 @@ paleofitologe	1
 condensări	1
 pentatloniste	1
 videofrecvenţe	1
+coralieri	0
 coraliere	1
 bursucari	0
 cornaci	0
@@ -758,6 +798,7 @@ muzicologe	1
 hangioaice	1
 expansibilităţi	1
 sfiiciuni	1
+pacienţi	0
 paciente	1
 torcători	0
 camene	1
@@ -768,6 +809,7 @@ micromicroni	0
 fotografi	0
 vraci	0
 idioţenii	1
+ţintari	0
 pionieri	0
 cloriţi	0
 tulichine	1
@@ -781,6 +823,7 @@ reglări	1
 bagdadii	1
 tamarini	0
 pescăraşi	0
+sinaioţi	0
 sinaiote	1
 sisinei	0
 undiţari	0
@@ -798,10 +841,12 @@ debilităţi	1
 amarări	1
 periuţe	1
 hiperlatinişti	0
+extracontabili	0
 extracontabile	1
 împrejmuiri	1
 cutări	1
 lacinii	1
+preadolescenţi	0
 preadolescente	1
 năsilnicii	1
 cloceli	1
@@ -809,6 +854,7 @@ sastisiri	1
 pofide	1
 macrospori	0
 meşteşugari	0
+cooperativişti	0
 cooperativiste	1
 ilustratoteci	1
 potoliri	1
@@ -826,11 +872,13 @@ evanghelii	1
 zgripţori	0
 imputaţii	1
 refuzări	1
+localnici	0
 localnice	1
 manghieri	0
 întruniri	1
 buneţi	1
 metope	1
+brazilieni	0
 braziliene	1
 sume	1
 carabani	0
@@ -882,6 +930,7 @@ spartachiade	1
 viituri	1
 meteorizaţii	1
 distingeri	1
+trăirişti	0
 trăiriste	1
 aspirări	1
 seanţe	1
@@ -899,9 +948,11 @@ stereotipii	1
 văduvoi	0
 pendularişti	0
 pornografi	0
+înotători	0
 înotătoare	1
 hămurari	0
 fantoşe	1
+motoretişti	0
 motoretiste	1
 stropituri	1
 zornăieli	1
@@ -940,8 +991,10 @@ depalatalizări	1
 colniţe	1
 catarame	1
 lobode	1
+zurbagii	0
 zurbagii	1
 sainete	1
+morţi	0
 moarte	1
 colane	1
 poeticiene	1
@@ -970,11 +1023,13 @@ pivnicioare	1
 ţigări	1
 memorialişti	0
 psihoze	1
+şchiopi	0
 şchioape	1
 poftiri	1
 coloniste	1
 hidroamelioraţii	1
 bridgişti	0
+fatalişti	0
 fataliste	1
 pastramagii	0
 vârsteni	0
@@ -999,6 +1054,7 @@ reflexii	1
 ţopârlani	0
 sfigmograme	1
 epifore	1
+muribunzi	0
 muribunde	1
 hectolitri	0
 imensităţi	1
@@ -1019,6 +1075,7 @@ hotărnicii	1
 merinde	1
 dactili	0
 trefilatori	0
+lusitani	0
 lusitane	1
 vilozităţi	1
 propagaţii	1
@@ -1029,6 +1086,7 @@ autobene	1
 vacanţe	1
 cămăşi	1
 morocăneli	1
+spiritualişti	0
 spiritualiste	1
 aprecieri	1
 depănători	0
@@ -1047,9 +1105,12 @@ dogării	1
 voluptăţi	1
 cofe	1
 obele	1
+ticăloşi	0
 ticăloase	1
+intervievaţi	0
 intervievate	1
 dezagregaţii	1
+dolorişti	0
 doloriste	1
 mânaşi	0
 mandarine	1
@@ -1057,6 +1118,7 @@ osteoartrite	1
 sfâşieri	1
 înzăpeziri	1
 vrăjituri	1
+emanatişti	0
 emanatiste	1
 pielite	1
 stricturi	1
@@ -1064,6 +1126,7 @@ tiraliori	0
 poete	1
 triatlonişti	0
 cardări	1
+sumerieni	0
 sumeriene	1
 scote	1
 obşti	1
@@ -1097,6 +1160,7 @@ neurologe	1
 sclavi	0
 daradaice	1
 ieduţe	1
+irochezi	0
 irocheze	1
 lozinci	1
 răbuiri	1
@@ -1113,6 +1177,7 @@ risturne	1
 cârciogari	0
 îmbuibări	1
 lombarde	1
+lombarzi	0
 migrene	1
 gazificări	1
 tăblăluţe	1
@@ -1120,11 +1185,13 @@ satire	1
 magnetoizolanţi	0
 crinoline	1
 reptaţii	1
+ingraţi	0
 ingrate	1
 asclepiadacee	1
 minimizări	1
 foliculi	0
 lame	1
+paraşutişti	0
 paraşutiste	1
 glasiere	1
 împăturiri	1
@@ -1162,7 +1229,9 @@ smreduiri	1
 sisali	0
 cabule	1
 bucături	1
+harghiteni	0
 harghitene	1
+configuraţionişti	0
 configuraţioniste	1
 vinietişti	0
 taxifurgonete	1
@@ -1183,6 +1252,7 @@ mozaişti	0
 oţetării	1
 sorocence	1
 rostogoliri	1
+neptunişti	0
 neptuniste	1
 antanagoge	1
 continuatoare	1
@@ -1262,6 +1332,7 @@ hemovaccinări	1
 şarjări	1
 patrulări	1
 sirologe	1
+deponenţi	0
 deponente	1
 căptuşeli	1
 zarafiţe	1
@@ -1277,6 +1348,7 @@ reticenţe	1
 binormale	1
 pompagii	0
 barmani	0
+controlori	0
 mărăcinari	0
 gomfrene	1
 poezii	1
@@ -1309,6 +1381,7 @@ marmelade	1
 rubricări	1
 forfecari	0
 lodbe	1
+concurenţi	0
 concurente	1
 gardenii	1
 îngropăciuni	1
@@ -1324,9 +1397,12 @@ militarizări	1
 totemii	0
 xerobole	1
 cliente	1
+înlocuitori	0
 înlocuitoare	1
 babe	1
+xenofobi	0
 xenofobe	1
+stenotermi	0
 stenoterme	1
 poieţi	1
 cenuri	0
@@ -1335,6 +1411,7 @@ tencuiri	1
 meloide	1
 carmeliţi	0
 altoitori	0
+nasoli	0
 nasoale	1
 mutaţii	1
 pilituri	1
@@ -1364,6 +1441,7 @@ dârdale	1
 ibişi	0
 maquisarzi	0
 demultiplicări	1
+boşimani	0
 boşimane	1
 matracuci	1
 gerontocrate	1
@@ -1376,6 +1454,7 @@ remige	1
 insinuaţii	1
 tipăritori	0
 telelei	0
+yemeniţi	0
 yemenite	1
 fanerogamişti	0
 retori	0
@@ -1421,6 +1500,7 @@ străşnicii	1
 areole	1
 antropomorfişti	0
 picăţele	1
+mondialişti	0
 mondialiste	1
 făptuitori	0
 botoaşe	1
@@ -1430,9 +1510,11 @@ corniculari	0
 ortopedişti	0
 derogaţiuni	1
 hemotoxii	1
+huşeni	0
 huşene	1
 odăi	1
 revitalizări	1
+târşi	0
 degazări	1
 nepoţei	0
 putinţe	1
@@ -1444,10 +1526,12 @@ astăreli	1
 comoţii	1
 tafrofite	1
 biodeteriorări	1
+sprijinitori	0
 sprijinitoare	1
 şopârlaiţe	1
 teoreme	1
 lăcrimiţe	1
+seducători	0
 seducătoare	1
 brichetări	1
 arnăuţi	0
@@ -1467,6 +1551,7 @@ petale	1
 ostoiri	1
 pudrete	1
 mântuşi	0
+suedezi	0
 suedeze	1
 decompoziţii	1
 cromotipografii	1
@@ -1487,12 +1572,14 @@ aerofrâne	1
 posteuci	1
 clăditori	0
 supleanţi	0
+declasaţi	0
 declasate	1
 lacovişti	1
 izofone	1
 vămeşii	1
 dezavuări	1
 pielari	0
+lumeni	0
 nagaice	1
 tromboplastine	1
 hidrografe	1
@@ -1503,6 +1590,7 @@ uremii	1
 uranofani	0
 incizori	0
 policlinici	1
+uremici	0
 uremice	1
 spatule	1
 hodoroage	1
@@ -1583,11 +1671,13 @@ ultracentrifuge	1
 concretizări	1
 încetiniri	1
 barite	1
+preromani	0
 preromane	1
 umpluturi	1
 obiectivizări	1
 culturologi	0
 pacheşti	1
+indici	0
 obturări	1
 prescuri	1
 izolatoare	1
@@ -1618,6 +1708,7 @@ flăcăi	0
 urmaşi	0
 clamări	1
 scorburi	1
+fugari	0
 fugare	1
 proroci	0
 odivoi	0
@@ -1644,6 +1735,7 @@ bumbăcari	0
 vespasiene	1
 columbide	1
 nimfe	1
+dornici	0
 dornice	1
 oferte	1
 cabanoşi	0
@@ -1665,6 +1757,7 @@ diarei	1
 gealaţi	0
 splendori	1
 acetazolamide	1
+pietişti	0
 pietiste	1
 trubaduri	0
 boicotări	1
@@ -1675,6 +1768,7 @@ acusticiene	1
 contrareforme	1
 cosari	0
 ţesături	1
+gurmanzi	0
 gurmande	1
 portscule	1
 evaporări	1
@@ -1687,6 +1781,7 @@ coşenile	1
 potlogării	1
 dinamograme	1
 inframicrobi	0
+mâncăcioşi	0
 mâncăcioase	1
 tăbăcării	1
 sămeşii	1
@@ -1722,13 +1817,17 @@ chiculiţe	1
 osânze	1
 platoşe	1
 alpacale	1
+hidropicoşi	0
 hidropicoase	1
 peştişoare	1
+trăgători	0
+trăgătoare	1
 paiante	1
 apepsii	1
 distincţii	1
 coropcari	0
 cerinţe	1
+conectori	0
 cosaşi	0
 vineţeli	1
 uniuni	1
@@ -1754,9 +1853,11 @@ biologe	1
 contraepoleţi	0
 redistilări	1
 izotahe	1
+omonimi	0
 antevorbitoare	1
 oportunităţi	1
 handicapaţi	0
+capsatori	0
 bărbieriţe	1
 colegieni	0
 procuri	1
@@ -1778,6 +1879,7 @@ biberi	0
 caraule	1
 cotcodăciri	1
 poanteri	0
+subiectivişti	0
 subiectiviste	1
 plătci	1
 capucini	0
@@ -1792,6 +1894,7 @@ tenismeni	0
 achene	1
 samurai	0
 mămăliguţe	1
+joseni	0
 josene	1
 cuviinţe	1
 cizmărese	1
@@ -1802,8 +1905,10 @@ nucule	1
 rearanjări	1
 readmisii	1
 arce	1
+perfecţionişti	0
 perfecţioniste	1
 traheotomii	1
+anglo-saxoni	0
 anglo-saxone	1
 surpări	1
 apoplexii	1
@@ -1831,7 +1936,9 @@ plopi	0
 aurore	1
 fenazone	1
 peracizi	0
+plozi	0
 sclifosiri	1
+junimişti	0
 junimiste	1
 calcificări	1
 radiodetecţii	1
@@ -1850,22 +1957,26 @@ crainice	1
 hemosideroze	1
 glorii	1
 acrimonii	1
+hondurieni	0
 honduriene	1
 târnuieli	1
 rotagrame	1
 rotiri	1
 cosiţei	0
+profilatori	0
 profilatoare	1
 mentalităţi	1
 maşini	1
 moroni	0
 moroi	0
 buline	1
+chinezi	0
 chineze	1
 economisiri	1
 comis-voiajori	0
 confederaţi	0
 dezvinovăţiri	1
+seminarişti	0
 seminariste	1
 grifoni	0
 cosmonauţi	0
@@ -1887,6 +1998,7 @@ trupe	1
 broşatoare	1
 teleemisiuni	1
 cartografi	0
+mutoni	0
 stereotipari	0
 despărţenii	1
 supraconducţii	1
@@ -1904,6 +2016,7 @@ aşchii	1
 rozacee	1
 organiciene	1
 doline	1
+stihari	0
 fetişcane	1
 arheografi	0
 ţâşniri	1
@@ -1921,6 +2034,7 @@ urcări	1
 necesităţi	1
 ursoi	1
 monopolizări	1
+maniaci	0
 maniace	1
 tătuci	0
 rotiliţe	1
@@ -1928,6 +2042,7 @@ formări	1
 druşte	1
 sirfide	1
 ziarişti	0
+ipohondri	0
 ipohondre	1
 onanii	1
 genunchi	0
@@ -1963,6 +2078,7 @@ cercetaşi	0
 bucătari	0
 servitudini	1
 mătuiri	1
+repatriaţi	0
 repatriate	1
 heliotehnicieni	0
 limpeziri	1
@@ -2022,9 +2138,11 @@ babane	1
 babaci	0
 flecării	1
 suspante	1
+transcendentalişti	0
 transcendentaliste	1
 clădiri	1
 sinagogi	1
+minoritari	0
 minoritare	1
 acordante	1
 panglicării	1
@@ -2041,7 +2159,9 @@ secretare	1
 monotipişti	0
 insurgente	1
 furnalişti	0
+tonţi	0
 toante	1
+infirmi	0
 infirme	1
 codroşi	0
 recuzări	1
@@ -2055,6 +2175,7 @@ infirmiere	1
 falconiforme	1
 şiretenii	1
 tobiţe	1
+plebeieni	0
 plebeiene	1
 tumuli	0
 tencuitori	0
@@ -2073,6 +2194,7 @@ coaptaţii	1
 demoliţiuni	1
 virgule	1
 trântoriţe	1
+osmani	0
 osmane	1
 mărmurari	0
 dedentiţii	1
@@ -2098,6 +2220,7 @@ ramoliri	1
 aberanţe	1
 newtoni	0
 semicivilizaţii	1
+fluşturatici	0
 fluşturatice	1
 halterofili	0
 burzuluieli	1
@@ -2106,6 +2229,7 @@ deţinute	1
 metaplazii	1
 zigofite	1
 apicultori	0
+narodnici	0
 narodnice	1
 bandelete	1
 pulpite	1
@@ -2127,6 +2251,7 @@ percheziţii	1
 astrucări	1
 penişe	1
 scânduriţe	1
+longobarzi	0
 longobarde	1
 tumori	1
 entropii	1
@@ -2152,6 +2277,7 @@ cacofonii	1
 curioni	0
 nepoţele	1
 devansări	1
+interimari	0
 interimare	1
 dulgheri	0
 pernuţe	1
@@ -2160,6 +2286,7 @@ silicifieri	1
 voroave	1
 reorganizaţii	1
 frizeri	0
+japonezi	0
 japoneze	1
 şire	1
 coafeze	1
@@ -2171,6 +2298,7 @@ laticlave	1
 grumaji	0
 ghilotine	1
 cromatograme	1
+vasluieni	0
 vasluiene	1
 secete	1
 cuţitoaie	1
@@ -2188,6 +2316,7 @@ reinterogări	1
 pirostrii	1
 radiopiraţi	0
 camforci	1
+francofoni	0
 francofone	1
 anereze	1
 putini	1
@@ -2199,6 +2328,7 @@ joimiri	0
 frazeologe	1
 carmangerii	1
 animatori	0
+cuperoşi	0
 cuperoase	1
 băcănii	1
 crăculiţe	1
@@ -2235,6 +2365,7 @@ depoluări	1
 dezamăgiri	1
 năframe	1
 odoleni	0
+ecumenişti	0
 ecumeniste	1
 cardiologi	0
 plutoni	0
@@ -2252,6 +2383,7 @@ combatanţi	0
 ghipsoteci	1
 imprecaţii	1
 franklini	0
+călcători	0
 prohibiri	1
 scorpioni	0
 cuminecături	1
@@ -2283,21 +2415,27 @@ dialele	1
 caimacami	0
 oreliste	1
 huţance	1
+galeţi	0
 galeţi	1
 intruziuni	1
+fanfaroni	0
 fanfaroane	1
 biografi	0
 cabalişti	0
 legaţii	1
 infecţiozităţi	1
 exemplificări	1
+cahuleni	0
 cahulene	1
 răcile	1
+pesimişti	0
 pesimiste	1
 hiperfrecvenţe	1
 cenotipi	0
 cose	1
+tărcăuani	0
 tărcăuane	1
+kurzi	0
 kurde	1
 afurisenii	1
 pigmentaţii	1
@@ -2310,8 +2448,10 @@ vocale	1
 supravegheri	1
 pastelişti	0
 experimentări	1
+cafarzi	0
 cafarde	1
 dermatozoonoze	1
+babilonieni	0
 babiloniene	1
 stilbi	0
 dezbobinări	1
@@ -2335,12 +2475,14 @@ teşiri	1
 vâlvori	1
 sori	0
 colibacili	0
+drobi	0
 zmăcinări	1
 diorii	1
 bestialităţi	1
 coreligionari	0
 butise	1
 imunochimişti	0
+lăieţi	0
 lăieţe	1
 aşteptări	1
 ocupatoare	1
@@ -2356,7 +2498,9 @@ sunnite	1
 brăţele	1
 mezofite	1
 micologe	1
+expozanţi	0
 expozante	1
+tripolieni	0
 tripoliene	1
 indiscreţii	1
 gradaţii	1
@@ -2368,6 +2512,7 @@ conirostre	1
 bulgări	0
 erborişti	0
 bâzâieli	1
+inspiratori	0
 inspiratoare	1
 kirghize	1
 justificări	1
@@ -2428,8 +2573,10 @@ atamani	0
 desolidarizări	1
 mătăhui	1
 saramuri	1
+sărăcani	0
 sărăcane	1
 amine	1
+semidocţi	0
 semidocte	1
 imprecizii	1
 stămburi	1
@@ -2463,6 +2610,7 @@ pleoscăituri	1
 rafinări	1
 supraveghetoare	1
 recunoştinţe	1
+emigranţi	0
 emigrante	1
 distorsiuni	1
 oltence	1
@@ -2486,6 +2634,7 @@ mindirigii	0
 despachetări	1
 modelere	1
 astronavigaţii	1
+înălbitori	0
 înălbitoare	1
 seminţenii	1
 mineralogi	0
@@ -2510,6 +2659,7 @@ buchiseli	1
 dinode	1
 distribuţii	1
 jumele	1
+gângavi	0
 gângave	1
 hudicioare	1
 închinători	0
@@ -2568,6 +2718,7 @@ viorişti	0
 imunoprofilaxii	1
 cavatine	1
 îmbuteliatoare	1
+manipulatori	0
 pomojnici	0
 pistolari	0
 bioniciene	1
@@ -2612,6 +2763,7 @@ concrescenţe	1
 umbrelari	0
 taxe	1
 plăpumi	1
+asiro-babilonieni	0
 asiro-babiloniene	1
 juncuţe	1
 reaudieri	1
@@ -2633,7 +2785,9 @@ fecioare	1
 şovăieli	1
 ambrozii	1
 câneri	0
+ciprioţi	0
 cipriote	1
+arvaniţi	0
 arvanite	1
 corei	0
 intrade	1
@@ -2672,6 +2826,7 @@ anonimi	0
 berării	1
 antecesori	0
 parafrazări	1
+osci	0
 osce	1
 antiformanţi	0
 balestre	1
@@ -2681,6 +2836,7 @@ sfârâiri	1
 monoculturi	1
 misandrii	1
 revopsiri	1
+minori	0
 minore	1
 centrozomi	0
 cuişoriţe	1
@@ -2699,6 +2855,7 @@ meteoriţi	0
 telecamere	1
 violenţe	1
 pigmee	1
+incisivi	0
 incisive	1
 executări	1
 limnologi	0
@@ -2721,9 +2878,11 @@ trombopatii	1
 mimografi	0
 doxologii	1
 jucării	1
+legiuitor	0
 legiuitoare	1
 arene	1
 electrolize	1
+cubişti	0
 cubiste	1
 publicişti	0
 microalieri	1
@@ -2740,6 +2899,7 @@ rezinificări	1
 aeromodelişti	0
 plumbaţi	0
 diblari	0
+barabanci	0
 acatafazii	1
 fiziocraţi	0
 moralizări	1
@@ -2764,13 +2924,16 @@ radioterapeute	1
 catalpe	1
 aiuriţi	0
 şuierători	1
+corintieni	0
 corintiene	1
 limnologe	1
 cutii	1
 cistite	1
 scizionări	1
+cehi	0
 cehe	1
 dubeli	1
+ceri	0
 necumpăniri	1
 acontări	1
 baracude	1
@@ -2784,6 +2947,7 @@ giranţi	0
 pagaie	1
 desţeleniri	1
 ceşti	1
+tăvălugi	0
 ginţi	1
 tucani	0
 ţintiri	1
@@ -2804,6 +2968,7 @@ hipiatrii	1
 embriotomii	1
 cuşete	1
 filaturi	1
+americani	0
 americane	1
 nule	1
 manifestaţii	1
@@ -2832,6 +2997,7 @@ satiseli	1
 predestinaţii	1
 săturări	1
 strigături	1
+greci	0
 coafori	0
 proclamaţii	1
 fecundări	1
@@ -2875,6 +3041,7 @@ sulfoconjugări	1
 carposfere	1
 monografi	0
 stanaţi	0
+flamanzi	0
 flamande	1
 campanile	1
 subgrinzi	1
@@ -2889,6 +3056,7 @@ afoni	0
 brezăi	1
 consfătuiri	1
 pestelci	1
+severineni	0
 severinene	1
 elice	1
 fiscalităţi	1
@@ -2897,15 +3065,18 @@ deflaţii	1
 consecinţe	1
 savarine	1
 iedere	1
+înaintaşi	0
 înaintaşe	1
 tocitori	0
 nucşoare	1
 căciuliţe	1
 iacinţi	0
 cunoaşteri	1
+carcaleţi	0
 isprăviri	1
 creste	1
 irealităţi	1
+spasmofilici	0
 spasmofilice	1
 drăgosteli	1
 amfore	1
@@ -2913,16 +3084,20 @@ onorificenţe	1
 feneci	0
 protoni	0
 etocraţi	0
+electroizolanţi	0
 electroizolante	1
 xantopsii	1
 promile	1
 trânjoaice	1
 gevrele	1
 tapări	1
+prevaricatori	0
 prevaricatoare	1
 multiprogramări	1
+destructori	0
 destructoare	1
 menoragii	1
+mistificatori	0
 mistificatoare	1
 ietere	1
 retorte	1
@@ -2933,7 +3108,9 @@ osmoze	1
 balcanologi	0
 merindări	1
 rânjituri	1
+struţi	0
 franzele	1
+stângişti	0
 stângiste	1
 coerezi	0
 păci	1
@@ -2945,6 +3122,7 @@ albatroşi	0
 factorizări	1
 bărzăuni	0
 heliotropi	0
+mâncători	0
 mâncătoare	1
 schizomanii	1
 rame	1
@@ -2958,6 +3136,7 @@ ciupeli	1
 spiritizări	1
 mesteci	1
 socri	0
+primogeniţi	0
 primogenite	1
 perucărese	1
 monografişti	0
@@ -2972,10 +3151,13 @@ mânăstioare	1
 orezării	1
 sofite	1
 osanale	1
+vietnamezi	0
 vietnameze	1
 şacali	0
 vanilii	1
+mecanicisti	0
 mecaniciste	1
+legalişti	0
 legaliste	1
 subchiriaşi	0
 peştoaice	1
@@ -2996,6 +3178,7 @@ stratigrafii	1
 purine	1
 plasmolize	1
 tuberculoze	1
+profanatori	0
 profanatoare	1
 manite	1
 locuitoare	1
@@ -3038,6 +3221,7 @@ nefrite	1
 criptanalişti	0
 pleurodinii	1
 căseni	0
+mahomedani	0
 mahomedane	1
 mesagerii	1
 zimnicence	1
@@ -3045,6 +3229,7 @@ achiziţionări	1
 restituţii	1
 cărmăcuţi	0
 nevinovăţii	1
+antiscorbutici	0
 umectări	1
 redacţii	1
 terfeliri	1
@@ -3095,6 +3280,7 @@ orăşeni	0
 trinci	1
 cuple	1
 înverşunări	1
+europoizi	0
 europoide	1
 ebeniste	1
 oblojiri	1
@@ -3136,6 +3322,7 @@ tutele	1
 tocate	1
 rezite	1
 zbrobeli	1
+seminomazi	0
 seminomade	1
 tehnicizări	1
 industrializări	1
@@ -3168,7 +3355,9 @@ solanee	1
 compatrioţi	0
 micotoxicoze	1
 dorne	1
+conducători	0
 conducătoare	1
+estetizanţi	0
 estetizante	1
 centratori	0
 jucătoare	1
@@ -3192,6 +3381,7 @@ revalorificări	1
 mărgele	1
 supremaţii	1
 volanţi	0
+talani	0
 baghete	1
 zidiri	1
 întomnări	1
@@ -3199,8 +3389,10 @@ nemernicii	1
 cuscrişori	0
 fabulişti	0
 sultane	1
+ornitofili	0
 ornitofile	1
 inauguratori	0
+enciclopedişti	0
 enciclopediste	1
 inaderenţe	1
 comodităţi	1
@@ -3225,6 +3417,7 @@ faultări	1
 liste	1
 pseudoparaziţi	0
 aldosteroni	0
+dacoromâni	0
 dacoromâne	1
 tribuni	0
 raşchete	1
@@ -3233,10 +3426,12 @@ deţinătoare	1
 kaizeri	0
 sobuşoare	1
 căniţe	1
+sofioţi	0
 sofiote	1
 româniste	1
 avocaţi	0
 ghiorăieli	1
+namibieni	0
 namibiene	1
 cime	1
 decapsulări	1
@@ -3254,9 +3449,11 @@ calici	0
 califi	0
 cufundări	1
 achii	0
+pietreni	0
 pietrene	1
 pădurari	0
 cotarle	1
+incitativi	0
 incitative	1
 covrigărese	1
 groşiţe	1
@@ -3278,6 +3475,7 @@ candele	1
 locotenenţi-colonei	0
 închinări	1
 creaţii	1
+revendicatori	0
 revendicatoare	1
 feerii	1
 ţiţeici	1
@@ -3293,9 +3491,11 @@ mămăruţe	1
 neologişti	0
 tribrahi	0
 fluorescenţe	1
+ecuadorieni	0
 ecuadoriene	1
 formaline	1
 povăţuitoare	1
+bastarzi	0
 bastarde	1
 intubaţii	1
 sarcomicete	1
@@ -3336,6 +3536,7 @@ tocători	1
 tarsioidee	1
 prăştini	1
 consecvenţe	1
+conjuncturişti	0
 conjuncturiste	1
 astuţii	1
 cârcserdari	0
@@ -3349,6 +3550,7 @@ parazitări	1
 anarhosindicalişti	0
 spicheri	0
 presatori	0
+granaţi	0
 înţesări	1
 bimembri	0
 păstrăvării	1
@@ -3362,6 +3564,7 @@ eluanţi	0
 stâne	1
 privegheri	1
 dizenterii	1
+dizenterici	0
 dizenterice	1
 explicitări	1
 vulgarizatoare	1
@@ -3378,6 +3581,7 @@ cherestegerii	1
 bromuri	1
 mitroace	1
 terţe	1
+terţi	0
 hoţoaice	1
 păpărade	1
 anarhişti	0
@@ -3397,6 +3601,7 @@ pretăbăciri	1
 răbuieli	1
 abrogaţii	1
 netezimi	1
+leoveni	0
 leovene	1
 seminarizări	1
 rătăciri	1
@@ -3446,6 +3651,7 @@ rumegături	1
 balizări	1
 bărbişoare	1
 sărăcii	1
+lăptişori	0
 miliardare	1
 arhive	1
 detorsiuni	1
@@ -3457,6 +3663,7 @@ regresaţi	0
 cabaniere	1
 dăruiri	1
 făgăduieli	1
+scarlatinoşi	0
 scarlatinoase	1
 recitatori	0
 ferţe	1
@@ -3512,6 +3719,7 @@ renunţări	1
 pluşări	1
 târse	1
 împotriveli	1
+zburători	0
 zburătoare	1
 rectoscopii	1
 fişti	1
@@ -3530,9 +3738,11 @@ vivandiere	1
 răzgândiri	1
 trompetişti	0
 ţoşti	1
+utopişti	0
 utopiste	1
 băsmuitori	0
 colectazii	1
+infectocontagioşi	0
 infectocontagioase	1
 grindine	1
 hidrofugări	1
@@ -3541,6 +3751,7 @@ flibustieri	0
 enterocolite	1
 fitoterapeuţi	0
 colecţionări	1
+asociaţi	0
 asociate	1
 slujnicari	0
 vicecomiţi	0
@@ -3575,6 +3786,7 @@ prevaricaţiuni	1
 puradei	0
 docenţi	0
 ipoteze	1
+hipnotizatori	0
 hipnotizatoare	1
 hurducăieli	1
 sforăiri	1
@@ -3634,6 +3846,7 @@ ungătoare	1
 statorniciri	1
 concesii	1
 brâncariţe	1
+titulari	0
 titulare	1
 hetaire	1
 colonii	1
@@ -3670,6 +3883,7 @@ chelii	1
 pleşuvii	1
 taxologe	1
 semiindustrializări	1
+slavoni	0
 slavone	1
 ambiţioşi	0
 dipsacacee	1
@@ -3710,20 +3924,24 @@ predominanţe	1
 silvicultoare	1
 chimişti	0
 răzeşii	1
+lustruitori	0
 sclipeli	1
 misdiviziuni	1
 pietrării	1
 casete	1
+cornari	0
 brădişoare	1
 prespălări	1
 municipalizări	1
 întristări	1
 malacologe	1
 pojarnici	0
+creţi	0
 fluoroze	1
 pesos	0
 recogniţiuni	1
 stomate	1
+angrosişti	0
 angrosiste	1
 plăgi	1
 lingvistici	1
@@ -3731,7 +3949,9 @@ gerahi	0
 amfetamine	1
 pive	1
 turnuri	1
+marocani	0
 marocane	1
+pavlovişti	0
 pavloviste	1
 jungle	1
 microstaţii	1
@@ -3751,6 +3971,7 @@ fote	1
 recenzări	1
 contrascote	1
 petrificări	1
+auditori	0
 auditoare	1
 lăcuitori	0
 cincile	1
@@ -3805,7 +4026,9 @@ globalişti	0
 destinderi	1
 vrăjiri	1
 catavasii	1
+scuipaţi	0
 tocilării	1
+plonjori	0
 proboscidieni	0
 dezechipări	1
 antelii	1
@@ -3843,6 +4066,7 @@ orăşenii	1
 alozauri	0
 cauţiuni	1
 perperi	0
+portughezi	0
 portugheze	1
 metaloplastii	1
 degazatori	0
@@ -3876,10 +4100,12 @@ izoseiste	1
 degenerări	1
 oinişti	0
 protoierei	0
+cretini	0
 cretine	1
 pianine	1
 alomorfii	1
 pavatori	0
+confuzionari	0
 confuzionare	1
 clinici	1
 servoreglări	1
@@ -3895,6 +4121,7 @@ honuiri	1
 carabuşti	1
 maltozurii	1
 asimetrii	1
+fugaci	0
 fugace	1
 eleagnacee	1
 perişori	0
@@ -3902,6 +4129,7 @@ cipici	0
 crisofenine	1
 inicvităţi	1
 sponsorizări	1
+semigrei	0
 semigrele	1
 pterozaurieni	0
 dedogmatizări	1
@@ -3921,8 +4149,10 @@ culpaşe	1
 camerişti	0
 narine	1
 recompartimentări	1
+spătari	0
 grafologi	0
 mihalţi	0
+locatori	0
 englezoaice	1
 comesene	1
 peţitori	0
@@ -3937,16 +4167,19 @@ casmofite	1
 salatiere	1
 văduvioare	1
 despărţiri	1
+toporaşi	0
 deferiri	1
 pocnituri	1
 bulbuci	0
 bulvani	0
 ipocrizii	1
 mârliri	1
+zambieni	0
 zambiene	1
 biofiziciene	1
 halucinate	1
 lunauţi	0
+cronografi	0
 păcănituri	1
 drumeţe	1
 vitişoare	1
@@ -3954,6 +4187,7 @@ fixatori	0
 alpiniste	1
 zerari	0
 reprofilări	1
+exportatori	0
 exportatoare	1
 fântânioare	1
 sticluliţe	1
@@ -3961,11 +4195,13 @@ deprecieri	1
 jnepeni	0
 citogeneticieni	0
 zdrobituri	1
+cacomi	0
 doctorese	1
 drage	1
 ranforsări	1
 flebotomii	1
 doinari	0
+idolatri	0
 idolatre	1
 berbecuţi	0
 alambicări	1
@@ -3989,6 +4225,7 @@ schilodenii	1
 antecedenţe	1
 parametroni	0
 schiagrafii	1
+elani	0
 radiotelegrafiste	1
 încercuiri	1
 tigăiţe	1
@@ -4000,7 +4237,9 @@ supravieţuitori	0
 limfadenii	1
 evocări	1
 indignări	1
+destrăbălaţi	0
 destrăbălate	1
+suspecţi	0
 suspecte	1
 eritrofobii	1
 înfiinţări	1
@@ -4010,6 +4249,7 @@ prerogative	1
 placardări	1
 defazări	1
 scăiuşi	0
+euhemerişti	0
 euhemeriste	1
 franzeluţe	1
 bocşi	0
@@ -4017,6 +4257,8 @@ boji	0
 boşi	0
 boi	0
 comisii	1
+extremi	0
+extreme	1
 accelerări	1
 protosingheli	0
 raganele	1
@@ -4043,12 +4285,14 @@ fâşii	1
 relocaţiuni	1
 ursărese	1
 spute	1
+solidarişti	0
 solidariste	1
 parafize	1
 încununări	1
 surate	1
 lepădături	1
 prepeliţe	1
+gălbiori	0
 gălbioare	1
 ridicări	1
 avansări	1
@@ -4093,6 +4337,7 @@ sulfamide	1
 lampetre	1
 glorificări	1
 aţe	1
+taoişti	0
 taoiste	1
 evapotranspiraţii	1
 fotoceramişti	0
@@ -4130,6 +4375,7 @@ hătmănese	1
 tripartiţii	1
 autocaptări	1
 lumi	1
+fracţionişti	0
 fracţioniste	1
 trofeine	1
 tăblii	1
@@ -4143,6 +4389,7 @@ prosternări	1
 glodiri	1
 difracţiiii	1
 fitologi	0
+depolarizanţi	0
 depolarizante	1
 jidovine	1
 anagrame	1
@@ -4151,6 +4398,7 @@ chelăriţe	1
 greieraşi	0
 costande	1
 oncologe	1
+monomaniaci	0
 monomaniace	1
 fotolize	1
 cifratori	0
@@ -4172,6 +4420,7 @@ mandibule	1
 cacaotieri	0
 botce	1
 popii	1
+capituli	0
 iteraţii	1
 catacombe	1
 lunuri	1
@@ -4204,9 +4453,11 @@ peri	0
 garnizoane	1
 derogaţii	1
 mintii	1
+geţi	0
 gete	1
 tulnicărese	1
 licitatori	0
+difuzibili	0
 difuzibile	1
 antropopiteci	0
 agonii	1
@@ -4228,6 +4479,8 @@ uclei	0
 tresăriri	1
 agasări	1
 motorcade	1
+lemnari	0
+spartani	0
 spartane	1
 curcubete	1
 gramole	1
@@ -4255,6 +4508,7 @@ turuieli	1
 scorniri	1
 jonci	1
 congestii	1
+hoinari	0
 hoinare	1
 blende	1
 ţarigrădence	1
@@ -4302,6 +4556,7 @@ măslinari	0
 fluctuaţii	1
 pologari	0
 matisiri	1
+galofili	0
 galofile	1
 matahale	1
 mesaline	1
@@ -4309,6 +4564,7 @@ cleptobioze	1
 antropologe	1
 osteonecroze	1
 găini-de-mare	1
+ciufi	0
 dictări	1
 beuci	1
 bocănitori	1
@@ -4334,6 +4590,7 @@ admiraţii	1
 heliogravuri	1
 cusătorii	1
 sudaţii	1
+omuşori	0
 simpaticotomii	1
 solicitatori	0
 cocoaşe	1
@@ -4348,6 +4605,7 @@ redeveniri	1
 zârne	1
 reconsiderări	1
 grevări	1
+educatori	0
 educatoare	1
 sfite	1
 puste	1
@@ -4373,6 +4631,7 @@ antisocialişti	0
 gunoiri	1
 glume	1
 fonoteci	1
+prusaci	0
 prusace	1
 surplombe	1
 mâncături	1
@@ -4383,6 +4642,7 @@ deparafinări	1
 dominări	1
 caţe	1
 balercuţe	1
+fanatici	0
 fanatice	1
 asprişoare	1
 burtiere	1
@@ -4419,13 +4679,16 @@ cumularzi	0
 cenuşi	1
 colatitudini	1
 elagări	1
+alsacieni	0
 alsaciene	1
 bolniţe	1
 promotori	0
 zălezeli	1
+antiprogresişti	0
 antiprogresiste	1
 halte	1
 portbobine	1
+ajutori	0
 automatişti	0
 botgroşi	0
 conlucrări	1
@@ -4455,6 +4718,7 @@ ocini	1
 sinizaţii	1
 băşici	1
 pelinuţe	1
+anexionişti	0
 anexioniste	1
 lecţii	1
 lăptari	0
@@ -4480,6 +4744,7 @@ cetene	1
 seducţii	1
 ctitori	0
 povestitoare	1
+măriţi	0
 duşegubine	1
 componiste	1
 mării	1
@@ -4530,6 +4795,9 @@ prolanemii	1
 hematologi	0
 catapultări	1
 lutării	1
+dragoni	0
+dragori	0
+plutonişti	0
 plutoniste	1
 luleluşe	1
 glăji	1
@@ -4556,12 +4824,14 @@ microscopii	1
 custuri	1
 petrochimiste	1
 chininizări	1
+etrusci	0
 etrusce	1
 coreferenţi	0
 subclasificări	1
 orduri	1
 relevanţe	1
 gambete	1
+pedofili	0
 pedofile	1
 lubrificaţii	1
 batigrame	1
@@ -4573,7 +4843,9 @@ băietănaşi	0
 liliuţe	1
 sitiofobii	1
 tapiride	1
+intermediari	0
 intermediare	1
+calomniatori	0
 calomniatoare	1
 hidroterapii	1
 solişti	0
@@ -4586,6 +4858,7 @@ obleţi	0
 dieceze	1
 lifte	1
 gingivite	1
+bărbaţi	0
 bărbate	1
 păpurişti	1
 unificări	1
@@ -4601,6 +4874,7 @@ cursori	1
 cimbalişti	0
 veşnicii	1
 ciocoiaşi	0
+nativişti	0
 nativiste	1
 ihtioze	1
 aromatizări	1
@@ -4626,12 +4900,14 @@ preducele	1
 designări	1
 cartografieri	1
 penişoare	1
+mizerabili	0
 mizerabile	1
 subdirectori	0
 umbrişoare	1
 penetranţe	1
 javre	1
 carbonaţi	0
+bâzoi	0
 carbonari	0
 păsări-liră	1
 căluşari	0
@@ -4679,6 +4955,7 @@ scuze	1
 metrese	1
 experţi	0
 normaliste	1
+antimaterialişti	0
 antimaterialiste	1
 sfincşi	0
 argintării	1
@@ -4691,6 +4968,7 @@ sumănari	0
 pogăcele	1
 destabilizări	1
 gălbiniţe	1
+defuncţi	0
 defuncte	1
 saponificări	1
 caprimulgi	0
@@ -4704,11 +4982,13 @@ liftieri	0
 năşei	0
 evorsiuni	1
 veşte	1
+pamfletari	0
 pamfletare	1
 epuraţii	1
 sortiri	1
 deploraţii	1
 interniste	1
+panamericani	0
 panamericane	1
 recidive	1
 nivele	1
@@ -4728,6 +5008,7 @@ priinţe	1
 agresivităţi	1
 alimentaţii	1
 încordări	1
+episcopi	0
 zdrenţe	1
 rugări	1
 prerii	1
@@ -4757,6 +5038,7 @@ consumatori	0
 scribăreţi	0
 cuci	0
 sfănţişori	0
+sanmarinezi	0
 sanmarineze	1
 reîmpăduriri	1
 stagelaţii	1
@@ -4765,11 +5047,13 @@ lipitori	0
 etalajişti	0
 naturalizări	1
 alivenci	1
+ricanatori	0
 ricanatoare	1
 făptaşi	0
 glaciologi	0
 holoangări	0
 metaboliţi	0
+timişoreni	0
 timişorene	1
 leucograme	1
 scălâmbăieri	1
@@ -4850,6 +5134,7 @@ baschetbaliste	1
 acordeonişti	0
 metafiziciene	1
 armăşei	0
+franciscani	0
 franciscane	1
 tulburări	1
 ştampilografi	0
@@ -4869,6 +5154,7 @@ testele	1
 podani	0
 megohmi	0
 slaviste	1
+balamuţi	0
 balamute	1
 parazitemii	1
 ameninţări	1
@@ -4888,15 +5174,18 @@ introduceri	1
 ochene	1
 poeticieni	0
 hidroenergeticieni	0
+erotomani	0
 erotomane	1
 prostate	1
 doimi	1
+poleci	0
 polece	1
 zidării	1
 generaţii	1
 holde	1
 cheltuitori	0
 bibereţi	0
+cretani	0
 cretane	1
 scriitoare	1
 demitologizări	1
@@ -4950,6 +5239,7 @@ drăcuşori	0
 vicari	0
 trincheţi	0
 moşmoane	1
+vădani	0
 vădane	1
 cuantificări	1
 reglete	1
@@ -4976,6 +5266,7 @@ tărâţări	1
 psihagogi	0
 locotenenţi-majori	0
 cârlani	0
+binefăcători	0
 binefăcătoare	1
 weberi	0
 microbiologi	0
@@ -4988,6 +5279,7 @@ modelări	1
 tulpini	1
 carnefice	0
 brustani	0
+monogami	0
 monogame	1
 inervaţii	1
 operaţiuni	1
@@ -5002,6 +5294,7 @@ chiriaşi	0
 radieri	1
 epistoliere	1
 căpitani-locotenenţi	0
+pivoţi	0
 coligări	1
 divagări	1
 metafore	1
@@ -5039,6 +5332,7 @@ somnambule	1
 unghiuţe	1
 dungi	1
 anexite	1
+hemiplegici	0
 hemiplegice	1
 autoreproduceri	1
 petroşenence	1
@@ -5092,6 +5386,7 @@ diletante	1
 culturalizări	1
 secfii	0
 afaniptere	1
+miştocari	0
 miştocare	1
 deuteroni	0
 şamotori	0
@@ -5111,6 +5406,7 @@ laniere	1
 miliţience	1
 prădări	1
 repolarizări	1
+invarianţi	0
 invariante	1
 oprimări	1
 bufniri	1
@@ -5122,6 +5418,7 @@ birtaşi	0
 diete	1
 metrologe	1
 transfiguraţii	1
+turci	0
 turce	1
 deficienţe	1
 împărţiri	1
@@ -5131,11 +5428,13 @@ viţei	0
 grozăvenii	1
 morfopatologi	0
 meteoropatii	1
+sinofili	0
 sinofile	1
 notabilităţi	1
 noveletei	1
 vâlvătăi	1
 pasienţe	1
+ifosarzi	0
 ifosarde	1
 hipovitaminoze	1
 gustătoare	1
@@ -5207,6 +5506,7 @@ geometriciene	1
 hipoplazii	1
 acreli	1
 amorse	1
+titirezi	0
 gropi	1
 presenităţi	1
 decantări	1
@@ -5244,12 +5544,14 @@ boaşte	1
 anafaze	1
 predicaţii	1
 grecoaice	1
+purişti	0
 puriste	1
 eşuări	1
 anticorpi	0
 destupări	1
 miaze	1
 arsine	1
+spontaneişti	0
 spontaneiste	1
 canoneli	1
 politehnicieni	0
@@ -5273,6 +5575,7 @@ pătlagini	1
 reumatologi	0
 împletitori	0
 etimologiste	1
+frenici	0
 frenice	1
 diplure	1
 schime	1
@@ -5283,6 +5586,7 @@ ghioage	1
 mocofani	0
 tălăncuţe	1
 podăriţe	1
+furnicari	0
 oscilări	1
 intercepţii	1
 direcţionări	1
@@ -5332,6 +5636,7 @@ trandafiraşi	0
 arahide	1
 cetăţi	1
 paricide	1
+paricizi	0
 subliteraturi	1
 omoi	0
 virtuozi	0
@@ -5368,6 +5673,7 @@ reimportări	1
 strâmbătăţi	1
 persulfaţi	0
 prescripţii	1
+gălăţeni	0
 gălăţene	1
 pribolnici	0
 corvezi	1
@@ -5397,6 +5703,7 @@ lepidopterologi	0
 dreptaci	0
 ferăstrăiaşi	0
 porfirogeneţi	0
+corigenţi	0
 corigente	1
 mirozne	1
 bădici	0
@@ -5405,6 +5712,7 @@ adsorbanţi	0
 reamenajări	1
 milimicroni	0
 osteologi	0
+finalişti	0
 finaliste	1
 tălăşti	1
 jochei	0
@@ -5435,6 +5743,7 @@ teiuleţi	0
 urecheli	1
 oranzi	0
 zooiatri	0
+oranţi	0
 orante	1
 estrade	1
 odăiţe	1
@@ -5451,6 +5760,7 @@ respingeri	1
 linariţe	1
 anticării	1
 apostile	1
+informatori	0
 informatoare	1
 heralzi	0
 arteriopatii	1
@@ -5480,10 +5790,12 @@ supraîncărcări	1
 păpădii	1
 biocurenţi	0
 crevete	1
+galeofobi	0
 galeofobe	1
 prădăciuni	1
 tartoriţe	1
 simpaticotonii	1
+greco-latini	0
 greco-latine	1
 paraponisiri	1
 jiene	1
@@ -5497,8 +5809,10 @@ fantaşti	0
 desagi	1
 contagieri	1
 şlefuiri	1
+lătrători	0
 lătrătoare	1
 mocăncuţe	1
+mistici	0
 mistice	1
 acuzaţii	1
 medicalizări	1
@@ -5514,6 +5828,7 @@ pileaţi	0
 rânduieli	1
 mandore	1
 huligani	0
+retardatari	0
 retardatare	1
 prădători	0
 înfieri	1
@@ -5534,6 +5849,7 @@ carcase	1
 erepsine	1
 derele	1
 strongili	0
+făţarnici	0
 făţarnice	1
 desudaţii	1
 amputări	1
@@ -5592,6 +5908,7 @@ preechipe	1
 lăuzii	1
 racordări	1
 telelecţii	1
+muţi	0
 mute	1
 bresle	1
 muşi	0
@@ -5606,6 +5923,7 @@ semiconductori	0
 sorţi	1
 bocăneli	1
 tăfâlci	1
+galbeni	0
 martalogi	0
 achingii	0
 scapule	1
@@ -5625,15 +5943,18 @@ pârjoale	1
 şiştăviri	1
 cocoloşiri	1
 nemărginiri	1
+haloizi	0
 haloide	1
 verigi	1
 moşneni	0
 dubli-steri	0
 coobligaţii	1
 surdocamere	1
+infiniţi	0
 ploştine	1
 curtoazii	1
 haite	1
+jeluitori	0
 jeluitoare	1
 sperări	1
 încondeieturi	1
@@ -5648,6 +5969,7 @@ milosârdii	1
 translatoare	1
 vagmiştri	0
 artritici	0
+macropozi	0
 macropode	1
 jderi	0
 rulote	1
@@ -5672,6 +5994,7 @@ depanatori	0
 supraimpuneri	1
 tânguiri	1
 hipsograme	1
+est-europeni	0
 est-europene	1
 sterilizatoare	1
 curentometri	0
@@ -5697,6 +6020,7 @@ preludări	1
 psihologe	1
 hesperide	1
 smirdari	0
+simbolişti	0
 simboliste	1
 pufoaice	1
 semănători	0
@@ -5707,6 +6031,7 @@ coafări	1
 zâmbri	0
 arşinici	0
 notătoare	1
+ocniţeni	0
 ocniţene	1
 împrejurări	1
 bete	1
@@ -5717,6 +6042,7 @@ reactanţe	1
 poliachene	1
 heliolitografii	1
 scrântiri	1
+acari	0
 ghipuri	1
 fulii	1
 picturi	1
@@ -5728,6 +6054,7 @@ teleanchete	1
 cicatrizări	1
 diagnosticieni	0
 franţuziri	1
+constructivişti	0
 constructiviste	1
 şerpariţe	1
 cercopiteci	0
@@ -5753,8 +6080,10 @@ legănări	1
 cotizatori	0
 rostiri	1
 caligrafi	0
+percepţionişti	0
 percepţioniste	1
 etimologe	1
+santhiaghezi	0
 santhiagheze	1
 furcari	0
 denominalizări	1
@@ -5795,6 +6124,7 @@ recepturi	1
 acvaplanişti	0
 ceapcâni	0
 fărâmiţări	1
+romi	0
 robi	0
 schizogonii	1
 aleside	1
@@ -5805,6 +6135,7 @@ amfibologii	1
 supraaprecieri	1
 urături	1
 orăstici	1
+furători	0
 furătoare	1
 clopoţei	0
 penalizaţii	1
@@ -5822,16 +6153,19 @@ adăpări	1
 eutrofii	1
 simplificaţii	1
 fluxiuni	1
+hotelieri	0
 hoteliere	1
 băscălii	1
 margarete	1
 reflexologe	1
 popritori	1
 colini	0
+existenţialişti	0
 existenţialiste	1
 tălăngi	1
 celebratoare	1
 compresoriste	1
+venusieni	0
 venusiene	1
 ciulamale	1
 inexactităţi	1
@@ -5904,6 +6238,7 @@ scurteicuţe	1
 carde	1
 veruce	1
 cizmari	0
+înrobitori	0
 înrobitoare	1
 băsnari	0
 ofiologe	1
@@ -5935,6 +6270,7 @@ boli	1
 abrogări	1
 guvernanţi	0
 plenipotenţiari	0
+toxicomani	0
 toxicomane	1
 devize	1
 năpătci	1
@@ -5942,6 +6278,7 @@ criminaliste	1
 conchistadori	0
 mărşăluiri	1
 păsăruici	1
+coposesori	0
 coposesoare	1
 codificări	1
 pederaşti	0
@@ -5962,6 +6299,7 @@ complotişti	0
 frezori	0
 chehaiele	1
 chehăi	1
+văduvi	0
 văduve	1
 patimi	1
 diligenţe	1
@@ -5972,13 +6310,17 @@ masalale	1
 bucurii	1
 contratrepte	1
 fugase	1
+indonezieni	0
 indoneziene	1
 ecoseze	1
 zmeoaice	1
+grunji	0
 paracistite	1
 comersanţi	0
+parkinsonieni	0
 parkinsoniene	1
 etichete	1
+organicişti	0
 organiciste	1
 roxolani	0
 săpători	1
@@ -5987,7 +6329,9 @@ călţunărese	1
 bronhograme	1
 sustracţiuni	1
 becisnici	0
+zoolatri	0
 zoolatre	1
+centrafricani	0
 centrafricane	1
 ture	1
 supermani	0
@@ -6010,6 +6354,7 @@ dedublări	1
 recţiuni	1
 rolări	1
 gerontologe	1
+fundaci	0
 individe	1
 tămâierniţe	1
 scrofulariacee	1
@@ -6054,6 +6399,7 @@ sârboaice	1
 canţonete	1
 instauratori	0
 divergenţe	1
+zăblăi	0
 accepţii	1
 lobeline	1
 inechităţi	1
@@ -6078,6 +6424,7 @@ scufii	1
 actofite	1
 ţârlâituri	1
 piloni	0
+heterodonţi	0
 heterodonte	1
 pilori	0
 andrele	1
@@ -6094,6 +6441,7 @@ plescaviţe	1
 dinamitări	1
 ironii	1
 întemniţări	1
+participanţi	0
 participante	1
 bâze	1
 baciloze	1
@@ -6124,6 +6472,7 @@ contemplatori	0
 cheratite	1
 reverberaţii	1
 bomboniere	1
+feminişti	0
 feministe	1
 romanţe	1
 ţăruşi	0
@@ -6158,6 +6507,7 @@ coptologi	0
 finale	1
 pungăşii	1
 izopage	1
+spumanţi	0
 spumante	1
 smârdori	1
 tabletări	1
@@ -6177,6 +6527,7 @@ buzunăreli	1
 luminoscheme	1
 taste	1
 estimatori	0
+ocazionişti	0
 ocazionaliste	1
 heterogamii	1
 meserniţe	1
@@ -6186,6 +6537,8 @@ fomentaţii	1
 solicitanţi	0
 expediţii	1
 pitecantropi	0
+supinatori	0
+supinatoare	1
 nănaşe	1
 vămuiri	1
 amentifere	1
@@ -6196,10 +6549,12 @@ pioşenii	1
 triciclete	1
 magnilocvenţe	1
 contabilizări	1
+scizionişti	0
 scizioniste	1
 ovulaţii	1
 litere	1
 letrine	1
+haitieni	0
 haitiene	1
 crucifere	1
 autoreplici	1
@@ -6207,6 +6562,7 @@ micimi	1
 dezasimilaţii	1
 ectazii	1
 cărucioare	1
+parodiatori	0
 parodiatoare	1
 taxodiacee	1
 crezări	1
@@ -6233,6 +6589,7 @@ răscumpărări	1
 orieri	0
 vulpi	1
 decalcificări	1
+roi	0
 abnormităţi	1
 identaţii	1
 păgubaşi	0
@@ -6258,6 +6615,7 @@ ventilatorişti	0
 canceroşi	0
 mofluziţi	0
 agrometeorologe	1
+uruguayeni	0
 uruguayene	1
 cărări	1
 holograme	1
@@ -6305,6 +6663,7 @@ miri	0
 miloage	1
 penticostali	0
 mirţi	0
+umanitarişti	0
 umanitariste	1
 vaze	1
 arine	1
@@ -6330,6 +6689,7 @@ antele	1
 osteomalacii	1
 purificaţii	1
 infanticide	1
+infanticizi	0
 disimilaţii	1
 muguraşi	0
 facilitări	1
@@ -6338,6 +6698,7 @@ pecingini	1
 acţionari	0
 terfe	1
 seime	1
+venezuelani	0
 venezuelane	1
 litografi	0
 epistaţi	0
@@ -6347,6 +6708,7 @@ romaşcance	1
 oleacee	1
 sabiţe	1
 franctirori	0
+galo-romani	0
 galo-romane	1
 etnarhii	1
 clorhidrine	1
@@ -6354,14 +6716,17 @@ persistenţe	1
 badijonări	1
 exsicaţii	1
 legiuiri	1
+negroizi	0
 negroide	1
 bouri	0
 compulsiuni	1
 rechiziţionări	1
 înmuieri	1
 călugăraşi	0
+algerieni	0
 algeriene	1
 cercari	0
+megleniţi	0
 meglenite	1
 portiţe	1
 abagii	0
@@ -6386,6 +6751,7 @@ declarări	1
 peripişte	1
 stipulări	1
 gârbiţe	1
+turani	0
 turane	1
 heliofite	1
 calandrori	0
@@ -6403,8 +6769,10 @@ singurătăţi	1
 scleroze	1
 melise	1
 lufari	0
+misogini	0
 misogine	1
 întărituri	1
+antimalarici	0
 metadine	1
 îmbrobodiri	1
 concetăţene	1
@@ -6415,6 +6783,7 @@ microfilmoteci	1
 alocutori	0
 albimi	1
 petroliste	1
+abandonici	0
 abandonice	1
 bacterii	1
 lainice	1
@@ -6425,14 +6794,17 @@ musoni	0
 lamine	1
 hidrotehnicieni	0
 resurgenţe	1
+pelasgi	0
 pelasge	1
 neurofibrile	1
 auxine	1
 plămânărele	1
+copii	0
 decemviri	0
 vechituri	1
 copii	1
 ficologe	1
+vest-germani	0
 vest-germane	1
 decisteri	0
 deboşe	1
@@ -6451,6 +6823,7 @@ terpene	1
 octatlonişti	0
 halde	1
 flinte	1
+platonicieni	0
 platoniciene	1
 coadministratori	0
 iezi	0
@@ -6470,6 +6843,7 @@ evanghelizatori	0
 termocolări	1
 pietoni	0
 numerotări	1
+panamericanişti	0
 panamericaniste	1
 despăturiri	1
 frize	1
@@ -6500,6 +6874,8 @@ picurători	1
 explorări	1
 curticele	1
 eozine	1
+operaţi	0
+operate	1
 reduceri	1
 morfinomane	1
 ţapi-negri	0
@@ -6533,6 +6909,7 @@ tunici	1
 sezine	1
 petarde	1
 mugiri	1
+mordanţi	0
 mordante	1
 monodrame	1
 chirfoseli	1
@@ -6541,6 +6918,7 @@ demoni	0
 chirovnici	0
 paradigme	1
 duduiţe	1
+trepădători	0
 trepădătoare	1
 inioni	0
 plastifianţi	0
@@ -6551,6 +6929,7 @@ echipiere	1
 repasări	1
 cânepari	0
 sfănţuici	1
+renovatori	0
 renovatoare	1
 căsnicii	1
 ezitări	1
@@ -6579,6 +6958,7 @@ mulţimi	1
 mediateci	1
 apnee	1
 tumefieri	1
+sufragii	0
 reptile	1
 congratulaţii	1
 studenţii	1
@@ -6587,6 +6967,8 @@ evisceraţii	1
 apologii	1
 barbotări	1
 abilităţi	1
+martiri	0
+taleri	0
 şandramale	1
 viţeluşe	1
 arămiri	1
@@ -6598,6 +6980,7 @@ vorbării	1
 dale	1
 vintre	1
 conioze	1
+neostalinişti	0
 neostaliniste	1
 estacade	1
 clarinetişti	0
@@ -6612,6 +6995,7 @@ complimentări	1
 imposte	1
 comercialişti	0
 tehnologii	1
+apreciatori	0
 apreciatoare	1
 materializatoare	1
 juisori	0
@@ -6634,6 +7018,7 @@ subfamilii	1
 meşe	1
 tătarnice	1
 concertmaiştri	0
+sălbatici	0
 sălbatice	1
 protopopi	0
 piuieli	1
@@ -6642,6 +7027,7 @@ plăcintuţe	1
 lugojence	1
 meteoinformaţii	1
 monohibridări	1
+antiamericani	0
 antiamericane	1
 sarcoplasme	1
 răciri	1
@@ -6649,6 +7035,7 @@ nervuri	1
 zălugi	0
 hagii	0
 fideiusori	0
+trituratori	0
 trituratoare	1
 fâşioare	1
 hematofobii	1
@@ -6662,16 +7049,20 @@ aristocraţii	1
 singheli	0
 caride	1
 turnătorii	1
+zmei	0
 despriponiri	1
 boţituri	1
 ambivalenţe	1
 peribronşite	1
 măcălendri	0
 dilogii	1
+orfelini	0
 orfeline	1
 prujituri	1
 grefări	1
+decasilabi	0
 decasilabe	1
+daco-romani	0
 daco-romane	1
 microclime	1
 venule	1
@@ -6692,12 +7083,15 @@ zdelci	1
 ape	1
 laringopatii	1
 donaţii	1
+duci	0
 planarii	1
 ochelariste	1
+ciubucari	0
 acili	0
 juzi	0
 pitărci	1
 predestinări	1
+acizi	0
 acide	1
 reprobări	1
 evitări	1
@@ -6722,6 +7116,7 @@ vacuole	1
 căciuli	1
 zavistnicii	1
 entimeme	1
+seralişti	0
 seraliste	1
 configurări	1
 volţi	0
@@ -6745,6 +7140,7 @@ ikebane	1
 redactoare	1
 năşicuţe	1
 prăsazi	0
+azerbaidjeni	0
 azerbaidjene	1
 gâsculiţe	1
 zilişoare	1
@@ -6754,12 +7150,14 @@ opritori	1
 ţundre	1
 fiole	1
 timoftici	1
+epicurieni	0
 epicuriene	1
 consistenţe	1
 confecţionări	1
 săgetaşi	0
 locatoare	1
 tâlhărele	1
+coşari	0
 bobiţe	1
 caruselişti	0
 pietricele	1
@@ -6769,7 +7167,9 @@ hidatode	1
 scrofule	1
 holocefali	0
 tătâni	0
+militarişti	0
 militariste	1
+deltoizi	0
 deltoide	1
 moderanţe	1
 zăvolniţi	1
@@ -6789,8 +7189,10 @@ cotineţe	1
 pelote	1
 frumuseţi	1
 prunişti	1
+sânţi	0
 sânte	1
 fermentatori	0
+poduţi	0
 suspectări	1
 flautişti	0
 crenoterapeuţi	0
@@ -6810,6 +7212,7 @@ astrologi	0
 boroane	1
 edili	0
 orânzi	1
+dogmatici	0
 dogmatice	1
 nelinişti	1
 pârtii	1
@@ -6820,6 +7223,7 @@ microfoniste	1
 pipe	1
 cafegii	0
 arhangheli	0
+fascişti	0
 fasciste	1
 sifiligrafi	0
 văcuşoare	1
@@ -6845,6 +7249,7 @@ apelante	1
 balenide	1
 paragini	1
 onichii	1
+bonnezi	0
 bonneze	1
 pretextări	1
 despecializări	1
@@ -6919,6 +7324,7 @@ autodepanări	1
 însurăţei	0
 asiriologi	0
 maximizări	1
+denigratori	0
 denigratoare	1
 linoleaţi	0
 problematizări	1
@@ -6946,6 +7352,7 @@ usturături	1
 escarpeni	0
 joi	1
 rigle	1
+concordişti	0
 concordiste	1
 husăşi	0
 mastoze	1
@@ -6981,8 +7388,10 @@ flămânziri	1
 helcoze	1
 nascorniţe	1
 exorbitanţe	1
+rigorişti	0
 rigoriste	1
 radiomanometrii	1
+progresişti	0
 progresiste	1
 neurochirurgi	0
 repulsii	1
@@ -7021,19 +7430,23 @@ răriţări	1
 alozomi	0
 coroide	1
 orografi	0
+anglomani	0
 anglomane	1
 sărutări	1
 fantezii	1
 otoscleroze	1
 floriste	1
+faliţi	0
 falite	1
 guvernante	1
+musulmane	0
 musulmane	1
 abulii	1
 săpunării	1
 abulici	0
 vitrifieri	1
 şoşoni	0
+murinzi	0
 murinde	1
 scrijeleli	1
 desantări	1
@@ -7050,6 +7463,7 @@ colombine	1
 musaipi	0
 medieri	1
 troici	1
+defetişti	0
 defetiste	1
 electrificări	1
 invitate	1
@@ -7069,8 +7483,10 @@ desăgei	0
 dropioi	0
 mercantilişti	0
 chei	1
+futurişti	0
 futuriste	1
 constructori	0
+visători	0
 visătoare	1
 crăcănuţe	1
 strigări	1
@@ -7084,11 +7500,13 @@ odrăsliri	1
 transcrieri	1
 izohipse	1
 pentagrile	1
+pucişti	0
 puciste	1
 scrobeli	1
 agrogeologi	0
 rafale	1
 gute	1
+monoacizi	0
 monoacide	1
 cantoniere	1
 poveţe	1
@@ -7119,6 +7537,7 @@ majordomi	0
 peroxidaze	1
 fundări	1
 editoare	1
+hipnotizori	0
 hipnotizoare	1
 barochişti	0
 restricţii	1
@@ -7152,6 +7571,7 @@ pleiade	1
 viscozimetrii	1
 pensulaţii	1
 umbride	1
+tălpigi	0
 glotaşi	0
 consultaţii	1
 jerbe	1
@@ -7172,11 +7592,13 @@ muzicalizări	1
 ascidii	1
 referenţe	1
 pantofării	1
+hăitaşi	0
 tăifăsuieli	1
 sucevence	1
 colaboraţioniste	1
 interferoni	0
 prize	1
+lamaişti	0
 lamaiste	1
 pleoape	1
 orhidee	1
@@ -7184,15 +7606,18 @@ croşe	1
 soţiori	0
 buimăceli	1
 fermentograme	1
+monomani	0
 monomane	1
 piperine	1
 patografii	1
 autodictări	1
+pronatori	0
 pronatoare	1
 pinguini	0
 sfârâitori	1
 alinături	1
 hipermnezii	1
+iacobini	0
 iacobine	1
 biblii	1
 fameni	0
@@ -7212,6 +7637,7 @@ carpofite	1
 parfumerii	1
 curiepuncturi	1
 plăcintării	1
+crescători	0
 crescătoare	1
 coachiziţii	1
 motomitraliere	1
@@ -7227,12 +7653,14 @@ păstoriri	1
 hăitari	0
 prestări	1
 asirience	1
+secretoşi	0
 secretoase	1
 agnate	1
 streliţi	0
 astrobotanişti	0
 meseriaşe	1
 vaccinaţii	1
+eteraţi	0
 eterate	1
 cetone	1
 calţavete	1
@@ -7254,14 +7682,17 @@ arme	1
 şoalde	1
 moaşe	1
 contralte	1
+izobari	0
 izobare	1
 piromane	1
+tătari	0
 tătare	1
 tontoleţi	0
 monoclaţi	0
 umbriri	1
 prăjiri	1
 felahi	0
+naturalişti	0
 naturaliste	1
 judecători	0
 coachizitori	0
@@ -7275,9 +7706,12 @@ coordonări	1
 cusurgii	0
 diiambi	0
 antispumanţi	0
+financiari	0
 financiare	1
 elitre	1
+calcani	0
 homicide	1
+homicizi	0
 compactizări	1
 velaturi	1
 vectori	0
@@ -7298,7 +7732,9 @@ aeromedicini	1
 cazaclii	0
 pufăieli	1
 cununi	1
+hidatocori	0
 hidatocore	1
+ucigaşi	0
 ucigaşe	1
 pulsari	0
 nefericiri	1
@@ -7319,6 +7755,7 @@ deidolatrizări	1
 hidoşenii	1
 formaldehide	1
 baculiţi	0
+zairezi	0
 zaireze	1
 segmentări	1
 ulicioare	1
@@ -7337,6 +7774,7 @@ reunificări	1
 cerificări	1
 turnători	0
 nourei	0
+sighişoreni	0
 sighişorene	1
 saxicole	1
 cactuşi	0
@@ -7355,6 +7793,7 @@ căpitănii	1
 dovezi	1
 nomografi	0
 prefăcături	1
+cocători	0
 cocătoare	1
 belele	1
 scarlatinete	1
@@ -7382,6 +7821,7 @@ baroane	1
 otfeli	0
 chile	1
 presurizări	1
+instrumentalişti	0
 instrumentaliste	1
 geosfere	1
 încâlceli	1
@@ -7415,12 +7855,14 @@ fotocronici	1
 păţiri	1
 recunoaşteri	1
 metapsihişti	0
+federalişti	0
 federaliste	1
 cedri	0
 năzbâtii	1
 şipi	0
 agitatoare	1
 dubli-decimetri	0
+asanatori	0
 asanatoare	1
 deszăvorâri	1
 pseudolingvişti	0
@@ -7432,6 +7874,8 @@ ramificaţii	1
 aduceri-aminte	1
 recuceriri	1
 păpuşele	1
+mănunchiaşi	0
+sudanezi	0
 sudaneze	1
 floretiste	1
 jupe	1
@@ -7472,6 +7916,7 @@ clipeli	1
 zapcierii	1
 fabricanţi	0
 traverse	1
+legişti	0
 legiste	1
 hăinării	1
 ciobănei	0
@@ -7501,6 +7946,7 @@ micturiţii	1
 acidamine	1
 gălăgii	1
 hăituieli	1
+miopi	0
 mioape	1
 pronaţii	1
 apoftegme	1
@@ -7521,6 +7967,7 @@ epanortoze	1
 semicarbonizări	1
 foni	0
 extragalaxii	1
+măsurători	0
 frământări	1
 pedeli	0
 gologani	0
@@ -7557,6 +8004,7 @@ rechemări	1
 albinoşi	0
 purje	1
 fotoreproduceri	1
+plătitori	0
 plătitoare	1
 lestări	1
 noateni	0
@@ -7628,18 +8076,21 @@ date	1
 destroieniri	1
 pălăvrăgeli	1
 colindătoare	1
+irakieni	0
 irakiene	1
 iarzi	0
 uretroscopii	1
 zăcăşeli	1
 facultăţi	1
 subcontrarietăţi	1
+dezorganizatori	0
 dezorganizatoare	1
 pieluşele	1
 escrocherii	1
 asibilaţii	1
 interjecţii	1
 îngenuncheri	1
+şahişti	0
 şahiste	1
 epacte	1
 sediţiuni	1
@@ -7647,14 +8098,17 @@ meloterapii	1
 găgăiri	1
 lopeţi	1
 xenomorfii	1
+slăbănogi	0
 slăbănoage	1
 pepenoaice	1
 proture	1
+bădărani	0
 bădărane	1
 şarlatani	0
 aserţiuni	1
 străchinele	1
 izocline	1
+nătăfleţi	0
 nătăfleţe	1
 jordiţe	1
 descriptori	0
@@ -7663,8 +8117,10 @@ reînnoiri	1
 stobori	0
 urzici-de-mare	1
 carpete	1
+italofoni	0
 italofone	1
 pentagrame	1
+italofobi	0
 italofobe	1
 limbuţe	1
 ştempari	0
@@ -7679,7 +8135,9 @@ potcoave	1
 renuri	1
 viespariţe	1
 cuvântări	1
+spori	0
 zonule	1
+senzualişti	0
 senzualiste	1
 variole	1
 opalescenţe	1
@@ -7688,10 +8146,12 @@ diplobacili	0
 primărese	1
 hieroglife	1
 mocasini	0
+pedocentrişti	0
 pedocentriste	1
 cistograme	1
 pioniere	1
 prolificări	1
+corodanţi	0
 corodante	1
 convoluţii	1
 schiteni	0
@@ -7703,8 +8163,10 @@ cinologe	1
 ascarizi	0
 cârnăciori	0
 gropărese	1
+liber-schimbişti	0
 liber-schimbiste	1
 insomnii	1
+germanofili	0
 germanofile	1
 megafarazi	0
 selecţionatori	0
@@ -7730,6 +8192,7 @@ scariţe	1
 bancrutari	0
 mitocance	1
 rontgeni	0
+năvălitori	0
 năvălitoare	1
 alunele	1
 campaduri	1
@@ -7737,6 +8200,7 @@ alunei	0
 barochiste	1
 harbuji	0
 cişmele	1
+scrofuloşi	0
 scrofuloase	1
 călifari	0
 sorbituri	1
@@ -7754,6 +8218,7 @@ târşitori	1
 culminanţe	1
 zgârieri	1
 păpuşoişti	1
+yoghişti	0
 yoghiste	1
 anticoncepţii	1
 rivali	0
@@ -7771,6 +8236,7 @@ recompense	1
 manierizări	1
 atelajieri	0
 arenzi	1
+creştini	0
 creştine	1
 hemotoxine	1
 magnificenţe	1
@@ -7785,10 +8251,12 @@ servofrâne	1
 aburi	0
 unelte	1
 brăgi	1
+holerici	0
 holerice	1
 sfredeliri	1
 aplecătoare	1
 strâmtori	1
+compactori	0
 fizionomii	1
 reprezentanţe	1
 răcoreli	1
@@ -7800,6 +8268,7 @@ mediastinoscopii	1
 cote-părţi	1
 plombine	1
 ştoluiri	1
+caucazieni	0
 caucaziene	1
 juxtapoziţii	1
 surescitaţii	1
@@ -7810,9 +8279,11 @@ babuini	0
 pâlpâieli	1
 serologi	0
 sărăntoci	0
+moleţi	0
 lostriţe	1
 delapidări	1
 personificaţii	1
+neutralişti	0
 neutraliste	1
 nutuiri	1
 terţarolări	1
@@ -7845,6 +8316,7 @@ rocării	1
 căliri	1
 mărmuriri	1
 tiveli	1
+sebeşeni	0
 sebeşene	1
 componenţe	1
 îngrăşătorii	1
@@ -7855,21 +8327,25 @@ pruni	0
 cacologii	1
 combineri	0
 cerezine	1
+muritori	0
 muritoare	1
 pseudoscorpioni	0
 vrăbeţi	0
 lagune	1
 grecomani	0
+papuaşi	0
 papuaşe	1
 fibre	1
 viziuni	1
 hipoacuzii	1
 peruşi	0
+finlandezi	0
 finlandeze	1
 lăcustari	0
 silicule	1
 autocaracterizări	1
 activizări	1
+motociclişti	0
 motocicliste	1
 limnee	1
 spinării	1
@@ -7888,6 +8364,7 @@ puşcări	1
 gunoişti	1
 dricari	0
 aldehide	1
+siamezi	0
 siameze	1
 mumii	1
 lingurele	1
@@ -7898,6 +8375,7 @@ reloniste	1
 persiene	1
 eurovalute	1
 lichidări	1
+sevillani	0
 sevillane	1
 amplasări	1
 plasticieni	0
@@ -7914,6 +8392,7 @@ infiltraţii	1
 supercampioni	0
 marne	1
 termoficări	1
+alarmişti	0
 alarmiste	1
 pseudosavanţi	0
 învârtejiri	1
@@ -7952,6 +8431,7 @@ slane	1
 spoitori	0
 gimnaziste	1
 săltături	1
+rafinori	0
 metateze	1
 acumulări	1
 stupizenii	1
@@ -7964,12 +8444,15 @@ spalacide	1
 sfârle	1
 plutici	1
 tapetări	1
+osmanlii	0
 osmanlii	1
+erotografi	0
 erotografe	1
 daltonişti	0
 antilope	1
 osteite	1
 caravele	1
+eschimoşi	0
 eschimose	1
 stâlpuşori	0
 covaci	0
@@ -8027,6 +8510,7 @@ divinităţi	1
 ciozvârte	1
 performanţe	1
 vinării	1
+tuberculoşi	0
 tuberculoase	1
 motocarişti	0
 stârpituri	1
@@ -8035,6 +8519,7 @@ tufişoare	1
 rusalii	1
 teletipiste	1
 organiste	1
+topitori	0
 stalactite	1
 abietacee	1
 bumbăcărese	1
@@ -8046,6 +8531,7 @@ lubrifianţi	0
 logodnice	1
 asfixieri	1
 jeleri	0
+antisemiţi	0
 antisemite	1
 încurcături	1
 incertitudini	1
@@ -8115,6 +8601,7 @@ rochii	1
 ambidextri	0
 băştinaşi	0
 raze	1
+multimilionari	0
 multimilionare	1
 şalupari	0
 speleonaute	1
@@ -8132,6 +8619,7 @@ petiţionare	1
 interoceptori	0
 peritoneoscopii	1
 idealizări	1
+sinistraţi	0
 sinistrate	1
 comitente	1
 pulberi	1
@@ -8163,6 +8651,8 @@ polizori	0
 vengherci	1
 jazofile	1
 caransebeşeni	0
+acceleratori	0
+acceleratoare	1
 fântânei	0
 aplaudări	1
 acordori	0
@@ -8172,6 +8662,7 @@ rudari	0
 reînmatriculări	1
 radiobiologi	0
 eşarfe	1
+sezonieri	0
 sezoniere	1
 malariologe	1
 teleimprimări	1
@@ -8232,6 +8723,7 @@ helioplastii	1
 anteridii	1
 alienări	1
 smălţuitoare	1
+hâtri	0
 hâtre	1
 orfanotrofii	1
 landgrafi	0
@@ -8253,11 +8745,13 @@ interdicţii	1
 afinori	0
 pălmaşe	1
 otite	1
+monopolişti	0
 monopoliste	1
 arteriotomii	1
 îmbrobodeli	1
 stânjeni	0
 biogeosfere	1
+indicatori	0
 obiele	1
 exhibiţioniste	1
 condori	0
@@ -8267,6 +8761,7 @@ normatori	0
 avionete	1
 mioarce	1
 plăcuţe	1
+mutualişti	0
 mutualiste	1
 depozanţi	0
 gratii	1
@@ -8289,6 +8784,7 @@ jurătoare	1
 vociferanţi	0
 tindalizări	1
 reconvalescente	1
+nenorociţi	0
 nenorocite	1
 halagele	1
 holiste	1
@@ -8407,6 +8903,7 @@ goelanzi	0
 nemţişori	0
 mascuri	0
 escadrile	1
+masculi	0
 mascule	1
 dulceţuri	1
 gutui	0
@@ -8446,7 +8943,9 @@ scăzători	0
 mitocănii	1
 exsudaţii	1
 altogravuri	1
+formalişti	0
 formaliste	1
+uzurari	0
 uzurare	1
 stereografe	1
 frizări	1
@@ -8463,6 +8962,7 @@ obstruări	1
 jarde	1
 butiraţi	0
 previziuni	1
+logopaţi	0
 logopate	1
 autoaprecieri	1
 boiernaşi	0
@@ -8483,6 +8983,7 @@ tătăroi	0
 iluminaţii	1
 imploraţii	1
 omisiuni	1
+mărgineni	0
 mărginene	1
 bocceluţe	1
 ulii	0
@@ -8502,18 +9003,22 @@ apelanţi	0
 boxe	1
 oogeneze	1
 năpăstuitori	0
+asiguraţi	0
 asigurate	1
 subregiuni	1
 găuri	1
 exterminări	1
 tălaniţe	1
+waloni	0
 walone	1
 ruptaşi	0
 demontări	1
 coinculpaţi	0
 neguşi	0
+anticonvulsivanţi	0
 anticonvulsivante	1
 neintervenţii	1
+indecşi	0
 aspirine	1
 vreri	1
 înălţimi	1
@@ -8531,6 +9036,8 @@ bene	1
 răsuflători	1
 meditaţii	1
 cătrăneli	1
+trăgaci	0
+trăgace	1
 tapisieri	0
 citomorfoze	1
 dăunaşe	1
@@ -8598,9 +9105,11 @@ luxaţii	1
 aminoacizi	0
 stereofotograme	1
 picăturele	1
+ghioci	0
 sulfataze	1
 agate	1
 supralicitatoare	1
+demotivaţi	0
 demotivate	1
 şalupişti	0
 pielicele	1
@@ -8624,6 +9133,7 @@ miliardari	0
 driade	1
 împotriviri	1
 banani	0
+kirghizi	0
 kirghize	1
 zdrobitori	1
 gargare	1
@@ -8665,10 +9175,12 @@ denudaţii	1
 jujubieri	0
 vălătuceli	1
 fonturi	1
+străşeneni	0
 străşenene	1
 înştiinţări	1
 espadrile	1
 afidieni	1
+cartaginezi	0
 cartagineze	1
 susceptanţe	1
 turte	1
@@ -8712,6 +9224,7 @@ ocheade	1
 petreceri	1
 catrinţe	1
 prezidenţii	1
+schizotimi	0
 schizotime	1
 sachelari	0
 anticongelanţi	0
@@ -8729,6 +9242,7 @@ hărţi	1
 răsfoiri	1
 galvanizări	1
 bale	1
+samoezi	0
 samoede	1
 fosfataze	1
 sprâncenuţe	1
@@ -8737,6 +9251,7 @@ hepatopatii	1
 colecţii	1
 cizelări	1
 panduri	0
+bolivieni	0
 boliviene	1
 zebereli	1
 împerecheri	1
@@ -8752,12 +9267,14 @@ transformaţii	1
 dăinuiri	1
 zburdături	1
 arestaţi	0
+moscoviţi	0
 moscovite	1
 îngrămădiri	1
 filmări	1
 farazi	0
 fronde	1
 stilizatori	0
+băligari	0
 monumentalizări	1
 epigoni	0
 purceluşe	1
@@ -8769,6 +9286,7 @@ smochinuţe	1
 buxacee	1
 bioacumulări	1
 aparenţe	1
+mauri	0
 maure	1
 croitori	0
 ierbării	1
@@ -8776,6 +9294,7 @@ motofurgonete	1
 cacealmale	1
 însurări	1
 ocupaţii	1
+academişti	0
 academiste	1
 fotoforeze	1
 foiletoniste	1
@@ -8785,6 +9304,7 @@ panacodari	0
 coscenarişti	0
 concusionari	0
 fetici	1
+improvizatori	0
 improvizatoare	1
 hotnogi	0
 vasoconstricţii	1
@@ -8792,6 +9312,7 @@ sfeştanii	1
 demenţe	1
 sugilaţii	1
 şoricuţi	0
+simoniaci	0
 simoniace	1
 cărbunării	1
 şevaliere	1
@@ -8833,6 +9354,8 @@ pareze	1
 dezaxări	1
 ancorări	1
 impietăţi	1
+murgi	0
+murge	1
 efractori	0
 somatofite	1
 căldăraşi	0
@@ -8852,6 +9375,7 @@ promisiuni	1
 suduituri	1
 letci	1
 chiparoşi	0
+intimişti	0
 intimiste	1
 boneţele	1
 relatări	1
@@ -8870,6 +9394,7 @@ fotosensibilizări	1
 cotutoare	1
 şlepci	1
 flebologe	1
+fetişişti	0
 fetişiste	1
 vozglaşenii	1
 autoturişti	0
@@ -8877,6 +9402,8 @@ roze	1
 băjenii	1
 complezenţe	1
 omoaie	1
+dobitoci	0
+dobitoace	1
 căldărari	0
 căpăi	0
 trampe	1
@@ -8890,6 +9417,7 @@ ochelariţe	1
 flenderiţe	1
 teobromine	1
 fazanerii	1
+neavizaţi	0
 neavizate	1
 biliargii	0
 scârţâitori	1
@@ -8898,15 +9426,19 @@ distracţii	1
 înfrânări	1
 damblagiri	1
 autocodori	0
+cartişti	0
 cartiste	1
 pastelizări	1
+anglo-francezi	0
 anglo-franceze	1
 cefalotomii	1
 disculpe	1
+albi	0
 găzari	0
 fontanele	1
 chişcari	0
 manii	1
+mândri	0
 mândre	1
 viscozităţi	1
 parafrenii	1
@@ -8926,6 +9458,7 @@ corvete	1
 acrinii	1
 porniri	1
 enterohemoragii	1
+nord-vietnamezi	0
 nord-vietnameze	1
 monorime	1
 bipatride	1
@@ -8942,6 +9475,7 @@ pitari	0
 papetării	1
 paleoastronauţi	0
 stenotipişti	0
+palestinieni	0
 palestiniene	1
 repartiţii	1
 criptografii	1
@@ -8953,6 +9487,7 @@ trebi	1
 bulzişori	0
 feruri	1
 fragmentări	1
+mehedinţeni	0
 mehedinţene	1
 dureri	1
 tricomonaze	1
@@ -8964,6 +9499,7 @@ colibaşi	0
 leşinături	1
 ultragieri	1
 hanse	1
+paşi	0
 paşale	1
 carnasiere	1
 ambliopii	1
@@ -8971,6 +9507,7 @@ supralicitatori	0
 oţărâri	1
 subparcele	1
 expatrieri	1
+stalinişti	0
 staliniste	1
 vaci	1
 coşcove	1
@@ -9010,6 +9547,7 @@ cementaţii	1
 prunculeţi	0
 anverguri	1
 obnubilări	1
+nigerieni	0
 nigeriene	1
 perifraze	1
 percepţii	1
@@ -9018,6 +9556,7 @@ meşine	1
 tragediene	1
 milepori	0
 metodici	1
+luterani	0
 luterane	1
 antiromantici	0
 bibliofobii	1
@@ -9061,6 +9600,7 @@ drojdioare	1
 scumpiri	1
 răscroituri	1
 chiolhănoşi	0
+mofturoşi	0
 mofturoase	1
 borese	1
 poclăzi	1
@@ -9075,6 +9615,7 @@ dospiri	1
 submediante	1
 compensări	1
 adjudecătoare	1
+hebertişti	0
 hebertiste	1
 lexii	1
 înălbiri	1
@@ -9088,6 +9629,7 @@ scurtcircuitări	1
 supraalimentări	1
 gornişti	0
 retrofuzee	1
+bănăţeni	0
 bănăţene	1
 gâtlane	1
 uscări	1
@@ -9114,6 +9656,7 @@ confirmări	1
 băltoace	1
 gimnosofişti	0
 tetracloruri	1
+agresori	0
 agresoare	1
 detonări	1
 ticsiri	1
@@ -9133,6 +9676,7 @@ gesticulări	1
 norvegience	1
 supraveghetori	0
 olimpiade	1
+instituţionalişti	0
 instituţionaliste	1
 urdinări	1
 contestaţii	1
@@ -9141,24 +9685,33 @@ scutiri	1
 pseudopatrioţi	0
 confederaţii	1
 volte	1
+timişeni	0
 timişene	1
+coţi	0
 socotiri	1
+luminători	0
+luminătoare	1
 baraboi	0
+coci	0
 gazetăraşi	0
 corifei	0
+scufundători	0
 scufundătoare	1
 locandiere	1
 teleecranizări	1
 învârstări	1
 fizioterapeuţi	0
 ciobani	0
+râbniţeni	0
 râbniţene	1
 comode	1
 pici	1
+sudişti	0
 sudiste	1
 hrişcari	0
 chinoline	1
 yoghine	1
+cubanezi	0
 cubaneze	1
 scrimere	1
 gadine	1
@@ -9196,6 +9749,7 @@ slugi	1
 devaluări	1
 ocniţence	1
 stănoage	1
+îngrijitori	0
 îngrijitoare	1
 agricultori	0
 urgisiri	1
@@ -9209,6 +9763,7 @@ polimeri	0
 crenvurşti	0
 mavrofori	0
 tăşculiţe	1
+orzari	0
 coloraturi	1
 surfilări	1
 jugaştri	0
@@ -9218,6 +9773,7 @@ garsoniere	1
 arapi	0
 pseudoliteraţi	0
 etnologe	1
+arabi	0
 arabe	1
 araci	0
 defaunizări	1
@@ -9260,11 +9816,13 @@ nazalizări	1
 hâzenii	1
 cumpărători	0
 păcătoşii	1
+trotuşeni	0
 trotuşene	1
 schifiste	1
 sângepe	1
 mlăzi	1
 fripturici	1
+malarici	0
 malarice	1
 răzbunici	1
 atârnări	1
@@ -9280,7 +9838,9 @@ chimografii	1
 bombiţe	1
 estompări	1
 secăciuni	1
+electrofobi	0
 electrofobe	1
+savoiarzi	0
 plasme	1
 cvadrifonii	1
 chiorăituri	1
@@ -9300,6 +9860,7 @@ mituitori	0
 deconfituri	1
 mediatizări	1
 testori	0
+frugivori	0
 frugivore	1
 termoviziere	1
 afereze	1
@@ -9323,6 +9884,7 @@ ruperi	1
 hipocastanacee	1
 pazii	1
 convieţuiri	1
+împotrivitori	0
 împotrivitoare	1
 dragoneţi	0
 prihane	1
@@ -9337,6 +9899,7 @@ admonestaţii	1
 estompe	1
 aluzii	1
 consilieri	0
+logonevrotici	0
 logonevrotice	1
 uime	1
 babeţi	0
@@ -9348,13 +9911,16 @@ oxifite	1
 monostrofe	1
 derealizări	1
 suiforme	1
+fotogrammetri	0
 madrepori	0
 stratificări	1
 noade	1
 deputate	1
 casaţii	1
 ortodiagrafii	1
+derivaţi	0
 mânuiri	1
+polonezi	0
 poloneze	1
 regeneraţii	1
 precursori	0
@@ -9369,11 +9935,13 @@ nucuţi	0
 aule	1
 colţuni	0
 buterole	1
+japi	0
 babete	1
 şoimuleţi	0
 cârtiţe	1
 hăinuţe	1
 autofoni	0
+otomani	0
 otomane	1
 smălţuitori	0
 ischemii	1
@@ -9405,6 +9973,7 @@ vedute	1
 veseliri	1
 electrodiagnoze	1
 pseudovalori	1
+nihilişti	0
 nihiliste	1
 coride	1
 şvăboaice	1
@@ -9417,8 +9986,10 @@ ungeri	1
 spuze	1
 nisipari	0
 frizeriţe	1
+satanişti	0
 sataniste	1
 regularizări	1
+surguci	0
 precipitaţii	1
 şenile	1
 delibaşi	0
@@ -9432,6 +10003,7 @@ străfulgerări	1
 codişti	0
 stivări	1
 pazvantogli	0
+ubicuitari	0
 ubicuitare	1
 maximalizări	1
 minuţii	1
@@ -9443,6 +10015,7 @@ linogravuri	1
 achitări	1
 comercializări	1
 antracnoze	1
+arboreţi	0
 iezături	1
 fotocronişti	0
 fericiri	1
@@ -9465,6 +10038,7 @@ plastomeri	0
 târliri	1
 izbiri	1
 păşuni	1
+coacţionari	0
 coacţionare	1
 frăncuşori	0
 ferestruici	1
@@ -9475,6 +10049,7 @@ rezilieri	1
 tenii	1
 legume	1
 oceanologe	1
+colţi	0
 hotentoţi	0
 arămese	1
 camforari	0
@@ -9483,6 +10058,7 @@ broaşte	1
 furchiţe	1
 cerceluşi	0
 supturi	1
+inaderenţi	0
 inaderente	1
 rusoaice	1
 lăcuste	1
@@ -9496,12 +10072,14 @@ duriţe	1
 oculograme	1
 intemperanţe	1
 săsoaice	1
+puieţi	0
 paraflăcări	1
 mişini	1
 recromări	1
 gâlcevi	1
 căscăunde	1
 dresuri	1
+slavofili	0
 slavofile	1
 seteri	0
 difluenţe	1
@@ -9525,6 +10103,7 @@ plutăşii	1
 verbalizari	1
 aclamări	1
 tanagre	1
+bufoni	0
 bufone	1
 litiere	1
 arendăşiţe	1
@@ -9544,10 +10123,12 @@ odografii	1
 pistre	1
 piţigăieli	1
 andosanţi	0
+irlandezi	0
 irlandeze	1
 obligări	1
 pielonefrite	1
 ministeriabili	0
+vienezi	0
 vieneze	1
 subtitrări	1
 epiderme	1
@@ -9564,6 +10145,7 @@ urechi	1
 palănci	1
 haimanale	1
 mufle	1
+comsomolişti	0
 comsomoliste	1
 reactanţi	0
 conspiratoare	1
@@ -9587,6 +10169,7 @@ teratologi	0
 mulsori	1
 antecesoare	1
 prispuşoare	1
+sud-americani	0
 sud-americane	1
 consacrări	1
 neuriţi	0
@@ -9594,6 +10177,7 @@ joante	1
 avancronici	1
 oviboşi	0
 puricări	1
+scontatori	0
 scontatoare	1
 congregaţii	1
 iotacizări	1
@@ -9601,6 +10185,7 @@ amanţi	0
 bucătărese	1
 flegme	1
 manteluţe	1
+împricinaţi	0
 împricinate	1
 conlucrători	0
 grecuşori	0
@@ -9625,6 +10210,7 @@ mantise	1
 ţurci	1
 metodişti	0
 scule	1
+moralizatori	0
 moralizatoare	1
 helgi	1
 punticele	1
@@ -9648,6 +10234,7 @@ colibaciloze	1
 nenufari	0
 arădence	1
 femei	1
+sportivi	0
 sportive	1
 retuşori	0
 gastroenterologi	0
@@ -9656,8 +10243,10 @@ tropofite	1
 picadori	0
 deliberări	1
 deteriorări	1
+vulcăneşteni	0
 vulcăneştene	1
 plasmagene	1
+reali	0
 pritoace	1
 mărunţiri	1
 împăciuiri	1
@@ -9680,6 +10269,7 @@ pululaţii	1
 albeli	1
 râpe	1
 rodiri	1
+merişori	0
 propensiuni	1
 colăcari	0
 criptografi	0
@@ -9689,6 +10279,7 @@ coproducţii	1
 jidani	0
 urniri	1
 anchiloze	1
+patagonezi	0
 patagoneze	1
 consonanţe	1
 detracţiuni	1
@@ -9720,12 +10311,15 @@ fascii	1
 gelivuri	1
 ospătării	1
 celule	1
+homeotermi	0
 homeoterme	1
 ticăloşii	1
 învălurări	1
 surmenări	1
 antologişti	0
+dominicani	0
 dominicane	1
+invadatori	0
 invadatoare	1
 polinucleoze	1
 epitropii	1
@@ -9777,6 +10371,7 @@ fătări	1
 sparangheli	0
 acromaţi	0
 cireşari	0
+şovini	0
 şovine	1
 excoriaţii	1
 mangrove	1
@@ -9788,6 +10383,7 @@ pedestrimi	1
 suşe	1
 muşcări	1
 complici	0
+complice	1
 bogătani	0
 pelviperitonite	1
 demonstrante	1
@@ -9860,6 +10456,7 @@ abstractizări	1
 zgâtii	1
 podvodari	0
 calindroi	0
+nonbeligeranţi	0
 nonbeligerante	1
 salinităţi	1
 morţi	1
@@ -9870,6 +10467,7 @@ vecernii	1
 locantiere	1
 instruiri	1
 observatoare	1
+observatori	0
 preindustrializări	1
 performere	1
 repercusiuni	1
@@ -9877,6 +10475,7 @@ fumărari	0
 prăbuşiri	1
 animişti	0
 morăraşi	0
+micrometri	0
 geognoşti	0
 izonefe	1
 bârfitori	0
@@ -9892,6 +10491,7 @@ ahtieri	1
 helminţi	0
 precipitări	1
 tărbăciri	1
+toscani	0
 toscane	1
 radioactualităţi	1
 listerioze	1
@@ -9906,6 +10506,8 @@ semisolizi	0
 pufi	0
 păcurari	0
 piodermite	1
+basci	0
+basce	1
 sofisticării	1
 rânci	1
 pupi	0
@@ -9934,6 +10536,7 @@ meşterii	1
 veliste	1
 sfirenide	1
 hăşti	1
+gestionari	0
 gestionare	1
 rachetişti	0
 măiculiţe	1
@@ -9942,6 +10545,7 @@ miuoni	0
 masle	1
 narcomane	1
 bărdăcuţe	1
+greco-catolici	0
 greco-catolice	1
 megabiţi	0
 ştăngi	1
@@ -9956,13 +10560,16 @@ corcodei	0
 filiale	1
 pârpăleli	1
 marţi	1
+mic-burghezi	0
 mic-burgheze	1
 înjurări	1
 dune	1
 vitamine	1
 năpădiri	1
+pitici	0
 pitice	1
 bărdăcuţe	1
+moderantişti	0
 moderantiste	1
 animaţii	1
 surmontări	1
@@ -9979,6 +10586,7 @@ mastifi	0
 driblări	1
 cariatide	1
 degerminări	1
+conceptişti	0
 conceptiste	1
 istorisiri	1
 refenele	1
@@ -9989,8 +10597,10 @@ laringite	1
 tutuiri	1
 murguşori	0
 densigrame	1
+calabrezi	0
 calabreze	1
 epistolii	1
+ursitori	0
 ursitoare	1
 apendicite	1
 poligale	1
@@ -10003,12 +10613,14 @@ electrovalenţe	1
 putrezeli	1
 făurişti	1
 arhitecte	1
+arabofoni	0
 arabofone	1
 dispepsii	1
 woni	0
 strigoaice	1
 chirii	1
 ştab-ofiţeri	0
+liberieni	0
 liberiene	1
 muscinee	1
 sitişoare	1
@@ -10029,6 +10641,7 @@ plăpumari	0
 depeşe	1
 stereorame	1
 cooperatoare	1
+austromarxişti	0
 austromarxiste	1
 loggii	1
 cojiri	1
@@ -10048,6 +10661,7 @@ sâneţe	1
 freschişti	0
 meteorologi	0
 agitaţii	1
+prologi	0
 suprateme	1
 seminţii	1
 buze	1
@@ -10076,6 +10690,7 @@ rodii	1
 şipci	1
 crame	1
 secături	1
+rodii	0
 ologeli	1
 pătrunjei	0
 poftoriri	1
@@ -10116,8 +10731,10 @@ ramificări	1
 depresurizări	1
 reînfăşurări	1
 arestări	1
+rugi	0
 frunzuţe	1
 hlamide	1
+ruşi	0
 ruse	1
 sinergide	1
 electronişti	0
@@ -10129,6 +10746,7 @@ instrumentaţii	1
 rezinence	1
 feşteliri	1
 mărci	1
+egalitarişti	0
 egalitariste	1
 curuţi	0
 îngăduieli	1
@@ -10153,9 +10771,11 @@ boi-de-apă	0
 seringi	1
 furci	1
 mărgeluşe	1
+ţarigrădeni	0
 ţarigrădene	1
 bătăiaşi	0
 plumbi	0
+aromâni	0
 aromâne	1
 angeite	1
 fitopatologi	0
@@ -10174,6 +10794,7 @@ mucezeli	1
 sfârâieli	1
 histologe	1
 pescărese	1
+cunoscuţi	0
 cunoscute	1
 fanfare	1
 copleşiri	1
@@ -10185,7 +10806,9 @@ arili	0
 clemenţe	1
 arii	1
 refaceri	1
+mândruţi	0
 mândruţe	1
+intensificatori	0
 intensificatoare	1
 răsucituri	1
 kilovari	0
@@ -10205,6 +10828,7 @@ pezevenche	1
 exersări	1
 deformaţii	1
 bioenergeticieni	0
+bikinieni	0
 bikiniene	1
 agende	1
 săceli	1
@@ -10220,6 +10844,7 @@ loaze	1
 liniaturi	1
 sfinţenii	1
 postsonorizări	1
+hipertensivi	0
 hipertensive	1
 miopatii	1
 epure	1
@@ -10239,6 +10864,7 @@ poposiri	1
 antilogaritmi	0
 hodorogeli	1
 înfigeri	1
+belgieni	0
 belgiene	1
 ţârcovnici	0
 hoplomahii	1
@@ -10252,12 +10878,14 @@ nune	1
 întorsuri	1
 bidinele	1
 drăcării	1
+antiromani	0
 antiromane	1
 galantomii	1
 ocheţi	0
 arierplaje	1
 stănci	1
 clocoţei	0
+laburişti	0
 laburiste	1
 retezări	1
 schipări	0
@@ -10295,6 +10923,7 @@ nisipişti	1
 culturiste	1
 arhondărese	1
 chinte	1
+tirolezi	0
 tiroleze	1
 mânătărci	1
 nemţoicuţe	1
@@ -10334,6 +10963,7 @@ hâdoşenii	1
 tătuci	0
 mode	1
 pocituri	1
+drogaţi	0
 drogate	1
 căzănării	1
 trapezani	0
@@ -10341,6 +10971,7 @@ postcure	1
 slătinence	1
 turcoaze	1
 scleroproteine	1
+terţii	0
 terţii	1
 teorbe	1
 sinecuri	1
@@ -10348,6 +10979,7 @@ precizări	1
 bei	0
 beli	0
 povarnagii	0
+beci	0
 cafenele	1
 zburliri	1
 privighetori	1
@@ -10356,6 +10988,7 @@ vetrice	1
 probări	1
 bundiţe	1
 catalizatori	0
+montanţi	0
 montante	1
 îngânări	1
 halimale	1
@@ -10396,10 +11029,13 @@ balauroaice	1
 baletişti	0
 lectore	1
 autonomizări	1
+calmuci	0
 calmuce	1
 jurisconsulte	1
 pergamentari	0
 lupi	0
+lucşi	0
+migranţi	0
 migrante	1
 săgetări	1
 reglori	0
@@ -10442,10 +11078,12 @@ semnificări	1
 detenţiuni	1
 scobiri	1
 concluzii	1
+izvorâtori	0
 izvorâtoare	1
 omuleţi	0
 negei	0
 ametropi	0
+niponi	0
 nipone	1
 lambale	1
 străşenence	1
@@ -10454,6 +11092,7 @@ ditioniţi	0
 vâlcele	1
 intensităţi	1
 bandiţi	0
+sectari	0
 sectare	1
 sacrificări	1
 odontalgii	1
@@ -10511,6 +11150,7 @@ microfotografii	1
 hoanghine	1
 denunţătoare	1
 muzicografi	0
+monogenişti	0
 monogeniste	1
 chinovii	1
 netrebnicii	1
@@ -10535,6 +11175,7 @@ stagiuni	1
 inconsecvenţe	1
 decrepitări	1
 elicoteci	1
+interaliaţi	0
 interaliate	1
 baluştri	0
 nostromi	0
@@ -10564,6 +11205,7 @@ bobovine	1
 muzicomani	0
 ozonoterapii	1
 pontări	1
+laoţieni	0
 laoţiene	1
 suveranităţi	1
 năbuşeli	1
@@ -10634,6 +11276,7 @@ argumentări	1
 cleptofobii	1
 ere	1
 licorni	0
+lustri	0
 geofiziciene	1
 vrăbioare	1
 decolări	1
@@ -10649,6 +11292,7 @@ interpreţi	0
 halcale	1
 tâlcuitori	0
 mitralieri	1
+intelectualişti	0
 intelectualiste	1
 încheietori	0
 slăbături	1
@@ -10658,6 +11302,7 @@ moloşi	0
 molohi	0
 zgârieturi	1
 patrontaşte	1
+anglo-americani	0
 anglo-americane	1
 reforme	1
 gagiste	1
@@ -10710,6 +11355,7 @@ textiliste	1
 tăgăduiri	1
 muzicanţi	0
 lustre	1
+monofiziţi	0
 monofizite	1
 tigri	0
 amnistieri	1
@@ -10725,6 +11371,7 @@ broscuţe	1
 muezini	0
 cuirase	1
 acronimii	1
+hipoacuzici	0
 hipoacuzice	1
 prezidenţi	0
 compostări	1
@@ -10754,6 +11401,7 @@ inventatori	0
 amplificaţii	1
 cronologişti	0
 colonete	1
+guatemalezi	0
 guatemaleze	1
 scorneli	1
 encefaloragii	1
@@ -10782,7 +11430,9 @@ camorişti	0
 echilibrări	1
 picheri	0
 picheţi	0
+corsicani	0
 corsicane	1
+angajaţi	0
 angajate	1
 miniinstalaţii	1
 interesări	1
@@ -10790,6 +11440,7 @@ dedolomitizări	1
 grandomani	0
 anaclaze	1
 vorbuţe	1
+gândirişti	0
 gândiriste	1
 deblocări	1
 agripnii	1
@@ -10832,6 +11483,7 @@ redori	1
 linşori	0
 băcăuance	1
 spicheriţe	1
+farfasiţi	0
 farfasite	1
 deroşeze	1
 bălmăjeli	1
@@ -10846,6 +11498,7 @@ glicoproteide	1
 anteflexiuni	1
 colhoznici	0
 şanfrenări	1
+numărători	0
 ţâri	0
 propte	1
 răsfirări	1
@@ -10862,12 +11515,14 @@ bucăţei	0
 eclerori	0
 reclamante	1
 bucăţele	1
+eleaţi	0
 eleate	1
 ficuşi	0
 antivitamine	1
 îmbrânciri	1
 păstoraşi	0
 întrepătrunderi	1
+telespicheri	0
 bucle	1
 fâlfâituri	1
 bălăcării	1
@@ -10903,13 +11558,17 @@ iridologi	0
 târgmureşence	1
 bolborosiri	1
 radionevrite	1
+exploatatori	0
 exploatatoare	1
+florentini	0
 florentine	1
 contraponderi	1
 oboişti	0
 nanomeli	0
+htonieni	0
 htoniene	1
 driopiteci	0
+baladici	0
 baladice	1
 calculi	0
 motorişti	0
@@ -10923,6 +11582,7 @@ congresişti	0
 cureluşe	1
 aglomeranţi	0
 ii	1
+imobilişti	0
 imobiliste	1
 voliţiuni	1
 încadrări	1
@@ -10933,6 +11593,7 @@ colobome	1
 restauratori	0
 ostilităţi	1
 electroradiologi	0
+mazdeişti	0
 mazdeiste	1
 judocani	0
 bobuşori	0
@@ -10943,6 +11604,7 @@ viermi	0
 echilibriste	1
 sumuşoare	1
 amfiterii	0
+praghezi	0
 pragheze	1
 poveşti	1
 improbităţi	1
@@ -10958,6 +11620,7 @@ viermuleţi	0
 căpcăuni	0
 tocăniri	1
 şuşuituri	1
+poştalioni	0
 ţigănuşi	0
 strâmtări	1
 planorişti	0
@@ -10975,7 +11638,9 @@ geluiri	1
 radicalizări	1
 cahulence	1
 păcuini	1
+semianalfabeţi	0
 semianalfabete	1
+empirişti	0
 empiriste	1
 acarioze	1
 efeţi	0
@@ -10987,17 +11652,20 @@ maxile	1
 betegi	0
 energeticieni	0
 agerimi	1
+corugatori	0
 corugatoare	1
 dextrine	1
 docimazii	1
 raliforme	1
 zoopsii	1
+samuri	0
 clementine	1
 fosfatatori	0
 monante	1
 violatoare	1
 cupuri	1
 hiperacuzii	1
+maşinişti	0
 maşiniste	1
 gamele	1
 colonlinii	1
@@ -11007,10 +11675,12 @@ dogmatişti	0
 antifermenţi	0
 scăieciori	0
 prore	1
+colectori	0
 degustătoare	1
 centrosperme	1
 zări	1
 promotoare	1
+clevetitori	0
 clevetitoare	1
 rabotori	0
 zapciele	1
@@ -11031,6 +11701,7 @@ mozaicari	0
 diezi	0
 sculării	1
 optari	0
+matufi	0
 matufe	1
 schifişti	0
 fele	1
@@ -11048,6 +11719,7 @@ ocupatori	0
 biosociologi	0
 snamenii	1
 denaturanţi	0
+ipocriţi	0
 ipocrite	1
 cabale	1
 pristăvoaie	1
@@ -11060,6 +11732,7 @@ magneţi	0
 colaboratoare	1
 indoeuropenişti	0
 necăjiri	1
+criticanţi	0
 criticante	1
 inductivităţi	1
 salpingoscopii	1
@@ -11079,11 +11752,13 @@ scărmăneli	1
 dădăceli	1
 brişti	1
 durificări	1
+poliţişti	0
 poliţiste	1
 interpunctuaţii	1
 blamări	1
 termopile	1
 viele	1
+suzerani	0
 suzerane	1
 groşi	0
 fricţiuni	1
@@ -11100,12 +11775,15 @@ adoptări	1
 menajări	1
 reciprocităţi	1
 băcălii	1
+spărgători	0
+spărgătoare	1
 conăcării	1
 boleşniţe	1
 pretenţii	1
 radiosurse	1
 pentametri	0
 debiteze	1
+neaoşişti	0
 neaoşiste	1
 lutieri	0
 schimbaşi	0
@@ -11130,10 +11808,12 @@ terorizări	1
 râşcănence	1
 tambure	1
 celofibre	1
+groşi	0
 aviatori	0
 prundaşi	0
 contraprobe	1
 excorieri	1
+exterminatori	0
 exterminatoare	1
 multitudini	1
 mărunţimi	1
@@ -11206,6 +11886,7 @@ revalidări	1
 birlici	0
 hore	1
 ciume	1
+maramureşeni	0
 maramureşene	1
 nepoţi	0
 semizei	0
@@ -11270,6 +11951,7 @@ morve	1
 degonflări	1
 bănuţi	0
 hispanofile	1
+slovaci	0
 slovace	1
 spinete	1
 preavizări	1
@@ -11281,6 +11963,7 @@ atrageri	1
 diolefine	1
 agrozootehniciene	1
 ceviane	1
+ultraprogresişti	0
 ultraprogresiste	1
 polifonii	1
 matiseli	1
@@ -11292,11 +11975,13 @@ macaragiste	1
 dragări	1
 braconieri	0
 microhenri	0
+danăreni	0
 dunărene	1
 denigrări	1
 păpălăi	0
 bagatele	1
 custozi	0
+valoni	0
 valone	1
 tomograme	1
 călugări	0
@@ -11307,6 +11992,7 @@ măţari	0
 inversiuni	1
 regăsiri	1
 nămeţi	1
+uzbeci	0
 uzbece	1
 piuneze	1
 deriziuni	1
@@ -11314,13 +12000,18 @@ ariceli	1
 urlupi	0
 verande	1
 juncane	1
+şerlai	0
 pulverine	1
+legitimişti	0
 legitimiste	1
 tonsuri	1
 invocaţii	1
 nomenclaturi	1
 ramuri	1
+neocapitalişti	0
 neocapitaliste	1
+bretoni	0
+bretone	1
 automitraliere	1
 specificaţii	1
 senilizări	1
@@ -11328,6 +12019,7 @@ arici	0
 sculptări	1
 revigorări	1
 cişmegii	0
+porumbi	0
 rade	1
 kilogrammetri	0
 agrochimişti	0
@@ -11338,6 +12030,7 @@ gâtiţe	1
 homoplastii	1
 medicinişti	0
 jitării	1
+pumnişti	0
 pumniste	1
 pohoaţe	1
 tasări	1
@@ -11354,6 +12047,7 @@ bifolicule	1
 cârâitori	1
 mănuşării	1
 murse	1
+zagrebieni	0
 zagrebiene	1
 cupele	1
 relegaţii	1
@@ -11384,6 +12078,7 @@ omiteri	1
 benchetuieli	1
 mări	1
 mucozităţi	1
+stratigrafi	0
 brokeri	0
 dărâmări	1
 analize	1
@@ -11440,6 +12135,7 @@ urluitori	1
 căpătuieli	1
 mufloni	0
 noatene	1
+plantatori	0
 hipologi	0
 omofonii	1
 macrostructuri	1
@@ -11458,16 +12154,19 @@ jupuiri	1
 chiorăieli	1
 bibliste	1
 cumularde	1
+fandosiţi	0
 fandosite	1
 onirologi	0
 dermatologi	0
 şuerături	1
+intervenienţi	0
 interveniente	1
 cuscre	1
 nămiezi	1
 legalităţi	1
 tetrele	1
 bâjbâiri	1
+duglişi	0
 duglişe	1
 degorjări	1
 tachinării	1
@@ -11486,15 +12185,19 @@ radioreporteri	0
 împestriţări	1
 schizofazii	1
 irigaţii	1
+javanezi	0
 javaneze	1
 expromisiuni	1
+fluturatici	0
 fluturatice	1
 capsomane	1
 aperturi	1
+tolomaci	0
 tolomace	1
 bâţani	0
 instilaţii	1
 capele	1
+domnitori	0
 domnitoare	1
 amiotrofii	1
 actinopterigieni	0
@@ -11511,6 +12214,8 @@ glotologi	0
 nostimade	1
 văi	1
 columboteci	1
+conţi	0
+culturalişti	0
 culturaliste	1
 frăgeziri	1
 craidoni	0
@@ -11560,6 +12265,7 @@ văluriri	1
 purtări	1
 autocaravane	1
 roabe	1
+izraelieni	0
 izraeliene	1
 arături	1
 scumpătăţi	1
@@ -11569,9 +12275,11 @@ aplicaţii	1
 radiolocatorişti	0
 ulmi	0
 sălăşluiri	1
+năvlegi	0
 năvlege	1
 broscăriţe	1
 albiniţe	1
+emisari	0
 moroşeni	0
 decompensaţii	1
 nemţence	1
@@ -11592,6 +12300,8 @@ castraveţi	0
 duzini	1
 improprietăţi	1
 gogoşării	1
+tăietori	0
+tăietoare	1
 evocaţii	1
 mame	1
 aboliri	1
@@ -11603,7 +12313,9 @@ cauni	0
 prietenii	1
 idei	1
 curvii	1
+mongoloizi	0
 mongoloide	1
+hipermetropi	0
 hipermetrope	1
 colideri	0
 criptogame	1
@@ -11630,10 +12342,12 @@ contrasemnături	1
 paingi	0
 decolmatări	1
 închinăciuni	1
+lotri	0
 loatre	1
 iradieri	1
 modişti	0
 cazmale	1
+mănuşari	0
 slujitori	0
 pizmuiri	1
 late	1
@@ -11641,6 +12355,7 @@ descompletări	1
 sălcioare	1
 beşlegi	0
 exostoze	1
+fondatori	0
 fondatoare	1
 chiuretări	1
 electroacusticieni	0
@@ -11660,6 +12375,7 @@ tolbaşi	0
 caravane	1
 porfirogenete	1
 ofensări	1
+popândeţi	0
 căpuşe	1
 tărtăcuţe	1
 şuşoteli	1
@@ -11689,8 +12405,10 @@ morişti	1
 uscăturele	1
 suspensori	0
 înfundături	1
+teatralişti	0
 teatraliste	1
 instalatoare	1
+ştemuitori	0
 mieluşori	0
 dezgrădirii	1
 nautili	0
@@ -11725,6 +12443,7 @@ moţogance	1
 aloe	1
 iconoduli	0
 pârnăi	1
+dualişti	0
 dualiste	1
 pajuri	1
 radionaviganţi	0
@@ -11737,17 +12456,21 @@ armaturi	1
 megacicli	0
 porumbe	1
 megasporogeneze	1
+discriminanţi	0
 discriminante	1
 ţigline	1
 circumscripţii	1
 tempeste	1
+cambodgieni	0
 cambodgiene	1
 zoralii	1
 parabulii	1
 pteridosperme	1
 trifoişti	1
+zoantropi	0
 zoantrope	1
 furi	0
+trinitarieni	0
 trinitariene	1
 apartenenţe	1
 strigiforme	1
@@ -11755,6 +12478,7 @@ antijunimişti	0
 malace	1
 erubescenţe	1
 cartoline	1
+scoţieni	0
 scoţiene	1
 pirotehnicieni	0
 omonimii	1
@@ -11778,6 +12502,8 @@ plămânăriţe	1
 pâinişoare	1
 volnicii	1
 statui	1
+cositori	0
+cositoare	1
 sapienţi	0
 trapeze	1
 drezine	1
@@ -11793,6 +12519,7 @@ reorânduiri	1
 decondiţionări	1
 calefacţii	1
 reuniri	1
+cuboizi	0
 cuboide	1
 induceri	1
 gondolete	1
@@ -11805,6 +12532,7 @@ mutageneze	1
 fotografe	1
 vrăbiuţe	1
 iscoade	1
+tabaci	0
 popuste	1
 fonograme	1
 corporaţii	1
@@ -11818,6 +12546,7 @@ torefieri	1
 amarilidacee	1
 baci	0
 scribi	0
+berecheţi	0
 fălcele	1
 deraziuni	1
 monoxizi	0
@@ -11831,6 +12560,7 @@ considerări	1
 priveghetoare	1
 conduraşi	0
 proctologe	1
+molatici	0
 molatice	1
 epitelizări	1
 camelii	1
@@ -11848,6 +12578,7 @@ vărguliţe	1
 modulaţii	1
 peniţe	1
 acaparări	1
+retrocedanţi	0
 retrocedante	1
 metisări	1
 ţiitoare	1
@@ -11874,6 +12605,7 @@ psihodiagnoze	1
 cotari	0
 zvârliri	1
 vociferante	1
+ducaţi	0
 megieşii	1
 bace	1
 credenţi	0
@@ -11883,9 +12615,11 @@ târfe	1
 corecţii	1
 superaeronave	1
 pneumologe	1
+chilomi	0
 dughii	1
 piperniciri	1
 negaţii	1
+papişti	0
 papiste	1
 cărdăşii	1
 recuzite	1
@@ -11901,6 +12635,7 @@ progeni	0
 prefecţi	0
 ghioşe	1
 întineriri	1
+narcoleptici	0
 narcoleptice	1
 cistine	1
 calcine	1
@@ -11946,6 +12681,7 @@ acuareliste	1
 prebende	1
 budapestani	0
 porcării	1
+naţionalişti	0
 naţionaliste	1
 normări	1
 semidiferenţe	1
@@ -11954,6 +12690,7 @@ dispersări	1
 repopulări	1
 pronosticări	1
 pufăiri	1
+hematofagi	0
 hematofaga	1
 draperii	1
 stucatori	0
@@ -11990,10 +12727,12 @@ proacţiuni	1
 mucoitine	1
 atiste	1
 miresme	1
+sarmatici	0
 sarmatice	1
 falangete	1
 antireformişti	0
 ciclotimii	1
+ciclotimici	0
 ciclotimice	1
 şcolăriţe	1
 luminiţe	1
@@ -12004,12 +12743,15 @@ meteci	0
 biopolitici	1
 iasomii	1
 bonităţi	1
+criminali	0
+criminale	1
 reide	1
 globigerine	1
 cabaniţe	1
 rusticizări	1
 tetrametri	0
 migăliri	1
+dielectrici	0
 dielectrice	1
 micromolecule	1
 elevări	1
@@ -12023,6 +12765,7 @@ autoobservaţii	1
 broscuţi	0
 reni	0
 remi	0
+holoparaziţi	0
 holoparazite	1
 franci	0
 autocisterne	1
@@ -12032,6 +12775,7 @@ gălbeneli	1
 preceptiste	1
 oponente	1
 fărâmele	1
+egofobi	0
 egofobe	1
 erori	1
 cruşâni	0
@@ -12041,6 +12785,7 @@ tăinuiri	1
 expuncţiuni	1
 zvârlugi	1
 detunări	1
+olandezi	0
 olandeze	1
 răzăluieli	1
 prognoze	1
@@ -12127,6 +12872,7 @@ deleni	0
 atenanse	1
 scărpinători	1
 epifraze	1
+păcale	1
 cernavodeni	0
 vitaminizări	1
 caverne	1
@@ -12137,6 +12883,7 @@ grogrene	1
 avizări	1
 conchiliologi	0
 albioare	1
+napolitani	0
 napolitane	1
 dusisatoare	1
 soluţii	1
@@ -12147,11 +12894,13 @@ forjării	1
 salmii	1
 rugozităţi	1
 decadenţe	1
+malaiezi	0
 malaieze	1
 năfurici	1
 fandări	1
 reînălţări	1
 rabatări	1
+universalişti	0
 universaliste	1
 faringoscopii	1
 fotomicroscopii	1
@@ -12181,6 +12930,7 @@ husari	0
 părangini	1
 fuegieni	0
 maramureşence	1
+structuralişti	0
 structuraliste	1
 hemoterapii	1
 nutriri	1
@@ -12254,6 +13004,7 @@ celtişti	0
 silicatări	1
 cristaloide	0
 estradioli	0
+sincretişti	0
 sincretiste	1
 dansatori	0
 comemoraţii	1
@@ -12273,6 +13024,7 @@ sute	1
 dendrometrişti	0
 mânuţe	1
 talasoterapeuţi	0
+manierişti	0
 manieriste	1
 amorsări	1
 portărei	0
@@ -12280,9 +13032,12 @@ păienjenei	0
 metamerii	1
 ţarevici	0
 reînscrieri	1
+buri	0
 bure	1
 învăţături	1
 santali	0
+buni	0
+bune	1
 ibovnicuţe	1
 buci	0
 mătuşi	1
@@ -12301,6 +13056,7 @@ hemoculturi	1
 rezemători	1
 strâmtorări	1
 minimalizări	1
+conceptualişti	0
 conceptualiste	1
 rămăşeli	1
 oceanobiologe	1
@@ -12313,11 +13069,13 @@ plivituri	1
 balustrade	1
 hematurii	1
 pomuleţi	0
+fideişti	0
 fideiste	1
 plătici	1
 sipetari	0
 grinduţe	1
 psamoterapii	1
+soroceni	0
 sorocene	1
 reinterpretări	1
 drumaşi	0
@@ -12334,6 +13092,7 @@ dode	1
 grofoaie	1
 escamoteri	0
 lăstăriri	1
+vitalişti	0
 vitaliste	1
 zincografii	1
 aninători	1
@@ -12362,15 +13121,19 @@ forajişti	0
 scordaturi	1
 tăciunaşi	0
 deflatori	0
+legionari	0
 legionare	1
 drusete	1
+guleraţi	0
 gulerate	1
 sforăieli	1
+rebusişti	0
 rebusite	1
 micorize	1
 plasări	1
 alergători	1
 împunsături	1
+descriptivişti	0
 descriptiviste	1
 ulmacee	1
 sudiţi	0
@@ -12407,10 +13170,12 @@ indigosoli	0
 învârteli	1
 rapsodii	1
 vulturi	0
+exploataţi	0
 exploatate	1
 inamici	0
 dinozauri	0
 pedologi	0
+anticalofili	0
 anticalofile	1
 plasmochine	1
 garafe	1
@@ -12428,6 +13193,7 @@ fotomicrografii	1
 petrochimişti	0
 stropşiri	1
 practicante	1
+sinofobi	0
 sinofobe	1
 hemoptizici	0
 zburdălnicii	1
@@ -12454,6 +13220,7 @@ devastări	1
 monitoare	1
 percuţii	1
 ştergeri	1
+horezeni	0
 horezene	1
 screperişti	0
 onicomalacii	1
@@ -12461,6 +13228,7 @@ molfăieli	1
 bunici	1
 haldei	0
 simetrii	1
+curenţi	0
 etilene	1
 graminee	1
 reconfigurări	1
@@ -12480,14 +13248,17 @@ termonastii	1
 înălţări	1
 pudrări	1
 perinevrite	1
+moldavi	0
 moldave	1
 birocraţi	0
 speleoteme	1
 agrometeorologi	0
+absolutişti	0
 absolutiste	1
 obide	1
 calorifugări	1
 madrigalişti	0
+iniţiatori	0
 iniţiatoare	1
 codini	1
 apofonii	1
@@ -12497,6 +13268,7 @@ compunători	0
 autopropulsii	1
 semiconserve	1
 cisle	1
+trimişi	0
 rochiţe	1
 endofite	1
 năvăliri	1
@@ -12527,6 +13299,8 @@ patalamale	1
 spade	1
 pseudobace	1
 rapsodişti	0
+necunoscuţi	0
+necunoscute	1
 clocitoare	1
 bioingineri	0
 milionari	0
@@ -12551,6 +13325,7 @@ lente	1
 tărăbuţe	1
 organosoli	0
 măguleli	1
+anurici	0
 anurice	1
 pleurotomii	1
 patriarhii	1
@@ -12560,6 +13335,7 @@ puitoare	1
 credinceri	0
 ampelografi	0
 staţii	1
+azteci	0
 aztece	1
 motofleţi	0
 joimăriţe	1
@@ -12571,6 +13347,7 @@ restauratoare	1
 scăunoaie	1
 frunzăriri	1
 strâmbături	1
+epifenomenalişti	0
 epifenomenaliste	1
 encefalograme	1
 meningococi	0
@@ -12590,8 +13367,11 @@ circumvoluţii	1
 deshidratoriste	1
 răcăduiri	1
 relatori	0
+satirici	0
+satirice	1
 galantine	1
 columele	1
+lăturaşi	0
 lăturaşe	1
 vânjoşii	1
 oftalmopatii	1
@@ -12605,6 +13385,7 @@ catedrale	1
 acreditaţi	0
 lobuli	0
 slăviri	1
+condescendenţi	0
 condescendente	1
 adjudecători	0
 polemarhi	0
@@ -12670,9 +13451,11 @@ strânsuri	1
 bogoslovi	0
 sluţenii	1
 pârghii	1
+doctrinari	0
 doctrinare	1
 orori	1
 monotonii	1
+invidioşi	0
 invidioase	1
 cârpiri	1
 scălâmbăieli	1
@@ -12696,6 +13479,7 @@ statograme	1
 linieri	1
 grizete	1
 epode	1
+copiaţi	0
 acupuncturiste	1
 înfiolări	1
 buchetiere	1
@@ -12728,11 +13512,15 @@ femele	1
 draniţe	1
 porfire	1
 schimbele	1
+fălticineni	0
 fălticinene	1
 etole	1
 corbi	0
+corni	0
+monoteişti	0
 monoteiste	1
 catarini	0
+mofluzi	0
 mofluze	1
 borfăşii	1
 regalităţi	1
@@ -12755,9 +13543,11 @@ latici	1
 carmaniole	1
 levinţi	0
 interprete	1
+verzişori	0
 verzişoare	1
 parametri	0
 faze	1
+credincioşi	0
 credincioase	1
 protopsalţi	0
 corticosteroni	0
@@ -12765,6 +13555,7 @@ corticosteroni	0
 maledicţii	1
 dediţei-de-mare	0
 piersici	1
+devoratori	0
 devoratoare	1
 magnetoterapii	1
 colindători	0
@@ -12776,8 +13567,10 @@ acefalii	1
 simbrioare	1
 neghinuţe	1
 bolnavi	0
+catedratici	0
 catedratice	1
 sunetişti	0
+ieşeni	0
 ieşene	1
 campări	1
 tehnoredacţii	1
@@ -12809,6 +13602,7 @@ clupeide	1
 matiţe	1
 intercurenţi	0
 dezminţiri	1
+haţegani	0
 haţegane	1
 cumulizări	1
 macrosporangi	0
@@ -12830,6 +13624,7 @@ tauri	0
 arheocivilizaţii	1
 cormofite	1
 psihobiograme	1
+politeişti	0
 politeiste	1
 motoriste	1
 electroterapeuţi	0
@@ -12857,12 +13652,14 @@ feluci	1
 ţicneli	1
 dalii	1
 rovine	1
+vălugi	0
 haşme	1
 antiterorişti	0
 asistenţi	0
 pasivizări	1
 după-mese	1
 pterodoni	0
+proclamatori	0
 proclamatoare	1
 pescăruşi	0
 demiteri	1
@@ -12888,6 +13685,7 @@ gulii	1
 urlători	1
 şoptele	1
 ţapine	1
+medico-veterinari	0
 medico-veterinare	1
 înfundători	1
 proviziuni	1
@@ -12902,18 +13700,21 @@ compliniri	1
 recriminaţii	1
 concentraţii	1
 casânci	1
+bengalezi	0
 bengaleze	1
 jumuleli	1
 monitorizări	1
 gerări	1
 unghioare	1
 înţelegeri	1
+congolezi	0
 congoleze	1
 ortografişti	0
 rifluiri	1
 areometrii	1
 canarale	1
 siminichii	1
+slavofobi	0
 slavofobe	1
 zicături	1
 enoteci	1
@@ -12954,6 +13755,7 @@ subteme	1
 finanţatoare	1
 cartuşiere	1
 răcori	1
+frecventatori	0
 frecventatoare	1
 eterodine	1
 târlii	1
@@ -12965,6 +13767,7 @@ fortificaţii	1
 presoare	1
 castani	0
 sihăstrii	1
+sinăieni	0
 sinăiene	1
 birnice	1
 săpători	0
@@ -12990,6 +13793,7 @@ dezmeticiri	1
 scabii	1
 incoerenţe	1
 resortisanţi	0
+maniheani	0
 maniheane	1
 cutiuţe	1
 comentatori	0
@@ -13005,8 +13809,10 @@ viespi	1
 oglinzi	1
 slujnice	1
 moaşte	1
+etiopieni	0
 etiopiene	1
 răţuşte	1
+discromatopi	0
 discromatope	1
 bube	1
 nitraţii	1
@@ -13035,6 +13841,7 @@ penetraţii	1
 fuzionişti	0
 înăduşeli	1
 ginestre	1
+afgani	0
 afgane	1
 ortopoli	0
 premiere	1
@@ -13086,14 +13893,17 @@ racile	1
 reintroduceri	1
 parataxe	1
 inferenţe	1
+heruli	0
 herule	1
 stomatite	1
 deceleraţii	1
 dichii	0
 peni	0
+substanţialişti	0
 substanţialiste	1
 amenţi	0
 radioelectriciene	1
+hitiţi	0
 hitite	1
 şopăieli	1
 hemolize	1
@@ -13103,6 +13913,7 @@ tigheliri	1
 aripioare	1
 comicării	1
 dezactivări	1
+siberieni	0
 siberiene	1
 finisări	1
 porumbării	1
@@ -13199,6 +14010,7 @@ ministranţi	0
 haplologii	1
 apiterapeuţi	0
 rădaşte	1
+iredentişti	0
 iredentiste	1
 regurgitaţii	1
 macrofotografii	1
@@ -13211,17 +14023,21 @@ supraînălţări	1
 absolvenţe	1
 făclieri	0
 caşerate	1
+idioţi	0
 idioate	1
 dălcăuşi	0
 reacţii	1
+descântători	0
 descântătoare	1
 scăfiţe	1
 falieri	1
 actoraşi	0
 melite	1
 antranoli	0
+petrarchişti	0
 petrarchiste	1
 năbădăi	1
+şoldăneşteni	0
 şoldăneştene	1
 fuste	1
 iloţi	0
@@ -13233,12 +14049,15 @@ mânzaţi	0
 lingurărese	1
 ierarhizări	1
 investigări	1
+naturişti	0
 naturiste	1
 depilări	1
+montanişti	0
 montaniste	1
 forje	1
 gloriete	1
 topometri	0
+investitori	0
 investitoare	1
 avarii	1
 droage	1
@@ -13270,6 +14089,7 @@ vizuini	1
 translatări	1
 contorsionişti	0
 crispaţii	1
+tei	0
 bărbi	1
 feste	1
 teci	0
@@ -13294,6 +14114,7 @@ epigramişti	0
 vize	1
 perdegii	0
 varistenţe	1
+machişti	0
 machiste	1
 pleşcaşi	0
 securişti	0
@@ -13346,6 +14167,7 @@ rate	1
 emanări	1
 metode	1
 antante	1
+murguţi	0
 murguţe	1
 modificări	1
 garanţi	0
@@ -13419,6 +14241,7 @@ miografii	1
 oişti	1
 pericolecistite	1
 cavităţi	1
+friulani	0
 friulane	1
 lactaţi	0
 cărăbuşi	0
@@ -13475,6 +14298,7 @@ nisfiele	1
 camee	1
 bătălii	1
 frânghierii	1
+văzători	0
 văzătoare	1
 superputeri	1
 imunităţi	1
@@ -13491,6 +14315,7 @@ dilataţii	1
 muieruşte	1
 trifoiaşi	0
 asimptote	1
+bizantini	0
 bizantine	1
 gârle	1
 selfinducţii	1
@@ -13515,6 +14340,7 @@ pitoaşte	1
 vidări	1
 reînşurubări	1
 albiri	1
+contabili	0
 contabile	1
 declinaţii	1
 spermatograme	1
@@ -13544,11 +14370,13 @@ pterodactili	0
 şâşâiri	1
 pulmonariţe	1
 dumbrăvioare	1
+poşidici	0
 împiedicări	1
 supravizite	1
 barcane	1
 dăscălici	0
 incize	1
+ostroveni	0
 ostrovene	1
 frăguşoare	1
 intonaţii	1
@@ -13599,6 +14427,7 @@ claustraţii	1
 striaţii	1
 delfiniere	1
 nigrozine	1
+şiiţi	0
 şiite	1
 polihistori	0
 siminoci	0
@@ -13620,6 +14449,7 @@ andabaţi	0
 adnotaţii	1
 tapangele	1
 clănţăneli	1
+neozeelandezi	0
 neozeelandeze	1
 saramurări	1
 metonomasii	1
@@ -13632,6 +14462,7 @@ cămile	1
 plesne	1
 asiate	1
 antemăsurătoare	1
+promovatori	0
 promovatoare	1
 onomaşti	0
 festivalişti	0
@@ -13640,6 +14471,7 @@ undaţii	1
 eudişti	0
 timpanişti	0
 tahigrafi	0
+vagabonzi	0
 vagaboande	1
 etimologii	1
 tulbureli	1
@@ -13665,6 +14497,7 @@ hidroenergeticiene	1
 politehniciene	1
 cicloalchene	1
 armăsăraşi	0
+comunişti	0
 comuniste	1
 parameci	0
 logofeţii	1
@@ -13674,6 +14507,7 @@ ciomăgari	0
 bulevardiste	1
 larici	1
 cateheze	1
+bihoreni	0
 bihorene	1
 virtuozităţi	1
 scriptologi	0
@@ -13705,10 +14539,13 @@ columbe	1
 eritrotoxine	1
 grenadieri	0
 nefrectomii	1
+străbuni	0
 străbune	1
 surori	1
 compactări	1
+materialişti	0
 materialiste	1
+mocoşiţi	0
 mocoşite	1
 sihastre	1
 chilioare	1
@@ -13727,6 +14564,7 @@ bihunci	1
 cicliste	1
 margrafi	0
 osmometrii	1
+cari	0
 selbe	1
 liberări	1
 brânculiţe	1
@@ -13760,6 +14598,7 @@ moftangii	0
 beldii	1
 proprietare	1
 concitadini	0
+galezi	0
 galeze	1
 profetese	1
 lăuruşte	1
@@ -13812,6 +14651,7 @@ leptoni	0
 judecătoraşi	0
 cogitaţiuni	1
 aromiri	1
+necrofagi	0
 necrofage	1
 momiţoi	0
 colonizatori	0
@@ -13837,6 +14677,7 @@ nimfomane	1
 tânjeli	1
 fineţuri	1
 competitoare	1
+mureşeni	0
 mureşene	1
 nostalgii	1
 dilatanţe	1
@@ -13863,12 +14704,14 @@ fermecătorii	1
 cănăţui	1
 hârşovence	1
 exorcizări	1
+şoimani	0
 şoimane	1
 nord-americance	1
 columbiforme	1
 grăniceri	0
 licitări	1
 glandule	1
+bolşevici	0
 bolşevice	1
 presgarnituri	1
 muzeologi	0
@@ -13881,6 +14724,7 @@ autopompe	1
 pichetări	1
 ciuboţele	1
 îmboldiri	1
+semiasiatici	0
 semiasiatice	1
 organicieni	0
 acetaldehide	1
@@ -13902,6 +14746,7 @@ rebeliuni	1
 grăsuni	0
 obştiri	1
 pomişoare	1
+avangardişti	0
 avangardiste	1
 strigoaie	1
 mânjiri	1
@@ -13912,6 +14757,7 @@ rochioare	1
 josence	1
 năclăieli	1
 euharistii	1
+moguli	0
 mogule	1
 eterofonii	1
 prelaţi	0
@@ -13925,7 +14771,9 @@ atmolize	1
 câmpence	1
 pahidermii	1
 jante	1
+provensali	0
 provensale	1
+iresponsabili	0
 iresponsabile	1
 frunzuci	1
 culise	1
@@ -13943,6 +14791,7 @@ florete	1
 celafibre	1
 sârme	1
 montanologe	1
+italofili	0
 italofile	1
 vaporizaţii	1
 piedicuţe	1
@@ -13950,6 +14799,7 @@ mijlociri	1
 redevenţiari	0
 sacoşe	1
 rumori	1
+mozambicani	0
 mozambicane	1
 scheunări	1
 trompete	1
@@ -13972,6 +14822,7 @@ popicare	1
 măturări	1
 persecutori	0
 iurte	1
+ftizici	0
 ftizice	1
 poezele	1
 table	1
@@ -13995,7 +14846,9 @@ rezervări	1
 libretişti	0
 instaurări	1
 înnorări	1
+ave	1
 asemănări	1
+demenţi	0
 demente	1
 ierburi	1
 flintuliţe	1
@@ -14009,6 +14862,10 @@ polidipsii	1
 venectazii	1
 tutori	0
 manufacturări	1
+determinanţi	0
+determinante	1
+istorici	0
+istorice	1
 iobagi	0
 citocromi	0
 lunecări	1
@@ -14028,6 +14885,7 @@ meteosputnici	0
 încetăţeniri	1
 salbande	1
 fluieriţe	1
+gamomani	0
 gamomane	1
 intimităţi	1
 împliniri	1
@@ -14071,11 +14929,14 @@ agnoşti	0
 vedre	1
 călărăşence	1
 corle	1
+fenomenalişti	0
 fenomenaliste	1
+nefritici	0
 nefritice	1
 rachetomodelişti	0
 obrăjori	0
 parafazii	1
+imbecili	0
 imbecile	1
 cremoze	1
 balenari	0
@@ -14095,12 +14956,14 @@ măsluitori	0
 chimograme	1
 petrografe	1
 mineri	0
+thailandezi	0
 thailandeze	1
 etaloneri	0
 lapicizi	0
 parotidite	1
 spectatoare	1
 microbiste	1
+galicani	0
 galicane	1
 oberi	0
 ilustrate	1
@@ -14151,6 +15014,7 @@ marmurieri	0
 actualităţi	1
 remorci	1
 şurubuiri	1
+sciţi	0
 scite	1
 molipsiri	1
 examinări	1
@@ -14191,6 +15055,7 @@ vălţuitoare	1
 galiţe	1
 răscroieli	1
 cornăţari	0
+voinici	0
 voinice	1
 racolări	1
 steganipode	1
@@ -14202,6 +15067,8 @@ berberidacee	1
 găini-sălbatice	1
 goruni	0
 mistuiri	1
+solizi	0
+cistercieni	0
 cisterciene	1
 absentări	1
 stivatori	0
@@ -14237,6 +15104,7 @@ decime	1
 hamali	0
 bronşectazii	1
 nitraţi	0
+criticişti	0
 criticiste	1
 tricotomii	1
 fulguraţii	1
@@ -14246,6 +15114,7 @@ iavaşale	1
 ipohondrii	1
 sortatoare	1
 măceşe	1
+caravanieri	0
 caravaniere	1
 craniologi	0
 cocreatori	0
@@ -14264,6 +15133,7 @@ antrenori	0
 grimele	1
 sâsâituri	1
 meharişti	0
+împăciuitorişti	0
 împăciuitoriste	1
 grimeri	0
 pansele	1
@@ -14274,6 +15144,7 @@ digiţi	0
 telecronicari	0
 rapsozi	0
 predele	1
+sârbi	0
 sârbe	1
 masări	1
 ectoendoparaziţi	0
@@ -14341,12 +15212,15 @@ giurgine	1
 ichilici	0
 roşiori	0
 timpanite	1
+diabetici	0
 diabetice	1
+orbalţi	0
 siliconi	0
 metilceluloze	1
 şosele	1
 gratificaţii	1
 spălări	1
+husiţi	0
 husite	1
 tilincuţe	1
 imperatori	0
@@ -14364,6 +15238,7 @@ izbe	1
 aprinzători	1
 dijmuitori	0
 ordonatoare	1
+contractanţi	0
 contractante	1
 mogorogiri	1
 ceremonii	1
@@ -14391,6 +15266,7 @@ predilecţii	1
 adunături	1
 cristelniţe	1
 pulberării	1
+dizolvanţi	0
 dizolvante	1
 mucoracee	1
 dactiloscopi	0
@@ -14399,6 +15275,7 @@ histerectomii	1
 ţărci	1
 creanţiere	1
 enteroanastomoze	1
+neotomişti	0
 neotomiste	1
 echinide	1
 hoţi	0
@@ -14412,6 +15289,7 @@ radioterapeuţi	0
 ghemuiri	1
 săricele	1
 simbioze	1
+amatori	0
 amatoare	1
 tabulhanale	1
 mămuci	1
@@ -14424,6 +15302,7 @@ antiteze	1
 rezoluţii	1
 gloate	1
 flancări	1
+multimiliardari	0
 multimiliardare	1
 scumpii	1
 afine	1
@@ -14434,12 +15313,14 @@ misofobii	1
 electrogravuri	1
 triplusaltişti	0
 dipnoi	0
+indigeni	0
 indigene	1
 vicepreşedinte	1
 raite	1
 perieri	0
 zăgnete	1
 ravene	1
+beduini	0
 beduine	1
 strungi	1
 supracoperţi	1
@@ -14452,6 +15333,7 @@ reporteri	0
 tretini	0
 bucheri	0
 plecăciuni	1
+latifundiari	0
 latifundiare	1
 lumânări	1
 sforţări	1
@@ -14473,6 +15355,7 @@ felide	1
 machetişti	0
 pneumotomii	1
 agrementări	1
+papetari	0
 papetare	1
 matrace	1
 depleţiuni	1
@@ -14495,6 +15378,7 @@ peponide	1
 decorticări	1
 grafologe	1
 părticele	1
+europeni	0
 europene	1
 strămurări	1
 romancieri	0
@@ -14542,10 +15426,12 @@ conexiuni	1
 oreade	1
 cernuşti	1
 condili	0
+francofobi	0
 francofobe	1
 călduri	1
 cuţovlahe	1
 prici	1
+cultişti	0
 cultiste	1
 granulări	1
 barocamere	1
@@ -14579,12 +15465,14 @@ epuizări	1
 prepelicari	0
 zgâiri	1
 botaniste	1
+londonezi	0
 londoneze	1
 sacadări	1
 azvârlite	1
 enterogastrite	1
 bielete	1
 cornize	1
+porcoi	0
 abreviaţii	1
 mantele	1
 lombartroze	1
@@ -14633,6 +15521,7 @@ oftalmometrii	1
 canişi	0
 saltimbanci	0
 micşunele	1
+meşteri	0
 meştere	1
 malformaţii	1
 costumiere	1
@@ -14641,10 +15530,12 @@ lavre	1
 logopede	1
 vistiernici	0
 bondari	0
+donduşeneni	0
 donduşenene	1
 duduituri	1
 anaconde	1
 biofori	0
+retardaţi	0
 retardate	1
 confrăţii	1
 cvadrireme	1
@@ -14676,6 +15567,7 @@ autoinfecţii	1
 anadiploze	1
 oftalmografii	1
 ridichi	1
+gâlcevitori	0
 gâlcevitoare	1
 tufe	1
 devieri	1
@@ -14687,6 +15579,7 @@ eparhii	1
 dermatalgii	1
 combinere	1
 desfaceri	1
+ignoranţi	0
 ignorante	1
 sorcove	1
 manevranţi	0
@@ -14705,11 +15598,13 @@ surioare	1
 sporangi	0
 scutelnici	0
 radiostaţiuni	1
+frânci	0
 frânce	1
 flagelări	1
 aneurine	1
 popenchi	0
 ciuturi	1
+ţărănişti	0
 ţărăniste	1
 sistematiciene	1
 cicadee	1
@@ -14718,6 +15613,7 @@ păraşi	0
 agurijoare	1
 optimaţi	0
 injecţii	1
+marsiliezi	0
 marsilieze	1
 vârşari	0
 gebele	1
@@ -14746,6 +15642,7 @@ drajonări	1
 viermănari	0
 plantalgii	1
 reuşite	1
+ischiuzari	0
 ischiuzare	1
 oxigenatori	0
 ţâpuritoare	1
@@ -14762,8 +15659,10 @@ moşuleţi	0
 diminutivări	1
 divizări	1
 proudhonişti	0
+organizatori	0
 organizatoare	1
 urobacterii	1
+săgetători	0
 săgetătoare	1
 metamorfoze	1
 timişence	1
@@ -14806,6 +15705,7 @@ hebefrenii	1
 creşteri	1
 nuvele	1
 comediografi	0
+libieni	0
 libiene	1
 cămătărese	1
 parazăpezi	1
@@ -14824,6 +15724,7 @@ măriri	1
 mânzişori	0
 răstigniri	1
 poante	1
+jansenişti	0
 janseniste	1
 postăvi	1
 cuguari	0
@@ -14831,6 +15732,7 @@ recomentări	1
 şelari	0
 mazili	0
 oaze	1
+golani	0
 golane	1
 defrisori	0
 tranziteri	0
@@ -14846,10 +15748,12 @@ proscripţii	1
 pamfletişti	0
 proctite	1
 hidrologi	0
+mânzărari	0
 decodificări	1
 omologări	1
 berbecării	1
 întâmplări	1
+salvamontişti	0
 salvamontiste	1
 bernardine	1
 însemnărele	1
@@ -14872,7 +15776,9 @@ horilci	1
 fotoroboţi	0
 ghiuji	0
 copile	1
+făgărăşeni	0
 făgărăşene	1
+cordonaşi	0
 teleredactori	0
 şarlatance	1
 telebene	1
@@ -14884,6 +15790,7 @@ antitrinitari	0
 interpretări	1
 simpatizări	1
 voiajori	0
+ionatani	0
 uretre	1
 bătrâni	0
 interferenţe	1
@@ -14899,6 +15806,7 @@ podituri	1
 maladrese	1
 oculişti	0
 hitleriste	1
+habotnici	0
 habotnice	1
 cheratoplastii	1
 ginecologi	0
@@ -14910,12 +15818,17 @@ stratosfere	1
 fâlfâiri	1
 armonografi	0
 gravări	1
+mădulari	0
 suplicante	1
+veniţi	0
 păţeli	1
+ficţionalişti	0
 ficţionaliste	1
 cardamale	1
 repezituri	1
+uriaşi	0
 uriaşe	1
+intelectuali	0
 intelectuale	1
 lăbărţări	1
 frustrări	1
@@ -14924,6 +15837,7 @@ dejucări	1
 monohidraţi	0
 transpiraţii	1
 sinuzii	1
+consultanţi	0
 consultante	1
 deplanări	1
 fosforescenţe	1
@@ -14937,11 +15851,13 @@ fligornişti	0
 hiperosmii	1
 amfibrahi	0
 coregrafe	1
+verslibrişti	0
 verslibriste	1
 microbari	0
 mediaţii	1
 duodecime	1
 măgăriţe	1
+tulceni	0
 tulcene	1
 ardei	0
 terase	1
@@ -14971,12 +15887,14 @@ depravaţiuni	1
 ţopenii	1
 haiducii	1
 pneumotropi	0
+monegasci	0
 monegasce	1
 satârgii	0
 regii	1
 darale	1
 dări	1
 cicăliri	1
+ladini	0
 ladine	1
 aprovări	1
 depuneri	1
@@ -14998,6 +15916,7 @@ muzicante	1
 microagenţi	0
 bezne	1
 interpelatori	0
+germanofoni	0
 germanofone	1
 dezinteresări	1
 citaţii	1
@@ -15028,6 +15947,7 @@ străluciri	1
 stupării	1
 cenuşărese	1
 toceli	1
+atentişti	0
 atentiste	1
 literatori	0
 bancheri	0
@@ -15042,7 +15962,9 @@ sclifoseli	1
 mărunţişari	0
 culee	1
 rulări	1
+ucraineni	0
 ucrainene	1
+cvadragenari	0
 cvadragenare	1
 geodezi	0
 pleuropneumonii	1
@@ -15054,6 +15976,7 @@ benzi	1
 cosemnatare	1
 purici	0
 besactele	1
+istroromâni	0
 istroromâne	1
 palpaţii	1
 audienţe	1
@@ -15077,9 +16000,11 @@ dimerlii	1
 macle	1
 emendatori	0
 brusturi	0
+emetropi	0
 emetrope	1
 pliroforii	1
 antropofobi	0
+iugoslavi	0
 iugoslave	1
 virusologe	1
 satelizări	1
@@ -15133,6 +16058,7 @@ rotile	1
 scai	0
 radioastronomi	0
 răvăşeli	1
+aglutinanţi	0
 închistări	1
 ancrasări	1
 excizii	1
@@ -15159,12 +16085,14 @@ velocipedişti	0
 sidelci	1
 stăpâniri	1
 pomezi	1
+pozitivişti	0
 pozitiviste	1
 coloriste	1
 ciclogeneze	1
 ambidextrii	1
 căciuliri	1
 ceratiţi	0
+postşcolari	0
 postşcolare	1
 licitatoare	1
 arbori	0
@@ -15190,6 +16118,7 @@ curtări	1
 mungerii	1
 ragile	1
 isprăvnicese	1
+englezi	0
 engleze	1
 private	1
 transcriitori	0
@@ -15199,6 +16128,7 @@ farandole	1
 smuceli	1
 penticostale	1
 permutări	1
+populişti	0
 populiste	1
 imigrări	1
 foaci	0
@@ -15225,6 +16155,7 @@ situări	1
 zguduiri	1
 râme	1
 agenţii	1
+şpani	0
 jepi	0
 sumacări	1
 surlişoare	1
@@ -15242,6 +16173,7 @@ turbine	1
 scorpene	1
 donatare	1
 disproporţionalităţi	1
+cleptomani	0
 cleptomane	1
 prezbiofrenii	1
 consideraţii	1
@@ -15260,10 +16192,12 @@ morărei	0
 miruiri	1
 intumescenţe	1
 tiranţi	0
+antirăzboinici	0
 antirăzboinice	1
 istoriografii	1
 iertări	1
 arendaşi	0
+hamiţi	0
 hamite	1
 vânzători	0
 lăutari	0
@@ -15291,6 +16225,7 @@ spuneri	1
 dermatoze	1
 existenţe	1
 blănărese	1
+corticosteroizi	0
 corticosteroide	1
 cobeli	1
 mitomane	1
@@ -15311,6 +16246,7 @@ ajustori	0
 sinonimii	1
 başbuzuci	0
 marcote	1
+nefropaţi	0
 nefropate	1
 geamii	1
 trivalenţe	1
@@ -15322,6 +16258,7 @@ gemănariţe	1
 acorii	1
 jambiere	1
 contracandidate	1
+neolatini	0
 neolatine	1
 cârjalii	0
 comanşi	0
@@ -15338,6 +16275,7 @@ măciulii	1
 agăţători	1
 toxicologe	1
 legislaturi	1
+reconciliatori	0
 reconciliatoare	1
 instigaţii	1
 eliberări	1
@@ -15345,6 +16283,7 @@ coconiere	1
 şustări	0
 botriocefali	0
 sculişoare	1
+învrăjbitori	0
 învrăjbitoare	1
 scumpenii	1
 cumetri	0
@@ -15358,6 +16297,7 @@ măgădăi	0
 rabini	0
 dermatite	1
 coştereţe	1
+eleni	0
 elene	1
 conjuncturi	1
 simonii	1
@@ -15365,14 +16305,17 @@ elevi	0
 acadele	1
 posedări	1
 antiastmatici	0
+pedimani	0
 pedimane	1
 schematizări	1
 buturi	1
+panslavi	0
 panslave	1
 câştigători	0
 înfiripări	1
 şevrete	1
 formari	0
+australizi	0
 australide	1
 politeţi	1
 facturări	1
@@ -15386,6 +16329,7 @@ amprize	1
 hoţomani	0
 vuieli	1
 palmi	0
+corneci	0
 reoxidări	1
 ospătători	0
 monogeneze	1
@@ -15398,12 +16342,15 @@ xantelasme	1
 echinococoze	1
 invincibilităţi	1
 bărdaşi	0
+retoromani	0
 retoromane	1
 oftalmotomii	1
 consolări	1
+malaiezieni	0
 malaieziene	1
 finanţări	1
 străchinuţe	1
+fofologi	0
 fofoloage	1
 înteţiri	1
 stipendieri	1
@@ -15430,6 +16377,7 @@ supralicitaţii	1
 tăpălăgi	1
 polipieri	0
 cili	0
+ciri	0
 cabine	1
 animalculişti	0
 scafe	1
@@ -15459,6 +16407,7 @@ hidroizopieze	1
 retroversiuni	1
 cardiograme	1
 cârnelegi	1
+bărdaci	0
 bărdace	1
 fonetiste	1
 exalaţii	1
@@ -15474,6 +16423,7 @@ trufii	1
 postpoziţii	1
 ileocolite	1
 enigmişti	0
+transasiatici	0
 transasiatice	1
 azurări	1
 muntence	1
@@ -15487,6 +16437,7 @@ secretari	0
 şoltuzi	0
 rizace	1
 hemoglobinurii	1
+chilieni	0
 chiliene	1
 magii	1
 protecţii	1
@@ -15506,15 +16457,19 @@ surse	1
 cimişiri	0
 sucombări	1
 diavoli	0
+stimabili	0
 stimabile	1
 eterizări	1
+darwinişti	0
 darwiniste	1
 alcooli	0
 antirepublicani	0
 ciconiide	1
 asedieri	1
+scepticişti	0
 scepticiste	1
 constricţii	1
+transformişti	0
 transformiste	1
 şmecheriri	1
 leme	1
@@ -15538,8 +16493,10 @@ poliritmii	1
 colegatari	0
 tubări	1
 suduri	1
+euribari	0
 euribare	1
 cinologi	0
+susţinători	0
 susţinătoare	1
 pseudoartişti	0
 coverte	1
@@ -15596,6 +16553,7 @@ baboşe	1
 streptococi	0
 taumaturgi	0
 carpoteci	1
+gepizi	0
 gepide	1
 dezincrustări	1
 cumnăţei	0
@@ -15610,6 +16568,7 @@ adenohipofize	1
 surghiuniri	1
 hebetudini	1
 imagerii	1
+araucani	0
 araucane	1
 păstârnaci	0
 stupe	1
@@ -15622,6 +16581,7 @@ ornitofite	1
 ieşiri	1
 ofrande	1
 frământături	1
+hinduşi	0
 hinduse	1
 ceuci	1
 promulgaţii	1
@@ -15638,6 +16598,7 @@ arhierii	1
 egalări	1
 cioroaice	1
 surveniri	1
+unitarişti	0
 unitariste	1
 corbi-de-noapte	0
 hipertonii	1
@@ -15653,6 +16614,7 @@ serdărese	1
 decuplări	1
 fâsâituri	1
 logolatrii	1
+monohibrizi	0
 monohibride	1
 drapări	1
 ştimi	0
@@ -15667,14 +16629,17 @@ milogi	0
 traforări	1
 ovaţii	1
 absorbiri	1
+segmenţi	0
 contragabieri	0
 ţinute	1
+venezuelieni	0
 venezueliene	1
 congruenţe	1
 ridicături	1
 tente	1
 deperulaţii	1
 zădărnicii	1
+socinieni	0
 sociniene	1
 coli	1
 economişti	0
@@ -15708,6 +16673,7 @@ lingotiere	1
 premedicaţii	1
 excentrări	1
 sobari	0
+lipici	0
 adeverinţe	1
 puştiulici	0
 răsuciri	1
@@ -15735,6 +16701,7 @@ perlări	1
 ţambalagii	0
 sâmburei	0
 ştănţuiri	1
+mojici	0
 mojice	1
 contraoctave	1
 amiante	1
@@ -15749,6 +16716,7 @@ hulubi	0
 decane	1
 penumbre	1
 iluzionări	1
+truditori	0
 truditoare	1
 acvatinte	1
 hidrocarbonaţi	0
@@ -15806,6 +16774,7 @@ justificatoare	1
 enterobacterii	1
 stupituri	1
 sălăţele	1
+imanentişti	0
 imanentiste	1
 bătelişti	1
 brădui	0
@@ -15827,6 +16796,7 @@ trambalări	1
 dăruitoare	1
 canibali	0
 laminatoare	1
+filantropişti	0
 filantropiste	1
 pediatre	1
 neagresivităţi	1
@@ -15844,6 +16814,7 @@ vrăji	1
 berlinezi	0
 reintervenţii	1
 merari	0
+irişi	0
 zimaze	1
 giratari	0
 colege	1
@@ -15852,6 +16823,7 @@ termocentrale	1
 poliţmaiştri	0
 fiziografi	0
 galvanocauterizări	1
+centrişti	0
 centriste	1
 ciocli	0
 bazilici	1
@@ -15882,11 +16854,13 @@ renegocieri	1
 recenzori	0
 excursioniste	1
 brăduţi	0
+baptişti	0
 baptiste	1
 exoelectroni	0
 mojdreni	0
 încruntături	1
 bormaşini	1
+pecenegi	0
 pecenege	1
 semivolte	1
 compresiuni	1
@@ -15910,6 +16884,7 @@ insatisfacţii	1
 carbonarcoze	1
 aportori	0
 capse	1
+ultraliberali	0
 ultraliberale	1
 pecetluiri	1
 cicari	0
@@ -15917,6 +16892,7 @@ ortopedagogi	0
 rămurişti	1
 codebitoare	1
 adulmecări	1
+iubeţi	0
 iubeţe	1
 prăznuiri	1
 protopopoaie	1
@@ -15945,9 +16921,11 @@ lemurieni	0
 invitaţii	1
 lefşoare	1
 plimbări	1
+subalterni	0
 subalterne	1
 cuculese	1
 reîntregiri	1
+irealişti	0
 irealiste	1
 galeopiteci	0
 reaerisiri	1
@@ -16046,6 +17024,7 @@ mangafale	1
 estavele	1
 graforee	1
 simplificări	1
+sorabi	0
 sorabe	1
 necrobioze	1
 echităţi	1
@@ -16059,6 +17038,7 @@ cutnii	1
 drupeole	1
 ruşte	1
 corhani	0
+dulapi	0
 falangişti	0
 rinologi	0
 zăbave	1
@@ -16101,6 +17081,7 @@ reveniri	1
 vehiculări	1
 bane	1
 robotizări	1
+camerunezi	0
 cameruneze	1
 dezideologizări	1
 nieluri	1
@@ -16110,6 +17091,7 @@ eleve	1
 surcele	1
 holerci	1
 vafele	1
+neocatolici	0
 neocatolice	1
 brizanţi	0
 furburi	1
@@ -16119,16 +17101,20 @@ sugători	1
 fasoliri	1
 angobe	1
 preformări	1
+învăţători	0
 învăţătoare	1
 priveli	1
 paraganglioni	0
 reclădiri	1
 beldiţe	1
 pretori	0
+macedoromâni	0
 macedoromâne	1
 încleieli	1
+hidrofobi	0
 hidrofobe	1
 siluiri	1
+năsăudeni	0
 năsăudene	1
 cromozomi	0
 fondişti	0
@@ -16139,6 +17125,7 @@ presintetizări	1
 termodinamicieni	0
 pontifici	0
 grupări	1
+puitori	0
 preluxaţii	1
 hădăragi	0
 bursuce	1
@@ -16182,6 +17169,7 @@ palatite	1
 voinicei	0
 emisfere	1
 radiograme	1
+cosmopoliţi	0
 cosmopolite	1
 sciafite	1
 tapotări	1
@@ -16196,6 +17184,8 @@ bravi	0
 odelete	1
 loveli	1
 avalizaţi	0
+şpiţi	0
+braci	0
 garofiţe	1
 acioale	1
 convocări	1
@@ -16212,6 +17202,7 @@ microcantine	1
 furori	1
 heteroauxine	1
 potlogari	0
+râşcăneni	0
 râşcănene	1
 dafnii	1
 pişcări	1
@@ -16220,15 +17211,18 @@ anarhiste	1
 canişe	1
 bauzi	0
 caragaţe	1
+antigrevişti	0
 antigreviste	1
 coşărci	1
 analogii	1
 năluceli	1
 afurcări	1
 sinii	1
+vestitori	0
 vestitoare	1
 expulzări	1
 drosofile	1
+luetici	0
 luetice	1
 represori	0
 ombrofite	1
@@ -16254,16 +17248,19 @@ cerometrii	1
 turetci	1
 iscăliri	1
 drenări	1
+nechemaţi	0
 nechemate	1
 cartofiori	0
 ortocentri	0
 agrozootehnicieni	0
 honvezi	0
 premeditări	1
+potrivnici	0
 potrivnice	1
 rejanse	1
 culcări	1
 săltători	1
+piepţi	0
 micropsii	1
 psihodramatişti	0
 bulci	1
@@ -16280,7 +17277,9 @@ subtilităţi	1
 manipulaţii	1
 dârjale	1
 jumări	1
+sloveni	0
 slovene	1
+auguri	0
 ţevişoare	1
 muşamalizări	1
 adjudecatare	1
@@ -16307,8 +17306,10 @@ răsucitori	0
 teleleici	1
 maregrame	1
 autosalvări	1
+corali	0
 crestomaţii	1
 portretişti	0
+huţuli	0
 huţule	1
 concurenţe	1
 tautofonii	1
@@ -16330,6 +17331,7 @@ stebluţe	1
 hagade	1
 sintetizări	1
 concedieri	1
+umanişti	0
 umaniste	1
 infanterii	1
 admiratoare	1
@@ -16381,6 +17383,7 @@ vizitări	1
 neofaline	1
 diluate	1
 suprimări	1
+neodarvinişti	0
 neodarviniste	1
 parafinări	1
 prove	1
@@ -16409,10 +17412,12 @@ avulsiuni	1
 remaieri	1
 descuamări	1
 trigrame	1
+limbuţi	0
 limbute	1
 greţuri	1
 probozeli	1
 inversări	1
+nemţofili	0
 nemţofile	1
 zăgani	0
 glutoni	0
@@ -16424,7 +17429,9 @@ vătuie	1
 raţionalizări	1
 bibani	0
 spălături	1
+termidorieni	0
 termidoriene	1
+teleormăneni	0
 teleormănene	1
 edituri	1
 invenţii	1
@@ -16434,12 +17441,14 @@ stâlcituri	1
 şupuriri	1
 stăruieli	1
 asceţi	0
+capi	0
 nomograme	1
 cai	0
 tovărăşii	1
 perdele	1
 trăncăneli	1
 homozigoţi	0
+somalezi	0
 somaleze	1
 piciforme	1
 mâţi	0
@@ -16450,6 +17459,7 @@ prefaţatori	0
 terminări	1
 cianoficee	1
 utriculi	0
+utricule	1
 canibale	1
 fotogravuri	1
 curse	1
@@ -16462,6 +17472,7 @@ străpungeri	1
 cristalizaţii	1
 chifle	1
 favoriţi	0
+favorite	1
 curtezani	0
 teuge	1
 îndurări	1
@@ -16471,20 +17482,25 @@ partenocarpii	1
 supraexcitări	1
 răbojiri	1
 paradituri	1
+tebecişti	0
 tebeciste	1
 tragicomedii	1
 demnităţi	1
+verişti	0
 veriste	1
 unsori	1
+suprarealişti	0
 suprarealiste	1
 reţele	1
 grandomanii	1
 poziţionări	1
 substituenţi	0
 retroproiecţii	1
+selecţionaţi	0
 selecţionate	1
 coocupanţi	0
 textieri	0
+gruzini	0
 gruzine	1
 emasculări	1
 mândrişoare	1
@@ -16506,10 +17522,12 @@ garderobe	1
 tomografii	1
 prefiguraţii	1
 întortocheri	1
+nogai	0
 nogaie	1
 linotipii	1
 paleontologi	0
 colerete	1
+navetişti	0
 navetiste	1
 indisponibilităţi	1
 glasări	1
@@ -16519,6 +17537,7 @@ fizionomişti	0
 microbiologe	1
 ardenezi	0
 retractări	1
+străini	0
 străine	1
 colilii	1
 căule	1
@@ -16526,9 +17545,12 @@ instituţii	1
 tize	1
 interpuneri	1
 conidii	1
+tragici	0
+tragice	1
 abstenţiuni	1
 peţitorii	1
 peruchieri	0
+spiritişti	0
 spiritiste	1
 electroniste	1
 forme	1
@@ -16537,12 +17559,14 @@ cateterizări	1
 acăriţe	1
 abreacţii	1
 etnolingvişti	0
+nizami	0
 cătini	1
 cromogeni	0
 trupeţi	0
 vel-spătari	0
 translocaţii	1
 magazii	1
+slavi	0
 slave	1
 delii	0
 inginere	1
@@ -16552,7 +17576,9 @@ expoliţiuni	1
 vuvari	0
 configuraţii	1
 axiome	1
+cilindri	0
 acidofite	1
+mangosiţi	0
 mangosite	1
 născocituri	1
 minicasete	1
@@ -16572,6 +17598,7 @@ turnări	1
 institutori	0
 extrafini	0
 reciclări	1
+germani	0
 germane	1
 molări	1
 ascomicete	1
@@ -16579,6 +17606,7 @@ siflee	1
 propăşiri	1
 hăcuiri	1
 simfize	1
+donatişti	0
 donatiste	1
 monoftongi	0
 bandurişti	0
@@ -16593,6 +17621,7 @@ injoncţiuni	1
 fiuleţi	0
 timonieri	0
 actinomicoze	1
+preşcolari	0
 preşcolare	1
 vitezişti	0
 ieniceri	0
@@ -16607,8 +17636,10 @@ beschii	1
 polioximetilene	1
 impresionări	1
 picurări	1
+demoralizatori	0
 demoralizatoare	1
 sitomanii	1
+livani	0
 palori	1
 simulante	1
 radiofarmaceutice	1
@@ -16618,10 +17649,12 @@ ciceroni	0
 tilde	1
 calpuzani	0
 traforete	1
+fixişti	0
 fixiste	1
 eroine	1
 cariograme	1
 figurine	1
+zemoşi	0
 zemoase	1
 municipalităţi	1
 planctonologi	0
@@ -16632,11 +17665,13 @@ binagii	0
 surjecţii	1
 stăpâni	0
 pălării	1
+liberali	0
 liberale	1
 cotoşmani	0
 expulsii	1
 discofili	0
 droşcari	0
+gutoşi	0
 gutoase	1
 zvântări	1
 cete	1
@@ -16679,6 +17714,7 @@ descentrări	1
 torsiuni	1
 şubrezenii	1
 defecţiuni	1
+boşorogi	0
 boşoroage	1
 convicţiuni	1
 cumetrii	1
@@ -16705,6 +17741,7 @@ nevrite	1
 supraimpresiuni	1
 revelări	1
 cucure	1
+loialişti	0
 loialiste	1
 răsturnări	1
 ferecături	1
@@ -16756,6 +17793,7 @@ repezine	1
 morene	1
 neuropsihiatri	0
 reconstrucţii	1
+lobi	0
 preînnoiri	1
 flebologi	0
 placente	1
@@ -16796,6 +17834,7 @@ parabioze	1
 pavoazări	1
 perişoare	1
 misologi	0
+invocatori	0
 invocatoare	1
 desimi	1
 citocromii	1
@@ -16830,6 +17869,7 @@ mulete	1
 benedicţiuni	1
 insubordonanţe	1
 simţiri	1
+determinişti	0
 deterministe	1
 amenajări	1
 canapele	1
@@ -16848,8 +17888,10 @@ doinişoare	1
 defectoscopii	1
 bujoraşi	0
 penalişti	0
+aborigeni	0
 aborigene	1
 tarisfaţi	0
+vasali	0
 vasale	1
 denaţionalizări	1
 tăceri	1
@@ -16862,6 +17904,7 @@ neolingvişti	0
 terişti	0
 africanologe	1
 căputări	1
+icterici	0
 icterice	1
 năsăudence	1
 dendrologe	1
@@ -16869,10 +17912,15 @@ străbateri	1
 vornicii	1
 triade	1
 zgănci	1
+ungători	0
+europenişti	0
 europeniste	1
 ambiguizări	1
+încărcători	0
 parfumieri	0
+colţişori	0
 precorecturi	1
+progresivişti	0
 progresiviste	1
 redingote	1
 golişti	1
@@ -16883,6 +17931,7 @@ habenule	1
 lăcrimări	1
 pălituri	1
 lemingi	0
+naufragiaţi	0
 naufragiate	1
 ostatici	0
 castaniete	1
@@ -16908,7 +17957,9 @@ balamale	1
 amăruţe	1
 stâlciri	1
 nane	1
+somnişori	0
 convenţii	1
+delegatari	0
 delegatare	1
 directoare	1
 necrologii	1
@@ -16946,6 +17997,7 @@ machetatori	0
 patologişti	0
 matisori	0
 pantalonaşi	0
+mistreţi	0
 mistreţe	1
 scheme	1
 banane	1
@@ -16969,13 +18021,16 @@ contraanchete	1
 inspecţii	1
 descoperitori	0
 arestante	1
+sângereni	0
 sângerene	1
 judecătoare	1
 stomatologi	0
+novatori	0
 novatoare	1
 frigărui	1
 remanenţe	1
 perseverenţe	1
+şcolari	0
 şcolare	1
 tricotări	1
 despăducheri	1
@@ -17009,6 +18064,7 @@ eluări	1
 luntrişoare	1
 denombrări	1
 dezorganizări	1
+ştabi	0
 trunchieri	1
 viermuiri	1
 vătuiri	1
@@ -17027,11 +18083,14 @@ privaţiuni	1
 buhuşeni	0
 nictaţii	1
 contadine	1
+brahmani	0
 brahmane	1
 fumegări	1
 dârvari	0
 raportări	1
+paranoici	0
 paranoice	1
+abstracţionişti	0
 abstracţioniste	1
 virginităţi	1
 emulsionări	1
@@ -17051,6 +18110,7 @@ titratoare	1
 naratoare	1
 antipoluări	1
 depigmentări	1
+nătângi	0
 nătânge	1
 turnătoare	1
 stenografi	0
@@ -17059,6 +18119,7 @@ ipoteci	1
 instrucţii	1
 zgâlţâieli	1
 bumbuşori	0
+neopozitivişti	0
 neopozitiviste	1
 automedicaţii	1
 răsculători	0
@@ -17083,6 +18144,7 @@ pungi	1
 protectori	0
 sumuliţe	1
 policitemii	1
+puritani	0
 puritane	1
 jigărăi	1
 umblări	1
@@ -17090,6 +18152,7 @@ buhai	0
 suprapopulări	1
 palete	1
 cianopsii	1
+ulceroşi	0
 ulceroase	1
 disparităţi	1
 contravântuiri	1
@@ -17106,6 +18169,7 @@ guri-de-lup	1
 marşande	1
 hormonoterapii	1
 hemartroze	1
+danezi	0
 daneze	1
 declorizări	1
 preanestezii	1
@@ -17116,6 +18180,7 @@ laringologi	0
 consimţiri	1
 taine	1
 autoacuzaţii	1
+arginţi	0
 peceţi	1
 hârjoane	1
 jitniceri	0
@@ -17186,6 +18251,7 @@ găzării	1
 recăsătoriri	1
 şucăreli	1
 curiozităţi	1
+arghirofili	0
 arghirofile	1
 trezorerii	1
 tracologe	1
@@ -17198,6 +18264,7 @@ tăvăliri	1
 serotini	0
 olfacţii	1
 aeroionizări	1
+zanzibareni	0
 zanzibarene	1
 credenţe	1
 picraţi	0
@@ -17208,26 +18275,33 @@ mecanostructuri	1
 consăteni	0
 amibe	1
 amploiaţi	0
+băcani	0
 păcurării	1
 polivitamine	1
 xantodermii	1
 cistopatii	1
 angstromi	0
+francezi	0
 franceze	1
+vlăguitori	0
 vlăguitoare	1
 permanentizări	1
 izolatori	0
 repasatoare	1
 excluziuni	1
 defluenţi	0
+jainişti	0
 jainiste	1
+muianţi	0
 muiante	1
+intriganţi	0
 intrigante	1
 conopide	1
 colegatare	1
 megawaţi	0
 pitiade	1
 acidimetrii	1
+nord-americani	0
 nord-americane	1
 mocance	1
 bazaltine	1
@@ -17238,6 +18312,7 @@ armence	1
 grădinari	0
 conectări	1
 prosteli	1
+straşnici	0
 straşnice	1
 balsaminacee	1
 audiente	1
@@ -17250,6 +18325,7 @@ zile	1
 ascitici	0
 zale	1
 coeficienţi	0
+colonei	0
 încovoieturi	1
 imitatori	0
 nomenclaturiste	1
@@ -17257,6 +18333,7 @@ primăriţe	1
 navalişti	0
 frontiere	1
 albgardişti	0
+stereografi	0
 deţinuţi	0
 torţi	1
 dăltuitori	0
@@ -17264,6 +18341,7 @@ banchine	1
 dischete	1
 betulacee	1
 gliride	1
+monarhişti	0
 monarhiste	1
 deconservări	1
 indeterminări	1
@@ -17298,6 +18376,7 @@ pontili	0
 tarapangii	0
 kilovolţi	0
 ulceraţii	1
+tirani	0
 tirane	1
 sustentaţii	1
 lăstăraşi	0
@@ -17319,6 +18398,7 @@ cerneli	1
 aprecaţii	1
 metoşe	1
 dăscăliţe	1
+reductori	0
 invectivări	1
 infractori	0
 dexterităţi	1
@@ -17334,12 +18414,14 @@ cooperaţii	1
 papilomatoze	1
 căldărării	1
 silicoze	1
+baninezi	0
 benineze	1
 imprimerii	1
 colive	1
 oligocitemii	1
 ploşniţe	1
 radiotelegrafişti	0
+acaparanţi	0
 acaparante	1
 gâzulii	1
 sardeluţe	1
@@ -17359,8 +18441,10 @@ intervievatori	0
 comunarde	1
 licuaţii	1
 rujioare	1
+decoloranţi	0
 decolorante	1
 mudiri	0
+pruncucigaşi	0
 pruncucigaşe	1
 antibiograme	1
 maree	1
@@ -17413,9 +18497,11 @@ ablefarii	1
 tocmiri	1
 rotogravuri	1
 buciarde	1
+leninişti	0
 leniniste	1
 memorizări	1
 narcotraficanţi	0
+dâmboviţeni	0
 dâmboviţene	1
 pelinci	1
 belhiţe	1
@@ -17433,6 +18519,7 @@ melomane	1
 raşchetări	1
 vătăşoaie	1
 elasmometri	0
+evoluţionişti	0
 evoluţioniste	1
 poloişti	0
 urmaşe	1
@@ -17447,6 +18534,7 @@ cuscutacee	1
 zătonari	0
 torcretări	1
 potricăliri	1
+dodecasilabi	0
 dodecasilabe	1
 cetnici	0
 cantonieriţe	1
@@ -17462,6 +18550,7 @@ autopastişări	1
 neacceptări	1
 spolocanii	1
 electoare	1
+grafi	0
 amenzi	1
 sociolingviste	1
 antropografii	1
@@ -17497,6 +18586,7 @@ orii	1
 presiuni	1
 cafetiere	1
 prăsiri	1
+sarzi	0
 sarde	1
 săruri	1
 persistări	1
@@ -17552,6 +18642,7 @@ poarce	1
 prejudecăţi	1
 osteosinteze	1
 fenicşi	0
+ilfoveni	0
 ilfovene	1
 cosmeticiene	1
 pufnituri	1
@@ -17564,12 +18655,14 @@ pociumbi	0
 prigonitoare	1
 miograme	1
 hidrologe	1
+miciurinieni	0
 miciuriniene	1
 exterminaţii	1
 crocodili	0
 vorbişoare	1
 diftongări	1
 sinafii	1
+sterilizatori	0
 prundăraşi	0
 vaseline	1
 bechii	1
@@ -17596,6 +18689,7 @@ alopaţi	0
 lacertide	1
 panachide	1
 comportări	1
+individualişti	0
 individualiste	1
 centauri	0
 japşe	1
@@ -17610,6 +18704,7 @@ rifluitori	0
 încântări	1
 remisiuni	1
 orteze	1
+semiţi	0
 semite	1
 oceanofite	1
 concavităţi	1
@@ -17622,8 +18717,10 @@ ricini	0
 păliri	1
 egumeni	0
 cârcotaşi	0
+holişti	0
 holiste	1
 săli	1
+negrizi	0
 negride	1
 popinci	1
 ţuiculene	1
@@ -17693,6 +18790,7 @@ revizoare	1
 perineorafii	1
 calcosfere	1
 sedaţii	1
+socialişti	0
 socialiste	1
 scrumbii	1
 păcorniţe	1
@@ -17712,6 +18810,7 @@ tractări	1
 propovăduitori	0
 progerii	1
 dinamitiere	1
+orheieni	0
 orheiene	1
 romanişti	0
 maseze	1
@@ -17722,12 +18821,14 @@ dedicatori	0
 demagogii	1
 viţe	1
 izopentani	0
+hitlerişti	0
 hitleriste	1
 soldaţi	0
 algologi	0
 jujubi	0
 defensori	0
 aerodinamicieni	0
+negativişti	0
 negativiste	1
 viforâri	1
 doctorii	1
@@ -17763,11 +18864,14 @@ briganzi	0
 neoformaţii	1
 stânişoare	1
 hopliţi	0
+olteni	0
 oltene	1
 jilăviri	1
 distonii	1
 dezinhibiţii	1
+bosniaci	0
 bosniace	1
+creaţionişti	0
 creaţioniste	1
 cântăriri	1
 obijduiri	1
@@ -17782,6 +18886,7 @@ tălmăcitori	0
 leiţe	1
 preolimpiade	1
 şoacăţi	0
+irenişti	0
 ireniste	1
 citadini	0
 calvinişti	0
@@ -17831,21 +18936,25 @@ indigenări	1
 ciortănaşi	0
 malaxorişti	0
 mâncări	1
+chişinăuieni	0
 chişinăuiene	1
 bonomi	0
 trăpaşi	0
 nababi	0
+şmecheri	0
 şmechere	1
 cărămidării	1
 lăstunaşi	0
 meditatori	0
 solubilităţi	1
 neolingviste	1
+stoici	0
 stoice	1
 hatmani	0
 lăcovişti	1
 bioterapeuţi	0
 calusări	1
+exorcişti	0
 exorciste	1
 stăncuţe	1
 ziuşoare	1
@@ -17860,10 +18969,13 @@ pupăzoi	0
 fascine	1
 amilograme	1
 mozaicare	1
+butoni	0
 frunze	1
 parantetizări	1
 albişori	0
 heptani	0
+translatori	0
+timari	0
 ţintuiri	1
 tunelişti	0
 potârnichi	1
@@ -17878,21 +18990,26 @@ vătăşii	1
 interogaţii	1
 bureţei	0
 doctoranzi	0
+jupuitori	0
 jupuitoare	1
+titraţi	0
 titrate	1
 antirachete	1
 fofelniţe	1
 apiterapii	1
 felonii	1
+tiraspoleni	0
 tiraspolene	1
 bugetofagi	0
 despicături	1
 uranoscopii	1
 glicoli	0
 zdruncinări	1
+papistaşi	0
 papistaşe	1
 luptători	0
 ieremiade	1
+jemanfişişti	0
 jemanfişiste	1
 pulpări	1
 hidrofinări	1
@@ -17905,6 +19022,7 @@ vampiri	0
 absidiole	1
 zimţuiri	1
 balastiere	1
+savanţi	0
 savante	1
 ecospecii	1
 gherileri	0
@@ -17912,6 +19030,7 @@ lingurăriţe	1
 exponenţi	0
 spermatoree	1
 indemnizări	1
+nătântoci	0
 nătântoace	1
 arţari	0
 băloşiri	1
@@ -17929,6 +19048,7 @@ farse	1
 sărăntoace	1
 ăzbuchi	1
 mâliri	1
+fricoşi	0
 fricoase	1
 delitescenţe	1
 ontologi	0
@@ -17937,6 +19057,7 @@ decantaţii	1
 carote	1
 inimioare	1
 jidovi	0
+mandanţi	0
 mandante	1
 avanscene	1
 reîntâlniri	1
@@ -17946,6 +19067,7 @@ defectologe	1
 sunniţi	0
 acceptori	0
 idoli	0
+sărari	0
 coechipiere	1
 belferi	0
 fotografii	1
@@ -17959,7 +19081,9 @@ tărăgănări	1
 pastişări	1
 sarcopţi	0
 reaprovizionări	1
+impresionişti	0
 impresioniste	1
+albanezi	0
 albaneze	1
 corsetiere	1
 propelanţi	0
@@ -17994,12 +19118,15 @@ propagande	1
 bigamii	1
 învăluieli	1
 canabioze	1
+şvezi	0
 şvede	1
 autosanitare	1
+utilitarişti	0
 utilitariste	1
 fatrasii	1
 opticieni	0
 provocaţii	1
+microcefali	0
 microcefale	1
 excentricităţi	1
 piteştence	1
@@ -18015,10 +19142,12 @@ traco-dace	1
 trivializări	1
 putinari	0
 exploataţii	1
+semiagnostici	0
 semiagnostice	1
 psihopate	1
 calote	1
 profesări	1
+destabilizatori	0
 destabilizatoare	1
 arăpoaice	1
 camarazi	0
@@ -18032,6 +19161,7 @@ torturări	1
 lichenologi	0
 păţanii	1
 gheişe	1
+profesionişti	0
 profesioniste	1
 analişti	0
 nuveliste	1
@@ -18046,6 +19176,7 @@ sape-foraj	1
 călcătorii	1
 cosmografe	1
 funcţionări	1
+umblători	0
 umblătoare	1
 compatrioate	1
 leşieli	1
@@ -18061,11 +19192,15 @@ răşchieri	1
 oleaţi	0
 cârtiri	1
 teocraţi	0
+semnalizatori	0
+semnalizatoare	1
 avocate	1
 gubernii	1
+spartiaţi	0
 spartiate	1
 microconferinţe	1
 homunculuşi	0
+maoişti	0
 maoiste	1
 barbete	1
 flori	1
@@ -18090,6 +19225,7 @@ cârnaţi	0
 repezeli	1
 vindecele	1
 tarabagii	0
+obraji	0
 plasmaleme	1
 devianţe	1
 întreruperi	1
@@ -18109,6 +19245,7 @@ intrături	1
 dude	1
 stomatologe	1
 hemosiderine	1
+ironişti	0
 ironiste	1
 mitene	1
 intermitenţe	1
@@ -18149,6 +19286,8 @@ paiaţării	1
 balalaici	1
 penicilinaze	1
 ovreice	1
+tipografi	0
+manciurieni	0
 manciuriene	1
 cărători	1
 infracţiuni	1
@@ -18162,6 +19301,8 @@ cointeresări	1
 satirizări	1
 secularizări	1
 tecşile	1
+aruncători	0
+aruncătoare	1
 pasări	1
 paviani	0
 strofanţi	0
@@ -18179,6 +19320,7 @@ plafoniere	1
 oratori	0
 florărese	1
 luminaţii	1
+români	0
 române	1
 maturări	1
 frunzăreli	1
@@ -18202,6 +19344,7 @@ fungide	1
 sântuleţi	0
 cumpărături	1
 maci	0
+dalmaţieni	0
 dalmaţiene	1
 junghieri	1
 adunări	1
@@ -18216,6 +19359,7 @@ adversari	0
 dobândiri	1
 satrapii	1
 topometrişti	0
+inovatori	0
 inovatoare	1
 bufence	1
 dărăpănături	1
@@ -18224,6 +19368,7 @@ congestionări	1
 febleţi	1
 acvanauţi	0
 dozări	1
+dogari	0
 pentatlonişti	0
 denunţări	1
 vicepremieri	0
@@ -18235,6 +19380,7 @@ isteţii	1
 pilonări	1
 patinatori	0
 centrale	1
+presori	0
 favorizări	1
 liniarizări	1
 nepriceperi	1
@@ -18257,6 +19403,7 @@ ocrotiri	1
 tahicardii	1
 scânceli	1
 canotori	0
+orţi	0
 mezoni	0
 desfătări	1
 cazuistici	1
@@ -18268,6 +19415,7 @@ colţunaşi	0
 năzărituri	1
 crini	0
 farsoare	1
+pacificatori	0
 pacificatoare	1
 fermentări	1
 roci	1
@@ -18276,7 +19424,9 @@ minarele	1
 etiolări	1
 sistematicieni	0
 producţii	1
+particularişti	0
 particulariste	1
+modernişti	0
 moderniste	1
 spătărese	1
 spongieri	0
@@ -18292,6 +19442,7 @@ pegaşi	0
 găini-de-apă	1
 intercesori	0
 escorte	1
+latinişti	0
 latiniste	1
 referinţe	1
 poligrafi	0
@@ -18310,6 +19461,7 @@ ore	1
 pneumoftiziologe	1
 moţăieli	1
 lămâi	1
+giurgiuveni	0
 giurgiuvene	1
 mafiote	1
 leoaice	1
@@ -18327,12 +19479,14 @@ scenografe	1
 cambule	1
 făuritori	0
 cadiascheri	0
+estoni	0
 estone	1
 cornee	1
 sprijiniri	1
 genealogişti	0
 dracile	1
 păgubaşe	1
+corneţi	0
 partizi	1
 comentări	1
 retrogradaţii	1
@@ -18349,6 +19503,7 @@ ireverenţe	1
 stimulări	1
 ocolaşi	0
 măceşi	0
+mesianişti	0
 mesianiste	1
 evecţiuni	1
 mâţuci	1
@@ -18360,6 +19515,7 @@ petliţe	1
 coline	1
 bunei	0
 homogrefe	1
+iniţiaţi	0
 iniţiate	1
 prinsori	1
 vânătorii	1
@@ -18368,7 +19524,9 @@ degivrări	1
 pantere	1
 prometazine	1
 fulminaţii	1
+maltezi	0
 malteze	1
+dajnici	0
 dajnice	1
 tăvăleli	1
 misionari	0
@@ -18379,6 +19537,7 @@ parentali	0
 mărginiri	1
 cabane	1
 cruci	1
+demachianţi	0
 demachiante	1
 danaide	1
 evacuări	1
@@ -18406,6 +19565,7 @@ industriaşi	0
 vânzătoare	1
 pregustări	1
 demonstranţi	0
+latinofoni	0
 latinofone	1
 miţe	1
 zorele	1
@@ -18439,6 +19599,7 @@ cordiliere	1
 spoitorese	1
 ţâţace	1
 tunicieri	0
+dezoxidanţi	0
 dezoxidante	1
 clucerese	1
 foliole	1
@@ -18448,6 +19609,7 @@ precome	1
 gonidii	1
 ademeniri	1
 tetrachene	1
+anabaptişti	0
 anabaptiste	1
 trageri	1
 prefăcătorii	1
@@ -18497,6 +19659,7 @@ creşe	1
 necrotomii	1
 vuvuitori	1
 stâlpari	0
+oligofreni	0
 oligofrene	1
 planete	1
 elenişti	0
@@ -18513,6 +19676,7 @@ conăciri	1
 albitoare	1
 oftalmoplegii	1
 ovarite	1
+afro-asiatici	0
 afro-asiatice	1
 îndesări	1
 duşumele	1
@@ -18531,6 +19695,7 @@ armăşii	1
 măcelari	0
 zmeuleţi	0
 pupiloscopii	1
+dărăcitori	0
 plesnituri	1
 primeneli	1
 irmilici	0
@@ -18557,6 +19722,7 @@ cuve	1
 milogiri	1
 paznici	0
 gastroenterite	1
+transcaucazieni	0
 transcaucaziene	1
 rable	1
 viişoare	1
@@ -18610,6 +19776,7 @@ interfeţe	1
 amuţiri	1
 rizoizi	0
 cortine	1
+componenţi	0
 laminaţii	1
 gigahertzi	0
 orătănii	1
@@ -18634,6 +19801,7 @@ răzgâieri	1
 sculptoriţe	1
 drupe	1
 radine	1
+neghiobi	0
 neghioabe	1
 laringotomii	1
 amante	1
@@ -18642,6 +19810,7 @@ curcănii	1
 telegi	1
 sacrificatori	0
 retinite	1
+deişti	0
 deiste	1
 vile	1
 enumerări	1
@@ -18656,6 +19825,7 @@ măsuri	1
 dezmiriştiri	1
 percele	1
 furcuţe	1
+tbilisieni	0
 tbilisiene	1
 mazilaşi	0
 sclerodermii	1
@@ -18671,14 +19841,17 @@ cerniri	1
 patroane	1
 şarpante	1
 gâgâlici	1
+neogreci	0
 azbucoavne	1
 copărtaşe	1
+monofagi	0
 monofage	1
 sintaxonomii	1
 planări	1
 crăpceni	0
 acetofenone	1
 rupii	1
+economi	0
 econoame	1
 diseminări	1
 măgulituri	1
@@ -18687,10 +19860,12 @@ delectări	1
 urticacee	1
 pere	1
 sargase	1
+vătămători	0
 vătămătoare	1
 încăpăţânări	1
 maroane	1
 foi	1
+dizolvaţi	0
 dizolvate	1
 remiziere	1
 excerptări	1
@@ -18699,10 +19874,12 @@ inorogi	0
 miliwaţi	0
 sardele	1
 zile	1
+suflători	0
 minuţiozităţi	1
 contrapagini	1
 represii	1
 servante	1
+sălăjeni	0
 sălăjene	1
 văietături	1
 locutori	0
@@ -18714,6 +19891,7 @@ cuşme	1
 sarcosporidioze	1
 difterii	1
 ceferişti	0
+difterici	0
 difterice	1
 stavile	1
 miliţieni	0
@@ -18750,16 +19928,20 @@ braşovence	1
 greierei	0
 sparoşi	0
 caleşti	1
+militanţi	0
 militante	1
 intermediatoare	1
+histidine	1
 buhuşence	1
 curăţenii	1
 parale	1
 soliste	1
 apetenţe	1
+dentişti	0
 dentiste	1
 alocuţiuni	1
 coburi	0
+inexploataţi	0
 inexploatate	1
 autoecranizări	1
 fâneţe	1
@@ -18770,6 +19952,7 @@ coincidenţe	1
 mahări	0
 blinii	1
 butelcuţe	1
+poli	0
 votrii	1
 gheţuri	1
 eneode	1
@@ -18780,6 +19963,7 @@ ghiorăituri	1
 giugiuleli	1
 preparări	1
 uşi	1
+moşti	0
 irupţii	1
 corhane	1
 sunări	1
@@ -18804,6 +19988,7 @@ câmpulungence	1
 ratiere	1
 vane	1
 oscilometrii	1
+terorişti	0
 teroriste	1
 visceroptoze	1
 bruxeleze	1
@@ -18823,6 +20008,7 @@ popriri	1
 californieni	0
 contingenţe	1
 intarsiatori	0
+egipteni	0
 egiptene	1
 torcători	1
 bacterioze	1
@@ -18835,6 +20021,7 @@ pescărimi	1
 tristeţi	1
 săltări	1
 criminologişti	0
+teribilişti	0
 teribiliste	1
 ranunculacee	1
 ampule	1
@@ -18876,6 +20063,7 @@ spume	1
 creneluri	1
 zamparagii	0
 paleospeologe	1
+sociologişti	0
 sociologiste	1
 termorezistenţe	1
 arheologe	1
@@ -18886,6 +20074,7 @@ cafeluţe	1
 labani	0
 glosite	1
 majuscule	1
+veleitari	0
 veleitare	1
 pirotehnii	1
 indianişti	0
@@ -18893,7 +20082,9 @@ timini	0
 pisoi	0
 canguri	0
 tenalgii	1
+isterici	0
 isterice	1
+izbăvitori	0
 izbăvitoare	1
 isterii	1
 rândunei	0
@@ -18927,6 +20118,7 @@ tezaurizări	1
 golănei	0
 aluvionări	1
 fluidizări	1
+hodorogi	0
 croncăniri	1
 scobai	0
 cameramani	0
@@ -18939,6 +20131,7 @@ detracări	1
 lighioane	1
 coletării	1
 rinichi	0
+arameeni	0
 arameene	1
 mărturisiri	1
 zetetice	1
@@ -18952,6 +20145,7 @@ scalograme	1
 cârmuiri	1
 leguminoase	1
 framei	1
+silezieni	0
 sileziene	1
 muschetării	1
 contrainformaţii	1
@@ -18961,6 +20155,7 @@ narcoze	1
 metaeducaţii	1
 pivotaţii	1
 ceaşnici	0
+benedictini	0
 benedictine	1
 discipline	1
 unguri	0
@@ -18970,6 +20165,7 @@ jumătăţi	1
 hărmălăi	1
 dănănăi	1
 debazificări	1
+prefăcători	0
 prefăcătoare	1
 moimiţe	1
 ariviste	1
@@ -19001,6 +20197,7 @@ tătăraşi	0
 reprize	1
 gaize	1
 drăcoaice	1
+columbieni	0
 columbiene	1
 mărăcinaşi	0
 irite	1
@@ -19010,10 +20207,12 @@ randomizări	1
 irizări	1
 mândrişori	0
 fiorini	0
+metafizici	0
 metafizice	1
 săbii	1
 sodomite	1
 scămoşări	1
+sabini	0
 sabine	1
 paraboloizi	0
 claudicaţii	1
@@ -19029,6 +20228,7 @@ covăseli	1
 tolteci	0
 şerpoi	0
 heliografiste	1
+maghiari	0
 maghiare	1
 morfologişti	0
 putorişti	1
@@ -19075,6 +20275,7 @@ miezuitori	0
 marcotări	1
 patente	1
 arhistrategi	0
+poligami	0
 poligame	1
 funduci	0
 japanologe	1
@@ -19100,6 +20301,7 @@ gene	1
 drele	1
 malaxări	1
 hămăieli	1
+greco-răsăriteni	0
 greco-răsăritene	1
 luxurii	1
 holofermenţi	0
@@ -19126,6 +20328,7 @@ perfuzii	1
 idioglosii	1
 venetici	0
 şuste	1
+trecători	0
 trecătoare	1
 tetrode	1
 brăzduiri	1
@@ -19147,11 +20350,14 @@ orfevri	0
 soţii	1
 stupi	0
 trombe	1
+păpuşari	0
 cotruţe	1
+paperasieri	0
 paperasiere	1
 fagotiste	1
 crâşmuliţe	1
 reşute	1
+pacifişti	0
 pacifiste	1
 înţărcători	1
 profesoraşi	0
@@ -19185,6 +20391,7 @@ decapsulaţii	1
 magistraţi	0
 belgrădeni	0
 încremeneli	1
+situaţionişti	0
 situaţioniste	1
 recuzitoare	1
 râznari	0
@@ -19195,6 +20402,8 @@ vulpişoare	1
 obrinteli	1
 tise	1
 arăboaice	1
+mimi	0
+tăbâltoci	0
 mici	0
 agude	1
 mii	1
@@ -19206,8 +20415,11 @@ xenomani	0
 figuraţii	1
 terministe	1
 ofensive	1
+tolstoişti	0
 tolstoiste	1
 mate	1
+creieri	0
+inculţi	0
 inculte	1
 ovoplasme	1
 fecundaţii	1
@@ -19220,6 +20432,7 @@ batjocuri	1
 teatrologi	0
 cactacee	1
 stilisticieni	0
+costaricani	0
 costaricane	1
 intarsiere	1
 tiranii	1
@@ -19229,6 +20442,7 @@ presărături	1
 bule	1
 împărăţii	1
 chinguliţe	1
+cutezători	0
 cutezătoare	1
 fulguiri	1
 unisonanţe	1
@@ -19254,6 +20468,7 @@ antipirine	1
 adiţionări	1
 brânduşe	1
 ţaice	1
+câmpeni	0
 câmpene	1
 coşniţe	1
 simpatrioţi	0
@@ -19266,6 +20481,7 @@ dornence	1
 potăi	1
 chicinete	1
 declivităţi	1
+urmăriţi	0
 urmărite	1
 băjenari	0
 cocleli	1
@@ -19285,6 +20501,7 @@ sleiri	1
 stilaţii	1
 bulbi	0
 sicari	0
+comportamentişti	0
 comportamentiste	1
 stalii	1
 vute	1
@@ -19297,6 +20514,7 @@ fugăriri	1
 taximetrişti	0
 odihniri	1
 raţionalizatori	0
+moravi	0
 morave	1
 condiţionări	1
 năprasne	1
@@ -19319,6 +20537,7 @@ burniţeli	1
 păsuieli	1
 sanscritologi	0
 novici	0
+novice	1
 stratageme	1
 tromboflebite	1
 deliricizări	1
@@ -19346,6 +20565,7 @@ zămoşiţe	1
 deconotări	1
 ruinări	1
 radiostereografii	1
+italieni	0
 italiene	1
 slugoi	0
 întinsori	1
@@ -19359,6 +20579,7 @@ hidronii	0
 proteaze	1
 parole	1
 plevile	1
+sicativi	0
 sicative	1
 lacherde	1
 văcuţe	1
@@ -19370,6 +20591,7 @@ oceanografi	0
 pectografii	1
 susete	1
 clasicişti	0
+mărturisitori	0
 mărturisitoare	1
 microvolţi	0
 prezicători	0
@@ -19380,11 +20602,13 @@ abjurări	1
 gabii	1
 actuari	0
 fecioraşi	0
+suceveni	0
 sucevene	1
 agresiuni	1
 semicocsificări	1
 vanituri	1
 spaime	1
+silnici	0
 silnice	1
 transfuzori	0
 epizootii	1
@@ -19406,6 +20630,8 @@ paladizări	1
 mătci	1
 braserii	1
 impulsii	1
+frumoşi	0
+frumoase	1
 esterificări	1
 şerpişori	0
 limbariţe	1
@@ -19413,6 +20639,7 @@ leviţi	0
 decimalişti	0
 lepădări	1
 curcioaice	1
+fraieri	0
 fraiere	1
 coluni	0
 feţe	1
@@ -19426,6 +20653,7 @@ fitogeografi	0
 subîmpărţiri	1
 zburări	1
 africanologi	0
+mimanţi	0
 mimante	1
 râsoaice	1
 mercerii	1
@@ -19436,14 +20664,18 @@ ferfeniţiri	1
 amorţiri	1
 semaforizări	1
 urine	1
+liliputani	0
 liliputane	1
 euglene	1
 consolidaţii	1
 bălbise	1
 evazioniste	1
 recolte	1
+hunedoreni	0
 hunedorene	1
+agitatori	0
 naiste	1
+extraşcolari	0
 extraşcolare	1
 căpieli	1
 bontiri	1
@@ -19503,15 +20735,18 @@ cotilosaurieni	0
 căzături	1
 născoceli	1
 ţurcani	0
+ţurcane	1
 marsupiali	0
 madele	1
 durde	1
 galactoterapii	1
 alborade	1
+văleni	0
 vălene	1
 braşovenii	1
 densificări	1
 valorificări	1
+zălăuani	0
 zălăuane	1
 hialite	1
 ciochine	1
@@ -19524,7 +20759,9 @@ retranscrieri	1
 prelucrări	1
 moşioare	1
 tătăişi	0
+fijieni	0
 fijiene	1
+mistacoceţi	0
 umbriţe	1
 efemeride	1
 băsmăluţe	1
@@ -19570,6 +20807,7 @@ iepuri	0
 gustări	1
 scormoniri	1
 arhondăriţe	1
+mărţişori	0
 stihoavne	1
 demolări	1
 salmoneloze	1
@@ -19581,6 +20819,7 @@ cumnăţele	1
 coborâtori	1
 sângerence	1
 albiuţe	1
+fotomecanici	0
 fotomecanice	1
 stasofite	1
 fâşâieli	1
@@ -19592,6 +20831,7 @@ mexicanişti	0
 flocoşei	0
 bombări	1
 heteroplazii	1
+corupători	0
 corupătoare	1
 calorii	1
 autoreclame	1
@@ -19601,6 +20841,8 @@ construiri	1
 şamotieri	0
 tehniciene	1
 geofite	1
+toni	0
+turkmeni	0
 turkmene	1
 legătorese	1
 speculante	1
@@ -19623,6 +20865,7 @@ tăietori	1
 snopi	0
 tartarini	0
 aponevrotici	0
+snobi	0
 snoabe	1
 ogrăzi	1
 navlosiri	1
@@ -19632,6 +20875,7 @@ banchete	1
 pedanterii	1
 uranografe	1
 răcuşori	0
+tibetani	0
 tibetane	1
 seri	1
 maimuţele	1
@@ -19660,6 +20904,7 @@ topituri	1
 marchize	1
 întinderi	1
 fururi	1
+pelagieni	0
 pelagiene	1
 sanctificări	1
 iaurgerii	1
@@ -19678,6 +20923,7 @@ preserii	1
 marmuri	1
 bujeniţe	1
 polimerizări	1
+electromecanici	0
 electromecanice	1
 ucenici	0
 pledoarii	1
@@ -19747,6 +20993,7 @@ exacţiuni	1
 păunaşi	0
 dulcegării	1
 edeclii	0
+marinişti	0
 mariniste	1
 ţelini	1
 înjunghieri	1
@@ -19798,6 +21045,7 @@ toponimişti	0
 dibăcii	1
 ambutisări	1
 propagandiste	1
+başkiri	0
 başkire	1
 buldozerişti	0
 scurtimi	1
@@ -19807,6 +21055,7 @@ schiţe	1
 investitoare	1
 amper-ore	1
 paguri	0
+galiţieni	0
 galiţiene	1
 surdităţi	1
 vărzari	0
@@ -19828,10 +21077,12 @@ permanganaţi	0
 chenopodiacee	1
 opozante	1
 retiari	0
+interzişi	0
 interzise	1
 aprehensiuni	1
 pitulări	1
 patere	1
+peruvieni	0
 peruviene	1
 plastografe	1
 latrine	1
@@ -19844,10 +21095,12 @@ serigrafieri	1
 recalificări	1
 târâieli	1
 lămpi	1
+penitenţi	0
 penitente	1
 gelificări	1
 violine	1
 gripări	1
+vinărici	0
 clerici	0
 posomorâri	1
 paze	1
@@ -19862,14 +21115,19 @@ amărâri	1
 monografiste	1
 unităţi	1
 evulsiuni	1
+stabilizatori	0
+stabilizatoare	1
+monişti	0
 moniste	1
 reporteraşi	0
 năuceli	1
 cotonoage	1
 însurători	1
+năimiţi	0
 năimite	1
 pleşuri	1
 severinence	1
+tanzanieni	0
 tanzaniene	1
 mirişti	1
 ocurenţe	1
@@ -19892,6 +21150,7 @@ nucele	1
 alogologe	1
 omatidii	1
 slalomiste	1
+semibursieri	0
 semibursiere	1
 celuieli	1
 frici	1
@@ -19904,6 +21163,7 @@ juruinţe	1
 notiţe	1
 liceeni	0
 autonomişti	0
+tuţiorişti	0
 tuţioriste	1
 zaicoi	0
 cazărmi	1
@@ -19914,6 +21174,7 @@ acomodatori	0
 hirotonisiri	1
 defibratorişti	0
 neregularităţi	1
+premarxişti	0
 premarxiste	1
 formaţii	1
 hexani	0
@@ -19928,6 +21189,7 @@ variaţii	1
 oaspeţi	0
 geale	1
 sicomori	0
+firoscoşi	0
 firoscoase	1
 răşchirări	1
 vătămări	1
@@ -19945,6 +21207,7 @@ comunicaţii	1
 urside	1
 antiimperialişti	0
 coalizări	1
+zăvozi	0
 vetriţe	1
 şiştori	0
 abageri	0
@@ -19962,6 +21225,7 @@ cardinali	0
 rubiele	1
 nereguli	1
 milimetri	0
+gheţari	0
 serviri	1
 simulanţi	0
 prădalice	1
@@ -19981,6 +21245,7 @@ respondenţi	0
 farmacişti	0
 debarasoare	1
 emoncţiuni	1
+galomani	0
 galomane	1
 scandalagii	0
 catete	1
@@ -20002,9 +21267,11 @@ fabulaţii	1
 parabaze	1
 bimbaşi	0
 amfibieni	0
+luxemburghezi	0
 luxemburgheze	1
 măsluiri	1
 ciclame	1
+ciocani	0
 glazuratori	0
 regizări	1
 sufocaţii	1
@@ -20012,6 +21279,7 @@ termoconducţii	1
 dactilografe	1
 zgaibe	1
 magnetorezistenţe	1
+şanhaieni	0
 şanhaiene	1
 fracturi	1
 târgoveţe	1
@@ -20026,6 +21294,7 @@ sufite	1
 logisticiene	1
 fideiusoare	1
 fătători	1
+atenieni	0
 ateniene	1
 pictoriţe	1
 marşe	1
@@ -20043,6 +21312,8 @@ realităţi	1
 tiparniţe	1
 ruginări	1
 luxări	1
+copţi	0
+copte	1
 poliloghii	1
 sărăciri	1
 prahovence	1
@@ -20052,6 +21323,7 @@ turme	1
 discuiri	1
 potamofite	1
 fornăieli	1
+ignobili	0
 ignobile	1
 subsemnaţi	0
 celebraţii	1
@@ -20059,14 +21331,18 @@ meduloculturi	1
 vărării	1
 plăci	1
 măzărari	0
+necredincioşi	0
 necredincioase	1
 defalcări	1
 emigrări	1
 cârmuitori	0
 adaptatori	0
 partizane	1
+marţieni	0
 marţiene	1
 lupoi	0
+surghiuni	0
+târgmureşeni	0
 târgmureşene	1
 stele	1
 tulipe	1
@@ -20078,6 +21354,7 @@ chirurgi	0
 valute	1
 dendrologi	0
 iuşti	1
+lituanieni	0
 lituaniene	1
 târnosiri	1
 ţărişoare	1
@@ -20102,6 +21379,7 @@ contribuţii	1
 draghini	1
 steatonecroze	1
 erotizări	1
+suplinitori	0
 suplinitoare	1
 alăptări	1
 poticniri	1
@@ -20122,12 +21400,14 @@ călcătorese	1
 cordelieri	0
 confidente	1
 mirese	1
+nervişti	0
 nerviste	1
 vecinii	1
 federaţi	0
 congregaţioniste	1
 rezerve	1
 havre	1
+nevăzători	0
 nevăzătoare	1
 planimetrări	1
 nacafale	1
@@ -20177,6 +21457,7 @@ toance	1
 încărcături	1
 regionări	1
 etanşări	1
+uliţarnici	0
 uliţarnice	1
 iubiţei	0
 tetrapodii	1
@@ -20214,6 +21495,7 @@ ogari	0
 orăşence	1
 zăbăluţe	1
 reclamagii	0
+tipi	0
 găini-cu-mărgăritare	1
 coroane	1
 albinioare	1
@@ -20249,9 +21531,12 @@ suplicanţi	0
 leovence	1
 vestimentaţii	1
 optimi	1
+turdeni	0
 turdene	1
+neconformişti	0
 neconformiste	1
 plugari	0
+hidrocefali	0
 hidrocefale	1
 micrococi	0
 recipise	1
@@ -20319,6 +21604,7 @@ corniţe	1
 filigranologe	1
 rizeafce	1
 siciliene	1
+sicilieni	0
 viconţi	0
 gângăviri	1
 reprogramări	1
@@ -20342,6 +21628,7 @@ repudieri	1
 sfetnici	0
 partite	1
 telăliţe	1
+naţional-socialişti	0
 naţional-socialiste	1
 voleibalişti	0
 adjudecaţii	1
@@ -20364,6 +21651,7 @@ magnolii	1
 poleieli	1
 decimetri	0
 radioficaţii	1
+asiatici	0
 asiatice	1
 cheraţiţe	1
 velicoruse	1
@@ -20373,6 +21661,7 @@ corfe	1
 înstrăinări	1
 zăbale	1
 afecţiuni	1
+interceptori	0
 protostele	1
 tocături	1
 covrigei	0
@@ -20388,6 +21677,7 @@ mescaline	1
 fraţi	0
 ironizări	1
 habitaţii	1
+reducţionişti	0
 reducţioniste	1
 interconexiuni	1
 surlaşi	0
@@ -20413,6 +21703,7 @@ sanscritişti	0
 petiţe	1
 ciclopi	0
 nevoinţe	1
+stăpânitori	0
 stăpânitoare	1
 alcătuiri	1
 butucei	0
@@ -20431,6 +21722,7 @@ licenţiaţi	0
 tabere	1
 gutiferale	1
 mâncărele	1
+taşişti	0
 taşiste	1
 taxologi	0
 frunzici	1
@@ -20466,6 +21758,7 @@ cloncăniri	1
 negustori	0
 florişoare	1
 duioşii	1
+distribuitori	0
 borşărese	1
 conturişti	0
 falsificaţii	1
@@ -20478,6 +21771,7 @@ cafeone	1
 şpilhozeni	0
 tacticieni	0
 egloge	1
+sud-africani	0
 sud-africane	1
 sedimentări	1
 pedologe	1
@@ -20510,6 +21804,7 @@ darabane	1
 traumatologii	1
 blondini	0
 despoţii	1
+cunoscători	0
 cunoscătoare	1
 măgăreţe	1
 montări	1
@@ -20528,14 +21823,17 @@ eteroinfecţii	1
 păcălituri	1
 vuve	1
 cuscute	1
+donori	0
 donoare	1
 seismograme	1
+instigatori	0
 instigatoare	1
 glazuratoare	1
 coterii	1
 sluguţe	1
 asociaţii	1
 toxemii	1
+războinici	0
 războinice	1
 luntraşi	0
 sâmbraşi	0
@@ -20554,6 +21852,7 @@ daciade	1
 abreviatori	0
 etirări	1
 acotiledonate	1
+dodecafonişti	0
 dodecafoniste	1
 lăcomiri	1
 chiuituri	1
@@ -20567,12 +21866,14 @@ gupe	1
 plachete	1
 lunculiţe	1
 faringolaringite	1
+iranieni	0
 iraniene	1
 curţi	1
 carierişti	0
 deviatori	0
 pertuizane	1
 meremetiseli	1
+ecluzieri	0
 ecluziere	1
 suseni	0
 baş-boieri	0
@@ -20591,7 +21892,9 @@ vikingi	0
 antimonopolişti	0
 băieţaşi	0
 şemizete	1
+latini	0
 latine	1
+jefuitori	0
 jefuitoare	1
 misidii	1
 covergi	1
@@ -20604,6 +21907,8 @@ rambleiatori	0
 druse	1
 untiere	1
 zăticniri	1
+romani	0
+romane	1
 zincografieri	1
 sindicalizări	1
 mustăciri	1
@@ -20624,6 +21929,7 @@ narcotizări	1
 scutieri	0
 sodomiste	1
 grădinuţe	1
+prelatini	0
 prelatine	1
 celuloze	1
 traiectorii	1
@@ -20652,16 +21958,20 @@ gheruţe	1
 scăderi	1
 ofiţeroi	0
 ţintaure	1
+expropriaţi	0
 expropriate	1
 negatroni	0
 polizări	1
+trapişti	0
 sporulaţii	1
 câmpulungeni	0
 aghesmuiri	1
 dinozaurieni	0
+pristavi	0
 acetilări	1
 cămătari	0
 năzuinţe	1
+samoani	0
 samoane	1
 evolvente	1
 omucigaşe	1
@@ -20695,7 +22005,9 @@ electrocarişti	0
 recâştigări	1
 tontălăi	0
 stabilizări	1
+stenohalini	0
 stenohaline	1
+fruntaşi	0
 fruntaşe	1
 oligopote	1
 oraniţe	1
@@ -20710,9 +22022,11 @@ probleme	1
 afide	1
 preexistenţe	1
 umeri	0
+desicativi	0
 desicative	1
 orbiri	1
 cănăriţe	1
+litofiţi	0
 litofite	1
 propagări	1
 căţei-de-frasin	0
@@ -20725,12 +22039,14 @@ tresăltări	1
 prescurtări	1
 jigniri	1
 dezinvestiţii	1
+sansalvadorieni	0
 sansalvadoriene	1
 sonete	1
 sărături	1
 elongaţii	1
 plaste	1
 peptonurii	1
+propagatori	0
 propagatoare	1
 stări	1
 fileri	0
@@ -20743,6 +22059,8 @@ recreaţii	1
 rudenii	1
 gămani	0
 muici	1
+juniori	0
+junioare	1
 dezlegări	1
 guriţe	1
 patrioţi	0
@@ -20762,6 +22080,7 @@ cinereporteri	0
 ciordeli	1
 micromonografii	1
 discordii	1
+eudemonişti	0
 eudemoniste	1
 imprimări	1
 coapse	1
@@ -20780,6 +22099,7 @@ dombre	1
 vigii	1
 năruiri	1
 şamotari	0
+spălători	0
 propovedanii	1
 vinoteci	1
 fuzete	1
@@ -20800,7 +22120,9 @@ suflerii	1
 asortări	1
 pospăieli	1
 tastiere	1
+filumenişti	0
 filumeniste	1
+antisionişti	0
 antisioniste	1
 sânişori	0
 meteoromanţii	1
@@ -20853,6 +22175,7 @@ microbiografii	1
 omilii	1
 etnografe	1
 crijaci	0
+dorohoieni	0
 dorohoiene	1
 blenoragii	1
 tutungioaice	1
@@ -20866,6 +22189,7 @@ nitrări	1
 adnotatori	0
 iepuroi	0
 descătuşări	1
+creoli	0
 creole	1
 smiorcăieli	1
 mazilii	1
@@ -20893,6 +22217,7 @@ pieptănuşi	0
 monoproducţii	1
 lăscăi	1
 mugurei	0
+patroni	0
 muceziri	1
 icioglani	0
 efigii	1
@@ -20909,14 +22234,19 @@ afurci	1
 contentaţii	1
 polizatori	0
 filozoafe	1
+fălţuitori	0
 sincope	1
 frânghiuţe	1
 culogli	0
 reechilibrări	1
+guralivi	0
 guralive	1
 taole	1
 cremaţiuni	1
+batali	0
+eurasieni	0
 eurasiene	1
+batavi	0
 batave	1
 bataţi	0
 nituiri	1
@@ -20925,6 +22255,7 @@ tumorigeneze	1
 maselote	1
 auramine	1
 ştrecuiri	1
+ciuvaşi	0
 ciuvaşe	1
 bibliologe	1
 geriatri	0
@@ -20949,9 +22280,11 @@ colivii	1
 destinatari	0
 evidări	1
 neatârnări	1
+criofili	0
 criofile	1
 necromanii	1
 bogăţii	1
+leneşi	0
 leneşe	1
 nitroceluloze	1
 comori	1
@@ -20966,14 +22299,18 @@ begoniacee	1
 autopiloţi	0
 idiopatii	1
 atestaţii	1
+sud-vietnamezi	0
 sud-vietnameze	1
 hidrazide	1
 banalităţi	1
 metafizicieni	0
+clasificatori	0
+clasificatoare	1
 desofisticări	1
 asecări	1
 tranzitări	1
 situle	1
+contractualişti	0
 contractualiste	1
 crepitaţii	1
 elogieri	1
@@ -20993,12 +22330,14 @@ dorinţe	1
 cruponări	1
 fobii	1
 dezgheţări	1
+corectori	0
 acordări	1
 fenolaţi	0
 mreje	1
 naftili	0
 potriveli	1
 notiţii	1
+debitori	0
 debitoare	1
 hrincuţe	1
 vii	1
@@ -21026,9 +22365,12 @@ consemnaţiuni	1
 tălpuitori	0
 mirodenii	1
 meşteşugiri	1
+perdanţi	0
 perdante	1
+familiarişti	0
 familiariste	1
 ventricele	1
+dulcişori	0
 dulcişoare	1
 bărbătuşi	0
 năvodari	0
@@ -21057,6 +22399,7 @@ microbi	0
 coxe	1
 muchii	1
 pâslari	0
+colţari	0
 basculante	1
 butari	0
 colţani	0
@@ -21080,6 +22423,7 @@ teratologe	1
 desăvârşiri	1
 iscusinţe	1
 duanţi	0
+exsudanţi	0
 exsudante	1
 subredacţii	1
 cine	1
@@ -21087,6 +22431,7 @@ anchetări	1
 autocomenzi	1
 tabulări	1
 ploiţe	1
+prusieni	0
 prusiene	1
 senescenţe	1
 forţe	1
@@ -21110,14 +22455,17 @@ savoniere	1
 voinicii	1
 împrăştieri	1
 conjuraţii	1
+braşoveni	0
 braşovene	1
 periere	1
 autoliniştiri	1
+indeterminişti	0
 indeterministe	1
 tabacoze	1
 lapidaţii	1
 stârci	0
 substituţii	1
+sămănătorişti	0
 sămănătoriste	1
 zgârciobi	0
 slujbaşe	1
@@ -21126,6 +22474,7 @@ mandrili	0
 hidrolaze	1
 epagogi	0
 mucenici	0
+gânditori	0
 gânditoare	1
 calomfiri	0
 finisori	0
@@ -21139,12 +22488,14 @@ milisecunde	1
 studenţi	0
 genţiane	1
 prelegeri	1
+masochişti	0
 masochiste	1
 blastule	1
 lastre	1
 şchioape	1
 româncuţe	1
 schizofrenii	1
+schizofrenici	0
 schizofrenice	1
 sechestratoare	1
 pulpe	1
@@ -21156,7 +22507,9 @@ vameşi	0
 retrogradări	1
 ermetişti	0
 maniere	1
+ostrogoţi	0
 ostrogote	1
+sortatori	0
 uranide	1
 estimări	1
 somări	1
@@ -21165,6 +22518,7 @@ parageneze	1
 buşituri	1
 palicari	0
 teici	1
+istorişti	0
 istoriste	1
 plave	1
 spulberări	1
@@ -21198,6 +22552,7 @@ revizii	1
 zulufi	0
 huruieli	1
 encarpe	1
+vari	0
 paperaserii	1
 mutelci	1
 console	1
@@ -21209,6 +22564,7 @@ bronhopneumonii	1
 ascultători	0
 echine	1
 cartatori	0
+vest-europeni	0
 vest-europene	1
 hidrofite	1
 bractee	1
@@ -21224,6 +22580,7 @@ bibliofagi	0
 ecvisetacee	1
 platitudini	1
 diplomate	1
+diplomaţi	0
 epidemiologe	1
 hăituşte	1
 simeze	1
@@ -21249,10 +22606,12 @@ plagiatori	0
 termoanalgezii	1
 sensibilizatori	0
 alunaşi	0
+cucuruzi	0
 fumizări	1
 îngălbeniri	1
 computări	1
 mezelării	1
+britanici	0
 britanice	1
 căţeluşi	0
 stadii	1
@@ -21292,6 +22651,7 @@ turcoaice	1
 autodemascări	1
 clientele	1
 alunari	0
+gonitori	0
 gonitoare	1
 înghesuieli	1
 gliptodoni	0
@@ -21310,6 +22670,7 @@ stivuitoare	1
 dregătorii	1
 acatagrafii	1
 georgiene	1
+georgieni	0
 lungane	1
 peşingii	0
 solomoniri	1
@@ -21321,9 +22682,11 @@ grămătici	0
 caimani	0
 stenografe	1
 lamantini	0
+medico-sanitari	0
 medico-sanitare	1
 turculeţi	0
 amănunţimi	1
+provinciali	0
 provinciale	1
 cârnăţării	1
 infecţionişti	0
@@ -21347,10 +22710,13 @@ centrifugări	1
 hegemoni	0
 ingeniozităţi	1
 heroinomani	0
+luddiţi	0
 luddite	1
+şovinişti	0
 şoviniste	1
 papionări	1
 pantahuze	1
+lugojeni	0
 lugojene	1
 garderobiere	1
 asfaltori	0
@@ -21363,6 +22729,7 @@ venerologi	0
 lamberţi	0
 fizionomiste	1
 imolaţii	1
+parizieni	0
 pariziene	1
 sublimităţi	1
 integraliste	1
@@ -21423,19 +22790,23 @@ pneumonii	1
 scafandri	0
 blasteme	1
 lumânărele	1
+ghanezi	0
 ghaneze	1
 defetişizări	1
 pieptănări	1
 tricoteri	0
 patocenoze	1
+corespondenţi	0
 corespondente	1
 huhurezi	0
 hudubăi	1
 lăcari	0
 hidartroze	1
+ultraconservatori	0
 ultraconservatoare	1
 laptagii	0
 şotii	1
+apriorişti	0
 aprioriste	1
 sechele	1
 desinenţe	1
@@ -21473,6 +22844,7 @@ isteciuni	1
 şterpeleli	1
 oligarhi	0
 halebardieri	0
+izmeniţi	0
 izmenite	1
 interogări	1
 bulendre	1
@@ -21510,6 +22882,7 @@ absolviri	1
 etufări	1
 coblizani	0
 autoscări	1
+învingători	0
 învingătoare	1
 psihosociologi	0
 companii	1
@@ -21542,7 +22915,9 @@ betaxine	1
 abjuraţii	1
 chelna	1
 pite	1
+malthusieni	0
 malthusiene	1
+scoliotici	0
 scoliotice	1
 istorioare	1
 spirtiere	1
@@ -21580,12 +22955,14 @@ triplete	1
 laviţe	1
 bărbiereli	1
 pănuri	1
+transilvăneni	0
 transilvănene	1
 naşe	1
 descovoieri	1
 xilotipii	1
 coccide	1
 gospodine	1
+plebei	0
 plebee	1
 brădişori	0
 chersofite	1
@@ -21594,6 +22971,7 @@ cadâne	1
 triturări	1
 agrionide	1
 basne	1
+dorieni	0
 doriene	1
 retratări	1
 cazări	1
@@ -21674,7 +23052,9 @@ stradele	1
 amortizări	1
 tamburine	1
 autostivuitori	0
+timpi	0
 pioni	0
+filantropinişti	0
 filantropiniste	1
 salarizări	1
 nalbe	1
@@ -21683,7 +23063,9 @@ discromii	1
 puşcăriaşe	1
 mentenanţe	1
 cataplasme	1
+australoizi	0
 australoide	1
+asirieni	0
 asiriene	1
 dezrăsuciri	1
 biciclete	1
@@ -21691,6 +23073,7 @@ eviraţii	1
 cantonade	1
 plăpumării	1
 robinsonade	1
+zefiri	0
 curtence	1
 zilere	1
 antituberculoşi	0
@@ -21709,6 +23092,7 @@ peptone	1
 duruituri	1
 piuituri	1
 antiintelectualişti	0
+suverani	0
 suverane	1
 boambe	1
 fâşâituri	1
@@ -21718,6 +23102,7 @@ ortofosfaţi	0
 ierarhii	1
 zimţi	0
 proslăvitoare	1
+militari	0
 militare	1
 cefalalgii	1
 cratime	1
@@ -21726,6 +23111,7 @@ benzaldehide	1
 degazificări	1
 drojdiuţe	1
 echipări	1
+infuzori	0
 nemargini	1
 pivniţe	1
 absolvente	1
@@ -21734,17 +23120,21 @@ sporiri	1
 radişti	0
 diplodoci	0
 prostituări	1
+flageli	0
 gloriole	1
 curbete	1
 mamornici	0
 slimuiri	1
 sprinteneli	1
+menşevici	0
 menşevice	1
+şahi	0
 pocănituri	1
 exedre	1
 portbrancarde	1
 trudnicii	1
 carubi	0
+social-democraţi	0
 social-democrate	1
 dialecticieni	0
 castraţii	1
@@ -21767,6 +23157,7 @@ iudei	0
 aplazii	1
 cofermenţi	0
 zăpuşeli	1
+madrileni	0
 madrilene	1
 vocabule	1
 înfăşurări	1
@@ -21807,6 +23198,7 @@ chilne	1
 balansări	1
 dinastii	1
 melodiste	1
+malgaşi	0
 malgaşe	1
 monoachene	1
 fructării	1
@@ -21814,9 +23206,11 @@ antofitoze	1
 slobozieni	0
 fetişoare	1
 fabieni	0
+perspectivişti	0
 perspectiviste	1
 ghilde	1
 culuccii	0
+semanticişti	0
 semanticiste	1
 psihopaţi	0
 miezuitoare	1
@@ -21877,6 +23271,7 @@ amiciţii	1
 entamibe	1
 saci	0
 abstinente	1
+saşi	0
 indianiste	1
 decentrări	1
 prestaţii	1
@@ -21888,6 +23283,7 @@ libelulide	1
 partiţiuni	1
 riţuiri	1
 elecţiuni	1
+deboşaţi	0
 deboşate	1
 hemerologi	0
 neicuşori	0
@@ -21904,6 +23300,7 @@ memorări	1
 dominaţii	1
 cobre	1
 ciovici	1
+menajeri	0
 menajere	1
 atomi	0
 chinidine	1
@@ -21945,6 +23342,7 @@ certări	1
 hemopatii	1
 hulubiţe	1
 conturări	1
+mopşi	0
 subţieri	1
 petimbroase	1
 marmorări	1
@@ -21971,7 +23369,9 @@ cotrenţe	1
 autovaccinări	1
 mârâituri	1
 tranziţii	1
+hăţaşi	0
 malaxoriste	1
+neoplatonicieni	0
 neoplatoniciene	1
 pediculoze	1
 sociograme	1
@@ -21990,6 +23390,7 @@ hidrocore	1
 rapiere	1
 stereograme	1
 ambasadori	0
+corporatişti	0
 corporatiste	1
 presădiri	1
 cronograme	1
@@ -22009,12 +23410,14 @@ semiologi	0
 paracuzii	1
 explicaţii	1
 cabinieri	0
+declaranţi	0
 declarante	1
 descreşteri	1
 mierliţe	1
 şefi	0
 bulevardieri	0
 asemuiri	1
+focşăneni	0
 focşănene	1
 asupreli	1
 acvile	1
@@ -22059,29 +23462,36 @@ ghebe	1
 clupe	1
 codani	0
 videocamere	1
+majoranţi	0
 majorante	1
 hrepci	1
+drăguţi	0
 drăguţe	1
 cercetaşe	1
 tâlhăroaice	1
+trimeri	0
 înmuguriri	1
 bătăi	1
 logopezi	0
 semiarbuşti	0
 năzăriri	1
 panzootii	1
+localişti	0
 localiste	1
 surprinderi	1
 moşieri	0
 conciliaţii	1
 tilişti	1
+laponi	0
 lapone	1
+melanezieni	0
 melaneziene	1
 împotmoliri	1
 organoterapii	1
 dantelări	1
 tarifări	1
 combainiste	1
+confucianişti	0
 confucianiste	1
 debruiarzi	0
 consignatare	1
@@ -22089,6 +23499,7 @@ pehlivănii	1
 reanclanşări	1
 citiri	1
 eseiste	1
+kieveni	0
 kievene	1
 cădiri	1
 cardioide	1
@@ -22098,12 +23509,15 @@ bouroaice	1
 europocentrişti	0
 cusătorese	1
 daici	1
+transafricani	0
 transafricane	1
 midriaze	1
 negustoraşi	0
 arhitrave	1
 bienale	1
 albieni	0
+mozaici	0
+mozaice	1
 autotoxine	1
 cătuşnici	1
 supratopiri	1
@@ -22111,6 +23525,7 @@ puntişoare	1
 plăcintioare	1
 autoinducţii	1
 scârne	1
+codaşi	0
 codaşe	1
 agale	1
 intimate	1
@@ -22136,6 +23551,7 @@ cioance	1
 reşarjări	1
 lavine	1
 dispersii	1
+rezilienţi	0
 reziliente	1
 incaşi	0
 temenele	1
@@ -22143,12 +23559,14 @@ spermoculturi	1
 debitanţi	0
 dubălari	0
 oleandrine	1
+scorumnici	0
 scorumnice	1
 pisicuţi	0
 zeflemisiri	1
 şolticării	1
 bahorniţe	1
 subculturi	1
+cvadraţi	0
 scarabei	0
 radiofotografii	1
 climatizări	1
@@ -22164,6 +23582,7 @@ lauri	0
 peoni	0
 mizări	1
 preeminenţe	1
+mentalişti	0
 mentaliste	1
 tarsichinezii	1
 agrogeologe	1
@@ -22194,6 +23613,7 @@ oftări	1
 zeţari	0
 maturizări	1
 trepanaţii	1
+mexicani	0
 mexicane	1
 carabinieri	0
 iahnii	1
@@ -22202,6 +23622,7 @@ ghinioniste	1
 articulaţii	1
 periodizări	1
 mugiculturi	1
+bieloruşi	0
 bieloruse	1
 regenţe	1
 trezii	1
@@ -22236,6 +23657,8 @@ traumatizări	1
 bostănei	0
 dermaptere	1
 şantieriste	1
+transsiberieni	0
+transsiberiene	1
 vrăjari	0
 decongelări	1
 vulgarizări	1
@@ -22259,7 +23682,9 @@ hurci	1
 diatomee	1
 inversii	1
 reconvalescenţi	0
+hidromecanici	0
 hidromecanice	1
+epileptici	0
 epileptice	1
 delincvenţe	1
 serigrafii	1
@@ -22274,6 +23699,7 @@ veci	1
 araliacee	1
 ceauşei	0
 coţofene	1
+analfabeţi	0
 analfabete	1
 demonstraţii	1
 alunecări	1
@@ -22289,14 +23715,18 @@ glicozide	1
 semiaxe	1
 particularităţi	1
 retrocedări	1
+nicaraguani	0
 nicaraguane	1
+silicotici	0
 silicotice	1
 metalurgişti	0
 seminţerii	1
 izvodiri	1
+făţuitori	0
 picături	1
 zarzavagioaice	1
 stelniţe	1
+montagnarzi	0
 montagnarde	1
 înapoieri	1
 buştenari	0
@@ -22324,6 +23754,7 @@ ascultări	1
 reportere	1
 înfeudări	1
 scriitoraşi	0
+estetişti	0
 estetiste	1
 recepţioneri	0
 tinete	1
@@ -22339,6 +23770,7 @@ metroanexite	1
 porunci	1
 pianiste	1
 detalieri	1
+compuşi	0
 avalişti	0
 fluturări	1
 defolieri	1
@@ -22350,15 +23782,19 @@ ginefobe	1
 octocoralieri	0
 desablări	1
 mănuşi	1
+distrofici	0
 distrofice	1
+geognostici	0
 geognostice	1
 distrofii	1
 vetrele	1
 osmoli	0
 reconversiuni	1
+hibrizi	0
 hibride	1
 toamne	1
 cenzurări	1
+veneţieni	0
 veneţiene	1
 mimodrame	1
 poame	1
@@ -22375,9 +23811,12 @@ sacade	1
 sfârnari	0
 difuzări	1
 perineografii	1
+indieni	0
+indiene	1
 oştiri	1
 pihotaşi	0
 scopiri	1
+şpriţuitori	0
 căruceri	0
 otorinolaringologe	1
 primării	1
@@ -22390,6 +23829,7 @@ carene	1
 columbofili	0
 prăsile	1
 prenoţiuni	1
+creatori	0
 creatoare	1
 contraescarpe	1
 abazii	1
@@ -22421,6 +23861,7 @@ desăgăriţe	1
 modelieri	0
 dăscălii	1
 devorări	1
+regenţi	0
 regente	1
 telulure	1
 repeziciuni	1
@@ -22446,16 +23887,19 @@ robii	1
 prăpăstii	1
 pingeliri	1
 eversiuni	1
+calculatori	0
 şerpării	1
 inventarieri	1
 harpe	1
 serovaccinări	1
+sătmăreni	0
 sătmărene	1
 scriituri	1
 ghiocei	0
 submergenţe	1
 zodii	1
 continuări	1
+strabici	0
 strabice	1
 efemeroteci	1
 desertizări	1
@@ -22468,6 +23912,7 @@ scapeţi	0
 acuarele	1
 argăsiri	1
 prosoplegii	1
+filipinezi	0
 filipineze	1
 fluenţe	1
 tigori	1
@@ -22477,6 +23922,7 @@ stelişoare	1
 strămoşi	0
 invadări	1
 rudiri	1
+vâlceni	0
 vâlcene	1
 fuzioniste	1
 năvrapi	0
@@ -22484,6 +23930,7 @@ trosniri	1
 plevuşte	1
 coachizitoare	1
 tarsoptoze	1
+inelari	0
 fiice	1
 celebratori	0
 vicontese	1
@@ -22494,6 +23941,7 @@ arhivolte	1
 sorbetiere	1
 corintei	0
 şuguiri	1
+ihtiofobici	0
 ihtiofobice	1
 expurgări	1
 kilotone	1
@@ -22540,6 +23988,7 @@ juliri	1
 zloţi	0
 muzeologe	1
 circumscrieri	1
+democraţi	0
 democrate	1
 teleloaice	1
 ziceri	1
@@ -22548,6 +23997,7 @@ drepnele	1
 fesfesele	1
 certitudini	1
 căţelandri	0
+obscurizaţi	0
 obscurizate	1
 văpăieri	1
 dospeli	1
@@ -22555,6 +24005,7 @@ descântături	1
 scoarţe	1
 ciori	1
 peripateticieni	0
+mecanici	0
 mecanice	1
 estropieri	1
 ortografieri	1
@@ -22575,8 +24026,10 @@ extravaganţe	1
 paratuberculoze	1
 trustmeni	0
 puşcăriri	1
+micronezieni	0
 microneziene	1
 edulcorări	1
+surdomuţi	0
 surdomute	1
 şpori	0
 pletismograme	1
@@ -22592,6 +24045,7 @@ papanaşi	0
 compozitori	0
 mormăituri	1
 maimuţăreli	1
+apostoli	0
 minitehnicieni	0
 vâjâiri	1
 exurgenţe	1
@@ -22612,6 +24066,7 @@ mezaventuri	1
 încuscriri	1
 bureleţi	0
 pensiuni	1
+legaţi	0
 pseudoesteţi	0
 hematoze	1
 remobilări	1
@@ -22626,6 +24081,7 @@ pistolarzi	0
 şamani	0
 teleimprimatoriste	1
 amănunţiri	1
+tunisieni	0
 tunisiene	1
 distilatori	0
 ploşniţoase	1
@@ -22646,12 +24102,14 @@ perlite	1
 abordori	0
 tăvălituri	1
 ciripede	1
+oratorieni	0
 oratoriene	1
 sticleţi	0
 tapetari	0
 enoriaşe	1
 rectificări	1
 băimăreni	0
+frenatori	0
 frenatoare	1
 invertaze	1
 pomostine	1
@@ -22660,21 +24118,25 @@ microbalanţe	1
 cleme	1
 schele	1
 troiene	1
+troieni	0
 ciorbagii	0
 zgâmboi	0
 semiconsoane	1
 macedoromânce	1
 mlaştini	1
 ciocniri	1
+izraeliţi	0
 izraelite	1
 torturi	1
 vâlcele	1
+prosumatori	0
 prosumatoare	1
 amper-spire	1
 floretişti	0
 vel-armaşi	0
 hărţaşi	0
 orientaliste	1
+ţarişti	0
 ţariste	1
 colectări	1
 pluviodenudări	1
@@ -22694,6 +24156,7 @@ tălpi	1
 profunde	1
 sableze	1
 octave	1
+detersivi	0
 detersive	1
 cerenţei	0
 depozitari	0
@@ -22724,6 +24187,7 @@ porumbari	0
 burăci	1
 forezii	1
 elite	1
+semifeudali	0
 semifeudale	1
 croncănituri	1
 işlicari	0
@@ -22734,14 +24198,17 @@ absenteişti	0
 omlete	1
 ziariste	1
 iconologi	0
+normanzi	0
 normande	1
 drângălăi	0
 broşe	1
 circulaţii	1
+rujeoloşi	0
 rujeoloase	1
 clăiţe	1
 neplăceri	1
 extemporalizări	1
+peruani	0
 peruane	1
 şeuliţe	1
 putrezituri	1
@@ -22776,6 +24243,7 @@ baroneţi	0
 calomnieri	1
 erate	1
 lucrători	1
+tinerei	0
 tinerele	1
 heterotermii	1
 limfopatii	1
@@ -22804,6 +24272,7 @@ dăjdii	1
 inferiorităţi	1
 semisume	1
 lampagii	0
+scandinavi	0
 scandinave	1
 mongolişti	0
 frasini	0
@@ -22843,10 +24312,12 @@ plutaşi	0
 exhibiţionişti	0
 permisii	1
 gutui	1
+dravidieni	0
 dravidiene	1
 nitrificaţii	1
 microrile	1
 nitroderivaţi	0
+platani	0
 isnafi	0
 mongoliste	1
 zdupăieli	1
@@ -22889,6 +24360,7 @@ prohibiţii	1
 intrigi	1
 homosexuali	0
 plescăituri	1
+confecţioneri	0
 confecţionere	1
 pisete	1
 opilaţii	1
@@ -22916,6 +24388,7 @@ mieluşi	0
 discoboli	0
 denunţători	0
 fermentatoare	1
+vrăjmaşi	0
 vrăjmaşe	1
 dinari	0
 eritrodermii	1
@@ -22956,6 +24429,7 @@ pieptănătoare	1
 cenzori	0
 importaţiuni	1
 digestii	1
+miciurinişti	0
 miciuriniste	1
 mărginuţe	1
 izoptere	1
@@ -22973,6 +24447,7 @@ prispuliţe	1
 barocore	1
 acompaniatoare	1
 hăuliri	1
+automutilaţi	0
 automutilate	1
 cinteze	1
 afundături	1
@@ -22994,7 +24469,9 @@ cooperativizări	1
 valvulite	1
 croazete	1
 reversiuni	1
+veterinari	0
 veterinare	1
+sefarzi	0
 sefarde	1
 pneumoconioze	1
 şerpuiri	1
@@ -23011,6 +24488,7 @@ culase	1
 carstologi	0
 cardite	1
 declaraţii	1
+vecini	0
 vecine	1
 joje	1
 vopsitorii	1
@@ -23018,6 +24496,7 @@ odontocii	1
 uvule	1
 osteoliţi	0
 tâmple	1
+internaţionalişti	0
 internaţionaliste	1
 mulgări	1
 paremiografii	1
@@ -23049,6 +24528,7 @@ paleoetnologe	1
 vuietori	1
 zgârcenii	1
 mersoli	0
+scalari	0
 scalare	1
 slatine	1
 reînchideri	1
@@ -23069,6 +24549,7 @@ ocitocine	1
 ambasadoare	1
 nitrofenoli	0
 mânuriţe	1
+hegelieni	0
 hegeliene	1
 colonialişti	0
 pogăcioare	1
@@ -23084,9 +24565,11 @@ inerţii	1
 transhumanţe	1
 spuse	1
 radioficări	1
+laşi	0
 laşe	1
 hidrostaticieni	0
 fracturări	1
+onirişti	0
 oniriste	1
 paronomaze	1
 boruri	1
@@ -23097,12 +24580,14 @@ clădării	1
 spermatofite	1
 egrete	1
 dichisiri	1
+ursiţi	0
 ursite	1
 cablograme	1
 scorţonere	1
 mamele	1
 brutărese	1
 administrări	1
+necombatanţi	0
 necombatante	1
 impiegaţi	0
 muţenii	1
@@ -23113,6 +24598,7 @@ gladiole	1
 precumpăniri	1
 casetoteci	1
 crete	1
+păgâni	0
 păgâne	1
 folclorişti	0
 aşchiuţe	1
@@ -23128,12 +24614,17 @@ nelămuriri	1
 molii	1
 samsari	0
 zăpodii	1
+ruteni	0
 rutene	1
+laţi	0
+trinitari	0
 trinitare	1
 şablonari	0
+berberi	0
 berbere	1
 conjugări	1
 romanciere	1
+arzători	0
 deflegmări	1
 placodonţi	0
 puişori	0
@@ -23142,6 +24633,7 @@ trapezări	1
 fâţişoare	1
 tociri	1
 speculaţii	1
+supuşi	0
 supuse	1
 bernsteinişti	0
 cerealişti	0
@@ -23150,6 +24642,7 @@ asumări	1
 retroactivităţi	1
 recomandări	1
 noimi	1
+singalezi	0
 singaleze	1
 uzurpări	1
 praline	1
@@ -23158,6 +24651,7 @@ armate	1
 federaţii	1
 moviliri	1
 scufiţe	1
+suitori	0
 suitoare	1
 matisoare	1
 povăţuiri	1
@@ -23178,6 +24672,8 @@ autoanticorpi	0
 vitejii	1
 sinizări	1
 glicogeni	0
+negri	0
+negre	1
 ciorăpării	1
 segmentaţii	1
 râgâituri	1
@@ -23197,6 +24693,7 @@ dicţiuni	1
 eleveze	1
 norociri	1
 completări	1
+comici	0
 indantreni	0
 hârciogi	0
 perpeliri	1
@@ -23206,6 +24703,7 @@ granitizări	1
 consignatari	0
 povestioare	1
 patinatoare	1
+esperantişti	0
 esperantiste	1
 coroidite	1
 gastrotomii	1
@@ -23223,8 +24721,10 @@ iconolatri	0
 paleozoologi	0
 schingiuiri	1
 dirigenţii	1
+sconcşi	0
 hipertiroidii	1
 prichindei	0
+mauritani	0
 mauritane	1
 camionagii	0
 broşurele	1
@@ -23260,9 +24760,11 @@ spermatii	1
 oi	1
 armonici	1
 bistriţeni	0
+travestiţi	0
 travestite	1
 dehidrogenaze	1
 cuvioşii	1
+khmeri	0
 khmere	1
 sturzuleţi	0
 bibliotecari	0
@@ -23282,6 +24784,7 @@ bâiguieli	1
 radiofonoteci	1
 justiţiabile	1
 extrasistole	1
+mulgători	0
 mulgătoare	1
 stenografieri	1
 tioalcooli	0
@@ -23321,6 +24824,7 @@ muziciene	1
 fasonări	1
 tipoteci	1
 bătătorniţe	1
+roşii	0
 glicine	1
 microamperi	0
 filmologe	1
@@ -23342,7 +24846,9 @@ miliţiene	1
 niţi	0
 blagomanii	1
 simfoniete	1
+norvegieni	0
 norvegiene	1
+impertinenţi	0
 impertinente	1
 solomonari	0
 premoniţii	1
@@ -23356,6 +24862,7 @@ peninsule	1
 fibrile	1
 găteli	1
 păcănitori	1
+poporanişti	0
 poporaniste	1
 lansete	1
 diaclaze	1
@@ -23369,6 +24876,7 @@ defăimări	1
 induraţii	1
 branhiozauri	0
 eutocii	1
+otosclerotici	0
 otosclerotice	1
 desfrânări	1
 fălticinence	1
@@ -23380,6 +24888,7 @@ radiocomentatori	0
 cancerofobii	1
 indispuneri	1
 vulturei	0
+fuzibili	0
 fuzibile	1
 escale	1
 enunţări	1
@@ -23394,12 +24903,16 @@ engastrimiţi	0
 fustanele	1
 valve	1
 căpetenii	1
+intervenţionişti	0
 intervenţioniste	1
 parcimonii	1
+descendenţi	0
 descendente	1
 microproducţii	1
+croaţi	0
 croate	1
 transgresoare	1
+aristotelicieni	0
 aristoteliciene	1
 telegrafişti	0
 pompiste	1
@@ -23412,6 +24925,7 @@ fulguleţi	0
 ciubotari	0
 uşiţe	1
 naftene	1
+tăzlăuani	0
 tăzlăuane	1
 grămădiri	1
 răpuitoare	1
@@ -23431,6 +24945,7 @@ nituitoare	1
 autoobservări	1
 mieloze	1
 centumviri	0
+interni	0
 interne	1
 găzdoi	0
 reume	1
@@ -23438,6 +24953,7 @@ caschete	1
 semaforişti	0
 relaţii	1
 extinderi	1
+ionieni	0
 ioniene	1
 paraşute	1
 larme	1
@@ -23452,6 +24968,7 @@ falaitari	0
 peţiri	1
 alarmări	1
 prezentatori	0
+scoreri	0
 dăscălaşi	0
 eritropsine	1
 subîncrengături	1
@@ -23465,6 +24982,7 @@ danci	0
 aderenţi	0
 izoplete	1
 pocăniri	1
+negrofili	0
 negrofile	1
 matrozi	0
 nebunii	1
@@ -23475,6 +24993,7 @@ canistrele	1
 valenţe	1
 eşantionări	1
 demolatori	0
+fumiganţi	0
 fumigante	1
 adjoncţiuni	1
 meteoropaţi	0
@@ -23482,8 +25001,10 @@ oblăduiri	1
 repetări	1
 remonte	1
 palavre	1
+idealişti	0
 idealiste	1
 fetişizări	1
+macedoneni	0
 macedonene	1
 scârţâiri	1
 zărzărele	1
@@ -23493,12 +25014,14 @@ beţivance	1
 direclii	1
 peltele	1
 pernioare	1
+fălitori	0
 fălitoare	1
 turele	1
 cleveteli	1
 sideroliţi	0
 conlocutori	0
 melanine	1
+letoni	0
 letone	1
 legători	0
 lorice	1
@@ -23507,6 +25030,7 @@ primule	1
 tigăi	1
 dive	1
 ghiduşii	1
+secerători	0
 secerătoare	1
 mitizări	1
 treponemoze	1
@@ -23549,6 +25073,7 @@ naratori	0
 stropiri	1
 negustorese	1
 hantri	0
+mijlocaşi	0
 mijlocaşe	1
 scârţi	0
 patine	1
@@ -23557,6 +25082,7 @@ sepioni	0
 nugale	1
 safranine	1
 jazologi	0
+meri	0
 farsori	0
 moslimi	0
 buci	1
@@ -23588,6 +25114,7 @@ praporgici	0
 supuraţii	1
 nucleoni	0
 ştempluiri	1
+blidari	0
 ulcele	1
 tonoscopii	1
 extremităţi	1
@@ -23599,10 +25126,12 @@ brigadieri	0
 gaziste	1
 interpolări	1
 mânări	1
+manevrieri	0
 manevriere	1
 şarle	1
 topografe	1
 hazne	1
+motologi	0
 motoloage	1
 stafide	1
 cancerologe	1
@@ -23623,6 +25152,7 @@ pănuşiţe	1
 tremii	1
 randaline	1
 fantome	1
+tineri	0
 tinere	1
 sieste	1
 giraţii	1
@@ -23634,6 +25164,7 @@ pavlichience	1
 deşablonizări	1
 şontorogeli	1
 crile	1
+fildeşi	0
 posconiţe	1
 sondori	0
 crupe	1
@@ -23646,6 +25177,7 @@ armoniste	1
 grosimi	1
 hârâituri	1
 perfecţionări	1
+imaterialişti	0
 imaterialiste	1
 papuri	1
 pitulici	1
@@ -23669,6 +25201,7 @@ mirtacee	1
 telecabine	1
 desprejmuiri	1
 naţionalizări	1
+bacalaureaţi	0
 marine	1
 tipizări	1
 decăliri	1
@@ -23699,6 +25232,7 @@ nematelminţi	0
 hidalgii	1
 suscitări	1
 galerii	1
+protestanţi	0
 protestante	1
 legături	1
 benzinării	1
@@ -23733,6 +25267,7 @@ tutori	0
 alămari	0
 aducători	0
 bătături	1
+gazonanţi	0
 gazonante	1
 sipici	1
 crăiese	1
@@ -23744,6 +25279,7 @@ voscresne	1
 tricloruri	1
 careţi	0
 antetrupiţe	1
+zaharaţi	0
 zaharate	1
 spicuieli	1
 muluri	1
@@ -23753,6 +25289,7 @@ trufandale	1
 furtunari	0
 strungăreţe	1
 slăbiciuni	1
+pălămari	0
 ţigănaşi	0
 alele	1
 participaţii	1
@@ -23778,6 +25315,7 @@ enologi	0
 urechelniţe	1
 gărzi	1
 plute-far	1
+manufacturieri	0
 manufacturiere	1
 coinstigatori	0
 căscioare	1
@@ -23785,6 +25323,7 @@ dârmozi	0
 sedimentometrii	1
 paladini	0
 spadiciflore	1
+anorectici	0
 anorectice	1
 biblioteci	1
 virdări	1
@@ -23792,7 +25331,9 @@ feude	1
 încuietori	1
 băniceri	0
 decriptări	1
+ţoi	0
 angine	1
+ţoli	0
 steapsine	1
 parturiente	1
 păzitori	0
@@ -23841,6 +25382,7 @@ cahle	1
 troglobii	1
 bobotăi	1
 termosterilizări	1
+iudeofobi	0
 iudeofobe	1
 berjere	1
 plopuşori	0
@@ -23859,6 +25401,7 @@ filozofii	1
 rădăcini	1
 pentoze	1
 astenosfere	1
+duşmani	0
 duşmane	1
 persecuţii	1
 paracivilizaţii	1
@@ -23874,6 +25417,7 @@ rebutări	1
 viroage	1
 sarmenţi	0
 vacuităţi	1
+constituţionalişti	0
 constituţionaliste	1
 triangulaţii	1
 şlei	0
@@ -23884,7 +25428,9 @@ dârdâieli	1
 despresurări	1
 bandure	1
 nădăjduiri	1
+următori	0
 următoare	1
+tecuceni	0
 tecucene	1
 magherniţe	1
 entrate	1
@@ -23911,6 +25457,7 @@ pasivişti	0
 albeţi	1
 vizite	1
 expiaţii	1
+zimniceni	0
 zimnicene	1
 dezveliri	1
 milirontgeni	0
@@ -23918,6 +25465,7 @@ apologiste	1
 corbi-albaştri	0
 şalvaragii	0
 carpeni	0
+anglicani	0
 anglicane	1
 drosometrii	1
 flenduri	1
@@ -23928,12 +25476,15 @@ podişte	1
 chible	1
 zigospori	0
 vrile	1
+jupitori	0
 jupitoare	1
 levigaţii	1
+fenicieni	0
 feniciene	1
 efemerizări	1
 intuiri	1
 goliarzi	0
+programatori	0
 programatoare	1
 caşaloţi	0
 veselii	1
@@ -23952,8 +25503,10 @@ junimi	1
 probabilităţi	1
 bunătăţi	1
 hârtiuţe	1
+atlantişti	0
 atlantiste	1
 matricide	1
+matricizi	0
 coagulaţii	1
 ventriloce	1
 rude	1
@@ -23963,14 +25516,19 @@ hiperbole	1
 plagioclazi	0
 scrijele	1
 locatari	0
+coreeni	0
 coreene	1
 osteologe	1
 coconari	0
+învârtiţi	0
+învârtite	1
 dislocaţii	1
 sorociri	1
 raviere	1
+antifascişti	0
 antifasciste	1
 galileeni	0
+logocişti	0
 logiciste	1
 alonime	1
 gropane	1
@@ -23981,6 +25539,7 @@ iridectomii	1
 antropologi	0
 conferenţiare	1
 pălmiţe	1
+tadjici	0
 tadjice	1
 şerpi	0
 mediatori	0
@@ -24009,6 +25568,7 @@ coconaşi	0
 zemării	1
 dasii	1
 hipotensive	1
+hipotensivi	0
 desprinderi	1
 jonctori	0
 sperieturi	1
@@ -24016,9 +25576,11 @@ comerciante	1
 trifolioze	1
 călugăriţe	1
 gale	1
+sceptici	0
 sceptice	1
 temerităţi	1
 cuticule	1
+doritori	0
 doritoare	1
 capitalizări	1
 trisecţii	1
@@ -24029,7 +25591,9 @@ coacăzi	0
 dijmari	0
 condotieri	0
 stilări	1
+libanezi	0
 libaneze	1
+kampuchieni	0
 kampuchiene	1
 dadofori	0
 bride	1
@@ -24037,6 +25601,7 @@ eroi	0
 mâncăi	0
 europence	1
 obstrucţii	1
+viteji	0
 viteze	1
 osteoclazii	1
 marmorizări	1
@@ -24075,12 +25640,15 @@ tiribombe	1
 pocii	1
 cerebroscleroze	1
 coafe	1
+medico-militari	0
 medico-militare	1
 burleşti	1
+coparticipanţi	0
 coparticipante	1
 cucute	1
 umbre	1
 calcografieri	1
+ploieri	0
 paraşutări	1
 inhalaţii	1
 ciorbe	1
@@ -24102,6 +25670,7 @@ subingineri	0
 hârtii	1
 vateline	1
 săpuniri	1
+nazarineni	0
 nazarinene	1
 dijmaşi	0
 biloni	0
@@ -24109,6 +25678,7 @@ corfiţe	1
 moviole	1
 localităţi	1
 rumeniri	1
+efectori	0
 efectoare	1
 xilolitogravuri	1
 cartograme	1
@@ -24124,6 +25694,7 @@ semiproletari	0
 isprăvnicii	1
 mocani	0
 sladniţe	1
+seulezi	0
 seuleze	1
 loitre	1
 gliadine	1
@@ -24136,6 +25707,7 @@ plisări	1
 polinucule	1
 ienupere	1
 porucici	0
+lini	0
 superfiniţii	1
 îndeletniciri	1
 mustuieli	1
@@ -24157,6 +25729,7 @@ practicări	1
 cuverturi	1
 chisnovaţi	0
 ruble	1
+banjoişti	0
 banjoiste	1
 abside	1
 lotci	1
@@ -24195,6 +25768,7 @@ isopi	0
 cobiliţe	1
 coborâtori	0
 abrevieri	1
+hiperparaziţi	0
 hiperparazite	1
 şugubinari	0
 bioenergeticiene	1
@@ -24202,6 +25776,7 @@ pustuloze	1
 psihopatii	1
 proslăviri	1
 verişoare	1
+vegetarieni	0
 vegetariene	1
 ploscari	0
 boştine	1
@@ -24222,10 +25797,12 @@ lunule	1
 imami	0
 traumatologe	1
 dănciuci	0
+argentinieni	0
 argentiniene	1
 semnatari	0
 tincturi	1
 agenturi	1
+fapţi	0
 chinezării	1
 angolezi	0
 deformări	1
@@ -24238,6 +25815,7 @@ bote	1
 diaspori	0
 normatoare	1
 oşti	1
+simieni	0
 simiene	1
 invalidări	1
 copieri	1
@@ -24259,6 +25837,7 @@ macrodefiniţii	1
 ploscaşi	0
 gherizeri	0
 yuani	0
+bobi	0
 cervicotomii	1
 ping-pongiste	1
 oboseli	1
@@ -24271,13 +25850,16 @@ raţiuni	1
 transmisiuni	1
 firuţe	1
 tripanozome	1
+mişei	0
 mişele	1
 refacţii	1
 maleabilizări	1
+chiaburi	0
 chiabure	1
 streşini	1
 meseriaşi	0
 armii	1
+emigraţi	0
 emigrate	1
 decimaţii	1
 decocţii	1
@@ -24287,6 +25869,7 @@ hidraulicieni	0
 pteranodoni	0
 caliorne	1
 spirografii	1
+incitatori	0
 incitatoare	1
 doage	1
 reportări	1
@@ -24295,6 +25878,7 @@ demonetizări	1
 şoapte	1
 vermiculaţii	1
 rezinaţi	0
+sovietici	0
 sovietice	1
 stiloide	1
 crochete	1
@@ -24319,6 +25903,7 @@ pensulări	1
 bubuliţe	1
 vărgi	1
 babaci	0
+spondei	0
 montoare	1
 mituiri	1
 scăldători	1
@@ -24393,6 +25978,7 @@ exacerbaţii	1
 maşini-unelte	1
 gângăvii	1
 damaschinări	1
+izolaţionişti	0
 izolaţioniste	1
 tâmpine	1
 coroziuni	1
@@ -24415,6 +26001,7 @@ teleînregistrări	1
 dereflecţii	1
 chiverniseli	1
 orbecăiri	1
+celţi	0
 celte	1
 narceine	1
 băbăici	1
@@ -24428,6 +26015,7 @@ săgeţele	1
 cadrări	1
 buşteni	0
 ambutisori	0
+frigieni	0
 frigiene	1
 aglice	1
 adsorbaţi	0
@@ -24435,6 +26023,7 @@ zornăituri	1
 căsuţe	1
 stipendiste	1
 antene	1
+teutoni	0
 teutone	1
 colecistopatii	1
 dispariţii	1
@@ -24450,6 +26039,7 @@ hipocratişti	0
 bifurcări	1
 concesiuni	1
 căutături	1
+apărători	0
 apărătoare	1
 melodicizări	1
 pugilişti	0
@@ -24470,6 +26060,7 @@ inspectări	1
 scârţâieli	1
 parlagii	0
 rantii	1
+ugandezi	0
 ugandeze	1
 autofecundări	1
 gaşperi	0
@@ -24481,8 +26072,10 @@ simţiveri	1
 bocşe	1
 gargariseli	1
 aptitudini	1
+togolezi	0
 togoleze	1
 apelpisii	1
+nepalezi	0
 nepaleze	1
 mâzgălituri	1
 strădanii	1
@@ -24508,11 +26101,13 @@ perdeluiri	1
 gâtuiri	1
 discriminări	1
 băraţi	0
+voluntari	0
 voluntare	1
 aerotermoterapii	1
 manganaţi	0
 primulacee	1
 prospective	1
+arlechini	0
 capsări	1
 lecţiuni	1
 neurine	1
@@ -24521,6 +26116,7 @@ cocârle	1
 cocii	1
 plutonieri	0
 suturi	1
+nătărăi	0
 nătăroaice	1
 stabilivolţi	0
 marinari	0
@@ -24528,6 +26124,7 @@ răţoiaşi	0
 dezincrustaţii	1
 uitări	1
 culegători	0
+hurmuzi	0
 reveneli	1
 dube	1
 schimonoseli	1
@@ -24555,6 +26152,7 @@ sonorizări	1
 răstălmăciri	1
 navigări	1
 argile	1
+tifici	0
 tifice	1
 corbuleţi	0
 vaginite	1
@@ -24614,9 +26212,11 @@ menghine	1
 medelniţe	1
 vulve	1
 interpolatoare	1
+longevivi	0
 longevive	1
 galopări	1
 botoşănence	1
+poponeţi	0
 decodări	1
 bouşori	0
 fâse	1
@@ -24631,6 +26231,7 @@ azoderivaţi	0
 macule	1
 celibatare	1
 karatişti	0
+kazahi	0
 kazahe	1
 oftalmologi	0
 înmulţiri	1
@@ -24658,8 +26259,10 @@ contrapoziţii	1
 vervene	1
 emailori	0
 ranchiune	1
+mongoli	0
 mongole	1
 colaborări	1
+elveţieni	0
 elveţiene	1
 spumozităţi	1
 dezechilibrări	1
@@ -24702,6 +26305,7 @@ cobzişoare	1
 programateci	1
 antropofobii	1
 poliţii	1
+demonolatri	0
 demonolatre	1
 decurii	1
 covăsnenci	1
@@ -24717,6 +26321,7 @@ măsluieli	1
 stupiniţe	1
 tăvale	1
 conservări	1
+izomeri	0
 izomere	1
 vergeluţe	1
 feldmareşali	0
@@ -24774,7 +26379,9 @@ naufragieri	1
 voleibaliste	1
 şantajoare	1
 greve	1
+trimiţători	0
 trimiţătoare	1
+puritanişti	0
 puritaniste	1
 scriptomane	1
 contese	1
@@ -24786,6 +26393,7 @@ râşniţe	1
 caracteristici	1
 etape	1
 chiulase	1
+ocultişti	0
 ocultiste	1
 puiuleţi	0
 mulatre	1
@@ -24846,6 +26454,7 @@ ectenii	1
 stupile	1
 bimediane	1
 suprarăciri	1
+moldoveni	0
 moldovene	1
 arestanţi	0
 traversiere	1
@@ -24858,8 +26467,10 @@ anaforale	1
 defenestraţii	1
 bocanci	0
 tergiversaţiuni	1
+behavorişti	0
 behavoriste	1
 prăjini	1
+ştergători	0
 cale	1
 cenobiţi	0
 wattsecunde	1
@@ -24927,12 +26538,14 @@ pauce	1
 biofizicieni	0
 minuscule	1
 antropolatri	0
+valahi	0
 valahe	1
 signatari	0
 bulucbăşii	1
 paragrame	1
 moracee	1
 fotodiode	1
+gomoşi	0
 gomoase	1
 maişe	1
 betonice	1
@@ -24943,6 +26556,7 @@ biserici	1
 semnificanţi	0
 gimnazieri	0
 gârliţe	1
+lesbieni	0
 lesbiene	1
 ziditori	0
 dribleri	0
@@ -24953,6 +26567,7 @@ siluride	1
 capitalişti	0
 postăvari	0
 penalităţi	1
+birmani	0
 birmane	1
 invariabilităţi	1
 fetuşi	0
@@ -24969,6 +26584,7 @@ prisăci	1
 cofondatori	0
 fierari	0
 hidroceluloze	1
+inhibitori	0
 inhibitoare	1
 microwaţi	0
 mecanomorfozei	1
@@ -24985,6 +26601,7 @@ sensitometrii	1
 corăbii	1
 străinătăţi	1
 plăcinţele	1
+productivişti	0
 productiviste	1
 înglodări	1
 ambulaţii	1
@@ -25026,22 +26643,27 @@ barate	1
 spulberături	1
 decriptori	0
 afişări	1
+podolieni	0
 podoliene	1
 delincvenţi	0
 misade	1
+cărători	0
 strungării	1
 colocatare	1
 articulări	1
 signaturi	1
+cotropitori	0
 cotropitoare	1
 şefe	1
 iezişori	0
 dezinfestanţi	0
+colbertişti	0
 colbertiste	1
 naingii	0
 druze	1
 exhibiţii	1
 desferecări	1
+saxoni	0
 saxone	1
 crauliste	1
 maghirani	0
@@ -25092,9 +26714,11 @@ saiele	1
 măscării	1
 invazii	1
 suprainfecţii	1
+probanzi	0
 probande	1
 rezultante	1
 camefiţe	1
+diluviali	0
 diluviale	1
 bonjurişti	0
 râşcovi	0
@@ -25111,6 +26735,7 @@ bostani	0
 hurducări	1
 francmasoni	0
 dramatizări	1
+stimuli	0
 ierbuliţe	1
 şălvirii	1
 scuzări	1
@@ -25128,12 +26753,16 @@ compoundări	1
 gospodării	1
 inaptitudini	1
 viticultori	0
+kenyeni	0
 kenyene	1
 antenişti	0
+funambuli	0
 funambule	1
+verbalişti	0
 verbaliste	1
 predări	1
 lepisme	1
+stamatieni	0
 stamatiene	1
 lize	1
 epanalepse	1
@@ -25164,10 +26793,12 @@ zmeoaie	1
 măturători	1
 cârmuitoare	1
 sedări	1
+catalani	0
 catalane	1
 tardioni	0
 decalcări	1
 şlepari	0
+alogloţi	0
 aloglote	1
 înmormântări	1
 măcelăriri	1
@@ -25207,6 +26838,7 @@ helicicultoare	1
 reafirmări	1
 gotcani	0
 tinduţe	1
+sionişti	0
 sioniste	1
 zbârceli	1
 precauţii	1
@@ -25248,6 +26880,7 @@ rutierişti	0
 vagonetari	0
 recuperatori	0
 monoceri	0
+dalmaţi	0
 dalmate	1
 cefalometrii	1
 încovoieli	1
@@ -25261,6 +26894,7 @@ catisme	1
 antisicativi	0
 tete	1
 ursari	0
+marxişti	0
 marxiste	1
 neurofibromatoze	1
 cronometrări	1
@@ -25277,15 +26911,18 @@ amnezici	0
 amnezii	1
 jujube	1
 mucine	1
+scopiţi	0
 scopite	1
 muhurdari	0
 ciurdari	0
 sinantropi	0
 eleniste	1
 gabare	1
+ojogi	0
 caprifoi	0
 absurdităţi	1
 codoşte	1
+maniheişti	0
 maniheiste	1
 zmeurate	1
 strecurări	1
@@ -25323,6 +26960,7 @@ critici	1
 corodări	1
 atomişti	0
 dactilografi	0
+macrocefali	0
 macrocefale	1
 bănici	1
 însufleţiri	1
@@ -25331,6 +26969,7 @@ ciocăniri	1
 dinamizări	1
 ticăieli	1
 zonări	1
+canadieni	0
 canadiene	1
 polivalenţe	1
 bambuşi	0
@@ -25351,6 +26990,7 @@ ranide	1
 grăpături	1
 stropitori	1
 perji	0
+armaşi	0
 perşi	0
 fotoreportere	1
 suide	1
@@ -25368,6 +27008,7 @@ aspri	0
 aducţii	1
 mile	1
 favoruri	1
+cărăşei	0
 muguri	0
 berari	0
 clăi	1
@@ -25377,16 +27018,20 @@ nucleoproteide	1
 agenţi	0
 boişteni	0
 imigraţii	1
+strângători	0
 strângătoare	1
 telemetrori	0
 pastişe	1
 rablionete	1
 şerbetelniţe	1
 bretese	1
+hedonişti	0
 hedoniste	1
 râtani	0
 rotacizări	1
 morfologi	0
+spârci	0
+intruşi	0
 intruse	1
 plute	1
 lacaze	1
@@ -25397,6 +27042,7 @@ preciroze	1
 etnologişti	0
 patarame	1
 momiţării	1
+africani	0
 africane	1
 halori	0
 electrofotografii	1
@@ -25406,6 +27052,7 @@ latinizatori	0
 ţapi	0
 sepedoni	0
 gurne	1
+maiele	1
 popândăi	0
 taoiste	1
 condescendenţe	1
@@ -25419,6 +27066,7 @@ bifări	1
 ceşcuţe	1
 roşcovi	0
 cleştişoare	0
+patagoni	0
 patagone	1
 tămăduiri	1
 temelii	1
@@ -25440,6 +27088,7 @@ portretiste	1
 proteine	1
 colecistografii	1
 semitologi	0
+fermecători	0
 fermecătoare	1
 bijuterii	1
 enclave	1
@@ -25465,13 +27114,16 @@ institutoare	1
 jimblari	0
 inovări	1
 berbeci	0
+cantori	0
 comitenţi	0
 atacatoare	1
 bojdeuci	1
+indo-europeni	0
 indo-europene	1
 obedienţe	1
 contratimpi	0
 depectinizări	1
+milanezi	0
 conştientizări	1
 pliviri	1
 moşneguţi	0
@@ -25484,6 +27136,8 @@ auripigmenţi	0
 centile	1
 redactori	0
 aspreli	1
+moderatori	0
+moderatoare	1
 blagoslovenii	1
 peletizări	1
 demonstratori	0
@@ -25512,6 +27166,7 @@ nicoli	0
 digresiuni	1
 gâtuituri	1
 tregheri	0
+secentişti	0
 secentiste	1
 ornamentaţii	1
 experienţe	1
@@ -25556,12 +27211,14 @@ ramere	1
 picioici	1
 mişelii	1
 îndatoriri	1
+greco-orientali	0
 greco-orientale	1
 archebuze	1
 contramaiştri	0
 acri	0
 copilandri	0
 drăgălăşenii	1
+dadaişti	0
 dadaiste	1
 industrii	1
 năzuiri	1
@@ -25572,6 +27229,7 @@ cobăi	1
 oceaniculturi	1
 fante	1
 şeptici	0
+nonagenari	0
 nonagenare	1
 beşlii	0
 hatii	1
@@ -25583,6 +27241,7 @@ ghimpi-pădureţi	0
 aventuri	1
 lupoaie	1
 arteriole	1
+moldovalahi	0
 moldovalahe	1
 cuproxizi	0
 psihopatologi	0
@@ -25600,6 +27259,7 @@ amendări	1
 cripte	1
 paji	0
 pani	0
+vânturei	0
 hidroree	1
 grămădeli	1
 înnodături	1
@@ -25630,6 +27290,7 @@ autocratori	0
 tetragrame	1
 boraţi	0
 priceperi	1
+pointilişti	0
 pointiliste	1
 termograme	1
 capugii	0
@@ -25658,12 +27319,15 @@ ortografii	1
 apocope	1
 şiţe	1
 anse	1
+egocentrici	0
 egocentrice	1
 histone	1
 prosimieni	0
 paruri	1
+însoţitori	0
 însoţitoare	1
 electronavigaţii	1
+strigători	0
 strigătoare	1
 rumegări	1
 aniversări	1
@@ -25698,6 +27362,7 @@ filonichii	1
 moţi	0
 magistrale	1
 telereglări	1
+mezini	0
 mezine	1
 odontoiatri	0
 străgălii	1
@@ -25746,6 +27411,7 @@ imunopatologi	0
 atlanţi	0
 editorialişti	0
 pomuşoare	1
+chiştoci	0
 toxicoze	1
 filarmonici	1
 mânătoare	1
@@ -25768,9 +27434,12 @@ debordări	1
 pericolpite	1
 lectici	1
 decedări	1
+cenuşari	0
 afunzimi	1
 chichineţe	1
 şătruţe	1
+monetari	0
+grevişti	0
 greviste	1
 sporofile	1
 paiaţe	1
@@ -25837,7 +27506,9 @@ aristocrate	1
 xenocraţii	1
 autoraşi	0
 craulişti	0
+igienişti	0
 igieniste	1
+solipsişti	0
 solipsiste	1
 decurioni	0
 descolăciri	1
@@ -25847,6 +27518,7 @@ enterectomii	1
 înnisipări	1
 plenipotenţe	1
 paparune	1
+pricinaşi	0
 pricinaşe	1
 văduvoaie	1
 hidroftalmii	1
@@ -25861,6 +27533,7 @@ putrefieri	1
 sculări	1
 diplococi	0
 huzmetari	0
+comişi	0
 suavităţi	1
 cadmii	1
 funigei	0
@@ -25868,8 +27541,10 @@ apofize	1
 străchinoaie	1
 simpatii	1
 căsoaie	1
+mizeri	0
 mizere	1
 reambalări	1
+cuceritori	0
 cuceritoare	1
 cupe	1
 minijupe	1
@@ -25885,6 +27560,7 @@ pantofiori	0
 prezervări	1
 gânguriri	1
 giurumele	1
+creditori	0
 creditoare	1
 zvastici	1
 recitiri	1
@@ -25893,6 +27569,7 @@ prolanurii	1
 mediane	1
 salicilaţi	0
 parcele	1
+kantieni	0
 kantiene	1
 scursuri	1
 abateri	1
@@ -25941,8 +27618,10 @@ micrometeoriţi	0
 rectrice	1
 cazemate	1
 măcinături	1
+someşeni	0
 someşene	1
 balocore	1
+comornici	0
 răcănei	0
 intercesiuni	1
 stegocefali	0
@@ -25952,6 +27631,7 @@ ariete	1
 injurii	1
 stigme	1
 organişti	0
+negatori	0
 negatoare	1
 agrotehniciene	1
 scăpărători	1
@@ -25982,6 +27662,7 @@ gurluiri	1
 chiftele	1
 frete	1
 reordonanţări	1
+entomofagi	0
 entomofage	1
 psaltiri	1
 oculaţii	1
@@ -26022,6 +27703,8 @@ coagulopatii	1
 lagene	1
 târsâne	1
 sclere	1
+levantini	0
+levantine	1
 supleanţe	1
 hemobiologi	0
 badiani	0
@@ -26048,9 +27731,12 @@ fine	1
 rândaşi	0
 lăudători	0
 zelatoare	1
+megieşi	0
 megieşe	1
+imperialişti	0
 imperialiste	1
 spineli	0
+marginalişti	0
 marginaliste	1
 perfectări	1
 monarhii	1
@@ -26070,14 +27756,18 @@ vini	1
 încărcări	1
 tăicuţi	0
 clipe	1
+săditori	0
+săditoare	1
 fiuţi	0
 hăinari	0
+greco-romani	0
 greco-romane	1
 puştance	1
 insultări	1
 detribalizări	1
 prăpăstuiri	1
 oceli	0
+textualişti	0
 textualiste	1
 semiobscurităţi	1
 motoci	0
@@ -26101,9 +27791,11 @@ potoleli	1
 triceratopşi	0
 iritaţii	1
 dovleci	0
+extremişti	0
 extremiste	1
 consfinţiri	1
 helioterapii	1
+expeditori	0
 expeditoare	1
 cooperatori	0
 nalbari	0
@@ -26117,19 +27809,23 @@ contorsionări	1
 tinichigerii	1
 palatalizări	1
 holteiaşi	0
+oşeni	0
 oşene	1
 scroambe	1
 eligări	1
 apicultoare	1
 turiţe	1
+ultranaţionalişti	0
 ultranaţionaliste	1
 dezangajări	1
 caşări	1
 terebraţii	1
 dizolvări	1
+liberatori	0
 liberatoare	1
 alemande	1
 imnografe	1
+nazişti	0
 naziste	1
 subrogări	1
 cordele	1
@@ -26159,6 +27855,7 @@ drame	1
 smochine	1
 aşi	0
 plagiatoare	1
+năprui	0
 năprui	1
 orăşene	1
 răzlogi	0
@@ -26179,7 +27876,9 @@ dervişi	0
 pârşi	0
 scanări	1
 şvabi	0
+şvabe	1
 blagomani	0
+galactofagi	0
 galactofage	1
 titirisiri	1
 milibari	0
@@ -26214,6 +27913,7 @@ barbişe	1
 mierluţe	1
 biograme	1
 sugeri	1
+estonieni	0
 estoniene	1
 procuratori	0
 clanţe	1
@@ -26244,6 +27944,7 @@ refulări	1
 pănuşi	1
 odontoragii	1
 tălăzuiri	1
+paleoslavi	0
 paleoslave	1
 lubrifieri	1
 carboxili	0
@@ -26261,8 +27962,10 @@ umblători	1
 sadomasochişti	0
 hidrochimişti	0
 taigale	1
+xenofili	0
 xenofile	1
 vătui	0
+gnostici	0
 gnostice	1
 plivitori	0
 cavile	1
@@ -26283,6 +27986,7 @@ clubmani	0
 capucinade	1
 buldogi	0
 poliglobulii	1
+ecologişti	0
 ecologiste	1
 bistriţence	1
 terapeutici	1
@@ -26300,6 +28004,7 @@ spiţerese	1
 impregnaţii	1
 autoimunităţi	1
 butuci	0
+austrieci	0
 austriece	1
 excavatoriste	1
 copoclefili	0
@@ -26312,7 +28017,9 @@ struguraşi	0
 rizofite	1
 exînscrieri	1
 meniri	1
+daci	0
 dace	1
+dami	0
 meschinării	1
 pisari	0
 armăsăruşi	0
@@ -26320,8 +28027,10 @@ boieli	1
 centralizaţii	1
 hemolimfe	1
 camelote	1
+malthusianişti	0
 multhusianiste	1
 setcari	0
+voltairieni	0
 voltairiene	1
 radiogazete	1
 traheide	1
@@ -26371,6 +28080,7 @@ prunuţi	0
 tătăroaice	1
 electromiografii	1
 expectorări	1
+întorsureni	0
 întorsurene	1
 şaisprezecimi	1
 ocări	1
@@ -26379,9 +28089,11 @@ prunci	0
 orăcăieli	1
 prezentaţii	1
 detractoare	1
+cerchezi	0
 cercheze	1
 frunzături	1
 prăfuire	1
+galofobi	0
 galofobe	1
 ignorări	1
 milogeli	1
@@ -26411,12 +28123,15 @@ păzitoare	1
 lecturi	1
 sciatici	1
 prorectori	0
+mocăiţi	0
 mocăite	1
 amazoane	1
+drept-credincioşi	0
 drept-credincioase	1
 anesteziologi	0
 lipitori	1
 greutăţi	1
+sfinţi	0
 sfinte	1
 biomatematicieni	0
 disipări	1
@@ -26426,6 +28141,7 @@ alcoolici	0
 urgentări	1
 bombarde	1
 depanări	1
+hilozoişti	0
 hilozoiste	1
 brasarde	1
 iuncheri	0
@@ -26437,6 +28153,7 @@ balansine	1
 ghiorţăituri	1
 talofite	1
 zidărese	1
+guşaţi	0
 guşate	1
 denisipări	1
 ţistuituri	1
@@ -26452,9 +28169,11 @@ trabanţi	0
 mascări	1
 mascarale	1
 vene	1
+eugenişti	0
 eugeniste	1
 balate	1
 cratiţe	1
+eritematoşi	0
 eritematoase	1
 şambrane	1
 epatări	1
@@ -26472,6 +28191,7 @@ muieri	1
 cromoproteide	1
 nedreptăţi	1
 scenografii	1
+moleţi	0
 cosmetologi	0
 receptări	1
 pichiri	1
@@ -26497,6 +28217,7 @@ albinuşe	1
 fermiere	1
 ciocoi	0
 loviri	1
+pakistanezi	0
 pakistaneze	1
 silabe	1
 mastopatii	1
@@ -26507,6 +28228,7 @@ gărgăuni	0
 camionete	1
 entomologi	0
 adoratori	0
+panarabişti	0
 panarabiste	1
 împresurări	1
 poligrafii	1
@@ -26524,6 +28246,7 @@ iovi	0
 dârste	1
 ioni	0
 găbuiri	1
+tăinuitori	0
 tăinuitoare	1
 ştănţari	0
 grăjdari	0
@@ -26549,6 +28272,8 @@ găluşcuţe	1
 melasări	1
 recepări	1
 şeptari	0
+traci	0
+trace	1
 sofale	1
 paranestezii	1
 gazete	1
@@ -26567,7 +28292,9 @@ antipozi	0
 zărgani	0
 incorecţiuni	1
 prefixări	1
+preformişti	0
 preformiste	1
+islandezi	0
 islandeze	1
 consumări	1
 nastii	1
@@ -26577,6 +28304,7 @@ comunarzi	0
 gruiforme	1
 aprobări	1
 toporişti	1
+feştelitori	0
 feştelitoare	1
 dure	1
 aranjori	0
@@ -26629,6 +28357,7 @@ trepanări	1
 africaniste	1
 scriptomani	0
 stanţe	1
+membri	0
 semiluni	1
 telexişti	0
 valonee	1
@@ -26645,6 +28374,7 @@ apaşi	0
 zarzări	0
 muse	1
 radiomicrometri	0
+halogeni	0
 halogene	1
 grisine	1
 geanabeţi	0
@@ -26653,10 +28383,13 @@ generalizaţii	1
 psihastenice	1
 şerfuiri	1
 pomiere	1
+ţigani	0
 ţigane	1
+sud-dunăreni	0
 sud-dunărene	1
 verici	0
 speteli	1
+vizigoţi	0
 vizigote	1
 şamotări	1
 termofixări	1
@@ -26667,6 +28400,7 @@ sancţionări	1
 slugărnicii	1
 carnasieri	0
 minţi	1
+cotei	0
 tasterişti	0
 scrânteli	1
 zugrăviri	1
@@ -26689,6 +28423,7 @@ refrigeraţii	1
 gudronări	1
 ortaci	0
 înfloriri	1
+iconoclaşti	0
 iconoclaste	1
 terebintacee	1
 nuiele	1
@@ -26697,6 +28432,7 @@ degudronări	1
 purulenţe	1
 scabrozităţi	1
 şiregle	1
+mireni	0
 mirene	1
 apari	0
 felceriţe	1
@@ -26712,6 +28448,7 @@ anghilide	1
 amulete	1
 cromişti	0
 fratricide	1
+fratricizi	0
 suficienţe	1
 înglobări	1
 lânari	0
@@ -26747,13 +28484,16 @@ boarfe	1
 împroşcături	1
 lapidatori	0
 digeste	1
+iordanieni	0
 iordaniene	1
 megadine	1
 clătinări	1
 filologi	0
+abonaţi	0
 abonate	1
 cardatoare	1
 pirande	1
+gogomani	0
 gogomane	1
 cetăţene	1
 orografe	1
@@ -26776,6 +28516,7 @@ viorele	1
 nefârtaţi	0
 crotalii	1
 aortografii	1
+defrişatori	0
 abilitări	1
 undiri	1
 recarburări	1
@@ -26806,6 +28547,7 @@ ergotoxine	1
 hipertermii	1
 vinderi	1
 valvoline	1
+sibariţi	0
 sibarite	1
 balneologi	0
 profanări	1
@@ -26846,6 +28588,7 @@ periostoze	1
 substituţi	0
 orândaşi	0
 fiorituri	1
+disimulatori	0
 disimulatoare	1
 metamorfozări	1
 studeniţe	1
@@ -26856,8 +28599,10 @@ nuculeţi	0
 tibii	1
 jupaniţe	1
 mozaiste	1
+globi	0
 tombatere	1
 operete	1
+curii	1
 patisieri	0
 paratiroidectomii	1
 timarioţi	0
@@ -26893,6 +28638,7 @@ spirometrii	1
 endecasilabi	0
 flotări	1
 calamităţi	1
+începători	0
 începătoare	1
 junghieturi	1
 crăcuşori	0
@@ -26918,6 +28664,7 @@ surpături	1
 viermişori	0
 godine	1
 mutări	1
+utilizatori	0
 utilizatoare	1
 percusiuni	1
 ineţe	1
@@ -26943,8 +28690,10 @@ popi	0
 aurari	0
 sacristani	0
 fononi	0
+eponimi	0
 eponime	1
 decongelaţii	1
+marcatori	0
 bastonade	1
 subagenţi	0
 autolibrării	1
@@ -26965,6 +28714,7 @@ covariaţii	1
 incendiatoare	1
 căţeii-pământului	0
 inspirări	1
+târgovişteni	0
 târgoviştene	1
 sfidări	1
 craboţi	0
@@ -26997,7 +28747,9 @@ hibridări	1
 clacări	1
 godiile	1
 chicoteli	1
+difuzori	0
 metabole	1
+godini	0
 bagele	1
 carafe	1
 răpăituri	1
@@ -27019,14 +28771,17 @@ horituri	1
 testoare	1
 invenţiuni	1
 ciclolize	1
+grafomani	0
 grafomane	1
 drumeţi	0
 prepuneri	1
 pervertiri	1
+concordatari	0
 concordatare	1
 narcomanii	1
 luxferi	0
 timonerii	1
+găgăuzi	0
 găgăuze	1
 crâşmuşoare	1
 suprapopulaţii	1
@@ -27081,6 +28836,7 @@ inflamări	1
 amforete	1
 reînsănătoşiri	1
 polemiste	1
+călărăşeni	0
 călărăşene	1
 aterizări	1
 prezbiopii	1
@@ -27122,7 +28878,9 @@ guşuliţe	1
 ciuciuleţi	0
 motoaşte	1
 ceauşi	0
+italienişti	0
 italieniste	1
+confluenţi	0
 confluente	1
 meningite	1
 lustragii	0
@@ -27142,12 +28900,15 @@ lichidatori	0
 ecranări	1
 visătorii	1
 udeli	1
+australieni	0
 australiene	1
 îndoituri	1
 reinstaurări	1
 predispoziţii	1
 poetese	1
+megalomani	0
 megalomane	1
+conductori	0
 stereotipări	1
 selve	1
 properdine	1
@@ -27162,11 +28923,13 @@ macagii	0
 microanchete	1
 vâlceluşe	1
 zemuri	1
+fericiţi	0
 fericite	1
 decalări	1
 armindeni	0
 relicve	1
 anacruze	1
+zălogi	0
 neascultări	1
 sărbătoriri	1
 rafinării	1
@@ -27174,6 +28937,8 @@ catarinieni	0
 neperi	0
 şape	1
 pisici	1
+florari	0
+spanioli	0
 spaniole	1
 jurisdicţii	1
 polisinteze	1
@@ -27210,6 +28975,7 @@ gentilomi	0
 catapetesme	1
 maiori	0
 gândaci	0
+examinatori	0
 examinatoare	1
 sosiri	1
 vierese	1
@@ -27245,6 +29011,7 @@ văgăuni	1
 emfiteoze	1
 microuzine	1
 cincari	0
+claustrofobi	0
 claustrofobe	1
 pelicani	0
 ursoaice	1
@@ -27257,6 +29024,7 @@ măcăituri	1
 hărăziri	1
 galvanizatori	0
 molase	1
+difluenţi	0
 difluente	1
 rincocefali	0
 sincronizări	1
@@ -27271,6 +29039,7 @@ proliferări	1
 duşmance	1
 evaziuni	1
 hectowaţi	0
+reasiguratori	0
 reasiguratoare	1
 eurobănci	1
 supraprobleme	1
@@ -27285,6 +29054,7 @@ injustiţii	1
 mecenaţi	0
 polaroni	0
 mândrulici	1
+fantascientişti	0
 fantascientiste	1
 dezintoxicări	1
 namestii	1
@@ -27304,12 +29074,16 @@ târsoage	1
 strune	1
 ontogenişti	0
 extrageri	1
+multipli	0
 multiple	1
+judeţi	0
 ceşculiţe	1
+dobrogeni	0
 dobrogene	1
 luxoni	0
 bizantinişti	0
 returnări	1
+seniori	0
 senioare	1
 caldarâmgii	0
 difuzoare	1
@@ -27340,6 +29114,7 @@ stropuşori	0
 bujori	0
 toracenteze	1
 aproprieri	1
+tezişti	0
 teziste	1
 harpii	1
 farmacopei	1
@@ -27349,6 +29124,7 @@ narvali	0
 concreşteri	1
 referiri	1
 trosnituri	1
+copartajanţi	0
 copartajante	1
 nevestici	1
 magiştri	0
@@ -27359,6 +29135,7 @@ leucoderivaţi	0
 geochimiste	1
 pătimiri	1
 postulanţi	0
+transnistrieni	0
 transnistriene	1
 decopertări	1
 cauciucări	1
@@ -27420,6 +29197,7 @@ sirene	1
 come	1
 chelonieni	0
 zaharniţe	1
+lapţi	0
 incisivităţi	1
 mirmidoni	0
 suprafini	0
@@ -27480,6 +29258,7 @@ ionizări	1
 congresmani	0
 ţoale	1
 xilolitografii	1
+feudali	0
 feudale	1
 juxtapuneri	1
 sălăşluinţe	1
@@ -27501,14 +29280,18 @@ convecţii	1
 trântiri	1
 coarne	1
 risberme	1
+ultrademocraţi	0
 ultrademocrate	1
+ectoparaziţi	0
 ectoparazite	1
 smotociri	1
 inamiciţii	1
 activităţi	1
+trasatori	0
 venite	1
 izolexe	1
 durate	1
+unguligrazi	0
 unguligrade	1
 descensiuni	1
 tetradrahme	1
@@ -27536,13 +29319,16 @@ căsăpii	1
 cetiniţe	1
 faţete	1
 infirmări	1
+zelatori	0
 zelatoare	1
 inii	1
 suprapresiuni	1
 pupări	1
+libertari	0
 libertare	1
 colăcării	1
 horezence	1
+lupani	0
 lupane	1
 decembrişti	0
 curelari	0
@@ -27577,14 +29363,17 @@ mangaliţe	1
 epuloni	0
 uşuţe	1
 orchestrine	1
+neofascişti	0
 neofasciste	1
 pulsiuni	1
+hârşoveni	0
 hârşovene	1
 cătăniţe	1
 ipochimeni	0
 blănari	0
 capişti	1
 sârmari	0
+expresionişti	0
 expresioniste	1
 noruţi	0
 alcoxizi	0
@@ -27599,6 +29388,7 @@ oreşniţe	1
 hiperemii	1
 revocaţii	1
 muzeografi	0
+rezineni	0
 rezinene	1
 popreli	1
 definiri	1
@@ -27607,6 +29397,7 @@ generalităţi	1
 grinzi	1
 lipoveni	0
 microradiografii	1
+senegalezi	0
 senegaleze	1
 curăţări	1
 despuieri	1
@@ -27624,6 +29415,7 @@ martire	1
 coabitări	1
 colaboratori	0
 megalopsii	1
+bursieri	0
 bursiere	1
 stoarceri	1
 secreţii	1
@@ -27634,9 +29426,11 @@ rachierii	1
 trăistioare	1
 cafegioaice	1
 exultanţe	1
+lidieni	0
 lidiene	1
 cartnici	0
 frăsinei	0
+vânji	0
 teatraliste	1
 trileme	1
 granzi	0
@@ -27646,6 +29440,7 @@ lavraci	0
 graficiene	1
 viroze	1
 manivele	1
+scientişti	0
 scientiste	1
 dane	1
 acuzate	1
@@ -27653,12 +29448,15 @@ derute	1
 pânzari	0
 beladone	1
 psihofiziciene	1
+opresori	0
 opresoare	1
 hidroizolanţi	0
 părângi	1
 paporniţe	1
+conformişti	0
 conformiste	1
 scorojiri	1
+armeni	0
 armene	1
 psihometricieni	0
 cerebrozide	1
@@ -27676,11 +29474,13 @@ intervievări	1
 trişte	1
 autorităţi	1
 stamine	1
+osmanlâi	0
 osmanlâi	1
 fresce	1
 eleuterii	1
 îmbucări	1
 îmbrânceli	1
+rezidenţi	0
 rezidente	1
 nulităţi	1
 regate	1
@@ -27704,10 +29504,12 @@ patinări	1
 clironomi	0
 trestii	1
 radicali	0
+năprasnici	0
 năprasnice	1
 idioplasme	1
 canavale	1
 fluorurări	1
+meglenoromâni	0
 meglenoromâne	1
 rinoscopii	1
 manşe	1
@@ -27715,6 +29517,7 @@ repaginări	1
 macioale	1
 motănei	0
 primitivizări	1
+nisporeneni	0
 nisporenene	1
 dimii	1
 camuflări	1
@@ -27726,6 +29529,7 @@ rabinişti	0
 impozitări	1
 pisări	1
 cătane	1
+triumfalişti	0
 triumfaliste	1
 bronhiole	1
 albii	1
@@ -27753,8 +29557,10 @@ branişti	1
 soarele	1
 cuibăriri	1
 cuirasări	1
+endoparaziţi	0
 endoparazite	1
 entorse	1
+confuzionişti	0
 confuzioniste	1
 surprize	1
 ţinutaşi	0
@@ -27765,6 +29571,7 @@ fudulii	1
 sechestrări	1
 sincopări	1
 compresorişti	0
+răufăcători	0
 răufăcătoare	1
 trândăveli	1
 nerozii	1
@@ -27787,17 +29594,20 @@ comorieni	0
 frăguliţe	1
 moine	1
 antrachinone	1
+covăsneni	0
 covăsnene	1
 peregrinări	1
 combainişti	0
 petrecanii	1
 diachene	1
 borte	1
+făcători	0
 făcătoare	1
 jitniţe	1
 păltinei	0
 gestaţii	1
 peroraţii	1
+profascişti	0
 profasciste	1
 infinităţi	1
 şfei	0
@@ -27814,6 +29624,7 @@ radioprotecţii	1
 paleobotanişti	0
 minibaschetbaliste	1
 gibereline	1
+mercenari	0
 mercenare	1
 fardări	1
 dactilomegalii	1
@@ -27824,6 +29635,7 @@ hidrocentrale	1
 rocarniţe	1
 îngăimări	1
 computeristă	1
+ialomiţeni	0
 ialomiţene	1
 roşăţele	1
 ciuturele	1
@@ -27850,6 +29662,7 @@ toponimii	1
 orchestraţii	1
 intenţii	1
 pistruieli	1
+falansterieni	0
 falansteriene	1
 udări	1
 postdatări	1
@@ -27879,6 +29692,7 @@ dezarticulări	1
 descendenţe	1
 colonizări	1
 harfe	1
+deportaţi	0
 deportate	1
 siemenşi	0
 metişi	0
@@ -27887,6 +29701,7 @@ bare	1
 dănţuiri	1
 stabilovolţi	0
 ergone	1
+gimcanişti	0
 gimcaniste	1
 bruşi	0
 licenţiate	1
@@ -27898,13 +29713,16 @@ alungări	1
 căprării	1
 scriptori	0
 butade	1
+sufişti	0
 sufiste	1
 rediscutări	1
 balastări	1
+nord-coreeni	0
 nord-coreene	1
 egalizări	1
 plagiostomi	0
 culturologe	1
+sud-coreeni	0
 sud-coreene	1
 jardiniere	1
 eritrine	1
@@ -27923,10 +29741,13 @@ mâţe	1
 verbenacee	1
 decapitaţii	1
 arhimicete	1
+epicurei	0
 epicuree	1
+pasageri	0
 pasagere	1
 ţilindri	0
 paleoetnologi	0
+cumani	0
 cumane	1
 contrasăgeţi	1
 tentative	1
@@ -27940,6 +29761,7 @@ turişti	0
 jitari	0
 frigări	1
 transvazări	1
+polinezieni	0
 polineziene	1
 ahei	0
 interiorităţi	1
@@ -27978,6 +29800,7 @@ regiuni	1
 bodogăneli	1
 prăvălioare	1
 protocarburi	1
+feroviari	0
 feroviare	1
 paşi	0
 batracieni	0
@@ -27988,6 +29811,7 @@ mortezări	1
 tone-kilometru	1
 peticari	0
 zădărniciri	1
+cuvântători	0
 cuvântătoare	1
 reflectări	1
 pescuiri	1
@@ -28020,6 +29844,7 @@ mândrii	1
 hume	1
 foşniri	1
 perturbări	1
+hinduişti	0
 hinduiste	1
 şleahtici	0
 triatloniste	1
@@ -28032,6 +29857,7 @@ leţi	0
 aguzi	0
 repetitori	0
 mielărele	1
+modelatori	0
 xerografişti	0
 zurbave	1
 împoncişări	1
@@ -28057,6 +29883,7 @@ jape	1
 tropăieli	1
 psihologizări	1
 guri	1
+sluţi	0
 slute	1
 descoperiri	1
 profesori	0
@@ -28065,6 +29892,7 @@ potere	1
 puşti	1
 cafri	0
 decatloniste	1
+dorneni	0
 dornene	1
 neuropsihologi	0
 telali	0
@@ -28075,6 +29903,7 @@ universiade	1
 zoopatii	1
 decapitări	1
 recursii	1
+ghizi	0
 neizbânzi	1
 iconiţe	1
 păruieli	1
@@ -28119,6 +29948,7 @@ izooctani	0
 paleoantropologi	0
 gamogeneze	1
 luptaşi	0
+regretaţi	0
 regretate	1
 progenituri	1
 oftalmii	1
@@ -28131,8 +29961,10 @@ sculpturi	1
 ofiologi	0
 yoghini	0
 caracterologe	1
+scorbutici	0
 scorbutice	1
 şarniere	1
+hipomani	0
 hipomane	1
 filiaţii	1
 mutre	1
@@ -28146,6 +29978,7 @@ trăncăniri	1
 gravitoni	0
 defalsificări	1
 lungani	0
+fanarioţi	0
 fanariote	1
 etilenglicoli	0
 preamăriri	1
@@ -28154,6 +29987,7 @@ disamare	1
 oxigenări	1
 şerbi	0
 ponegriri	1
+tişti	0
 traşi	0
 comândări	1
 muralişti	0
@@ -28178,6 +30012,7 @@ caişi	0
 parametrite	1
 caizi	0
 caiele	1
+ionici	0
 ionice	1
 arhondari	0
 muceniţe	1
@@ -28188,6 +30023,7 @@ privări	1
 garări	1
 buhăieli	1
 interpenetraţii	1
+sarazini	0
 sarazine	1
 arhimilionari	0
 practici	1
@@ -28203,10 +30039,12 @@ niprale	1
 cantore	1
 fauniste	1
 mistificaţii	1
+documentalişti	0
 documentaliste	1
 nebulozităţi	1
 distilerii	1
 coagulograme	1
+sperjuri	0
 ajutoare	1
 hipodermoze	1
 ciute	1
@@ -28225,6 +30063,7 @@ zenanale	1
 flibusterii	1
 afemeiaţi	0
 hecatombe	1
+centri	0
 pacişi	1
 marţafoi	0
 curteni	0
@@ -28234,9 +30073,11 @@ opinci	1
 escobari	0
 betelii	1
 ulani	0
+şlefuitori	0
 şlefuitoare	1
 pensionari	0
 nucleoli	0
+holistici	0
 holistice	1
 oxicefalii	1
 hortensii	1
@@ -28248,6 +30089,7 @@ muscuţe	1
 creanţe	1
 insecte	1
 spermateci	1
+septuagenari	0
 septuagenare	1
 baş-caimacami	0
 oploşiri	1
@@ -28263,6 +30105,7 @@ ocne	1
 ocoliri	1
 vieri	0
 securici	1
+pizmaşi	0
 pizmaşe	1
 îngălări	1
 unghişoare	1
@@ -28278,6 +30121,7 @@ miercuri	1
 diplome	1
 contemperaţii	1
 sporogeneze	1
+marxist-leninişti	0
 marxist-leniniste	1
 miozine	1
 bandoteci	1
@@ -28291,6 +30135,7 @@ sonetişti	0
 sonante	1
 anticari	0
 stâlpuleţi	0
+secesionişti	0
 secesioniste	1
 băcăuani	0
 chibiţi	0
@@ -28355,6 +30200,7 @@ patrii	1
 cabalete	1
 azalee	1
 grizări	1
+intuiţionişti	0
 intuiţioniste	1
 microfilmări	1
 porecliri	1
@@ -28445,9 +30291,11 @@ odorizanţi	0
 oospori	0
 mite	1
 lănci	1
+hidropici	0
 hidropice	1
 vetre	1
 junci	0
+juni	0
 june	1
 ecloziuni	1
 nitrobacterii	1
@@ -28455,5 +30303,6 @@ răchite	1
 dezbinări	1
 concetăţeni	0
 antirasişti	0
+muncitori	0
 muncitoare	1
 nervaţiuni	1

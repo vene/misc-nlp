@@ -1,4 +1,3 @@
-ponivoase
 tahânuri
 tasoane
 gavaje
@@ -28,6 +27,7 @@ lănţişoare
 octatloane
 stăvilare
 mamifere
+somnuri
 manicorduri
 taxofoane
 coltucele
@@ -36,13 +36,13 @@ nesfârşituri
 şariaje
 hidromonitoare
 autopluguri
+fertilizatori
 fire
 portcuţite
 fibrobetonuri
 şoturi
 abţibilduri
 nixisuri
-ortodoxiste
 exordii
 aerocartografe
 suplicii
@@ -69,7 +69,6 @@ piscane
 degresaje
 laitmotive
 incrementuri
-reşiţene
 priboaie
 monopodii
 tecsuri
@@ -109,15 +108,16 @@ boilere
 vânticele
 depresiometre
 higrografe
-iubite
 haluri
 hamuri
+hanuri
 hacuri
 hazuri
 hapuri
 haruri
 haturi
 preterite
+sferolite
 gravimetre
 dedaluri
 miniscafuri
@@ -141,7 +141,6 @@ algoritmi
 incineratoare
 dueluri
 emulsionante
-pelur
 duete
 audioprotectoare
 repelente
@@ -149,7 +148,6 @@ sanatorii
 etalonaje
 şteanduri
 sfărâmătoare
-psihrofile
 microautomobile
 rechizitorii
 psihisme
@@ -205,7 +203,6 @@ catahrisuri
 jurnale
 menziluri
 microagregate
-născute
 zimberechi
 moleschinuri
 avertismente
@@ -257,9 +254,7 @@ mildiografe
 ţintare
 generatoare
 tălpoaie
-prăşitoare
 biomotoare
-nemţene
 gismente
 gruiuri
 regulamente
@@ -269,7 +264,6 @@ termofoare
 termofoane
 periacte
 crepoane
-pocăite
 cuplete
 vehicule
 strapazane
@@ -337,6 +331,7 @@ dozimetre
 echinocţii
 scruntare
 carmace
+depănătoare
 megametre
 diafilme
 bavardaje
@@ -356,9 +351,8 @@ aeromodele
 anteporturi
 oligochete
 miare
-recitante
 arabisme
-viruşi
+virusuri
 homotransplanturi
 arteluri
 petroliere
@@ -366,6 +360,7 @@ finisaje
 duolete
 trupuşoare
 semirecitaluri
+lombarduri
 carameluri
 facturiere
 analoguri
@@ -383,13 +378,11 @@ lingouri
 perimetre
 batiscafuri
 velocipede
-nevropate
 cuptoraşe
 portchei
 refrigerente
 şalandere
 subsidii
-prezbiteriene
 scâncete
 paioale
 baipasuri
@@ -514,6 +507,7 @@ demisoluri
 atice
 costotome
 ostracode
+gălămoaze
 nimitezuri
 brecuri
 electrofoane
@@ -548,7 +542,6 @@ icnete
 avizouri
 veleaturi
 indice
-plointe
 pulverizatoare
 traforaje
 eritrocite
@@ -557,7 +550,7 @@ reverbere
 ansambluri
 sumănele
 emondoare
-vlăstari
+vlăstare
 subcomitete
 cancerigene
 concentrate
@@ -566,7 +559,6 @@ manotermografe
 hidroglisoare
 triptice
 schilifturi
-neorealiste
 ectipuri
 paradoxuri
 diedre
@@ -624,12 +616,12 @@ perdafuri
 statute
 spălaturi
 hârzoabe
-prostănace
 granodiorite
 ploturi
 ploduri
 adamante
 gazogeneratoare
+erguri
 portdrapele
 cautere
 jertfelnice
@@ -653,7 +645,6 @@ stihare
 îngrăşăminte
 cromometre
 autofurgoane
-palatine
 sampane
 intertexte
 alburnuri
@@ -664,7 +655,7 @@ colecisturi
 renete
 onomasticoane
 decesuri
-torenţi
+torente
 elevatoare
 zăbranice
 genotipuri
@@ -675,6 +666,7 @@ prânzuţuri
 opăicioare
 scarificatoare
 răşchiaturi
+blocanţi
 furtunuri
 lucruri
 agriotipuri
@@ -690,13 +682,13 @@ tamâşuri
 puricaturi
 rahaturi
 trioduri
+uricare
 conţuri
 economate
 eresuri
 numere
 termomanometre
 excremente
-nonconformiste
 ocinaşe
 topmodele
 cuptoare
@@ -734,13 +726,11 @@ herpesuri
 opise
 verbiaje
 lavajuri
-ocârmuitoare
 debleuri
 interimate
 răzuşuriuri
 baptisterii
 trenuleţe
-nou-născute
 nervile
 copartaje
 borţuri
@@ -759,9 +749,11 @@ vârfuri
 tefeluge
 ciuroaie
 feredeie
+urdare
 rizotomi
 costuri
 anemotroape
+plutoane
 botezuri
 boteie
 ulcuse
@@ -800,8 +792,8 @@ declinatoare
 indigenate
 ghiontituri
 tirfoane
+soluri
 absorbante
-plutoniene
 tranzistormetre
 telecentre
 sosuri
@@ -818,7 +810,6 @@ biciuşoare
 panicule
 sferometre
 amniosuri
-roşiorene
 focuşoare
 năsuţuri
 pudinguri
@@ -826,13 +817,14 @@ semideşerturi
 gărdinare
 diagnostice
 eşantionaje
-rutinare
 plastotipuri
 ringuri
 rebrusmente
 cumuluri
 ceainice
 ghizduri
+antijivranţi
+multiplicatoare
 fârnâituri
 platelaje
 borhoturi
@@ -844,10 +836,10 @@ glisaje
 litosoluri
 stopaje
 femururi
+debavuratoare
 răsaduri
 dezarimaje
 diafanoscoape
-recurente
 oberecuri
 huricane
 coccisuri
@@ -902,6 +894,7 @@ cilindroame
 descălţaturi
 pitoaie
 rubefiante
+pitoane
 jaloane
 tempofoane
 automotoare
@@ -929,9 +922,9 @@ picotaje
 microsisteme
 cetinişuri
 pucuri
+cathartici
 aminoalcooluri
 mărfare
-rusofobe
 cratere
 pseudopode
 motoreactoare
@@ -962,10 +955,8 @@ cepuri
 minologhioane
 magnetofoane
 cortuleţe
-tăvăluguri
 picuri
 tălmăşaguri
-potcaşe
 paraşocuri
 antizgomote
 lactometre
@@ -983,7 +974,6 @@ letopiseţe
 scrubere
 permeametre
 grefuri
-greci
 vibratoare
 grenuri
 încreţuri
@@ -1006,7 +996,6 @@ fisurometre
 oronimice
 gărduţuri
 strupuri
-recunoscătoare
 parmaclâcuri
 monostiluri
 reversoare
@@ -1017,7 +1006,6 @@ răscoale
 şalutiere
 dezasambloare
 consimţăminte
-carcaleţi
 mămăligoaie
 şrapnele
 tonouri
@@ -1031,6 +1019,7 @@ pacte
 muşuroaie
 aerotopografe
 proluvii
+heliotropuri
 deluţe
 salpetraje
 granturi
@@ -1046,13 +1035,11 @@ cadouri
 minicomputere
 hiacinturi
 ambulacre
-radicaliste
 onorarii
 zăpucuri
 anrocamente
 foraibăre
 productometre
-pangermanice
 asteronime
 cabotaje
 papusuri
@@ -1061,7 +1048,6 @@ institute
 rulaje
 metereze
 combinatoare
-paratifice
 aneroide
 corapoarte
 antiscorbutice
@@ -1078,9 +1064,7 @@ cronometre
 brahianticlinale
 macroelemente
 antimălurice
-pidosnice
 turnuleţe
-ritualiste
 estimate
 sicrie
 ghiolduri
@@ -1109,7 +1093,6 @@ narturi
 pirheliografe
 talazuri
 antinevralgice
-talani
 filamente
 farduri
 interviuri
@@ -1133,6 +1116,7 @@ coferdamuri
 meniuri
 abrazive
 mausolee
+achiuri
 branhiopode
 renghiuri
 asedii
@@ -1168,7 +1152,6 @@ oxitone
 geoecotipuri
 miliare
 tipometre
-paleocreştine
 huliganisme
 gâtlejuri
 tunele
@@ -1197,12 +1180,12 @@ gâturi
 chinonice
 răftuleţe
 aerografe
+focalizatori
 balcanisme
 ispisoace
 cataifuri
 radiocluburi
 balastre
-lăptişori
 crucişătoare
 diapire
 transsahariene
@@ -1233,6 +1216,7 @@ staluri
 dansometre
 radioghidaje
 bronhometre
+sineturi
 aule
 patefoane
 auturi
@@ -1250,7 +1234,6 @@ provizioane
 cepăituri
 cotărituri
 monoblocuri
-pretoriene
 biotipuri
 receptacule
 şteampuri
@@ -1260,7 +1243,6 @@ terminatoare
 climate
 climaxuri
 autotrenuri
-obsedate
 cineproiectoare
 plastroane
 clinometre
@@ -1314,7 +1296,6 @@ sferoide
 subsecretariate
 marcaje
 umeraşe
-scuipaţi
 plonjoare
 irmoase
 plonjoane
@@ -1328,7 +1309,6 @@ specule
 cojoace
 lapiezuri
 sculişoare
-paroliste
 lacrimatorii
 canturi
 umerare
@@ -1348,7 +1328,6 @@ cuiuţe
 bucheţele
 portvizite
 dealuri
-salonicane
 centoane
 şenale
 confesionale
@@ -1361,7 +1340,6 @@ linţolii
 ascuţişuri
 puşcoace
 simptome
-orezuri
 spătare
 macmahoane
 ametiste
@@ -1388,7 +1366,6 @@ rântaşuri
 pacheboturi
 arhaisme
 cârlige
-pursânge
 derivoare
 cvorumuri
 hleiuri
@@ -1399,6 +1376,7 @@ zurbalâcuri
 sarcocele
 muchere
 virulicide
+boxuri
 boruri
 boturi
 boiuri
@@ -1419,6 +1397,7 @@ monosilabe
 mijlocuri
 sicrinele
 andrucuri
+antiholerice
 flajolete
 aerobioscoape
 boaşe
@@ -1427,6 +1406,7 @@ picătoare
 boţuri
 ocheane
 rapanghele
+monitoare
 comiţii
 flagelate
 drapaje
@@ -1458,6 +1438,7 @@ carburatoare
 capitule
 popice
 izdaturi
+hidrografe
 hidrograde
 colapsuri
 şoproane
@@ -1478,7 +1459,6 @@ iernătoare
 verticale
 lemnare
 ambitusuri
-perinefritice
 sagumuri
 autotransporturi
 rodoare
@@ -1493,7 +1473,6 @@ chicotituri
 cocsuri
 alcazare
 repartizoare
-refugiate
 enometre
 huludeţe
 oficleide
@@ -1514,7 +1493,6 @@ ciufuri
 conspecte
 mareşalate
 scutere
-obstrucţioniste
 amalgamatoare
 şuberece
 omuşoare
@@ -1529,6 +1507,7 @@ locative
 jnepenişuri
 decagrame
 şiretlicuri
+deschizătoare
 zgrunţuri
 percepte
 coltuce
@@ -1553,6 +1532,7 @@ ajutoare
 liogeluri
 demarcaje
 mărăcineturi
+perforatoare
 glicometre
 iusuri
 ionizoare
@@ -1571,7 +1551,6 @@ gazogene
 nomocanoane
 mulsuri
 capitonaje
-măriţi
 cuibare
 bageacuri
 criotroane
@@ -1610,12 +1589,12 @@ autodrumuri
 topuri
 schiascoape
 emporii
+viespare
 tolometre
 rezervatare
 tomuri
 inconveniente
 ştempele
-prezbite
 chitonoage
 biftecuri
 contrabaraje
@@ -1648,7 +1627,6 @@ restaurante
 litotomuri
 microgrupuri
 termoscoape
-poliglote
 practicabile
 geriduri
 semiartizanate
@@ -1687,6 +1665,7 @@ contactoare
 montaje
 epiuri
 cuvinte-cheie
+fisticuri
 periaturi
 cincinale
 mezanine
@@ -1713,7 +1692,6 @@ mixaje
 erbivore
 explozoare
 zbuciume
-recuzate
 patrimonii
 composturi
 garouri
@@ -1725,7 +1703,6 @@ racursiuri
 dolmane
 perimete
 cracaje
-safene
 talente
 tractire
 nartexuri
@@ -1747,18 +1724,16 @@ beilicuri
 inhalatoare
 lunecuşuri
 carcafunguri
-ocnene
 emulsoare
 ieşinduri
 giroscoape
 maracase
 mastisoluri
+momârlane
 cofraje
 termenvoxuri
-refulate
 scolexuri
 facometre
-acronime
 rondeluri
 contraproiecte
 dicteuri
@@ -1782,13 +1757,13 @@ vaporizatoare
 acostamente
 polonice
 menhire
-neohegeliene
 directorate
 acatiste
 radiomicrofoane
 seinere
 tranchete
 altoaie
+gelepuri
 saricuri
 alternatoare
 sitometre
@@ -1801,6 +1776,7 @@ agarlâcuri
 drumuşoare
 nutrimente
 jupoane
+porcoiaşe
 piezografe
 teritorii
 pedolite
@@ -1818,6 +1794,7 @@ contencioase
 pelosoluri
 cârduri
 antinefretice
+grindeie
 reglemente
 stereocomparatoare
 suprafluide
@@ -1825,7 +1802,6 @@ monostihuri
 pacheţele
 compartimentaje
 flişuri
-titireze
 miniecrane
 clondiraşe
 dubasuri
@@ -1836,7 +1812,6 @@ eneagoane
 parloare
 creionaşe
 bogasiuri
-hioide
 răsunete
 foişoare
 adenoame
@@ -1867,12 +1842,12 @@ tratate
 şnuruleţe
 sincronizoare
 elizee
+pariciduri
 microeseuri
 aviziere
 catavasiere
 icositetraedre
 magazinaje
-pădurene
 blumuri
 impulsoare
 revolvere
@@ -1885,6 +1860,7 @@ certificate
 boniere
 prescripte
 prozodeme
+ferăstrăiaşe
 hobote
 exponometre
 ornice
@@ -1920,13 +1896,11 @@ agneţe
 pardesiaşe
 portaluri
 sporofite
-paseiste
 şamponuri
 corpusuri
 sfalerite
 turbogeneratoare
 gheizere
-regionaliste
 dubloare
 dublouri
 pamflete
@@ -1941,17 +1915,16 @@ mărazuri
 semiproduse
 schituleţe
 hexareactoare
-paşoptiste
 pulsometre
 tropice
 sceptre
 ultimatumuri
+omuciduri
 jocote
 mucegaiuri
 paroiuri
 sulace
 răsărituri
-galbeni
 betonaje
 clupaje
 ecleraje
@@ -2008,8 +1981,8 @@ ahturi
 prepozitive
 transoceanice
 saleducte
-puturoase
 comprimate
+cotizatoare
 decastiluri
 morburi
 zodiare
@@ -2028,7 +2001,7 @@ fermentografe
 prisloape
 purcesuri
 crâmpeiaşe
-nomade
+guştere
 roluri
 romuri
 rocuri
@@ -2061,7 +2034,6 @@ sextilioane
 hipnotice
 partaje
 partale
-preabune
 citostatice
 idiomatisme
 miriapode
@@ -2090,11 +2062,11 @@ psihotonice
 turnuri
 turfuri
 cotlonaşe
+frezoare
 ciurechi
 cesuleţe
 cuiere
 grunduri
-grunzuri
 trocantere
 ventricule
 monoplane
@@ -2131,8 +2103,7 @@ vitezometre
 potiraşe
 videofoane
 dilatografe
-tulei
-poantiliste
+tuleie
 spirite
 exerciţii
 ecoloturi
@@ -2155,7 +2126,6 @@ prolapsuri
 brufturi
 suflete
 tecalemituri
-reactive
 schituri
 schipuri
 motocultivatoare
@@ -2173,7 +2143,6 @@ tahiscoape
 portamente
 felide
 budoare
-preistorice
 lactobaruri
 tensometre
 capiteluri
@@ -2202,7 +2171,6 @@ suflaiuri
 pocnete
 trusouri
 crupioane
-pângăritoare
 vivarii
 sandviciuri
 hârdaie
@@ -2217,13 +2185,13 @@ penticostare
 cicloscoape
 flanuri
 peletice
-purtătoare
 chiuituri
 exuvii
 saivane
 cerambicide
 azururi
 buruienişuri
+infanticiduri
 activatoare
 subgrupuri
 vârfuşoare
@@ -2270,9 +2238,7 @@ ieruri
 intermezzi
 procese
 gabarite
-ploieştene
 extensoare
-nou-venite
 taxiduri
 băltaie
 copolimeri
@@ -2291,7 +2257,6 @@ masere
 ecoscoape
 defecte
 şpuluri
-profeministe
 liniamente
 paraziticide
 eseiaje
@@ -2349,7 +2314,6 @@ radiotelemetre
 blastoderme
 tahistoscoape
 macroprograme
-duci
 kinescoape
 ciubucare
 acine
@@ -2357,11 +2321,9 @@ catehisme
 compasuri
 fulare
 codruleţe
-peripatetice
 turbotrenuri
 arivaje
 matoare
-proletcultiste
 portsemnale
 pasametre
 grupuleţe
@@ -2379,7 +2341,6 @@ poduţuri
 gleiuri
 gleturi
 paratonere
-republicane
 cleuasme
 şiştare
 cotloane
@@ -2393,12 +2354,10 @@ precompilatoare
 patvagoane
 organite
 triborduri
-predelene
 comarnice
 bidoane
 mohairuri
 postulate
-revoluţionare
 colane
 clipuri
 ouţe
@@ -2414,7 +2373,6 @@ perlaje
 acustomate
 galactometre
 caracterografi
-pravoslavnice
 salutiere
 granulocite
 turbosetere
@@ -2448,7 +2406,6 @@ selfactoare
 plasmocite
 taiere
 microelemente
-revanşarde
 bulucuri
 emondaje
 navomodele
@@ -2461,7 +2418,6 @@ meleuri
 concentratoare
 heptacorduri
 dezagregatoare
-neurotrope
 profundoare
 donjoane
 anevrisme
@@ -2508,6 +2464,7 @@ tălpige
 radiere
 aversuri
 cadavre
+teleoperatoare
 dornuri
 hăitaşe
 ziare
@@ -2549,6 +2506,7 @@ celărele
 calcane
 refrene
 tofusuri
+homiciduri
 ochituri
 pulpare
 bateliere
@@ -2562,7 +2520,6 @@ tristihuri
 batele
 turcisme
 tunoscoape
-pogromiste
 barşoane
 tonometre
 decuscutatoare
@@ -2591,10 +2548,12 @@ dezaburitoare
 degazificatoare
 lenajuri
 nipluri
+crotale
 grâuşoare
 deprimometre
 stelaratoare
 şiruri
+şipuri
 spaţuri
 şifuri
 şicuri
@@ -2611,7 +2570,6 @@ afrodiziace
 mundire
 juvelnice
 podeste
-plăsmuitoare
 ilionuri
 şiroaie
 pescaje
@@ -2691,6 +2649,7 @@ copitate
 şorţuri
 panouri
 degradeuri
+stoboruri
 tiraje
 mitinguri
 micronuclee
@@ -2701,6 +2660,7 @@ dendroauxometre
 staurolite
 portstindarde
 subamendamente
+crâsnice
 falimente
 pridvoare
 băhnişuri
@@ -2731,7 +2691,6 @@ columbare
 compactoare
 surplusuri
 discernăminte
-podgorene
 merline
 tabulate
 metisaje
@@ -2784,6 +2743,7 @@ clacuri
 tusete
 orăşele
 poduri
+spoitoare
 rafinoare
 contingente
 antapexuri
@@ -2827,7 +2787,6 @@ sincronizatoare
 potcapice
 rachiaşe
 ateliere
-roznovene
 reverberatoare
 heterocicluri
 fotolii
@@ -2843,14 +2802,13 @@ aerocluburi
 clinturi
 nitrometre
 pogromuri
-premonopoliste
 alveografe
 relaxante
 solipede
 filite
-remontante
 vagabondaje
 sedii
+polizoare
 şublere
 şmaguri
 calicule
@@ -2859,6 +2817,7 @@ viramente
 angajamente
 statusuri
 acceleratoare
+acordoare
 eclozionatoare
 ministeriate
 paragate
@@ -2876,7 +2835,6 @@ organzine
 consulturi
 sezoane
 autotratamente
-nictalope
 cutremure
 săptămânale
 pasaje
@@ -2905,14 +2863,12 @@ detunete
 pasavante
 paralele
 condroide
-magnicide
 teancuri
 funduri
 motouri
 bioelemente
 decoruri
 imobiliere
-salariate
 motocompresoare
 dodecagoane
 focare
@@ -2936,6 +2892,7 @@ lostopane
 şamuri
 şaluri
 zelare
+scorţare
 soporifere
 prevenitoare
 motocare
@@ -2957,6 +2914,7 @@ succedanee
 termoreglaje
 bireactoare
 sensuri
+pufuşoare
 autocamioane
 servicii
 borangicuri
@@ -3011,6 +2969,7 @@ ciurele
 pandantive
 padocuri
 paramente
+degresoare
 pofile
 baiane
 hemostatice
@@ -3027,7 +2986,6 @@ cnuturi
 pocaluri
 cavaluri
 gnaisuri
-rablagii
 salamalecuri
 cerdăcele
 uraniscuri
@@ -3053,19 +3011,17 @@ ripsuri
 oxidimetre
 flaiere
 delicii
-neurastenice
 slipmetre
 chichirezuri
 şuieraturi
-parvenite
 acrescăminte
 tahminuri
 miniinterviuri
 rambleuri
 pericentre
+sangeacuri
 transportoare
 povoduri
-nevrotice
 recursuri
 heptaedre
 oleometre
@@ -3084,6 +3040,7 @@ picouri
 ultramicroscoape
 sisteme
 adâncuri
+muculeţe
 borcănaşe
 inspectorate
 benoare
@@ -3103,7 +3060,6 @@ pensioane
 cardiografe
 orogene
 memoratoare
-albi
 haspeluri
 toiege
 plaivazuri
@@ -3122,6 +3078,7 @@ spininguri
 vibrafoane
 vaporaşe
 goruneturi
+pitace
 imuri
 podzoluri
 piluge
@@ -3146,10 +3103,7 @@ stanioluri
 epistolare
 şatrange
 cloroplaste
-prefeudale
-parnasiene
 fleuroni
-polisportive
 zimberecuri
 focometre
 decatloane
@@ -3159,12 +3113,12 @@ prejmete
 engraulide
 antihalouri
 promenuare
-privilegiate
 biogaze
 sfârâiace
 semnificate
 conective
 sucuri
+lefturi
 ţiuituri
 havaje
 leucosafire
@@ -3179,7 +3133,6 @@ endosperme
 răvăşele
 magnetouri
 relascoape
-rădăuţene
 cărpinişuri
 statoscoape
 copuri
@@ -3232,7 +3185,6 @@ cristalizatoare
 croşete
 croşee
 revere
-savoiarde
 subetaje
 ampermetre
 frotii
@@ -3289,10 +3241,12 @@ adâncitoare
 românisme
 peronee
 anglicisme
+termene
 decilaje
 epengluri
 aspectomate
 crepsuri
+nisipare
 facsimile
 surguciuri
 colturi
@@ -3301,7 +3255,6 @@ colburi
 bastoane
 sfaroguri
 geamantănaşe
-relativiste
 artose
 greblaturi
 arboreturi
@@ -3315,15 +3268,12 @@ locotractoare
 propilite
 quarcuri
 sibiaşe
-rebele
 gâgâituri
 contracalibre
 anhidrite
 colţuri
 manuscrise
 ştioburi
-optimiste
-puieţi
 autovaccinuri
 ţăhnituri
 acetofani
@@ -3360,6 +3310,7 @@ umezitoare
 afacerisme
 editoriale
 hematocele
+bestiare
 batigrafe
 navigrafe
 turboinjectoare
@@ -3373,13 +3324,11 @@ iugăre
 patinoare
 fluxmetre
 trabucuri
-reali
 specimene
 substantive
 rusisme
 linimente
 distihuri
-saigoneze
 dinţare
 bolţuri
 merişoare
@@ -3418,7 +3367,6 @@ ineluşe
 verbe
 rumbatroane
 retururi
-rasiste
 depilatoare
 horoscoape
 merchezuri
@@ -3454,6 +3402,7 @@ prognosticuri
 cvintilioane
 spargheţuri
 plânsete
+observatoare
 săculteţe
 micrometre
 fineturi
@@ -3462,7 +3411,6 @@ urinale
 germinatoare
 corelative
 monodactile
-oficiante
 imprimate
 scrâşnete
 mazagranuri
@@ -3474,10 +3422,12 @@ caboşoane
 euripe
 puluri
 puduri
+pufuri
 bascuri
 basme
 şnituri
 fenieni
+comănace
 vomitive
 trombloane
 supertrusturi
@@ -3509,11 +3459,9 @@ emistihuri
 pansaje
 beteşuguri
 prezidii
-încălziri
 scociuri
 alişverişuri
 boschete
-nemuritoare
 girostabilizatoare
 mezeluri
 voleuri
@@ -3540,15 +3488,13 @@ mănunchiuleţe
 iatagane
 caravaninguri
 cazaciocuri
-vreji
+vrejuri
 zbierete
-plebicole
 xantoame
 radioreceptoare
 videocasetofoane
 răspunsuri
 grinduri
-rodii
 balonaşe
 epicranii
 carate
@@ -3575,8 +3521,8 @@ bumeranguri
 precepte
 căftănele
 heleşteie
+plumburi
 vicleşuguri
-opiofage
 tovălaşuri
 rizicuri
 neocortexuri
@@ -3645,7 +3591,6 @@ becuri
 angrenaje
 avansuri
 bordeluri
-panameze
 pezevenglâcuri
 bordeie
 piroxenite
@@ -3685,6 +3630,7 @@ moşituri
 supine
 modelee
 terasamente
+patriciduri
 oogoane
 acareturi
 electromotoare
@@ -3761,7 +3707,6 @@ intestine
 polisuri
 conciliabule
 abdomene
-pricinuitoare
 mezencefale
 ghipsuri
 chiulafuri
@@ -3778,6 +3723,8 @@ metronoame
 artizanate
 pudraje
 matelotaje
+pichere
+pichete
 conoscoape
 decorticatoare
 plesnete
@@ -3815,6 +3762,7 @@ arbie
 zornăituri
 tancuri
 neamuri
+calcule
 creioane
 izuri
 metropolitane
@@ -3855,7 +3803,6 @@ subansambluri
 burdace
 tabinete
 serpentarii
-nevolnice
 parcane
 şuvoaie
 homoptere
@@ -3869,13 +3816,11 @@ radioheliografe
 murişuri
 disipatoare
 gherocuri
-pribege
 rodaje
 tabsuri
 clavire
 hatâruri
 sâsâiace
-petrecătoare
 guseuri
 coroiaje
 opsasuri
@@ -3904,7 +3849,6 @@ basoane
 revirimente
 dirijabile
 groguri
-groşi
 gropuri
 cadriluri
 îngheţuri
@@ -3913,6 +3857,7 @@ galvanotipuri
 riţuri
 emanatoare
 transvertoare
+cornişoare
 premontaje
 lapsusuri
 suprapreţuri
@@ -3939,6 +3884,7 @@ hidromeluri
 water-balasturi
 grecisme
 paralelipipede
+birlicuri
 interdicte
 ionometre
 vientraje
@@ -3965,7 +3911,6 @@ bubaturi
 selsine
 protale
 contracâmpuri
-ruandeze
 calendare
 heptagoane
 lonjeroane
@@ -3983,7 +3928,6 @@ spiţelnice
 codiciluri
 octosilabe
 microfotometre
-şerlaie
 biocenometre
 destine
 ţigănisme
@@ -3999,7 +3943,6 @@ stadioane
 cabotiere
 autogoluri
 tuşuri
-prohibiţioniste
 bronzaje
 turbotrepane
 citoblaste
@@ -4018,6 +3961,7 @@ marcuri
 ighemonicoane
 radioteodolite
 talgeraşe
+asomatoare
 pluguşoare
 târnoage
 legănaşe
@@ -4047,6 +3991,7 @@ hinterlanduri
 subsoliere
 palane
 triouri
+mucuri
 ghiordane
 materiale
 sărcinere
@@ -4056,7 +4001,6 @@ zmeurişuri
 cufăraşe
 valsuri
 standarde
-conţi
 deversoare
 sedative
 buticuri
@@ -4082,20 +4026,19 @@ sileafuri
 ragace
 carotaje
 denisipatoare
-opinente
 azotometre
 tăietoare
 emiţătoare
 superfulgere
 metamere
 teletransporturi
+ciocănaşe
 cârdişoare
 termotelefoane
 mortiere
 trucaje
 pilotaje
 tasometre
-oveze
 şopote
 adaosuri
 comandouri
@@ -4124,6 +4067,7 @@ velastraiuri
 auditorii
 depresante
 volănaşe
+suspensoare
 presentimente
 crânguleţe
 işlicele
@@ -4141,6 +4085,7 @@ laticifere
 pericicluri
 arhipelaguri
 secrete
+ţiclinguri
 bomfaiere
 semilichide
 troacare
@@ -4154,7 +4099,6 @@ fitohormoni
 arenale
 repicaturi
 remedii
-cositoare
 momente
 encefale
 dublaje
@@ -4173,9 +4117,7 @@ cumacee
 monoxile
 răzălaie
 bosaje
-parodiante
 grame-forţă
-premilitare
 tifosuri
 alogisme
 camelide
@@ -4259,7 +4201,6 @@ contururi
 ambalaje
 purcoaie
 poantouri
-profitoare
 torşoane
 atropisme
 runcuri
@@ -4267,6 +4208,7 @@ recuri
 ictusuri
 franjuri
 misionariate
+papioane
 arbitraruri
 neglijeuri
 arbitraje
@@ -4294,7 +4236,6 @@ nivelmente
 radioreperaje
 barcazuri
 pastete
-păcale
 virginale
 monoame
 termografe
@@ -4312,7 +4253,6 @@ trotuare
 orticonoscoape
 agate
 ultracondensatoare
-preferate
 zeciuituri
 faetoane
 năgăruşuri
@@ -4331,7 +4271,6 @@ marochinuri
 zăbune
 dejunuri
 cucuie
-inserte
 ilaie
 struţişoare
 preverbiaje
@@ -4341,7 +4280,6 @@ odgoane
 lanternouri
 graifere
 panere
-providenţialiste
 teleampermetre
 simplexuri
 sincretisme
@@ -4371,7 +4309,6 @@ altoreliefuri
 hăineturi
 pilafuri
 hârâituri
-relicte
 spirifere
 azimuturi
 proţăpele
@@ -4384,7 +4321,6 @@ studii
 rescripte
 autostopuri
 gorgane
-poliploide
 badinaje
 etriere
 geofoane
@@ -4396,7 +4332,6 @@ trasee
 slalomuri
 guleraşe
 sifoane
-reformatoare
 postludii
 drosometre
 aforisme
@@ -4412,7 +4347,6 @@ blocstarturi
 cinisme
 ouşoare
 drâmboaie
-trimişi
 goluri
 opaxite
 sarcofage
@@ -4422,7 +4356,6 @@ comânduri
 scrâşnituri
 tintometre
 rectificate
-necunoscute
 căpătâie
 perispomene
 haosuri
@@ -4447,7 +4380,6 @@ băltace
 monocicluri
 firicele
 pistofoane
-satirice
 expectorante
 amvoane
 calcaroane
@@ -4456,7 +4388,6 @@ nuturi
 canalicule
 nuduri
 prostovoale
-pluraliste
 probatorii
 bizotaje
 trepădaturi
@@ -4479,7 +4410,6 @@ mezocarpuri
 tuleie
 antepaturi
 sfârcuri
-copiaţi
 degradatoare
 mosorele
 barigiroscoape
@@ -4520,6 +4450,7 @@ chipcele
 perfuzoare
 landouri
 hedere
+cioplitoare
 poeme
 precipitroane
 lambrechine
@@ -4564,7 +4495,6 @@ recensăminte
 semireliefuri
 electrodinamuri
 pneumosepte
-neoimpresioniste
 umidificatoare
 astrografe
 aritmogrife
@@ -4575,9 +4505,9 @@ nimburi
 trepieduri
 basculatoare
 apeluri
+ţolince
 felinare
 diorite
-realiste
 calibraje
 negoţuri
 fotoobiective
@@ -4613,7 +4543,6 @@ degrosisoare
 dinamografe
 sughiţuri
 descărcătoare
-politicianiste
 liturghiere
 picnicuri
 eidofoare
@@ -4624,6 +4553,7 @@ foxtroturi
 trifoaie
 însemne
 sideroscoape
+colonuri
 vestoane
 baloturi
 dichisuri
@@ -4678,6 +4608,7 @@ godeuri
 fligornuri
 telurometre
 acumetre
+caşeraţi
 telecopiatoare
 ferpare
 idiomuri
@@ -4685,6 +4616,7 @@ picograme
 prizoane
 telexuri
 antreuri
+topometre
 inactive
 maleficii
 crioscoape
@@ -4697,7 +4629,6 @@ filtraje
 ramolismente
 trenciuri
 teie
-pleuritice
 texuri
 videocanale
 cuţitaşe
@@ -4724,13 +4655,13 @@ cristalizoare
 cauce
 muzoare
 viceregate
-protoistorice
 şanfrenuri
 vagoane
 periscoape
 atelaje
 fotometre
 paricopitate
+senare
 senate
 ecartoare
 limpezişuri
@@ -4738,7 +4669,6 @@ făgete
 termoregulatoare
 vitriolaje
 radiofaruri
-repauzate
 antablamente
 palmografe
 circuite
@@ -4759,7 +4689,6 @@ râsete
 antihistaminice
 mirosuri
 minerale
-nobile
 spermotipuri
 duşuri
 penaltiuri
@@ -4808,14 +4737,15 @@ urometre
 capoane
 pitiatisme
 capoturi
+ciomăgaşe
 deznodăminte
 anunciatoare
 contăşele
 docăraşe
 zvonuri
 torsiometre
-prostane
 vingalace
+tahigrafe
 canale
 canafi
 şabăre
@@ -4829,8 +4759,6 @@ luminoblocuri
 parafocuri
 cleionaje
 sculamente
-perverse
-pitagoreice
 detartraje
 gogoloaie
 altigrafe
@@ -4846,7 +4774,6 @@ torace
 răzbele
 autoexcavatoare
 spineturi
-neokantiene
 insectifuge
 teluri
 lubrificatoare
@@ -4854,7 +4781,10 @@ gerguri
 inele
 feluri
 fesuri
+uraturi
 megaloblaste
+chituri
+sorburi
 celomate
 augmente
 chernăre
@@ -4894,6 +4824,7 @@ priboiaşe
 zulumuri
 dezavantaje
 năsuşoare
+arbaletriere
 acoperişuri
 vase
 pedometre
@@ -4911,7 +4842,6 @@ radiosemnale
 fanoane
 retroproiectoare
 fasunguri
-producătoare
 tubaje
 ihtiometre
 păltinişuri
@@ -4923,14 +4853,12 @@ efecte
 colţuleţe
 bronzuri
 intravilane
-ave
 ultraporţelanuri
 compoturi
 lăibărace
 determinante
 alimentatoare
 piscuşoare
-istorice
 intrânduri
 corsete
 conservante
@@ -4956,7 +4884,6 @@ panoniene
 frecuşuriuri
 poghiazuri
 geambaşlâcuri
-predeterminante
 piramidoane
 cojitoare
 luminaje
@@ -4979,6 +4906,7 @@ astrometre
 subictere
 craniate
 argotisme
+păiere
 corvide
 grilaje
 ecvidee
@@ -5002,6 +4930,7 @@ marafeturi
 mieunaturi
 microdispozitive
 ştreanguri
+antrenoare
 îndemnuri
 laringe
 demagnetizoare
@@ -5018,8 +4947,8 @@ perfografe
 ceacăie
 biocicluri
 subiecte
-poporane
 planetarii
+trocare
 cochilaje
 repicaje
 haşeuri
@@ -5032,12 +4961,12 @@ pliante
 neuroleptice
 monomotoare
 turniruri
-rutiniere
 filmpacuri
 topocentre
 personale
 explozimetre
 orbalţuri
+agregate
 miliarde
 micafolii
 trenuri
@@ -5045,6 +4974,7 @@ covruri
 blacheuri
 zăvoraşe
 deliberate
+algicizi
 prelungitoare
 escalatoare
 autosporturi
@@ -5091,7 +5021,6 @@ hidromasaje
 înconjururi
 microtraumatisme
 microseisme
-predomnitoare
 covoare
 criptometre
 punctişoare
@@ -5107,6 +5036,7 @@ tricoturi
 propulsoare
 spicilegii
 cercăneli
+sonuri
 măsoaie
 recepaje
 supravoltoare
@@ -5119,6 +5049,7 @@ pătucuri
 burghie
 locşoare
 capotaje
+rafinatoare
 fânuri
 cearşafuri
 oscilografe
@@ -5129,7 +5060,6 @@ peristiluri
 planimetre
 albeţe
 geanticlinale
-newyorkeze
 plastiscoape
 convertoplane
 conteinere
@@ -5154,6 +5084,7 @@ etnocide
 cortegii
 cazinouri
 masconi
+tambure
 tăuri
 slobozitoare
 suplimente
@@ -5178,7 +5109,6 @@ psefite
 forfete
 detaşoare
 rotisoare
-panteiste
 poansonaje
 catetometre
 săraduri
@@ -5252,7 +5182,6 @@ jabouri
 portelicoptere
 vodeviluri
 drumeaguri
-oportuniste
 hemuri
 reostate
 bruiaje
@@ -5294,7 +5223,6 @@ epolmente
 fotorelee
 rugozimetre
 caiace
-octogenare
 gavanoase
 privaluri
 hublouri
@@ -5319,7 +5247,6 @@ genomi
 portbilete
 optative
 discriminatoare
-probabiliste
 dendrobionte
 grânare
 decoltaje
@@ -5369,9 +5296,9 @@ brontografe
 feroaliaje
 piane
 laminoare
-newtoniene
 sincrolifturi
 testemele
+antiastmatice
 elagaje
 arteriografe
 suişuri
@@ -5404,7 +5331,6 @@ retrocedente
 uzuri
 vertije
 cinuri
-ciri
 cipuri
 cituri
 uduri
@@ -5418,6 +5344,7 @@ balafoane
 spilite
 tavane
 fonografe
+secretare
 beloniforme
 privilegii
 foale
@@ -5427,6 +5354,7 @@ indicative
 motodromuri
 iaurturi
 ţarţamuri
+alcooluri
 punciuri
 puncte
 ucisuri
@@ -5456,7 +5384,6 @@ petrisaje
 elemente
 favusuri
 spintariscoape
-neogramatice
 subrauri
 pestrefuri
 usucuri
@@ -5468,6 +5395,7 @@ moduloare
 decofraje
 contraplacaje
 modulometre
+salvamare
 zănaturi
 huciuri
 antivomitive
@@ -5485,7 +5413,6 @@ balonzaide
 lactofermentatori
 şipurele
 denotate
-panlogiste
 chibzuri
 batireometre
 umbrare
@@ -5507,6 +5434,7 @@ cavernometre
 mieduri
 ursoane
 pistoane
+pistoale
 exhaustoare
 distiluri
 emasculatoare
@@ -5519,6 +5447,7 @@ incote
 conductometre
 tuşeuri
 ablative
+decupatoare
 hectograme
 hectografe
 ozonizatoare
@@ -5532,7 +5461,6 @@ eutectoide
 vârfuţuri
 endobionte
 zornete
-nicosiene
 antroponime
 stângisme
 anticorodale
@@ -5543,7 +5471,6 @@ cartulare
 bangăte
 planifilme
 singiruri
-pârâcioase
 taluzuri
 verticile
 irisuri
@@ -5556,7 +5483,6 @@ embaticuri
 catamarane
 peritonee
 neadevăruri
-pitiatice
 ripeaguri
 calmante
 incuri
@@ -5593,6 +5519,7 @@ xenisme
 orizonturi
 podmoluri
 trienii
+contrabasuri
 pulpoducte
 abecedare
 extensografe
@@ -5648,6 +5575,7 @@ puitoare
 boghiuri
 căldăroaie
 areopicnometre
+liude
 prunduri
 yenerite
 diabeturi
@@ -5721,6 +5649,8 @@ antiradare
 surtucaşe
 daltoni
 reportofoane
+sânuri
+diluaţi
 târnăcoape
 caşi
 falconete
@@ -5773,7 +5703,6 @@ arpegii
 condeiaşe
 albume
 ghiobuleţe
-preromantice
 glosare
 jghebuleţe
 pornitoare
@@ -5789,7 +5718,6 @@ barografe
 urbarii
 accelerometre
 pălimare
-tragice
 minicampionate
 semiuscaturi
 polobocele
@@ -5810,9 +5738,9 @@ cerdacuri
 bimilenii
 fretaje
 digestoare
-livani
 profonturi
 anotimpuri
+radiofarmaceutici
 bazinaşe
 opusturi
 pupilometre
@@ -5829,14 +5757,12 @@ angiospasme
 igluuri
 astrocompasuri
 mehtupuri
-pedante
 trencicoturi
 fluidifiante
 stelaje
 lignometre
 altitelemetre
 losanje
-proletare
 chilofite
 vergelatoare
 petroduroscoape
@@ -5882,15 +5808,12 @@ apometre
 mestecaie
 motocrosuri
 scintiscanografe
-preafrumoase
 ungătoare
 bigotisme
 încărcătoare
 colţişoare
 velometre
-sextile
 balansoare
-pelagroase
 hemoglobinometre
 epifenomene
 aterisamente
@@ -5902,7 +5825,6 @@ recreditive
 poansoane
 talhâşuri
 sârbisme
-somnişori
 ţuguie
 borderouri
 serclaje
@@ -5911,20 +5833,20 @@ cronometraje
 bice
 paramere
 pâraie
-pârâte
 captatoare
-reproducătoare
+canceroizi
 mărgărite
 arsenale
 teratroane
 oscioare
-versanţi
+versante
 plantoane
 afixoizi
 bănărituri
 smochineturi
 timpanoane
 peticuţe
+oboluri
 meredeie
 şaiuri
 schimbătoare
@@ -5952,7 +5874,6 @@ lasouri
 ştaburi
 hiponime
 obstacole
-prostatice
 lufturi
 gnomoane
 afundişuri
@@ -5978,6 +5899,7 @@ barbotine
 contrarii
 dărăbuţe
 boţişoare
+buhaiuri
 dicţionăraşe
 retracte
 damfuri
@@ -6011,7 +5933,6 @@ barimetre
 şevere
 terteluri
 transepte
-poltrone
 şinare
 defibratoare
 scanografe
@@ -6030,7 +5951,6 @@ subterane
 cervide
 aşternuturi
 iezere
-salvadoriene
 haremuri
 tuluri
 florilegii
@@ -6044,10 +5964,10 @@ occiputuri
 potcapuri
 apropouri
 cămăşoaie
-băcani
 aleurolite
 vinuleţe
 căpitălaşe
+izolatoare
 baladoare
 hipercalculatoare
 club-baruri
@@ -6062,7 +5982,6 @@ bimotoare
 bimetale
 călineturi
 intraoculare
-colonei
 rectorate
 granuloame
 ghiudenuri
@@ -6077,6 +5996,7 @@ chimire
 palmaresuri
 coridoraşe
 sorite
+startere
 sanhedrinuri
 hamalâcuri
 antresoluri
@@ -6093,7 +6013,6 @@ reductoare
 anticoagulante
 anesteziante
 dendrometre
-preafericite
 guvernăminte
 adstraturi
 ocolişuri
@@ -6106,6 +6025,7 @@ rânduri
 superstraturi
 beţe
 planşee
+cotigare
 microcalculatoare
 scrutine
 stilete
@@ -6195,7 +6115,6 @@ triedre
 demerite
 letcoane
 supozitoare
-pragmatiste
 ţignale
 colofoane
 macroscoape
@@ -6221,7 +6140,6 @@ levantinuri
 amfiteatre
 impermeabile
 pristornice
-orşovene
 separatoare
 osturi
 paracăzătoare
@@ -6247,7 +6165,6 @@ bârneţe
 prezenturi
 microcinematografe
 discuitoare
-pannaturiste
 depurative
 rezumate
 sintetizoare
@@ -6299,7 +6216,6 @@ trapioane
 prospecte
 postsincronuri
 cufere
-revizioniste
 anteproiecte
 şifoane
 saluri
@@ -6360,7 +6276,6 @@ obraze
 subsolaje
 iuituri
 noduleţe
-prerevoluţionare
 purjoare
 zamparalâcuri
 ictere
@@ -6405,6 +6320,7 @@ aculeate
 safariuri
 presoare
 blindaje
+raportoare
 ţigheruri
 travalii
 etaloane
@@ -6427,7 +6343,6 @@ anusuri
 autosifoane
 verdicte
 latinisme
-omorâtoare
 ultrasonoscoape
 cuiburi
 termovizoare
@@ -6449,17 +6364,19 @@ oligopoluri
 politipuri
 dărabe
 trocuri
+ocolaşe
 osciloscoape
 algezimetre
 lepuituri
-panicarde
 ornamente
 teleinterviuri
 ştendere
 tuciuri
+creanţiere
 ciochinare
 reversuri
 arhilocuri
+centimetre
 aminoplaste
 lubricatoare
 măceluri
@@ -6505,7 +6422,6 @@ hangere
 spionaje
 toporele
 alezatoare
-romantice
 dărăcitoare
 exemplare
 dolmene
@@ -6531,7 +6447,6 @@ văsuşoare
 demultiplicatoare
 liparite
 pătrare
-rusofone
 mezoreliefuri
 componente
 divizioane
@@ -6539,7 +6454,6 @@ anemografe
 autoexiluri
 cinerecitale
 litouri
-orădene
 intertipuri
 bairamuri
 fototeodolite
@@ -6562,10 +6476,8 @@ avanbecuri
 pătrăţele
 subcapitole
 decompresoare
-neogreci
 extispicii
 invertoare
-mortiere
 vomismente
 radare
 monoraiuri
@@ -6577,7 +6489,6 @@ dispozitive
 erzaţuri
 supranume
 suflătoare
-propunătoare
 hidramniosuri
 sutiene
 exocarpuri
@@ -6589,14 +6500,12 @@ colontitluri
 târguleţe
 psihrometre
 transpozitive
-histiocite
 parcuri
 cobuze
 păcănituri
 autoconsumuri
 alunecătoare
 dezintegratoare
-poli
 eurodevize
 vilaiete
 făcăleţe
@@ -6664,11 +6573,9 @@ vitraje
 pasimetre
 bazamente
 cuadrimotoare
-paramilitare
 pentaedre
 dezmăţuri
 desalinizatoare
-preparatoare
 videotelefoane
 şaidaje
 adăposturi
@@ -6682,7 +6589,6 @@ luxmetre
 ciclofazotroane
 ghinturi
 martiraje
-responsabile
 surjete
 zvâcnete
 derivometre
@@ -6695,10 +6601,11 @@ cercuri
 truisme
 semitorturi
 nămoluri
-petroşenene
 faringoscoape
+trasoare
 miniteatre
 advonuri
+patente
 ghinţuri
 decuvaje
 învârtecuşuri
@@ -6764,7 +6671,6 @@ divertismente
 osteosarcomuri
 encefaloscoape
 fonofilme
-proaste
 bimestre
 spardecuri
 eolite
@@ -6773,6 +6679,7 @@ acuzative
 panteonuri
 ultrafiltre
 afronturi
+râsuri
 frământătoare
 tonicardiace
 anticicloane
@@ -6807,7 +6714,6 @@ oţeturi
 prundoaie
 diplografe
 uranoscoape
-frumoase
 tainuri
 campusuri
 defazoare
@@ -6830,7 +6736,7 @@ partere
 măţişoare
 cataruri
 forumuri
-haplobionte
+haplobionţi
 straturi
 vişineturi
 melanjuri
@@ -6844,18 +6750,16 @@ candelabre
 paralelometre
 dezodorizante
 rubricatoare
-reformiste
 gâtişoare
 bomprese
-mistacocete
 zaharificatoare
 semagrafe
+vapoare
 multivibratoare
 urcioruşe
 semicentenare
 coagulatoare
 cluuri
-pizmuitoare
 subtonuri
 amănunte
 refierbătoare
@@ -6890,7 +6794,6 @@ teleconcursuri
 analogisme
 pericranii
 postprocesoare
-neproducătoare
 conformatoare
 ţeluri
 epilogisme
@@ -6921,11 +6824,11 @@ trusturi
 strelere
 rabatoare
 zoofite
+mucuşoare
 extrudere
 ginotipuri
 exterioare
 reşapaje
-pubere
 mercenariate
 negative
 zaimfuri
@@ -6976,7 +6879,6 @@ stabilizatoare
 cladofore
 instantanee
 gopacuri
-psiholeptice
 băltoaie
 miliampermetre
 radiocompasuri
@@ -6984,7 +6886,6 @@ extinctoare
 solodii
 breviare
 chitanţiere
-neroade
 şisturi
 semnalmente
 pisolite
@@ -6998,6 +6899,7 @@ tartruri
 travlinguri
 paravânturi
 hexacorduri
+şerpare
 amaraje
 anunţuri
 sinălaie
@@ -7026,11 +6928,11 @@ sabaturi
 hipogastre
 portulane
 criometre
+şeruitoare
 ulişori
 infarcte
 ciocane
 chilopode
-obscurantiste
 cartilaje
 tunere
 urcioraşe
@@ -7072,6 +6974,7 @@ prăgare
 desene
 masaje
 masate
+golomoaze
 aglomeratoare
 vizoare
 termobarografe
@@ -7083,6 +6986,7 @@ agesturi
 viersuri
 heliostate
 poturi
+popuri
 tandure
 claustre
 atestate
@@ -7101,15 +7005,15 @@ radioproiectoare
 imperii
 preselectoare
 telemetre
-paraplegice
 sertare
 luthuri
 tipuri
 cotoare
 termohidrometre
+cotoace
+cotoaie
 craniostate
 miofibroame
-salonarde
 amplificatoare
 stalagmometre
 tonice
@@ -7133,13 +7037,13 @@ băltăgele
 glucometre
 agremente
 survolaje
+untare
 aflorimente
 divorţuri
 sortilegii
 vinciuri
 cohalmuri
 ţuhausuri
-renegate
 degrasuri
 abisuri
 radiomagazine
@@ -7186,6 +7090,7 @@ ospeţe
 aeroautomobile
 parcaje
 cicloane
+ponturi
 protiste
 mişmaşuri
 stratostate
@@ -7246,6 +7151,7 @@ falsete
 acrostoluri
 romane
 contexte
+cocoaşe
 adiatoare
 italienisme
 anafoare
@@ -7254,18 +7160,15 @@ blancuri
 faciesuri
 microfulgere
 volocele
-roz
 fanioane
 năravuri
 leorpăituri
 arhetipuri
 coşmaruri
 adultere
-ofertante
 aterizoare
 morfoneme
 acroşaje
-trapişti
 pristavuri
 alfabete
 catrene
@@ -7283,6 +7186,7 @@ entropioane
 stelionate
 autovehicule
 diamante
+umere
 autotrolii
 petrefacte
 cuvinte
@@ -7293,11 +7197,11 @@ jintălaie
 driftere
 predicate
 unghere
+filere
 vicariate
 fileuri
 filete
 simboluri
-junioare
 havuzuri
 chimonouri
 fruntare
@@ -7323,6 +7227,7 @@ miraje
 ornate
 erectoare
 onduloare
+ochiuri
 hobâcuri
 capitaluri
 caulise
@@ -7364,6 +7269,7 @@ similidiamante
 dezodorizatoare
 elascoape
 seuri
+scriitoare
 capanuri
 capace
 cadusuri
@@ -7410,6 +7316,7 @@ bolerouri
 mandrine
 chiroptere
 gârlice
+finisoare
 grohotişuri
 samsoni
 brâuşoare
@@ -7430,7 +7337,6 @@ exporturi
 supertancuri
 pompoane
 depănaturi
-paraguayene
 matostate
 biolite
 timlece
@@ -7440,12 +7346,12 @@ varuri
 portjartiere
 peridotite
 scintilatoare
+diplomaturi
 tetraedre
 stilouri
 narcotice
 cloroleucite
 cucuruze
-privitoare
 tărtănaşe
 sătuce
 tălgerele
@@ -7456,7 +7362,6 @@ reotropisme
 herburi
 explodoare
 electrodiagnostice
-prahovene
 samsarlâcuri
 controlere
 răvare
@@ -7493,7 +7398,6 @@ tetrarhate
 metraje
 spidere
 tropotituri
-neocolonialiste
 şahăr-mahăruri
 amorsaje
 străjace
@@ -7513,11 +7417,10 @@ nefografe
 ghemotoace
 cuconeturi
 ronduri
-preburgheze
 transmiţătoare
 turbioane
 scadenţare
-piemonteze
+scafandre
 citometre
 divanuri
 pelinaşe
@@ -7539,7 +7442,9 @@ cleruri
 cleiuri
 portcarturi
 patrulatere
+lingurare
 chelicere
+accidente
 vacarmuri
 fluometre
 economizoare
@@ -7579,7 +7484,6 @@ crenelaje
 ţarate
 antiparalelograme
 piroane
-nemernice
 fitinguri
 simpaticolitice
 pielmuri
@@ -7597,11 +7501,9 @@ delfinarii
 biotite
 timpuri
 litiere
-râmnicene
 minifrigidere
 participii
 giumbuşlucuri
-netoate
 sistre
 brâie
 contraplonjeuri
@@ -7634,7 +7536,6 @@ maratoane
 gâtare
 oblâncuri
 gudronatoare
-petrecăreţe
 catoscoape
 silozuri
 bertoane
@@ -7654,7 +7555,6 @@ patrupede
 ultraoptimetre
 aviofoane
 semanticisme
-revoltante
 grăuncioare
 antifonare
 pleuri
@@ -7668,7 +7568,6 @@ picioare
 calatidii
 marcotaje
 paralacuri
-reprimatoare
 hatişerifuri
 grizuscoape
 platinoide
@@ -7685,8 +7584,8 @@ salturi
 electrografe
 otice
 antiriduri
-premature
 capacimetre
+colivare
 silabare
 provianturi
 grizumetre
@@ -7701,7 +7600,6 @@ guturaiuri
 scrinuri
 vermicide
 hăţaşuri
-omoloage
 cupeuri
 ortotomusuri
 ghiociuri
@@ -7767,6 +7665,7 @@ monotreme
 microjurnale
 miaune
 tricoloruri
+curiere
 euploide
 nanchinuri
 autodricuri
@@ -7788,10 +7687,12 @@ moloşaguri
 encomioane
 autocitate
 semiauxiliare
+lude
 ceaunaşe
 transsiberiene
 crânguri
 traficuri
+identificatoare
 antenate
 învelişuri
 arhiducate
@@ -7814,7 +7715,6 @@ sifonofore
 bedreaguri
 sulfitaje
 secretariate
-parlamentare
 teriacuri
 algoluri
 compuse
@@ -7831,7 +7731,6 @@ bruioare
 stufaturi
 sicriaşe
 sarafane
-indiene
 şpriţuitoare
 patrontaşe
 stivaje
@@ -7844,6 +7743,7 @@ leduri
 şuiete
 hipsometre
 şuiere
+tritonuri
 filmfonografe
 verascoape
 adagii
@@ -7881,6 +7781,7 @@ impactoare
 deltaplane
 minidicţionare
 ciclometre
+muscaluri
 măiuţe
 chintale
 temple
@@ -7897,16 +7798,15 @@ falusuri
 falune
 pleonasme
 uxoricide
+alografi
 pernioane
 staminodii
 pripoane
 labradori
 ouleţe
-poienare
 măiuge
 adjuvante
 tarsuri
-particulare
 sigilii
 scrumuri
 candelmetre
@@ -7924,12 +7824,14 @@ procedee
 interpretoare
 pavoaze
 debreiaje
+distilatoare
 pârţuri
 coliere
 pliseuri
 megaperme
 butilcauciucuriuri
 cântecele
+troiene
 ugere
 lănţuguri
 ziduri
@@ -7947,12 +7849,13 @@ răsfăţuri
 trenuţuri
 gârniţeturi
 naosuri
+baritoane
 castronele
 turbomotoare
+porumbare
 laminate
 laminaje
 pirgeometre
-porumbace
 banditisme
 transparente
 electromobile
@@ -7971,9 +7874,10 @@ spalete
 argouri
 proptare
 avânturi
-pangermaniste
+deodoranţi
 ichiuri
 testacee
+fluieraşe
 juguri
 foşnete
 parageluri
@@ -7991,6 +7895,7 @@ contăşe
 piedestale
 ansilaje
 platane
+isnafuri
 ţopice
 hiposcenii
 tahografe
@@ -8010,9 +7915,7 @@ gredere
 mutaturi
 bageci
 violoncele
-pectinei
 auspicii
-protecţioniste
 dinamuri
 lesturi
 eleroane
@@ -8047,7 +7950,6 @@ imobiluri
 chihlimbaruri
 derapaje
 laterite
-proscrise
 pesticide
 hipnotizante
 ţancuri
@@ -8073,9 +7975,9 @@ debitmetre
 lanuri
 lafuri
 radiometeorografe
-nerecunoscătoare
 laturi
 arzătoare
+puişoare
 avaeturi
 rateşe
 degajamente
@@ -8085,7 +7987,6 @@ cotecioare
 cocoloşi
 kalipatroane
 cadenţmetre
-negre
 olmazuri
 afecte
 batardouri
@@ -8094,7 +7995,6 @@ laringoscoape
 urcioare
 claxoane
 microprograme
-comici
 tenuri
 căpăcele
 rateuri
@@ -8113,7 +8013,6 @@ transconteinere
 pichetaje
 toasturi
 prepuţuri
-pârâtoare
 declanşoare
 balasturi
 lapidarii
@@ -8150,13 +8049,13 @@ mieloblaste
 behăituri
 remuuri
 procese-verbale
-roşii
 edilaje
 ciclocrosuri
 crochiuri
 recolmente
 varieteuri
 crânguşoare
+nituri
 grupaje
 drituri
 fanotroane
@@ -8217,7 +8116,6 @@ gazometre
 cluburi
 finituri
 urşinice
-planificatoare
 terciuri
 baretoare
 indicii
@@ -8266,7 +8164,6 @@ decolatoare
 vânturare
 ajustaje
 volane
-personaliste
 şezlonguri
 stadii
 zoometre
@@ -8299,7 +8196,9 @@ mantelete
 drumuri
 gheşefturi
 glosografe
+cultivatoare
 ozonometre
+druguri
 tonoscoape
 dârmoane
 teleschiuri
@@ -8339,7 +8238,6 @@ habitacle
 chiolhanuri
 partizanate
 stileme
-prorocitoare
 priorate
 declinometre
 stăluleţe
@@ -8357,12 +8255,12 @@ hidroaeroplane
 mestecănişuri
 întrerupătoare
 resacuri
+matriciduri
 disruptoare
-învârtite
 surogate
+alonimi
 fosterite
 aldămaşuri
-recordiste
 dative
 cosmetice
 lagoane
@@ -8372,6 +8270,7 @@ stepaje
 cepchene
 antefixe
 pichamere
+hipotensive
 şoşoituri
 sifiloame
 cântare
@@ -8398,6 +8297,7 @@ aberometre
 treascuri
 higrostate
 cuarţuri
+biloane
 alcoolmetre
 electroforaje
 surmenajuri
@@ -8430,21 +8330,22 @@ pirometre
 gardamane
 frizoane
 avenante
+antiluetice
 minigeneratoare
 chiuluri
+traforatoare
 chiupuri
 transfilaje
-platnice
 portcreioane
 lichioruri
 fapturi
 vienaje
 depuratoare
 şniţele
+cavicorni
 boburi
 bâzdâcuri
 vagoane-atelier
-preimperialiste
 signalmente
 ecusoane
 abrazoare
@@ -8462,7 +8363,6 @@ paragrafe
 geosinclinale
 periaje
 transplante
-spondee
 melasoare
 rumene
 produse
@@ -8492,6 +8392,8 @@ modemuri
 mălinişuri
 lamentouri
 pişicherlâcuri
+olace
+olane
 olaturi
 hematogene
 cartere
@@ -8551,6 +8453,7 @@ finale
 rictusuri
 antihemoragice
 microprocesoare
+păpuşoaie
 tâlcuri
 tâlvuri
 bolometre
@@ -8579,8 +8482,6 @@ claubaje
 ghemuleţe
 cardane
 frunzeturi
-precapitaliste
-răsăritene
 computere
 cubiculumuri
 muştiucuri
@@ -8606,17 +8507,18 @@ superorticoane
 servomecanisme
 scintigrafe
 schiuri
+zălare
 electroporţelanuri
 ciubucuriuri
 ovule
 reesconturi
+tromboane
 taheografe
 videorecordere
 trahoame
 miniautoturisme
 culmişuri
 contraservicii
-rusofile
 helcometre
 octete
 răgete
@@ -8628,7 +8530,7 @@ pandişpanuri
 burduhane
 tentorii
 primaje
-primare
+receptoare
 radioitinerare
 mătăuze
 acvamarine
@@ -8722,7 +8624,6 @@ minarete
 cărătoare
 bulhace
 pupitre
-proiectante
 schematisme
 egalizatoare
 milesime
@@ -8733,6 +8634,8 @@ viscozimetre
 chepenguri
 telescaune
 mehăituri
+baruri
+basuri
 cabotoare
 baxuri
 bacuri
@@ -8752,7 +8655,6 @@ plusproduse
 conciuri
 filigrane
 stimuluri
-paralitice
 crosinguri
 deluleţe
 reculuri
@@ -8767,7 +8669,6 @@ cercurele
 alamane
 presiometre
 ultraaglomerate
-prevestitoare
 seriografi
 ampenaje
 ancastramente
@@ -8780,7 +8681,6 @@ manuale
 semifluide
 microrecitaluri
 bastingaje
-parazite
 deflectoare
 bolduri
 perşaje
@@ -8801,6 +8701,7 @@ autocaptoare
 ischionuri
 radiometre
 bercuri
+recuperatoare
 semiinternate
 vagonetaje
 antifebrile
@@ -8856,12 +8757,10 @@ graduale
 clapotamente
 ştrafuri
 roşaje
-maiele
 şperţuri
 kilograme-forţă
 basoreliefuri
 tiriplicuri
-oliv
 nerasuri
 orificii
 cazane
@@ -8896,14 +8795,12 @@ bonimente
 radiofonografe
 cantoane
 xilometre
-cantoare
 remorchere
 tamazlâcuri
 agheasmatare
 epidiascoape
 tracturi
 colorituri
-milanezi
 criostate
 ghiozdănele
 chipiuri
@@ -8920,7 +8817,6 @@ pumnale
 fişete
 teatre
 ghinioane
-paneleniste
 colorimetre
 solbancuri
 hidroseparatoare
@@ -8961,6 +8857,7 @@ doctorate
 zaharometre
 radiogoniografe
 baladere
+moluri
 moduri
 tifoane
 acvaplane
@@ -8978,9 +8875,11 @@ subdozaje
 zbârnâituri
 semantisme
 tripode
+moţuri
 tripouri
 oţetare
 episcenii
+scăunaşe
 cabestane
 reziduuri
 urlete
@@ -8996,15 +8895,17 @@ elicostate
 cenuşare
 monetare
 abeceuri
+diace
 godroane
 deghizamente
+evaporatoare
 bârloguri
 sufluri
 exsudate
 tricoptere
 furouri
+fierbătoare
 epitafuri
-reactivante
 păcate
 ţărcălane
 sirecuri
@@ -9026,14 +8927,11 @@ proiectoare
 microfoane
 diploscoape
 saronguri
-inhalante
 gherghire
 trosnete
-repetente
 antiputride
 triplane
 vibromasoare
-nordiste
 peciuri
 pretorturi
 tonusuri
@@ -9055,6 +8953,7 @@ pedimente
 chefnituri
 organisme
 planatoare
+porcane
 postăvioare
 presezoane
 cretoane
@@ -9065,6 +8964,7 @@ vinturi
 logometre
 autoradiografe
 apertometre
+năpârstoace
 debuşee
 deplumatoare
 undametre
@@ -9073,6 +8973,7 @@ bucare
 metazoare
 decapaje
 levantinuri
+trapeze
 fixative
 pedotaxoane
 pilcuri
@@ -9136,7 +9037,6 @@ deserturi
 tedeumuri
 coviltire
 aliniamente
-preaiubite
 uncropuri
 atlazuri
 atlase
@@ -9147,7 +9047,6 @@ parastase
 diluvii
 oloiuri
 savantlâcuri
-rhodesiene
 calipsouri
 oraşe
 zumzete
@@ -9158,7 +9057,6 @@ pronosticuri
 potânguri
 limburi
 scandaluri
-recreatoare
 şepinguri
 sejururi
 microtelefoane
@@ -9183,7 +9081,6 @@ ghiordele
 ferbere
 lipomuri
 rădvane
-orientale
 hipometre
 birouri
 subjonctive
@@ -9212,6 +9109,7 @@ sinaxare
 semiporţelanuri
 vărsăminte
 spinişuri
+ţimire
 beriluri
 mosoraşe
 termorelee
@@ -9258,7 +9156,6 @@ eflorismente
 aglomerate
 microtoame
 ştranduri
-trace
 demulgatoare
 ajutaje
 normotipi
@@ -9295,6 +9192,7 @@ dodecaedre
 şantiere
 văscioare
 ghintuleţe
+stopere
 divulsoare
 microgeneratoare
 pătucene
@@ -9310,7 +9208,6 @@ coteie
 pefeleuri
 cărţoaie
 acaustobiolite
-neonaziste
 cuişoare
 crioşocuri
 tronsoane
@@ -9324,6 +9221,7 @@ musturi
 microtroane
 conjunctoare-disjunctoare
 tasatori
+fratriciduri
 biostimulente
 coteţe
 bunduri
@@ -9337,6 +9235,7 @@ clenciuri
 burdufuri
 lepedeie
 namazuri
+digeşti
 carnaje
 retroactive
 anuscoape
@@ -9357,7 +9256,6 @@ pişlege
 accente
 magnacarduri
 dactiloptere
-piteştene
 lăibăruţe
 pregenerice
 diuretice
@@ -9373,7 +9271,6 @@ gloduri
 pontaje
 cafasuri
 metale
-curii
 antalgice
 câştiuri
 foitaje
@@ -9404,6 +9301,7 @@ marcatoare
 garaje
 ghiventuri
 dactilometre
+eteruri
 laptopuri
 brăţişoare
 lenchiuri
@@ -9448,9 +9346,7 @@ depouri
 ticuri
 penetrometre
 coruri
-nemţii
 giroclinometre
-recidiviste
 sălaşuri
 tetracorduri
 dâmburi
@@ -9507,7 +9403,6 @@ duplexuri
 cinecenacle
 microcomputere
 maiouri
-nord-dunărene
 meandre
 oratorii
 biodozimetre
@@ -9520,11 +9415,13 @@ rele
 vifore
 balâcuri
 stipendii
+galvanizatoare
 amerizoare
 minirecitaluri
 şezuturi
 hemocite
 dejivroare
+ectofiţi
 episcopate
 hidrogeluri
 sfigmomanometre
@@ -9561,6 +9458,7 @@ bitumuri
 gazoscoape
 sunete
 sexe
+calcinatoare
 balimezuri
 magnetizatoare
 kerdometre
@@ -9577,15 +9475,12 @@ vântuşoare
 kilo
 ţărcuşoare
 orcane
-postpaşoptiste
 blocuri
 mugete
 megohmmetre
 echivalente
-neoromantice
 schideri
 retransmiţătoare
-prelucrătoare
 electroventilatoare
 megafoane
 meplaturi
@@ -9641,13 +9536,11 @@ foliante
 faringe
 semitonuri
 microordinatoare
-pedestre
 culioane
 bobuleţe
 frăsineturi
 afineturi
 reflecte
-vânji
 maxi-taxiuri
 teleecrane
 policheţi
@@ -9655,6 +9548,7 @@ fânaţe
 electroencefalografe
 calcare
 conformisme
+pânzare
 agroecotipuri
 andosamente
 sufleuri
@@ -9674,7 +9568,6 @@ vurturi
 şapirografe
 microbuze
 odoraturi
-rotaşe
 hăituri
 microcite
 imperfecte
@@ -9722,7 +9615,6 @@ caupere
 picnometre
 auxiliare
 sacose
-jetele
 rituri
 riluri
 hidrotropisme
@@ -9734,14 +9626,12 @@ ergative
 genitive
 sincrociclotroane
 eşecuri
-presocialiste
 potenţiale
 cabarete
 periclinuri
 cioculeţe
 solonceacuri
 proconsulate
-panslaviste
 antiseptice
 mariaje
 şpaisuri
@@ -9749,6 +9639,7 @@ trigoane
 hinteie
 metrouri
 electroscutere
+ţilindre
 turisme
 palmere
 biatloane
@@ -9764,6 +9655,7 @@ etnonime
 grepuri
 stratometre
 ghintuituri
+pasuri
 voturi
 luminare
 electrofiltre
@@ -9772,11 +9664,14 @@ horşafuri
 partide
 gheliruri
 cremometre
+fermenticizi
 antropometre
 corimbe
 jarete
 izopode
+leaturi
 grasete
+repetitoare
 uscătoare
 modelatoare
 sloganuri
@@ -9829,13 +9724,12 @@ audiometre
 arierbecuri
 sextete
 legatari
-răzvrătitoare
 ileonuri
 făgaşe
-tisturi
 trapuri
 paluri
 emolumente
+caiduri
 caice
 compact-discuri
 hipogee
@@ -9850,7 +9744,6 @@ cumaşe
 periteaguri
 microraioane
 prismatine
-râşnovene
 trombusuri
 spiroscoape
 coronometre
@@ -9870,6 +9763,7 @@ ghiorăituri
 dispensare
 sedimente
 ciprinide
+măsare
 caraculuri
 decanate
 minereuri
