@@ -8,8 +8,8 @@ Created on Wed Apr 13 18:13:21 2011
 
 from sklearn.feature_extraction.text import CharNGramAnalyzer, CountVectorizer
 from sklearn.preprocessing import Binarizer
-from scikits.learn.pipeline import Pipeline
-from scikits.learn import naive_bayes
+from sklearn.pipeline import Pipeline
+from sklearn import naive_bayes
 import codecs
 
 import numpy as np
@@ -35,9 +35,10 @@ def get_clf(n=3, binarize=True, clf=None):
     return Pipeline(steps)
 
 
-def preprocess_data(X, n=3, binarize=True):
+def preprocess_data(X, n=3, suffix='', binarize=True):
     cv = CountVectorizer(CharNGramAnalyzer(min_n=1, max_n=n,
-                                           preprocessor=SimplePreprocessor()))
+                                           preprocessor=SimplePreprocessor(
+                                           suffix)))
     X = cv.fit_transform(X)
     if binarize:
         X = Binarizer(copy=False).transform(X)
