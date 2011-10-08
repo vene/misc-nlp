@@ -1,4 +1,13 @@
+# -*- coding: utf8 -*-
+
 from codecs import open
+import string
+
+def strip_accents_leave_diacritics(line):
+	source_chars, target_chars = u'á÷äéíďóöú', u'aâăeiîoou'
+	table = dict((ord(s), t) for s, t in zip(source_chars, target_chars))
+	return line.translate(table)
+
 
 def extract_substantives(filename='subst-adj.txt'):
 	"""Generator to iterate through entries from the dataset
@@ -16,6 +25,7 @@ def extract_substantives(filename='subst-adj.txt'):
 	input_file = open(filename, 'r', encoding='latin2')
 	selected_lines = []
 	for line in input_file:
+		line = strip_accents_leave_diacritics(line)
 		form, base, typestring = line.split()
 		split_typestring = typestring.split('.')
 		if len(split_typestring) != 6:
