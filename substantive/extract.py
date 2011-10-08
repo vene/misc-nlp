@@ -35,9 +35,12 @@ def extract_substantives(filename='subst-adj.txt'):
 		yield form, base, pos, gender, number,  case, article
 
 if __name__ == '__main__':
-	sg = open('singular.txt', 'w', encoding='utf-8')
-	pl = open('plural.txt', 'w', encoding='utf-8')
-	df = open('defective.txt', 'w', encoding='utf-8')
+	sg, pl, sg_n, pl_n, df = files = (open(filename, 'w', encoding='utf-8') 
+	                                  for filename in ('singular.txt',
+	                                                   'plural.txt',
+	                                                   'singular_n.txt',
+	                                                   'plural_n.txt',
+	                                                   'defective.txt'))
 	subst = dict()
 	for form, base, pos, gender, number, case, article in \
 	extract_substantives():
@@ -54,11 +57,25 @@ if __name__ == '__main__':
 	
 	for base, numbers_dict in subst.items():
 		if numbers_dict.has_key('sg') and numbers_dict.has_key('pl'):
-			print >> sg, '%s\t%s' % numbers_dict['sg']
-			print >> pl, '%s\t%s' % numbers_dict['pl']
+			sg_form, sg_gender = numbers_dict['sg']
+			pl_form, pl_gender = numbers_dict['pl']
+			if sg_gender == pl_gender:
+				if sg_gender == 'm':
+					print >> sg, '%s\t%d' % (sg_form, 0)
+					print >> pl, '%s\t%d' % (pl_form, 0)
+				if sg_gender == 'f':
+					print >> sg, '%s\t%d' % (sg_form, 1)
+					print >> pl, '%s\t%d' % (pl_form, 1)
+				if sg_gender == 'n':
+					print >> sg_n, sg_form
+					print >> pl_n, pl_form
+			else:
+				print >> sg_n, sg_form
+				print >> pl_n, pl_form
+
 		else:
 			print >> df, '%s\t%s' % numbers_dict.get('sg', 
 										             numbers_dict.get('pl',
 										             (base, '??')))
 
-	[f.close() for f in (sg, pl, df)]
+	[f.close() for f in files]
