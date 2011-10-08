@@ -539,7 +539,7 @@ miatonie	f
 ije	m
 grăpat	n
 ciobotecă	f
-karateka	m/f
+karateka	m
 volumetrie	f
 cupronichel	n
 hidroponică	f
@@ -651,7 +651,7 @@ puerilism	n
 igrasie	f
 sericicultură	f
 desinit	n
-ciclamen	n/m-f-n
+ciclamen	n
 agililate	f
 fosgen	n
 straiul-broaştei	n
@@ -1209,7 +1209,7 @@ greu	n
 cloramfenicol	n
 capucino	n
 microfitologie	f
-grej	m-f-n
+grej	m
 remisibilitate	f
 ebrietate	f
 întremare	f
@@ -1376,7 +1376,7 @@ doruţ	n
 ţincvais	n
 nomenclaturism	n
 cuşcuş	n
-factoriale	f-n/n
+factoriale	f
 bâzâit	n
 recombinant	n
 auzibilitate	f
@@ -1681,7 +1681,7 @@ oxitonie	f
 actinolit	n
 pseudologie	f
 palatolalie	f
-bengali	m/m-n
+bengali	m
 podopunctură	f
 enterografie	f
 chistectomie	f
@@ -2200,7 +2200,7 @@ enervaţie	f
 cardium	n
 neotectonică	f
 câră	f
-merinos	m-f-n/n
+merinos	m
 africanism	n
 tortonian	n
 plimbat	n
@@ -2352,7 +2352,7 @@ azeotropie	f
 umanizare	f
 ouat	n
 adicţie	f
-pembe	f-n/n
+pembe	f
 acmee	f
 linoxină	f
 cifraj	n
@@ -2385,7 +2385,7 @@ blefaroptoză	f
 hevea	f
 zirconiu	n
 zbânţ	n
-prostălău	m-n/m
+prostălău	m
 blimp	n
 convertină	f
 hemianestezie	f
@@ -2873,7 +2873,7 @@ haşişism	n
 balboa	m
 narcisism	n
 vanisare	f
-folk	n/n
+folk	n
 agroecologie	f
 digitron	n
 cuestă	f
@@ -3448,7 +3448,7 @@ gonoree	f
 patroclinie	f
 asaltare	f
 piatra-iadului	f
-caca	f/m-f-n
+caca	f
 oţiozitate	f
 cerărit	n
 neexecutare	f
@@ -4033,7 +4033,7 @@ reflotare	f
 răcoritoare	f
 tafrolit	n
 blast	m
-primipare	f-n/f
+primipare	f
 indicanurie	f
 italiană	f
 zmeură	f
@@ -4666,7 +4666,7 @@ acromie	f
 astronautică	f
 sincopism	n
 penetrologie	f
-bantu	m-f-n/m
+bantu	m
 burghiere	f
 nuizibilitate	f
 structuralitate	f
@@ -4701,7 +4701,7 @@ calafat	n
 mizericordie	f
 apiol	n
 metaloterapie	f
-parotide	f-n/f
+parotide	f
 cicloalcan	m
 împietrire	f
 prezumţiozitate	f
@@ -5094,11 +5094,11 @@ baştină	f
 serotonină	f
 colbărie	f
 rărit	n
-caldecan	m/m-n
+caldecan	m
 behaviorism	m
 vlagă	f
 orlon	n
-mişto	m-f-n/n
+mişto	m
 cauda	f
 ebraică	f
 spiritualitate	f
@@ -5282,7 +5282,7 @@ pifă	f
 paliditate	f
 solaritate	f
 litină	f
-pierde-vară	m/f
+pierde-vară	m
 anadipsie	f
 acromanţie	f
 penologie	f
@@ -6003,7 +6003,7 @@ fenomenalitate	f
 peisagism	n
 rondino	n
 antipapă	f
-poliandre	f-n/f
+poliandre	f
 chemigrafie	f
 aeronavigaţie	f
 deligaţie	f
@@ -6786,7 +6786,7 @@ rânchezat	n
 stelit	n
 genecologie	f
 cooperatism	n
-lila	m-f-n/n
+lila	m
 seninătate	f
 distocie	f
 fidea	f
@@ -7077,7 +7077,7 @@ premagnetizare	f
 teozofie	f
 ecoetologie	f
 piuare	f
-acaju	m/m-n
+acaju	m
 suber	n
 eleganţă	f
 pederastie	f
@@ -7662,7 +7662,7 @@ pardon	n
 românime	f
 dârdoră	f
 nărtilă	m
-gri	m-f-n
+gri	m
 anizocitoză	f
 molia-merelor	f
 resupinaţie	f
@@ -8055,7 +8055,7 @@ babism	n
 masculinism	n
 celioscopie	f
 osram	n
-ouătoare	f-n/f
+ouătoare	f
 atractivitate	f
 exploatare	f
 defenestrare	f
@@ -8444,7 +8444,7 @@ santonian	n
 impostaţie	f
 hipomanie	f
 propicitate	f
-rococo	n/m-n
+rococo	n
 anemografie	f
 cordiţă	f
 etnogenie	f
@@ -8731,7 +8731,7 @@ holoedrie	f
 paleoecologie	f
 frunză-de-potcă	f
 guvernamentalism	n
-gură-cască	m/f
+gură-cască	m
 docimologie	f
 izoanaliză	f
 spumegai	n
@@ -9473,7 +9473,7 @@ revier	n
 măsălar	m
 redizolvare	f
 subsidiaritate	f
-primigeste	f-n/f
+primigeste	f
 genere	n
 palingeneză	f
 ciclohexanol	m
@@ -10236,7 +10236,7 @@ zâmbre	f
 clocaj	n
 congestus	n
 predictabilitate	f
-post-partum	n/m-n
+post-partum	n
 autoaprindere	f
 pântecărie	f
 ilustrativism	n
@@ -11044,7 +11044,7 @@ tiflosurdologie	f
 clotoidă	f
 logetron	n
 extrateritorialitate	f
-mov	m-f-n/n
+mov	m
 bogomilism	n
 guanaco	m
 orăşenime	f
@@ -11553,7 +11553,7 @@ hirsutism	n
 azbotextolit	n
 crin-galben	m
 tricromie	f
-celadon	n/m-f-n
+celadon	n
 catastrofism	n
 izogamie	f
 inanitate	f
@@ -11679,7 +11679,7 @@ balneologie	f
 spectaculozitate	f
 blanşiruire	f
 coz	n
-gură-bogată	m/f
+gură-bogată	m
 intervenţionism	n
 interasistenţă	f
 măcănit	n
@@ -11985,7 +11985,7 @@ barba-caprei	f
 gastronomie	f
 rubricatură	f
 variolit	n
-grena	m-f-n
+grena	m
 gramatologie	f
 cumulus	m
 miniu	n
@@ -12229,7 +12229,7 @@ fitotomie	f
 flăcăime	f
 izosporie	f
 caolinizare	f
-quechua	f-n/f
+quechua	f
 coree	f
 scepticism	n
 laceraţie	f

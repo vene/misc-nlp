@@ -1,6 +1,6 @@
 exoneraţie	f
 lipcăneană	f
-ponivos	m-n/m
+ponivos	m
 tahân	n
 torsadă	f
 tason	n
@@ -48,7 +48,7 @@ dibuire	f
 furgonar	m
 gârgâr	n
 scărişoară	f
-bârlădean	m-n/m
+bârlădean	m
 cuhnie	f
 rotiţă	f
 benetitale	f
@@ -79,7 +79,7 @@ trizaharidă	f
 pripor	n
 degrevare	f
 maimuţărie	f
-bătăuş	m-n/m
+bătăuş	m
 caramelă	f
 monolitizare	f
 hipnoză	f
@@ -101,7 +101,7 @@ noriţă	f
 amarantacee	f
 meteorologist	m
 octatlon	n
-adventist	m-n/m
+adventist	m
 stăvilar	n
 radioamator	m
 condicar	m
@@ -123,7 +123,7 @@ taxofon	n
 sămăluire	f
 bârsă	f
 travee	f
-antidogmatic	m-n/m
+antidogmatic	m
 zăcare	f
 jimbătură	f
 briză	f
@@ -150,7 +150,7 @@ hidromonitor	n
 protază	f
 aguridă	f
 autoplug	n
-fertilizatoare	f/f
+fertilizatoare	f
 dispaşor	m
 şablonare	f
 excludere	f
@@ -183,7 +183,7 @@ năpastă	f
 gerontocrat	m
 snopire	f
 nixis	n
-ortodoxist	m-n/m
+ortodoxist	m
 autoechilibrare	f
 exordiu	n
 aerocartograf	n
@@ -274,7 +274,7 @@ piscan	n
 băciţă	f
 degresaj	n
 alipire	f
-bogat	m-n/m
+bogat	m
 danturare	f
 laitmotiv	n
 fâţâială	f
@@ -282,7 +282,7 @@ increment	n
 vrânceancă	f
 slugărnicire	f
 dezacordare	f
-reşiţean	m-n/m
+reşiţean	m
 revizor	m
 îmbucătăţire	f
 semiuncială	f
@@ -525,7 +525,7 @@ puricaş	m
 rapel	n
 troposeismometru	n
 fosilizare	f
-demistificatoare	f-n/f
+demistificatoare	f
 condensor	n
 cuibuşor	n
 poziţioner	n
@@ -543,7 +543,7 @@ calozitate	f
 emulsionant	n
 autocamionetă	f
 embolie	f
-pelur	m-n/n
+pelur	m
 tarsalgie	f
 recrutare	f
 duet	n
@@ -571,7 +571,7 @@ sfărâmător	n
 devotă	f
 văioagă	f
 pasatrice	f
-psihrofil	m-n/m
+psihrofil	m
 recepţioneră	f
 microautomobil	n
 populare	f
@@ -630,7 +630,7 @@ joculeţ	n
 hădărău	n
 bibiloi	m
 desensibilizator	n
-decedată	f/f
+decedată	f
 panoplie	f
 grosisment	n
 aspersare	f
@@ -649,7 +649,7 @@ odograf	n
 petroglifă	f
 aţâţare	f
 uituceală	f
-caciur	m-n/m
+caciur	m
 litră	f
 pedagogie	f
 desfătuire	f
@@ -673,7 +673,7 @@ dializă	f
 telereportaj	n
 premolar	m
 coaliţie	f
-bigam	m-n/m
+bigam	m
 mărgeluţă	f
 subspecie	f
 cornăţel	m
@@ -761,7 +761,7 @@ muşcată	f
 miciman	m
 persană	f
 folcloristă	f
-generativistă	f/f
+generativistă	f
 ştrengar	m
 aprod	m
 păhăraş	n
@@ -861,7 +861,7 @@ permutit	m
 miliţea	f
 oftică	f
 interfaţare	f
-bourel	m-n/m
+bourel	m
 traumă	f
 murişoară	f
 evaluator	m
@@ -885,7 +885,7 @@ asanare	f
 măciniş	n
 bănuţel	m
 hârşie	f
-peridotită	n/f
+peridotită	n
 apretor	m
 nemulţumire	f
 asincronism	n
@@ -972,7 +972,7 @@ dinte	m
 dezghin	n
 reactimetru	n
 germinare	f
-amoralist	m-n/m
+amoralist	m
 compotieră	f
 eşarpă	f
 lampretă	f
@@ -1004,7 +1004,7 @@ paleofitologă	f
 condensare	f
 pentatlonistă	f
 videofrecvenţă	f
-coralieră	f/f
+coralieră	f
 rosbif	n
 bursucar	m
 cornaci	m
@@ -1043,7 +1043,7 @@ pescăraş	m
 sinaiotă	f
 sisinel	m
 undiţar	m
-prăşitor	m-n/m
+prăşitor	m
 ceapsă	f
 putrejune	f
 ghizdei	m
@@ -1054,7 +1054,7 @@ frunzulică	f
 xenogeneză	f
 călţunaş	m
 biomotor	n
-nemţean	m-n/m
+nemţean	m
 plânsoare	f
 gisment	n
 debilitate	f
@@ -1079,7 +1079,7 @@ termofor	n
 termofon	n
 meşteşugar	m
 periact	n
-cooperativistă	f/f
+cooperativistă	f
 ilustratotecă	f
 potolire	f
 crepon	n
@@ -1096,7 +1096,7 @@ purgaţie	f
 evanghelie	f
 zgripţor	m
 imputaţie	f
-pocăit	m-n/m
+pocăit	m
 refuzare	f
 localnică	f
 manghier	m
@@ -1193,10 +1193,10 @@ măiestrie	f
 ferit	m
 moră	f
 zălogire	f
-burghez	m-n/m
+burghez	m
 stereotipie	f
 gărduleţ	n
-văduvoi	m/m-n
+văduvoi	m
 tirbuşon	n
 scapolit	n
 rotoplan	n
@@ -1259,7 +1259,7 @@ geruire	f
 stângăcie	f
 coautor	m
 noră	f
-levent	m/m-n
+levent	m
 iofca	f
 mililitru	m
 asiză	f
@@ -1294,7 +1294,7 @@ poftire	f
 colonistă	f
 hidroamelioraţie	f
 bridgist	m
-fatalistă	f/f
+fatalistă	f
 pastramagiu	m
 cenaclu	n
 vârstean	m
@@ -1375,7 +1375,7 @@ burlău	m
 fraudator	m
 bioacustician	m
 tehnician	m
-biostimulator	m-n/m
+biostimulator	m
 megametru	n
 handralău	m
 tipologie	f
@@ -1395,7 +1395,7 @@ testament	n
 semifinit	n
 dezagregaţie	f
 portconteiner	n
-doloristă	f/f
+doloristă	f
 mânaş	m
 paieric	n
 mandarină	f
@@ -1406,7 +1406,7 @@ sfâşiere	f
 înzăpezire	f
 vrăjitură	f
 răşchitor	n
-emanatistă	f/f
+emanatistă	f
 vobulator	n
 pielită	f
 strictură	f
@@ -1433,23 +1433,23 @@ briologă	f
 sumare	f
 anteport	n
 hidroacusticiană	f
-blond	m-n/m
+blond	m
 împuşcătură	f
 teleşcoală	f
-bucşan	m-n/m
+bucşan	m
 oligochet	n
 tipăritură	f
 strugure	m
 miar	n
-antirealist	m-n/m
+antirealist	m
 tensor	m
-recitant	m-n/m
+recitant	m
 nartecă	f
 vexilar	m
 pazvantlâu	m
 arabism	n
 străduţă	f
-virus	n/m
+virus	n
 surdodidactică	f
 arabist	m
 folosire	f
@@ -1544,7 +1544,7 @@ bucătură	f
 semănat	n
 harghiteană	f
 vârticuş	n
-configuraţionistă	f/f
+configuraţionistă	f
 vinietist	m
 lingou	n
 perimetru	n
@@ -1566,7 +1566,7 @@ velociped	n
 ţesală	f
 mozaist	m
 oţetărie	f
-nevropat	m-n/m
+nevropat	m
 cuptoraş	n
 soroceancă	f
 rostogolire	f
@@ -1583,7 +1583,7 @@ aeronaută	f
 prisoseală	f
 vălmăşeală	f
 gheţărie	f
-prezbiterian	m-n/m
+prezbiterian	m
 triptază	f
 scâncet	n
 gripcă	f
@@ -1675,7 +1675,7 @@ lanţ	n
 ceremonial	n
 patentare	f
 astrahan	n
-sibian	m-n/m
+sibian	m
 montgolfier	n
 hrincă	f
 haiducel	m
@@ -1837,7 +1837,7 @@ teleleu	m
 yemenită	f
 fanerogamist	m
 retor	m
-cocoşat	m-n/m
+cocoşat	m
 cocoşar	m
 menajerie	f
 transfuzionistă	f
@@ -1892,7 +1892,7 @@ vitrinier	m
 străşnicie	f
 areolă	f
 papşer	n
-antropomorfist	m-n/m
+antropomorfist	m
 picăţică	f
 mondialistă	f
 făptuitor	m
@@ -1914,7 +1914,7 @@ naist	m
 ciberneticiană	f
 caiet	n
 caier	n
-ciumat	m-n/m
+ciumat	m
 nefroidă	f
 astăreală	f
 comoţie	f
@@ -1977,7 +1977,7 @@ posteucă	f
 clăditor	m
 supleant	m
 grepfrut	n
-declasată	f/f
+declasată	f
 lacovişte	f
 rânduleţ	n
 izofonă	f
@@ -2142,7 +2142,7 @@ obturare	f
 prescură	f
 izolatoare	f
 strămoaşă	f
-plointe	m-n/m
+plointe	m
 pulverizator	n
 preconcepţie	f
 vulpe-de-mare	f
@@ -2157,7 +2157,7 @@ eritrocit	n
 pamfletistă	f
 piscicultor	m
 saleu	n
-comburant	m-n/m
+comburant	m
 psihoanalgezie	f
 alunică	f
 reverber	n
@@ -2179,7 +2179,7 @@ sumănel	n
 emondor	n
 fugară	f
 proroc	m
-vlăstar	n/m
+vlăstar	n
 odivoi	m
 vonicer	m
 diluare	f
@@ -2189,7 +2189,7 @@ infidelitate	f
 lumânărie	f
 cancerigen	n
 sfătuitoare	f
-antidiabetic	m-n/m
+antidiabetic	m
 hipofosfit	m
 slumpflaţie	f
 concentrat	n
@@ -2210,7 +2210,7 @@ atriţiune	f
 bogasierie	f
 bumbăcar	m
 vespasiană	f
-neorealist	m-n/m
+neorealist	m
 ectip	n
 columbide	f
 nimfă	f
@@ -2276,7 +2276,7 @@ romanţare	f
 simbrie	f
 sincronicitate	f
 laudă	f
-călător	m-n/m
+călător	m
 manta	f
 imaginare	f
 extracţie	f
@@ -2395,7 +2395,7 @@ cotcodăcire	f
 poanter	m
 subiectivistă	f
 platcă	f
-capucin	m-n/m
+capucin	m
 miliardime	f
 patelă	f
 băsnire	f
@@ -2447,7 +2447,7 @@ lăcrimea	f
 contorizare	f
 spuzeală	f
 lexicologă	f
-prostănac	m-n/m
+prostănac	m
 crizantemă	f
 moţăitură	f
 imprimantă	f
@@ -2502,7 +2502,7 @@ chineză	f
 economisire	f
 comis-voiajor	m
 barem	n
-confederat	m-n/m
+confederat	m
 dezvinovăţire	f
 seminaristă	f
 grifon	m
@@ -2569,7 +2569,7 @@ autofurgon	n
 temere	f
 vandal	m
 pensare	f
-palatin	m-n/m
+palatin	m
 baricadă	f
 sampan	n
 prognozist	m
@@ -2610,7 +2610,7 @@ turturel	m
 troglodit	m
 turturea	f
 doge	m
-torent	n/m
+torent	n
 elevator	n
 instrucţiune	f
 iuţeală	f
@@ -2738,7 +2738,7 @@ prenarcoză	f
 secretară	f
 monotipist	m
 insurgentă	f
-nonconformist	m-n/m
+nonconformist	m
 furnalist	m
 toantă	f
 infirmă	f
@@ -2793,7 +2793,7 @@ dedentiţie	f
 tovarăşă	f
 orbitolină	f
 bilet	n
-anistoric	m-n/m
+anistoric	m
 mucarniţă	f
 hang	n
 criticastru	m
@@ -2844,7 +2844,7 @@ smarid	m
 sinonim	n
 ceilometru	n
 perineu	n
-plenipotent	m/m-n
+plenipotent	m
 livrare	f
 vânzare	f
 desperechere	f
@@ -2862,7 +2862,7 @@ entropie	f
 orologier	m
 înfierare	f
 reputaţie	f
-pisălog	m-n/m
+pisălog	m
 fibrocit	n
 mercantilaj	n
 golăneaţă	f
@@ -2887,7 +2887,7 @@ cacofonie	f
 lavaj	n
 curion	m
 nepoţică	f
-ocârmuitor	m-n/m
+ocârmuitor	m
 debleu	n
 devansare	f
 interimat	n
@@ -2910,7 +2910,7 @@ măturar	m
 cernavodeancă	f
 vrăciţă	f
 laticlavă	f
-nou-născut	m-n/m
+nou-născut	m
 grumaz	m
 ghilotină	f
 cromatogramă	f
@@ -2924,7 +2924,7 @@ copartaj	n
 alchimist	m
 flegmazie	f
 radionecroză	f
-comiţial	m-n/m
+comiţial	m
 borţ	n
 ramburs	n
 piezogramă	f
@@ -2938,7 +2938,7 @@ pirostrie	f
 radiopirat	m
 camforcă	f
 vagon-restaurant	n
-francofonă	f/f
+francofonă	f
 anereză	f
 putină	f
 stradă	f
@@ -2953,10 +2953,10 @@ frazeologă	f
 carmangerie	f
 sujet	n
 vilbrochen	n
-animator	m-n/m
+animator	m
 concept	n
 organolit	n
-cuperoasă	f/f
+cuperoasă	f
 băcănie	f
 crăculiţă	f
 lider	m
@@ -2999,7 +2999,7 @@ anemotrop	n
 dezamăgire	f
 năframă	f
 odolean	m
-ecumenistă	f/f
+ecumenistă	f
 cardiolog	m
 pluton	m
 sinanterale	f
@@ -3014,7 +3014,7 @@ botei	n
 corelogramă	f
 gimnastă	f
 fricţionare	f
-combatant	m-n/m
+combatant	m
 ulcus	n
 ghipsotecă	f
 imprecaţie	f
@@ -3070,7 +3070,7 @@ galet	f
 intruziune	f
 celenterat	n
 chin	n
-fanfaroană	f/f
+fanfaroană	f
 biograf	m
 cabalist	m
 furnir	n
@@ -3128,11 +3128,11 @@ ghiontit	n
 tirfon	n
 cusătură	f
 sol	m
-semideponent	m-n/m
+semideponent	m
 musafir	m
 absorbant	n
 hipervitaminoză	f
-plutonian	m-n/m
+plutonian	m
 volt-amper	m
 nor	m
 teşire	f
@@ -3168,7 +3168,7 @@ panicul	n
 purpurină	f
 sferometru	n
 amnios	n
-roşiorean	m-n/m
+roşiorean	m
 focuşor	n
 năsuţ	n
 puding	n
@@ -3184,7 +3184,7 @@ eşantionaj	n
 brăţea	f
 mezofită	f
 micologă	f
-rutinar	m-n/m
+rutinar	m
 expozantă	f
 tripoliană	f
 indiscreţie	f
@@ -3269,11 +3269,11 @@ spongită	f
 iorgovan	m
 răsad	n
 sultan	m
-cirotic	m-n/m
+cirotic	m
 pârtioară	f
 dezarimaj	n
 diafanoscop	n
-recurent	m-n/m
+recurent	m
 ataman	m
 desolidarizare	f
 mătăhuie	f
@@ -3302,7 +3302,7 @@ bicorn	n
 malacolog	m
 tancodrom	n
 nominaţie	f
-atotcunoscător	m-n/m
+atotcunoscător	m
 bucăţică	f
 schizofită	f
 cosiţă	f
@@ -3322,7 +3322,7 @@ rafinare	f
 granulometru	n
 supraveghetoare	f
 recunoştinţă	f
-emigrantă	f/f
+emigrantă	f
 distorsiune	f
 raliu	n
 olteancă	f
@@ -3572,7 +3572,7 @@ trupiţă	f
 juncuşor	m
 scelerată	f
 promenadă	f
-augustin	m-n/m
+augustin	m
 gofrat	n
 gofraj	n
 sagenit	n
@@ -3594,7 +3594,7 @@ tanchetă	f
 cosie	f
 fazmetru	n
 cârciumioară	f
-anonim	m-n/m
+anonim	m
 berărie	f
 lăor	n
 antecesor	m
@@ -3627,7 +3627,7 @@ efilare	f
 aminoalcool	n
 mărfar	n
 tarabă	f
-rusofob	m-n/m
+rusofob	m
 azotat	m
 meteorit	m
 telecameră	f
@@ -3716,7 +3716,7 @@ gornic	m
 radioterapeută	f
 clarinet	n
 catalpă	f
-aiurit	m-n/m
+aiurit	m
 şuierătoare	f
 delict	n
 corintiană	f
@@ -3748,7 +3748,7 @@ girant	m
 pagaie	f
 desţelenire	f
 ceaşcă	f
-tăvălug	m/n
+tăvălug	m
 gintă	f
 tucan	m
 ţintire	f
@@ -3760,11 +3760,11 @@ coeditor	m
 periesofagită	f
 scliviseală	f
 tălmăşag	n
-potcaş	m-n/m
+potcaş	m
 coronulă	f
 paraşoc	n
 peştişor	m
-şapcaliu	m-n/m
+şapcaliu	m
 spiţer	m
 trâmbiţă	f
 tichiuţă	f
@@ -3795,7 +3795,7 @@ rolfilm	n
 cifru	n
 imprudenţă	f
 demarare	f
-burgund	m-n/m
+burgund	m
 sunducel	n
 horst	n
 clorhidrat	m
@@ -3875,7 +3875,7 @@ paragrafie	f
 nopator	m
 părinţel	m
 abluţiune	f
-recunoscător	m-n/m
+recunoscător	m
 aeronavă	f
 enologă	f
 constituţie	f
@@ -3884,7 +3884,7 @@ sulfoconjugare	f
 carposferă	f
 monograf	m
 stanat	m
-flamandă	f/f
+flamandă	f
 campanilă	f
 subgrindă	f
 munte	m
@@ -3895,7 +3895,7 @@ parmaclâc	n
 becher	m
 căldare	f
 moţiune	f
-afon	m-n/m
+afon	m
 monostil	n
 reversor	n
 huiet	n
@@ -3946,7 +3946,7 @@ tapare	f
 prevaricatoare	f
 lahar	n
 multiprogramare	f
-destructoare	f/f
+destructoare	f
 menoragie	f
 mistificatoare	f
 ieteră	f
@@ -4046,7 +4046,7 @@ tuberculoză	f
 profanatoare	f
 manită	f
 ambulacru	n
-radicalist	m-n/m
+radicalist	m
 locuitoare	f
 onorariu	n
 economie	f
@@ -4072,7 +4072,7 @@ vrană	f
 mârâire	f
 productometru	n
 hurducătură	f
-pangermanic	m-n/m
+pangermanic	m
 asteronim	n
 birtăşiţă	f
 cabotaj	n
@@ -4106,7 +4106,7 @@ mesagerie	f
 zimniceancă	f
 achiziţionare	f
 restituţie	f
-paratific	m-n/m
+paratific	m
 aneroid	n
 cărmăcuţ	m
 coraport	n
@@ -4173,12 +4173,12 @@ antimăluric	n
 limbric	m
 orăşean	m
 trincă	f
-pidosnic	m-n/m
+pidosnic	m
 cuplă	f
 înverşunare	f
-europoidă	f/f
+europoidă	f
 turnuleţ	n
-ritualist	m-n/m
+ritualist	m
 ebenistă	f
 oblojire	f
 inalienare	f
@@ -4216,7 +4216,7 @@ derivator	m
 sicriu	n
 zavragiu	m
 obcină	f
-atacat	m-n/m
+atacat	m
 tutelă	f
 tocată	f
 rezită	f
@@ -4230,7 +4230,7 @@ făină	f
 intercalare	f
 moneră	f
 chivot	n
-brunet	m-n/m
+brunet	m
 tracţiune	f
 nară	f
 permeabilitate	f
@@ -4279,7 +4279,7 @@ consort	m
 putregăire	f
 cuplu	n
 minunăţie	f
-buzoian	m-n/m
+buzoian	m
 generalisim	m
 raşchetatoare	f
 autoaprovizionare	f
@@ -4352,7 +4352,7 @@ pseudoparazit	m
 panseu	n
 tribut	n
 aldosteron	m
-dacoromână	f/f
+dacoromână	f
 tribun	m
 craniograf	n
 raşchetă	f
@@ -4384,7 +4384,7 @@ mutulică	m
 bujorel	m
 abraziv	n
 rinită	f
-calic	m-n/m
+calic	m
 calif	m
 cufundare	f
 mausoleu	n
@@ -4496,7 +4496,7 @@ etolog	m
 şablonizare	f
 tipometru	n
 lonjă	f
-paleocreştin	m-n/m
+paleocreştin	m
 frenezie	f
 expropriator	m
 zeţărie	f
@@ -4510,7 +4510,7 @@ gâtlej	n
 tunel	n
 prăştină	f
 consecvenţă	f
-conjuncturistă	f/f
+conjuncturistă	f
 astuţie	f
 cârcserdar	m
 calchiere	f
@@ -4570,8 +4570,8 @@ exacerbare	f
 cens	n
 cent	m
 utilitate	f
-beţiv	m-n/m
-bordelez	m-n/m
+beţiv	m
+bordelez	m
 machiaj	n
 provocare	f
 paliativ	n
@@ -4617,7 +4617,7 @@ pintenaş	m
 iertăciune	f
 teleredactoare	f
 mârâială	f
-bostonian	m-n/m
+bostonian	m
 karatistă	f
 gazoduct	n
 pojărnicie	f
@@ -4630,7 +4630,7 @@ răftuleţ	n
 aerograf	n
 hematie	f
 rumbă	f
-focalizatoare	f/f
+focalizatoare	f
 jucărioară	f
 litanie	f
 blestemăţie	f
@@ -4866,7 +4866,7 @@ coechipier	m
 corcitură	f
 antevorbitor	m
 foire	f
-pretorian	m-n/m
+pretorian	m
 restrângere	f
 micolog	m
 paraplegie	f
@@ -4899,7 +4899,7 @@ titulară	f
 hetairă	f
 autotren	n
 colonie	f
-obsedat	m-n/m
+obsedat	m
 silfidă	f
 cancelaţie	f
 podologă	f
@@ -4948,7 +4948,7 @@ taxologă	f
 palmariu	n
 semiindustrializare	f
 slavonă	f
-ambiţios	m-n/m
+ambiţios	m
 microfilm	n
 şevro	n
 dipsacacee	f
@@ -4978,7 +4978,7 @@ apostrofare	f
 debit	n
 răţişoară	f
 atentatoare	f
-sanitar	m-n/m
+sanitar	m
 mătanie	f
 pedichiuristă	f
 amiază	f
@@ -5170,7 +5170,7 @@ sculişor	n
 sinterizare	f
 delarvizare	f
 orăşenie	f
-parolist	m-n/m
+parolist	m
 lacrimatoriu	n
 alozaur	m
 cauţiune	f
@@ -5223,7 +5223,7 @@ pianină	f
 alomorfie	f
 pavator	m
 zor	n
-confuzionară	f/f
+confuzionară	f
 clinică	f
 servoreglare	f
 buroaică	f
@@ -5248,7 +5248,7 @@ fugace	f
 eleagnacee	f
 perişor	m
 deal	n
-salonican	m-n/m
+salonican	m
 cipic	m
 crisofenină	f
 inicvitate	f
@@ -5411,7 +5411,7 @@ prerogativă	f
 placardare	f
 defazare	f
 scăiuş	m
-euhemeristă	f/f
+euhemeristă	f
 franzeluţă	f
 box	m
 boz	m
@@ -5450,7 +5450,7 @@ sicrinel	n
 sporogon	m
 oierie	f
 andruc	n
-antiholeric	m-n/m
+antiholeric	m
 stampare	f
 perforare	f
 zootehniciană	f
@@ -5672,7 +5672,7 @@ derogaţie	f
 mintie	f
 ger	n
 hârdăiaş	n
-getă	f/f
+getă	f
 tulnicăreasă	f
 licitator	m
 difuzibilă	f
@@ -5708,7 +5708,7 @@ agasare	f
 motorcadă	f
 lemnar	n
 ambitus	n
-perinefritic	m-n/m
+perinefritic	m
 spartană	f
 sagum	n
 autotransport	n
@@ -5768,7 +5768,7 @@ tovărăşel	m
 repartizor	n
 hăldan	m
 aerostaţie	f
-refugiat	m-n/m
+refugiat	m
 devălmaş	m
 tivitură	f
 sinereză	f
@@ -5844,7 +5844,7 @@ decoraţie	f
 scuter	n
 inegalizare	f
 colocazie	f
-obstrucţionist	m-n/m
+obstrucţionist	m
 cordelă	f
 amalgamator	n
 drăghici	m
@@ -5868,7 +5868,7 @@ vagin	n
 elaborator	m
 inserţie	f
 panacod	n
-angelolatru	m-n/m
+angelolatru	m
 redevenire	f
 zârnă	f
 granit	n
@@ -5900,7 +5900,7 @@ contrapropunere	f
 demonie	f
 divagaţie	f
 partizan	m
-antisocialist	m-n/m
+antisocialist	m
 gunoire	f
 glumă	f
 fonotecă	f
@@ -5918,7 +5918,7 @@ caţă	f
 balercuţă	f
 coltuc	n
 rejet	n
-fanatică	f/f
+fanatică	f
 spici	n
 asprişoară	f
 burtieră	f
@@ -6000,7 +6000,7 @@ bestie	f
 biogeograf	m
 ius	n
 pufuliţă	f
-castilian	m-n/m
+castilian	m
 necromant	m
 ionizor	n
 desiş	n
@@ -6126,7 +6126,7 @@ zavistie	f
 scrot	n
 anatomopatolog	m
 rotar	m
-antiparlamentar	m-n/m
+antiparlamentar	m
 sevă	f
 scrântitoare	f
 uscătorie	f
@@ -6149,7 +6149,7 @@ fardat	n
 custură	f
 petrochimistă	f
 chininizare	f
-etruscă	f/f
+etruscă	f
 căierel	n
 coreferent	m
 compound	n
@@ -6224,7 +6224,7 @@ moderare	f
 tolometru	n
 hectizie	f
 hrănire	f
-rezervatar	m-n/m
+rezervatar	m
 piscină	f
 carpelă	f
 tom	n
@@ -6232,7 +6232,7 @@ pestă	f
 aprioritate	f
 inconvenient	n
 ştempel	n
-prezbit	m-n/m
+prezbit	m
 gavial	m
 chitonog	n
 porţionare	f
@@ -6292,7 +6292,7 @@ căciuleală	f
 şontâcăire	f
 zbicire	f
 rivală	f
-acumulator	n/m
+acumulator	n
 terminaţie	f
 crupon	n
 remizier	m
@@ -6347,7 +6347,7 @@ hemeralop	m
 centură	f
 termoscop	n
 ortoped	m
-poliglot	m-n/m
+poliglot	m
 practicabil	n
 pluviogramă	f
 buştihan	m
@@ -6497,7 +6497,7 @@ chintesenţă	f
 maşinuţă	f
 pericolită	f
 aricioaică	f
-bălos	m-n/m
+bălos	m
 sincronoscop	n
 neatenţie	f
 operaţie	f
@@ -6561,12 +6561,12 @@ clarinetistă	f
 hexodă	f
 patriarh	m
 zbucium	n
-recuzat	m-n/m
+recuzat	m
 baschetbalistă	f
 acordeonist	m
 metafiziciană	f
 armăşel	m
-franciscană	f/f
+franciscană	f
 tulburare	f
 ştampilograf	m
 patrimoniu	n
@@ -6617,13 +6617,13 @@ erotomană	f
 prostată	f
 perimet	n
 cracaj	n
-safen	m-n/m
+safen	m
 doime	f
 poleacă	f
 zidărie	f
 generaţie	f
 holdă	f
-cheltuitor	m-n/m
+cheltuitor	m
 biberet	m
 cretană	f
 talent	n
@@ -6691,9 +6691,9 @@ developare	f
 climă	f
 carcafung	n
 broderie	f
-ocnean	m-n/m
+ocnean	m
 trăgătoare	f
-brahicefal	m-n/m
+brahicefal	m
 domnie	f
 drăcuşor	m
 ţambalist	m
@@ -6722,14 +6722,14 @@ termenvox	n
 paludă	f
 marginalizare	f
 viermuşor	m
-refulat	m-n/m
+refulat	m
 scolex	n
 levură	f
 hidroacustician	m
 ghindar	m
 delegat	m
 facometru	n
-acronim	n/m-n
+acronim	n
 albinoasă	f
 mulţumire	f
 vaccinoprofilaxie	f
@@ -6786,7 +6786,7 @@ uzaj	n
 ritmicitate	f
 comisar	m
 catapultă	f
-slătinean	m-n/m
+slătinean	m
 tescuire	f
 feregea	f
 pităreasă	f
@@ -6827,7 +6827,7 @@ hemiplegică	f
 autoreproducere	f
 petroşeneancă	f
 hemiplegie	f
-neohegelian	m-n/m
+neohegelian	m
 cumetriţă	f
 iguană	f
 fierbere	f
@@ -7034,7 +7034,7 @@ hipoplazie	f
 fliş	n
 acreală	f
 amorsă	f
-titirez	m/n
+titirez	m
 miniecran	n
 groapă	f
 presenitate	f
@@ -7078,7 +7078,7 @@ fereduire	f
 luptă	f
 căinare	f
 bogasiu	n
-hioid	m-n/n
+hioid	m
 boască	f
 răsunet	n
 anafază	f
@@ -7215,17 +7215,17 @@ catavasier	n
 drăgaică	f
 cursier	m
 anemie	f
-anemic	m-n/m
+anemic	m
 mărime	f
 polemică	f
 tapisare	f
 imblocaţie	f
 icositetraedru	n
-amerindian	m-n/m
+amerindian	m
 măseluţă	f
 matematic	m
 scorţărel	m
-sultanin	m-n/m
+sultanin	m
 santină	f
 vălişoară	f
 rarefacţie	f
@@ -7233,7 +7233,7 @@ zdrahon	m
 faianţar	m
 huşeancă	f
 magazinaj	n
-pădurean	m-n/m
+pădurean	m
 miruţă	f
 gratinare	f
 frideric	m
@@ -7297,7 +7297,7 @@ milimicron	m
 furuncul	n
 osteolog	m
 tetraevanghel	n
-finalistă	f/f
+finalistă	f
 talaşcă	f
 fabricat	n
 jocheu	m
@@ -7311,7 +7311,7 @@ sondă	f
 edificiu	n
 terezie	f
 biotest	n
-săpunar	m/m-n
+săpunar	m
 antireclamă	f
 bandoneon	n
 cestod	n
@@ -7398,7 +7398,7 @@ păpădie	f
 colindă	n
 biocurent	m
 crevetă	f
-galeofobă	f/f
+galeofobă	f
 agneţ	n
 prădăciune	f
 tartoriţă	f
@@ -7418,7 +7418,7 @@ jertfă	f
 fantast	m
 desag	f
 contagiere	f
-paseist	m-n/m
+paseist	m
 şlefuire	f
 şampon	n
 lătrătoare	f
@@ -7450,7 +7450,7 @@ autoexcitaţie	f
 acuzare	f
 microcitoză	f
 dăunaş	m
-regionalist	m-n/m
+regionalist	m
 caplama	f
 dublor	n
 dublou	n
@@ -7505,8 +7505,8 @@ amiral	m
 arhiduce	m
 cintez	m
 clămpăneală	f
-hexareactor	n/m-n
-paşoptist	m-n/m
+hexareactor	n
+paşoptist	m
 canalizaţie	f
 microbiologistă	f
 amărăluţă	f
@@ -7555,7 +7555,7 @@ calcotipie	f
 ocărâre	f
 mul	m
 canţonă	f
-semiconductor	m-n/m
+semiconductor	m
 soartă	f
 bocăneală	f
 tăfâlcă	f
@@ -7612,7 +7612,7 @@ sfârticare	f
 milosârdie	f
 translatoare	f
 vagmistru	m
-artritic	m-n/m
+artritic	m
 basamac	n
 macropodă	f
 jder	m
@@ -7649,7 +7649,7 @@ supraimpunere	f
 tânguire	f
 setaveraj	n
 hipsogramă	f
-est-europeană	f/f
+est-europeană	f
 sterilizatoare	f
 curentometru	m
 miocardopatie	f
@@ -7731,7 +7731,7 @@ protonotariat	n
 gargui	n
 diagnostician	m
 franţuzire	f
-constructivistă	f/f
+constructivistă	f
 şerpariţă	f
 cercopitec	m
 levită	f
@@ -7760,7 +7760,7 @@ saleduct	n
 învestire	f
 legănare	f
 şireţie	f
-puturos	m-n/m
+puturos	m
 comprimat	n
 cotizator	m
 decastil	n
@@ -7789,7 +7789,7 @@ brasistă	f
 discurs	n
 pereu	n
 salubrizare	f
-abrudean	m-n/m
+abrudean	m
 antroponimic	n
 nuntaşă	f
 ghigilic	n
@@ -7819,9 +7819,9 @@ crâmpeiaş	n
 proteguire	f
 guşter	m
 pompier	m
-anglofil	m-n/m
+anglofil	m
 julitură	f
-nomad	m-n/m
+nomad	m
 receptură	f
 acvaplanist	m
 ceapcân	m
@@ -7933,11 +7933,11 @@ urluială	f
 cositorire	f
 dispaşă	f
 băliuţă	f
-preabun	m-n/m
+preabun	m
 critic	m
 scap	m
 întâlnire	f
-bigot	m-n/m
+bigot	m
 caisă	f
 monahie	f
 fişă	f
@@ -8005,7 +8005,7 @@ hotar	n
 inscripţie	f
 stolon	m
 chestor	m
-căţărător	m-n/m
+căţărător	m
 vibromasaj	n
 amnistie	f
 utilaj	n
@@ -8014,7 +8014,7 @@ mitologie	f
 boală	f
 abrogare	f
 guvernant	m
-plenipotenţiar	m/m-n
+plenipotenţiar	m
 poroplast	n
 toxicomană	f
 deviză	f
@@ -8028,7 +8028,7 @@ separeu	n
 iliş	n
 mănunchi	n
 păsăruică	f
-coposesoare	f/f
+coposesoare	f
 codificare	f
 pederast	m
 fofează	f
@@ -8086,7 +8086,7 @@ branhogramă	f
 ventricul	n
 sustracţiune	f
 monoplan	n
-becisnic	m-n/m
+becisnic	m
 nivometru	n
 zoolatră	f
 centrafricană	f
@@ -8205,12 +8205,12 @@ cocioabă	f
 adiabată	f
 dejugătoare	f
 dilatograf	n
-tuleu	n/m
+tuleu	n
 pauză	f
 somoiag	m
 scufie	f
 actofite	f
-poantilist	m-n/m
+poantilist	m
 ţârlâitură	f
 pilon	m
 heterodontă	f
@@ -8314,7 +8314,7 @@ coptolog	m
 tecalemit	n
 finală	f
 pungăşie	f
-reactiv	m-n/m
+reactiv	m
 izopagă	f
 spumantă	f
 smârdoare	f
@@ -8368,7 +8368,7 @@ mineralizator	n
 literă	f
 letrină	f
 haitiană	f
-cruciferă	f/f
+cruciferă	f
 nucleu	n
 autoreplică	f
 micime	f
@@ -8393,7 +8393,7 @@ suflură	f
 doză	f
 geografă	f
 pipiriguţ	m
-preistoric	m-n/m
+preistoric	m
 lactobar	n
 tensometru	n
 părtinire	f
@@ -8403,7 +8403,7 @@ statopauză	f
 iradiaţie	f
 prunărie	f
 dezghiocător	n
-anticreştin	m-n/m
+anticreştin	m
 făptuitoare	f
 raibă	f
 macferlan	n
@@ -8443,11 +8443,11 @@ sarmaţian	n
 boarţă	f
 general-colonel	m
 regulare	f
-budist	m-n/m
+budist	m
 suflare	f
 magnetotecă	f
 ventilatorist	m
-canceros	m-n/m
+canceros	m
 clinchet	n
 mofluzit	m
 agrometeorologă	f
@@ -8482,7 +8482,7 @@ tuşieră	f
 crupion	n
 boţman	m
 ereutofobie	f
-pângăritor	m-n/m
+pângăritor	m
 proptire	f
 vivariu	n
 scrisoare	f
@@ -8527,7 +8527,7 @@ flan	n
 vază	f
 peletic	n
 arină	f
-purtător	m-n/m
+purtător	m
 chiuit	n
 exuvie	n
 ciocnitură	f
@@ -8577,7 +8577,7 @@ romaşcancă	f
 oleacee	f
 sabiţă	f
 franctiror	m
-galo-romană	f/f
+galo-romană	f
 etnarhie	f
 pretext	n
 clorhidrină	f
@@ -8739,7 +8739,7 @@ ciripire	f
 scoică	f
 modulare	f
 evanghelizator	m
-ploieştean	m-n/m
+ploieştean	m
 termocolare	f
 pieton	m
 numerotare	f
@@ -8749,10 +8749,10 @@ extensor	n
 friză	f
 coagul	m
 peptizare	f
-nou-venit	m-n/m
+nou-venit	m
 taxid	n
 hingher	m
-asociaţionist	m-n/m
+asociaţionist	m
 alunizare	f
 lepuire	f
 măturătură	f
@@ -8801,7 +8801,7 @@ radical-socialist	m
 abscisă	f
 venire	f
 şişcorniţă	f
-antiregalist	m-n/m
+antiregalist	m
 cotă	f
 gabrou	n
 corvoadă	f
@@ -8826,7 +8826,7 @@ tunică	f
 sezină	f
 petardă	f
 mugire	f
-profeminist	m-n/m
+profeminist	m
 mordantă	f
 monodramă	f
 chirfoseală	f
@@ -9072,7 +9072,7 @@ prelevare	f
 şoricel	m
 stropşeală	f
 codruleţ	n
-peripatetic	m-n/m
+peripatetic	m
 turbotren	n
 nehotărâre	f
 bălăceală	f
@@ -9097,7 +9097,7 @@ peţitoare	f
 tatu	m
 alalie	f
 corbişor	m
-proletcultist	m-n/m
+proletcultist	m
 cablare	f
 torsor	m
 portsemnal	n
@@ -9135,7 +9135,7 @@ clichet	n
 vânat	n
 pietricică	f
 doamnă	f
-arădean	m-n/m
+arădean	m
 hidatodă	f
 scrofulă	f
 holocefal	m
@@ -9150,7 +9150,7 @@ templier	m
 delaborare	f
 tunsură	f
 târpan	n
-clujean	m-n/m
+clujean	m
 revuist	m
 morfostructură	f
 documentarist	m
@@ -9185,7 +9185,7 @@ ureterită	f
 perucherie	f
 păstrăvior	m
 pancartă	f
-republican	m-n/m
+republican	m
 codebitor	m
 zărgheală	f
 astrolog	m
@@ -9207,7 +9207,7 @@ pipă	f
 sentiment	n
 cafegiu	m
 arhanghel	m
-fascistă	f/f
+fascistă	f
 sifiligraf	m
 văcuşoară	f
 euritmie	f
@@ -9238,7 +9238,7 @@ piaţetă	f
 kilobyte	m
 apelantă	f
 balenide	f
-predelean	m-n/m
+predelean	m
 paragină	f
 onichie	f
 bonneză	f
@@ -9262,7 +9262,7 @@ consignaţie	f
 postulat	n
 reactualizare	f
 sitişcă	f
-revoluţionar	m-n/m
+revoluţionar	m
 xenie	f
 colac	m
 colan	n
@@ -9331,7 +9331,7 @@ discotecă	f
 elansare	f
 asiriologă	f
 numitor	m
-pravoslavnic	m-n/m
+pravoslavnic	m
 salutier	n
 autodepanare	f
 însurăţel	m
@@ -9371,7 +9371,7 @@ joi	f
 desant	n
 riglă	f
 randament	n
-concordistă	f/f
+concordistă	f
 husăş	m
 mastoză	f
 tremolo	n
@@ -9449,13 +9449,13 @@ covercot	n
 tărăboi	n
 epistrofă	f
 romeu	m
-biblioman	m-n/m
+biblioman	m
 cartodrom	n
 salicacee	f
 imagist	m
 zidar	m
 bârsancă	f
-coproducător	m-n/m
+coproducător	m
 varicozitate	f
 prenovă	f
 fantasmagorie	f
@@ -9475,14 +9475,14 @@ sărutare	f
 fantezie	f
 otoscleroză	f
 floristă	f
-falită	f/f
+falită	f
 guvernantă	f
 musulmană	f
 abulie	f
 săpunărie	f
-abulic	m-n/m
+abulic	m
 microelement	n
-revanşard	m-n/m
+revanşard	m
 vitrifiere	f
 şoşon	m
 buluc	n
@@ -9520,7 +9520,7 @@ procreare	f
 heptacord	n
 dezagregator	n
 hârtioară	f
-neurotrop	m-n/m
+neurotrop	m
 brigantină	f
 discopatie	f
 păsăroi	m
@@ -9775,7 +9775,7 @@ eterată	f
 cetonă	f
 calţavetă	f
 abderit	m
-bonapartist	m-n/m
+bonapartist	m
 chipuşor	n
 acroleină	f
 opozant	m
@@ -9800,7 +9800,7 @@ contraltă	f
 izobară	f
 piromană	f
 tătară	f
-tontolete	m-n/m
+tontolete	m
 xilolit	n
 smiorcăit	n
 monoclat	m
@@ -9864,7 +9864,7 @@ hidatocoră	f
 turcism	n
 ucigaşă	f
 tunoscop	n
-pogromist	m-n/m
+pogromist	m
 pulsar	m
 nefericire	f
 barşon	n
@@ -10069,7 +10069,7 @@ veghere	f
 enucleaţie	f
 batoză	f
 mezoglee	f
-plăsmuitor	m-n/m
+plăsmuitor	m
 majorare	f
 ilion	n
 răsplătire	f
@@ -10205,7 +10205,7 @@ minuterie	f
 socotinţă	f
 rechemare	f
 oscilator	n
-albinos	m-n/m
+albinos	m
 purjă	f
 fotoreproducere	f
 plătitoare	f
@@ -10295,7 +10295,7 @@ retransmisie	f
 traversină	f
 gâzuliţă	f
 herţog	m
-comprador	m-n/m
+comprador	m
 edificare	f
 balansier	n
 ştrapaţ	n
@@ -10392,7 +10392,7 @@ dendroauxometru	n
 cistogramă	f
 pionieră	f
 prolificare	f
-corodantă	f/f
+corodantă	f
 convoluţie	f
 schitean	m
 staurolit	n
@@ -10527,7 +10527,7 @@ surplus	n
 silnicie	f
 discernământ	n
 papină	f
-podgorean	m-n/m
+podgorean	m
 hematofagie	f
 grandiozitate	f
 mediastinoscopie	f
@@ -10621,8 +10621,8 @@ fibră	f
 viziune	f
 hipoacuzie	f
 peruş	m
-antivirus	n/m
-finlandeză	f/f
+antivirus	n
+finlandeză	f
 lăcustar	m
 siliculă	f
 autocaracterizare	f
@@ -10758,14 +10758,14 @@ tapetare	f
 act	n
 osmanlie	f
 jadeit	n
-erotografă	f/f
+erotografă	f
 daltonist	m
 cheşchet	n
 antilopă	f
 osteită	f
 eustil	n
 caravelă	f
-eschimosă	f/f
+eschimosă	f
 normativ	n
 stâlpuşor	m
 covaci	m
@@ -10925,7 +10925,7 @@ bărdacă	f
 prunculiţă	f
 porumbea	f
 psihopedagog	m
-roznovean	m-n/m
+roznovean	m
 reverberator	n
 mărămuţă	f
 concusiune	f
@@ -10948,10 +10948,10 @@ juxtă	f
 veturin	m
 zăvor	n
 rochie	f
-ambidextru	m-n/m
+ambidextru	m
 accept	n
 scrupul	n
-băştinaş	m-n/m
+băştinaş	m
 zăvoi	n
 municipiu	n
 rază	f
@@ -10977,7 +10977,7 @@ petiţionară	f
 interoceptor	m
 peritoneoscopie	f
 idealizare	f
-premonopolist	m-n/m
+premonopolist	m
 sinistrată	f
 comitentă	f
 pulbere	f
@@ -11000,7 +11000,7 @@ scripcă	f
 impermeabilizare	f
 filit	n
 spanioloaică	f
-remontant	m-n/m
+remontant	m
 proptea	f
 ceaiofil	m
 fior	m
@@ -11022,7 +11022,7 @@ venghercă	f
 jazofilă	f
 angajament	n
 status	n
-caransebeşean	m-n/m
+caransebeşean	m
 accelerator	n
 fântânel	m
 aplaudare	f
@@ -11093,7 +11093,7 @@ engramă	f
 organzin	n
 consult	n
 sezon	n
-coagulant	m-n/m
+coagulant	m
 locuţiune	f
 cinstire	f
 spirochet	m
@@ -11107,7 +11107,7 @@ tălpaş	m
 hemicriptofită	f
 calişă	f
 helioplastie	f
-nictalop	m-n/m
+nictalop	m
 anteridie	f
 alienare	f
 smălţuitoare	f
@@ -11222,7 +11222,7 @@ cneaghină	f
 condroid	n
 mesişoară	f
 ascetă	f
-magnicid	n/m-n
+magnicid	n
 majoretă	f
 moftolog	m
 bronhoscopie	f
@@ -11262,7 +11262,7 @@ asclepiad	m
 imobiliar	n
 psihastenic	m
 psihastenie	f
-salariat	m-n/m
+salariat	m
 motocompresor	n
 dodecagon	n
 prăjitoare	f
@@ -11290,7 +11290,7 @@ campanulacee	f
 boltişoară	f
 minienciclopedie	f
 cupar	m
-boem	m-n/m
+boem	m
 incendiator	m
 ploschiţă	f
 osmoreglare	f
@@ -11392,7 +11392,7 @@ scăzător	m
 mitocănie	f
 exsudaţie	f
 altogravură	f
-formalistă	f/f
+formalistă	f
 menisc	n
 mezelic	n
 uzurară	f
@@ -11708,12 +11708,12 @@ povestitor	m
 incarnaţie	f
 caval	n
 gnais	n
-adjunct	m-n/m
+adjunct	m
 descărcătură	f
 cangrenare	f
 cavas	m
 plajă	f
-rablagiu	m-n/m
+rablagiu	m
 distonanţă	f
 cronometror	m
 salamalec	n
@@ -11750,7 +11750,7 @@ catrinţă	f
 prezidenţie	f
 schizotimă	f
 sachelar	m
-anticongelant	m-n/m
+anticongelant	m
 goştinar	m
 anomie	f
 planşă	f
@@ -11793,7 +11793,7 @@ portmoneu	n
 transformaţie	f
 dăinuire	f
 zburdătură	f
-arestat	m-n/m
+arestat	m
 moscovită	f
 îngrămădire	f
 filmare	f
@@ -11831,7 +11831,7 @@ prosopel	n
 fotoforeză	f
 foiletonistă	f
 rips	n
-apatrid	m-n/m
+apatrid	m
 specializare	f
 panacodar	m
 coscenarist	m
@@ -11850,7 +11850,7 @@ simoniacă	f
 cărbunărie	f
 deliciu	n
 şevalieră	f
-neurastenic	m-n/m
+neurastenic	m
 neurastenie	f
 strateg	m
 îndopare	f
@@ -11858,7 +11858,7 @@ slipmetru	n
 chichirez	n
 cambrură	f
 şuierat	n
-parvenit	m-n/m
+parvenit	m
 acrescământ	n
 ţincar	m
 buiotă	f
@@ -11879,7 +11879,7 @@ găligan	m
 codirector	m
 înlănţuire	f
 sangeac	m
-antisportiv	m-n/m
+antisportiv	m
 pancreatită	f
 mandrină	f
 transportor	n
@@ -11889,7 +11889,7 @@ blazonistă	f
 postelnic	m
 mioscleroză	f
 filodormă	f
-nevrotic	m-n/m
+nevrotic	m
 recurs	n
 acvilidă	f
 heptaedru	n
@@ -12160,8 +12160,8 @@ cloroplast	n
 obnubilare	f
 nigeriană	f
 perifrază	f
-prefeudal	m-n/m
-parnasian	m-n/m
+prefeudal	m
+parnasian	m
 percepţie	f
 descărnare	f
 meşină	f
@@ -12169,7 +12169,7 @@ tragediană	f
 milepor	m
 metodică	f
 luterană	f
-antiromantic	m-n/m
+antiromantic	m
 bibliofobie	f
 africancă	f
 ofiuridă	f
@@ -12185,7 +12185,7 @@ reflecţie	f
 sicaiţă	f
 anchetatoare	f
 laringoscopie	f
-polisportiv	m-n/m
+polisportiv	m
 monetărie	f
 zimberec	n
 focometru	n
@@ -12219,10 +12219,10 @@ antihalo	n
 drojdioară	f
 ţigănel	m
 promenuar	n
-privilegiat	m-n/m
+privilegiat	m
 scumpire	f
 răscroitură	f
-chiolhănos	m-n/m
+chiolhănos	m
 mofturoasă	f
 boreasă	f
 pocladă	f
@@ -12295,13 +12295,13 @@ balon-sondă	n
 ticsire	f
 furgonetă	f
 potamografie	f
-brăilean	m-n/m
+brăilean	m
 mărgărită	f
 ambarcader	n
 magneton	m
 endosperm	n
 incrustatoare	f
-colorant	m-n/m
+colorant	m
 distorsiometru	m
 acalculie	f
 loţiune	f
@@ -12317,7 +12317,7 @@ relascop	n
 instituţionalistă	f
 urdinare	f
 contestaţie	f
-rădăuţean	m-n/m
+rădăuţean	m
 cârmă	f
 scutire	f
 pseudopatriot	m
@@ -12450,7 +12450,7 @@ cuplor	n
 negrilică	f
 râmnic	n
 voinicică	f
-comanditat	m-n/m
+comanditat	m
 fotocromoxilografie	f
 refutaţie	f
 refracţie	f
@@ -12513,7 +12513,7 @@ chimografie	f
 bombiţă	f
 estompare	f
 secăciune	f
-electrofobă	f/f
+electrofobă	f
 rever	n
 savoiardă	f
 plasmă	f
@@ -12640,7 +12640,7 @@ triaj	n
 domesticire	f
 vermicul	n
 triac	n
-bondoc	m-n/m
+bondoc	m
 rambleiaj	n
 nucuţ	m
 aulă	f
@@ -12671,7 +12671,7 @@ zaharide	f
 lelişoară	f
 validare	f
 rânduire	f
-andaluz	m-n/m
+andaluz	m
 pretoriu	n
 şiret	n
 legănătură	f
@@ -12738,7 +12738,7 @@ ubicuitară	f
 geamantănaş	n
 maximalizare	f
 minuţie	f
-relativist	m-n/m
+relativist	m
 megalocefalie	f
 half	m
 artos	n
@@ -12777,7 +12777,7 @@ quarc	n
 sibiaş	n
 bandajare	f
 coraportor	m
-rebel	m-n/m
+rebel	m
 retransmitere	f
 gâgâit	n
 plastomer	m
@@ -12820,7 +12820,7 @@ duriţă	f
 oculogramă	f
 intemperanţă	f
 săsoaică	f
-optimist	m-n/m
+optimist	m
 puiet	n
 paraflacără	f
 mişină	f
@@ -12872,7 +12872,7 @@ năimitor	m
 aerofotogramă	f
 anticategorie	f
 neglijenţă	f
-miez	n/m
+miez	n
 sirinx	n
 râuşor	n
 involuţie	f
@@ -12921,7 +12921,7 @@ pahar	n
 varietate	f
 prozopometru	n
 patafiziciană	f
-bucureştean	m-n/m
+bucureştean	m
 epocă	f
 torţă	f
 orhită	f
@@ -12981,8 +12981,8 @@ turboinjector	n
 medic	m
 medie	f
 descalificare	f
-akkadian	m-n/m
-adeziv	m-n/m
+akkadian	m
+adeziv	m
 superficialitate	f
 mormăire	f
 cataclază	f
@@ -13001,15 +13001,15 @@ striere	f
 curtină	f
 sedimentaţie	f
 combinaţie	f
-hiperbat	n/f
-adulator	m-n/m
+hiperbat	n
+adulator	m
 răchitar	m
 pedograf	n
 teletin	n
 comediantă	f
 incrustare	f
 pneumoragie	f
-atotbiruitor	m-n/m
+atotbiruitor	m
 doctoriţă	f
 răchitan	m
 acarniţă	f
@@ -13054,7 +13054,7 @@ rusism	n
 liniment	n
 distih	n
 năstrapă	f
-saigonez	m-n/m
+saigonez	m
 geambaşie	f
 namilă	f
 listare	f
@@ -13126,7 +13126,7 @@ chenăraş	n
 surmenare	f
 antologist	m
 metalin	n
-dominicană	f/f
+dominicană	f
 invadatoare	f
 comics	n
 polinucleoză	f
@@ -13181,7 +13181,7 @@ aerosondaj	n
 obstrucţionare	f
 planogramă	f
 răzbunare	f
-acvafortist	m-n/m
+acvafortist	m
 ineluş	n
 pilulă	f
 reverend	m
@@ -13189,15 +13189,15 @@ mişeaucă	f
 schelălăială	f
 traumatolog	m
 culmiţă	f
-călăreţ	m-n/m
+călăreţ	m
 fătare	f
 verb	n
 rumbatron	n
 retur	n
 sparanghel	m
-rasist	m-n/m
+rasist	m
 depilator	n
-acromat	m-n/m
+acromat	m
 cireşar	m
 şovină	f
 horoscop	n
@@ -13232,7 +13232,7 @@ mărunţuş	n
 respect	n
 hidromanie	f
 rizodermă	f
-antropofag	m-n/m
+antropofag	m
 tufecciu	m
 codeţinut	m
 artropatie	f
@@ -13332,14 +13332,14 @@ repercusiune	f
 fumărar	m
 săculteţ	n
 prăbuşire	f
-animist	m-n/m
+animist	m
 morăraş	m
 micrometru	n
 finet	n
 feculometru	n
 geognost	m
 izonefă	f
-bârfitor	m-n/m
+bârfitor	m
 urinal	n
 germinator	n
 corelativ	n
@@ -13350,7 +13350,7 @@ scenograf	m
 android	m
 observaţie	f
 cuminecare	f
-oficiant	m-n/m
+oficiant	m
 imprimat	n
 năpăstuitoare	f
 xilen	m
@@ -13501,7 +13501,7 @@ prigonire	f
 autoambulanţă	f
 boschet	n
 laringită	f
-nemuritor	m-n/m
+nemuritor	m
 tutuire	f
 murguşor	m
 girostabilizator	n
@@ -13610,10 +13610,10 @@ cazacioc	n
 deşuchetură	f
 cezar	m
 soţioară	f
-vrej	n/m
+vrej	n
 umilire	f
 zbieret	n
-plebicol	m-n/m
+plebicol	m
 prăjitură	f
 cositoare	f
 xantom	n
@@ -13739,7 +13739,7 @@ angeită	f
 fitopatolog	m
 coasigurare	f
 picnometrie	f
-opiofag	m-n/m
+opiofag	m
 urografie	f
 tovălaş	n
 diluţie	f
@@ -13902,7 +13902,7 @@ voltijă	f
 echipă	f
 mişuneală	f
 derulor	n
-patent	n/f
+patent	n
 sincrofazotron	n
 flanşă	f
 baleiaj	n
@@ -13911,7 +13911,7 @@ opsomanie	f
 marşrut	n
 ortodromă	f
 umezeală	f
-degresant	m-n
+degresant	m
 serializator	m
 sudare	f
 diafiză	f
@@ -13952,7 +13952,7 @@ druguleţ	m
 islamist	m
 cântec	n
 guvern-marionetă	n
-ageamiu	m-n/m
+ageamiu	m
 activist	m
 cepuşoară	f
 protoxid	m
@@ -13998,7 +13998,7 @@ zburlire	f
 avans	n
 bordel	n
 privighetoare	f
-panamez	m-n/m
+panamez	m
 pezevenglâc	n
 bordei	n
 avanpremieră	f
@@ -14047,7 +14047,7 @@ turnetă	f
 machisard	m
 hipnotizare	f
 relonist	m
-antiparazit	m-n/m
+antiparazit	m
 moldovenizare	f
 atletă	f
 deflexiune	f
@@ -14082,7 +14082,7 @@ buzunărel	n
 patinoare	f
 sinarhie	f
 răzuire	f
-ghisman	n/f
+ghisman	n
 croşetare	f
 servocomandă	f
 clocotiş	m
@@ -14124,7 +14124,7 @@ concluzie	f
 izvorâtoare	f
 omuleţ	m
 negel	m
-ametrop	m-n/m
+ametrop	m
 niponă	f
 lamba	f
 străşeneancă	f
@@ -14465,7 +14465,7 @@ sârghie	f
 galoş	m
 pezevenghe	f
 abdomen	n
-pricinuitor	m-n/m
+pricinuitor	m
 exuberanţă	f
 preţuire	f
 mezencefal	n
@@ -14508,7 +14508,7 @@ camarot	m
 aneurie	f
 doapă	f
 slujbaş	m
-bucovinean	m-n/m
+bucovinean	m
 trauler	n
 criptopode	f
 salinizare	f
@@ -14626,7 +14626,7 @@ linşor	m
 pateu	n
 băcăuancă	f
 spicheriţă	f
-farfasită	f/f
+farfasită	f
 deroşeză	f
 bălmăjeală	f
 necrolatru	m
@@ -14639,7 +14639,7 @@ scuar	n
 dezintegrare	f
 glicoproteidă	f
 anteflexiune	f
-colhoznic	m-n/m
+colhoznic	m
 şanfrenare	f
 edict	n
 stop	n
@@ -14666,7 +14666,7 @@ bucăţel	m
 ecleror	m
 reclamantă	f
 bucăţea	f
-eleată	f/f
+eleată	f
 ficus	m
 antivitamină	f
 îmbrâncire	f
@@ -14718,7 +14718,7 @@ zornăit	n
 târgmureşeancă	f
 bolborosire	f
 radionevrită	f
-exploatatoare	f/f
+exploatatoare	f
 florentină	f
 contrapondere	f
 oboist	m
@@ -14827,13 +14827,13 @@ efeb	m
 maxilă	f
 tălgior	n
 excentric	n
-beteag	m-n/m
+beteag	m
 potop	n
 potou	n
 califat	n
 energetician	m
 agerime	f
-corugatoare	f/f
+corugatoare	f
 dextrină	f
 docimazie	f
 polinom	n
@@ -14856,7 +14856,7 @@ tabinet	n
 serpentariu	n
 hiperacuzie	f
 maşinistă	f
-nevolnic	m-n/m
+nevolnic	m
 parcan	n
 gamelă	f
 colonlinie	f
@@ -14868,7 +14868,7 @@ macrocefalie	f
 dogmatist	m
 fort	n
 antiferment	m
-funicular	n/n
+funicular	n
 scăiecior	m
 proră	f
 colector	n
@@ -14900,7 +14900,7 @@ tangara	f
 lumânărărie	f
 mozaicar	m
 diez	m
-pribeag	m-n/m
+pribeag	m
 sculărie	f
 rodaj	n
 optar	m
@@ -14914,7 +14914,7 @@ hatâr	n
 motoretă	f
 idiolalie	f
 sâsâiac	n
-petrecător	m-n/m
+petrecător	m
 mrenuţă	f
 scândurică	f
 codiţă	f
@@ -14928,7 +14928,7 @@ ocupator	m
 opsas	n
 biosociolog	m
 snamenie	f
-denaturant	m-n/m
+denaturant	m
 departament	n
 ipocrită	f
 cabală	f
@@ -15095,7 +15095,7 @@ agie	f
 glosem	n
 retrospecţiune	f
 suprasolicitare	f
-ascendent	m-n/m
+ascendent	m
 scaun	n
 hidracarian	m
 eventraţie	f
@@ -15107,7 +15107,7 @@ copepod	n
 şevrou	n
 noctambulă	f
 fitil	n
-bătrânel	m-n/m
+bătrânel	m
 derulorist	m
 electroaparataj	n
 jugulare	f
@@ -15207,7 +15207,7 @@ cocoşel	m
 defluviaţie	f
 destinatară	f
 alergologă	f
-cântător	m-n/m
+cântător	m
 fascicul	n
 neflă	f
 caricatură	f
@@ -15238,7 +15238,7 @@ bănuţ	m
 hispanofilă	f
 slovacă	f
 contracâmp	n
-ruandez	m-n/m
+ruandez	m
 calendar	n
 spinetă	f
 preavizare	f
@@ -15299,7 +15299,7 @@ microfotometru	n
 urlup	m
 verandă	f
 juncană	f
-şerlai	m/n
+şerlai	m
 pulverină	f
 legitimistă	f
 biocenometru	n
@@ -15339,7 +15339,7 @@ tuş	n
 homoplastie	f
 medicinist	m
 jitărie	f
-prohibiţionist	m-n/m
+prohibiţionist	m
 pumnistă	f
 pohoaţă	f
 bronzaj	n
@@ -15372,7 +15372,7 @@ robotician	m
 isprăvnicel	m
 vidaj	n
 astenie	f
-astenic	m-n/m
+astenic	m
 concubinaj	n
 fotosferă	f
 procesomanie	f
@@ -15494,7 +15494,7 @@ reniş	n
 biblistă	f
 corion	n
 cumulardă	f
-fandosită	f/f
+fandosită	f
 onirolog	m
 dermatolog	m
 şuierătură	f
@@ -15570,7 +15570,7 @@ vals	n
 columbotecă	f
 standard	n
 conte	n
-culturalistă	f/f
+culturalistă	f
 frăgezire	f
 craidon	m
 rezitol	m
@@ -15671,7 +15671,7 @@ ragaci	n
 carotaj	n
 hibă	f
 denisipator	n
-opinent	m-n/m
+opinent	m
 azotometru	n
 cetăţenie	f
 castravete	m
@@ -15696,7 +15696,7 @@ mongoloidă	f
 hipermetropă	f
 metamer	n
 colider	m
-criptogamă	f/f
+criptogamă	f
 teletransport	n
 ciocănaş	m
 aponevroză	f
@@ -15813,7 +15813,7 @@ sectantă	f
 morişcă	f
 uscăturea	f
 volănaş	n
-suspensor	m-n/m
+suspensor	m
 înfundătură	f
 teatralistă	f
 presentiment	n
@@ -15847,7 +15847,7 @@ citadelă	f
 harapnic	n
 otoplastie	f
 multiplicaţie	f
-bavarez	m-n/m
+bavarez	m
 licenţă	f
 tinereţe	f
 acolită	f
@@ -15901,7 +15901,7 @@ comparator	n
 trinitariană	f
 apartenenţă	f
 strigiformă	f
-antijunimist	m-n/m
+antijunimist	m
 malacă	f
 erubescenţă	f
 ful	n
@@ -15935,7 +15935,7 @@ remediu	n
 volnicie	f
 statuie	f
 cositor	n
-sapient	m-n/m
+sapient	m
 trapeză	f
 drezină	f
 pârâitoare	f
@@ -15953,7 +15953,7 @@ decondiţionare	f
 dublaj	n
 calefacţie	f
 reunire	f
-cuboidă	f/f
+cuboidă	f
 inducere	f
 gondoletă	f
 trandada	f
@@ -15996,7 +15996,7 @@ deraziune	f
 monoxid	m
 răzălău	n
 bosaj	n
-parodiant	m-n/m
+parodiant	m
 familiaritate	f
 energie	f
 gram-forţă	n
@@ -16008,7 +16008,7 @@ considerare	f
 priveghetoare	f
 conduraş	m
 proctologă	f
-premilitar	m-n/m
+premilitar	m
 tifos	n
 molatică	f
 epitelizare	f
@@ -16047,7 +16047,7 @@ chişinăuiancă	f
 exageraţie	f
 satinaj	n
 capelan	m
-antimilitarist	m-n/m
+antimilitarist	m
 devoltor	n
 dreptunghi	n
 iereu	m
@@ -16179,7 +16179,7 @@ egiptologă	f
 târguială	f
 acuarelistă	f
 prebendă	f
-budapestan	m-n/m
+budapestan	m
 porcărie	f
 naţionalistă	f
 normare	f
@@ -16238,7 +16238,7 @@ mireasmă	f
 taifun	n
 sarmatică	f
 falangetă	f
-antireformist	m-n/m
+antireformist	m
 ciclotimie	f
 ciclotimică	f
 şcolăriţă	f
@@ -16281,7 +16281,7 @@ făcliuţă	f
 bufetieră	f
 autoobservaţie	f
 poantou	n
-profitor	m-n/m
+profitor	m
 torşon	n
 broscuţ	m
 atropism	n
@@ -16371,7 +16371,7 @@ balcanizare	f
 octatlonistă	f
 sarcină	f
 caretă	f
-pectoral	m-n/m
+pectoral	m
 lintou	n
 numismat	m
 reconstruire	f
@@ -16424,7 +16424,7 @@ pastet	n
 scărpinătoare	f
 epifrază	f
 păcală	m
-cernavodean	m-n/m
+cernavodean	m
 virginal	n
 monom	n
 termograf	n
@@ -16512,7 +16512,7 @@ preocupare	f
 cherhana	f
 melenaş	m
 sinodalitate	f
-preferat	m-n/m
+preferat	m
 zeciuit	n
 întregime	f
 habaneră	f
@@ -16529,7 +16529,7 @@ laureată	f
 supărare	f
 rodomontadă	f
 compozitoare	f
-impregnant	n/m-n
+impregnant	n
 cezarotomie	f
 mondenitate	f
 alismatacee	f
@@ -16572,7 +16572,7 @@ căsulie	f
 dejun	n
 cucui	n
 terebentină	f
-insert	n/m-n
+insert	n
 ilău	n
 rotoghilă	f
 încleiere	f
@@ -16598,7 +16598,7 @@ estradiol	m
 graifer	n
 sincretistă	f
 paner	n
-providenţialist	m-n/m
+providenţialist	m
 teleampermetru	n
 dansator	m
 simplex	n
@@ -16748,7 +16748,7 @@ plasare	f
 alergătoare	f
 împunsătură	f
 proţăpel	n
-descriptivistă	f/f
+descriptivistă	f
 ulmacee	f
 sudit	m
 târsoacă	f
@@ -16772,7 +16772,7 @@ gorgan	n
 zburătoare	f
 limfopenie	f
 interconectare	f
-poliploid	m-n/m
+poliploid	m
 sescviterpenă	f
 brânzăreasă	f
 mantie	f
@@ -16847,7 +16847,7 @@ sifon	n
 portunealtă	f
 practicant	m
 zdrumicare	f
-reformator	m-n/m
+reformator	m
 cliniciană	f
 devastare	f
 postludiu	n
@@ -17056,7 +17056,7 @@ calcaron	n
 retrovizor	n
 policaprolactamă	f
 catedrală	f
-acreditat	m-n/m
+acreditat	m
 lobul	m
 slăvire	f
 condescendentă	f
@@ -17085,7 +17085,7 @@ prostovol	n
 ex-campion	m
 veninariţă	f
 fucoxantină	f
-pluralist	m-n/m
+pluralist	m
 probatoriu	n
 crumpenă	f
 disurie	f
@@ -17125,7 +17125,7 @@ sclerotică	f
 priboire	f
 gheţişoară	f
 formatoare	f
-brevilin	m-n/m
+brevilin	m
 flagelaţie	f
 solear	m
 curvar	m
@@ -17205,7 +17205,7 @@ nisetru	m
 copoi	m
 amor	n
 iahtman	m
-basarabean	m-n/m
+basarabean	m
 bandou	n
 libelist	m
 beletrist	m
@@ -17269,7 +17269,7 @@ familiarizare	f
 haramin	m
 latice	f
 carmaniolă	f
-levint	m/m-n
+levint	m
 interpretă	f
 verzişoară	f
 parametru	m
@@ -17295,7 +17295,7 @@ acefalie	f
 simbrioară	f
 neghinuţă	f
 perfuzor	n
-bolnav	m-n/m
+bolnav	m
 catedratică	f
 sunetist	m
 landou	n
@@ -17330,7 +17330,7 @@ nefalistă	f
 faună	f
 binoclu	n
 electrolit	m
-hexamotor	n/m-n
+hexamotor	n
 tachinare	f
 egidă	f
 clupeide	f
@@ -17413,9 +17413,9 @@ dalie	f
 rovină	f
 vălug	n
 haşmă	f
-antiterorist	m-n/m
+antiterorist	m
 oronim	n
-asistent	m-n/m
+asistent	m
 pasivizare	f
 după-masă	f
 pterodon	m
@@ -17467,7 +17467,7 @@ complinire	f
 recriminaţie	f
 concentraţie	f
 pneumosept	n
-neoimpresionist	m-n/m
+neoimpresionist	m
 casâncă	f
 bengaleză	f
 jumuleală	f
@@ -17476,7 +17476,7 @@ gerare	f
 unghioară	f
 umidificator	n
 înţelegere	f
-congoleză	f/f
+congoleză	f
 ortografist	m
 astrograf	n
 aritmogrif	n
@@ -17507,7 +17507,7 @@ diorit	n
 păltinaş	m
 umbelă	f
 oţelire	f
-realist	m-n/m
+realist	m
 calibraj	n
 treaptă	f
 exarh	m
@@ -17543,7 +17543,7 @@ cartuşieră	f
 căpăstru	n
 raster	n
 răcoare	f
-frecventatoare	f/f
+frecventatoare	f
 refuz	n
 eterodină	f
 târlie	f
@@ -17609,9 +17609,9 @@ hrisov	n
 oglindă	f
 slujnică	f
 moaşte	f
-etiopiană	f/f
+etiopiană	f
 răţuşcă	f
-discromatopă	f/f
+discromatopă	f
 coreometru	n
 bubă	f
 frig	n
@@ -17655,12 +17655,12 @@ ortopol	m
 premieră	f
 pătrime	f
 lupinoză	f
-politicianist	m-n/m
+politicianist	m
 culminaţie	f
 tigroaică	f
 liturghier	n
 picnic	n
-beţivan	m-n/m
+beţivan	m
 rubeolă	f
 căţuie	f
 postpunere	f
@@ -17971,7 +17971,7 @@ crispaţie	f
 tei	n
 barbă	f
 festă	f
-pleuritic	m-n/m
+pleuritic	m
 tec	m
 microstagiune	f
 jighiuţă	f
@@ -18071,7 +18071,7 @@ muzoar	n
 viceregat	n
 emanare	f
 metodă	f
-protoistoric	m-n/m
+protoistoric	m
 antantă	f
 murguţă	f
 şanfren	n
@@ -18117,10 +18117,10 @@ tălpiţă	f
 opărire	f
 camionar	m
 tantiemă	f
-repauzat	m-n/m
+repauzat	m
 şitar	m
 benjamin	m
-solvent	m-n/m
+solvent	m
 turicel	m
 sperietoare	f
 flexură	f
@@ -18210,7 +18210,7 @@ acordeonistă	f
 penă	f
 predeterminaţie	f
 paracherniţă	f
-nobil	m-n/m
+nobil	m
 spermotip	n
 batcă	f
 carbohidrat	m
@@ -18228,7 +18228,7 @@ vocativ	n
 conjecturare	f
 suflantă	f
 gasteropod	n
-jugal	n/m-n
+jugal	n
 personificare	f
 jugan	m
 scintilaţie	f
@@ -18444,7 +18444,7 @@ zvon	n
 torsiometru	n
 poluare	f
 tulumbagiu	m
-prostan	m-n/m
+prostan	m
 cămilă	f
 pleasnă	f
 asiată	f
@@ -18479,7 +18479,7 @@ minoritate	f
 gemă	f
 scampolo	n
 conglomerat	n
-căciur	m-n/m
+căciur	m
 duumvir	m
 himeneu	n
 noţiune	f
@@ -18526,9 +18526,9 @@ păscuţă	f
 ecologă	f
 sculament	n
 rudiţă	f
-pervers	m-n/m
+pervers	m
 ierbuşoară	f
-pitagoreic	m-n/m
+pitagoreic	m
 cuconiţă	f
 spălăcitură	f
 mahala	f
@@ -18600,16 +18600,16 @@ alcion	m
 vătaf	m
 nudistă	f
 autoexcavator	n
-albineţ	m-n/m
+albineţ	m
 antologator	m
 măsuţă	f
 spinet	n
 moftangiu	m
 beldie	f
-neokantian	m-n/m
+neokantian	m
 proprietară	f
 concitadin	m
-galeză	f/f
+galeză	f
 profetesă	f
 lăuruscă	f
 indelicateţe	f
@@ -18679,7 +18679,7 @@ aromire	f
 infundibul	n
 necrofagă	f
 momiţoi	m
-colonizator	m-n/m
+colonizator	m
 sclavă	f
 hazard	n
 arhidiacon	m
@@ -18882,7 +18882,7 @@ canalagiu	m
 hematimetrie	f
 helion	m
 popicară	f
-producător	m-n/m
+producător	m
 măturare	f
 tubaj	n
 persecutor	m
@@ -18971,7 +18971,7 @@ salbandă	f
 nod	n
 paltonaş	n
 fluieriţă	f
-gamomană	f/f
+gamomană	f
 intimitate	f
 împlinire	f
 şperlă	f
@@ -18996,7 +18996,7 @@ răsfăţare	f
 şeitan	m
 readucător	n
 boscărie	f
-andorran	m-n/m
+andorran	m
 hematoscop	n
 anisol	m
 vetrişoară	f
@@ -19027,7 +19027,7 @@ tartrat	m
 revaccinare	f
 agnost	m
 vadră	f
-predeterminant	m-n/m
+predeterminant	m
 piramidon	n
 călărăşeancă	f
 corlă	f
@@ -19210,7 +19210,7 @@ pentozurie	f
 autoproclamare	f
 hidracid	m
 atee	f
-anticapitalist	m-n/m
+anticapitalist	m
 externist	m
 culi	m
 ateu	m
@@ -19233,7 +19233,7 @@ hamal	m
 bronşectazie	f
 arhontat	n
 nitrat	m
-criticistă	f/f
+criticistă	f
 tricotomie	f
 fulguraţie	f
 hamac	n
@@ -19322,7 +19322,7 @@ ofiţeraş	m
 coreut	m
 nanosecundă	f
 scuturătoare	f
-poporan	m-n/m
+poporan	m
 columbicultor	m
 reambulare	f
 clorură	f
@@ -19365,7 +19365,7 @@ protoierie	f
 stenogramă	f
 nuclearist	m
 zăcătură	f
-rutinier	m-n/m
+rutinier	m
 filmpac	n
 pseudocultură	f
 topocentru	n
@@ -19405,7 +19405,7 @@ izbă	f
 aprinzătoare	f
 dijmuitor	m
 ordonatoare	f
-contractantă	f/f
+contractantă	f
 micafoliu	n
 mogorogire	f
 ceremonie	f
@@ -19575,7 +19575,7 @@ decorticare	f
 grafologă	f
 costum	n
 părticică	f
-europeană	f/f
+europeană	f
 strămurare	f
 romancier	m
 plescăire	f
@@ -19608,7 +19608,7 @@ pentanol	n
 hidromasaj	n
 înconjur	n
 stânjeneală	f
-antidifteric	m-n/m
+antidifteric	m
 fumarolă	f
 pateriţă	f
 microtraumatism	n
@@ -19625,7 +19625,7 @@ seismolog	m
 autodepanator	m
 turmalină	f
 şopăire	f
-predomnitor	m-n/m
+predomnitor	m
 covor	n
 desfundătură	f
 apsidă	f
@@ -19642,7 +19642,7 @@ umidometru	n
 condil	m
 cultism	n
 fâş	n
-francofobă	f/f
+francofobă	f
 afinaj	n
 căldură	f
 telefoileton	n
@@ -19748,7 +19748,7 @@ peristil	n
 planimetru	n
 albeţ	n
 geanticlinal	n
-newyorkez	m-n/m
+newyorkez	m
 cupuliferă	f
 plastiscop	n
 statură	f
@@ -19791,7 +19791,7 @@ confrăţie	f
 cvadriremă	f
 vitrificare	f
 ciclotron	n
-alienat	m-n/m
+alienat	m
 subdistrict	n
 şperaclu	n
 măscărici	m
@@ -19861,7 +19861,7 @@ surioară	f
 sporange	m
 scutelnic	m
 radiostaţiune	f
-frâncă	f/f
+frâncă	f
 flagelare	f
 aneurină	f
 popenchi	m
@@ -19921,7 +19921,7 @@ carapace	f
 marghiolie	f
 sticlişoară	f
 târnă	f
-pişicher	m/m-n
+pişicher	m
 sultănică	f
 siderostat	n
 tort	n
@@ -19954,7 +19954,7 @@ detaşor	n
 fructificaţie	f
 rotisor	n
 contraofertă	f
-panteist	m-n/m
+panteist	m
 microzonă	f
 dohotniţă	f
 contrabasist	m
@@ -20005,10 +20005,10 @@ crin-de-toamnă	m
 ieşitoare	f
 coşcană	f
 rabatere	f
-brandenburghez	m-n/m
+brandenburghez	m
 limbă	f
 ţărăncuţă	f
-antic	m-n/m
+antic	m
 hexastil	n
 recoltare	f
 stabilizant	m
@@ -20033,7 +20033,7 @@ sfincter	n
 mazil	m
 meşteşug	n
 oază	f
-golană	f/f
+golană	f
 defrişor	m
 tranziter	m
 hocheton	n
@@ -20096,13 +20096,13 @@ tonomat	n
 logaritm	m
 selecţionare	f
 gramatist	m
-antitrinitar	m-n/m
+antitrinitar	m
 interpretare	f
 simpatizare	f
 voiajor	m
 ionatan	n
 uretră	f
-bătrân	m-n/m
+bătrân	m
 interferenţă	f
 prevenţie	f
 melşpaiz	n
@@ -20137,7 +20137,7 @@ venit	n
 osteoclast	n
 reflex	n
 păţeală	f
-ficţionalistă	f/f
+ficţionalistă	f
 cardama	f
 repezitură	f
 uriaşă	f
@@ -20150,7 +20150,7 @@ dejucare	f
 monohidrat	m
 transpiraţie	f
 sinuzie	f
-consultantă	f/f
+consultantă	f
 deplanare	f
 aperitiv	n
 fosforescenţă	f
@@ -20179,7 +20179,7 @@ moldă	f
 psihofiziolog	m
 barbet	m
 coreferentă	f
-extern	m-n/m
+extern	m
 prăşit	n
 antracoteriu	m
 spadice	n
@@ -20249,7 +20249,7 @@ muzicantă	f
 microagent	m
 beznă	f
 interpelator	m
-germanofonă	f/f
+germanofonă	f
 dezinteresare	f
 citaţie	f
 portelicopter	n
@@ -20269,7 +20269,7 @@ scenotecă	f
 furier	m
 drumeag	n
 lefuşoară	f
-oportunist	m-n/m
+oportunist	m
 hem	n
 ironizator	m
 calcinaţie	f
@@ -20365,7 +20365,7 @@ pliroforie	f
 pansament	n
 macroasamblor	n
 diametru	n
-antropofob	m-n/m
+antropofob	m
 iugoslavă	f
 virusologă	f
 satelizare	f
@@ -20415,7 +20415,7 @@ rugozimetru	n
 sufragerie	f
 ghimie	f
 caiac	n
-octogenar	m-n/m
+octogenar	m
 gavanos	n
 stelar	m
 prezbiteră	f
@@ -20506,7 +20506,7 @@ cinerestaurant	n
 mungerie	f
 ragilă	f
 isprăvniceasă	f
-engleză	f/f
+engleză	f
 vitriol	n
 privată	f
 transcriitor	m
@@ -20525,7 +20525,7 @@ imigrare	f
 foac	m
 bromat	m
 hiperclorhidrie	f
-probabilist	m-n/m
+probabilist	m
 proţăpeală	f
 dendrobiont	n
 poleire	f
@@ -20720,7 +20720,7 @@ sculişoară	f
 scumpenie	f
 cumătru	m
 cocoşneaţă	f
-newtonian	m-n/m
+newtonian	m
 descriere	f
 ghioşare	f
 muzicografă	f
@@ -20738,7 +20738,7 @@ simonie	f
 elev	m
 acadea	f
 posedare	f
-antiastmatic	m-n/m
+antiastmatic	m
 pedimană	f
 schematizare	f
 butură	f
@@ -20746,7 +20746,7 @@ panslavă	f
 elagaj	n
 arteriograf	n
 suiş	n
-câştigător	m-n/m
+câştigător	m
 înfiripare	f
 recipient	n
 singulativ	n
@@ -20784,7 +20784,7 @@ ampatament	n
 ospătător	m
 monogeneză	f
 chersin	n
-asuprit	m-n/m
+asuprit	m
 carou	n
 îngerel	m
 odor	n
@@ -20940,7 +20940,7 @@ darwinistă	f
 ţarţam	n
 alcool	m
 punci	n
-antirepublican	m-n/m
+antirepublican	m
 ciconiidă	f
 punct	n
 asediere	f
@@ -21036,7 +21036,7 @@ pătrăţică	f
 troahnă	f
 ronjant	m
 învelire	f
-neogramatic	m-n/m
+neogramatic	m
 interlocutor	m
 rujă	f
 subrau	n
@@ -21061,7 +21061,7 @@ streptococ	m
 molitvelnic	n
 taumaturg	m
 carpotecă	f
-gepidă	f/f
+gepidă	f
 regionalism	n
 dezincrustare	f
 modulor	n
@@ -21145,7 +21145,7 @@ drapare	f
 ştim	m
 serumalbumină	f
 noosferă	f
-panlogist	m-n/m
+panlogist	m
 xenoftalmie	f
 chibz	n
 fereastră	f
@@ -21182,7 +21182,7 @@ melamină	f
 perisip	n
 hipofonie	f
 avat	m
-avar	m-n/m
+avar	m
 talerist	m
 ovariopatie	f
 reescontare	f
@@ -21340,7 +21340,7 @@ stupitură	f
 endobiont	n
 zornet	n
 sălăţică	f
-nicosian	m-n/m
+nicosian	m
 antroponim	n
 imanentistă	f
 stângism	n
@@ -21369,7 +21369,7 @@ trambalare	f
 dăruitoare	f
 canibal	m
 laminatoare	f
-filantropistă	f/f
+filantropistă	f
 pediatră	f
 neagresivitate	f
 somitate	f
@@ -21386,9 +21386,9 @@ bronşită	f
 consignator	m
 singir	n
 vrajă	f
-pârâcios	m-n/m
+pârâcios	m
 taluz	n
-berlinez	m-n/m
+berlinez	m
 reintervenţie	f
 verticil	n
 merar	m
@@ -21448,7 +21448,7 @@ pecenegă	f
 semivoltă	f
 neadevăr	n
 compresiune	f
-pitiatic	m-n/m
+pitiatic	m
 ins	m
 ripeag	n
 calmant	n
@@ -21510,7 +21510,7 @@ strigoi	m
 minciunea	f
 hirudinicultor	m
 glosă	f
-activant	m-n/m
+activant	m
 bramă	f
 inversor	n
 conscripţie	f
@@ -21642,7 +21642,7 @@ supleantă	f
 salop	n
 genitoree	f
 meişor	m
-buiestraş	m-n/m
+buiestraş	m
 prenume	n
 desprăfuire	f
 hemeralopie	f
@@ -21741,7 +21741,7 @@ surcică	f
 holercă	f
 vafelă	f
 neocatolică	f
-brizant	m-n/m
+brizant	m
 furbură	f
 sanculot	m
 monobrăzdar	n
@@ -21822,7 +21822,7 @@ cupletist	m
 gaur	m
 ordine	f
 mesteacăn	m
-anticanceros	m-n/m
+anticanceros	m
 computist	m
 pojijie	f
 electronvolt	m
@@ -21851,7 +21851,7 @@ alveolă	f
 partitură	f
 mârşăvire	f
 zgârieci	m
-brav	m-n/m
+brav	m
 odeletă	f
 loveală	f
 avalizat	m
@@ -22048,7 +22048,7 @@ chelfăneală	f
 prefilatelie	f
 pseudomembrană	f
 simpatoză	f
-botoşănean	m-n/m
+botoşănean	m
 ambosaj	n
 peisaj	n
 osteotomie	f
@@ -22102,7 +22102,7 @@ reportofon	n
 sân	m
 vizitare	f
 neofalină	f
-diluată	f/f
+diluată	f
 suprimare	f
 târnăcop	n
 neodarvinistă	f
@@ -22111,7 +22111,7 @@ provă	f
 făţuire	f
 caş	n
 lacrimaţie	f
-casnic	m-n/m
+casnic	m
 eoantrop	m
 panseluţă	f
 falconet	n
@@ -22274,7 +22274,7 @@ contrasemnatar	m
 olicică	f
 federalizare	f
 anatide	f
-preromantic	m-n/m
+preromantic	m
 glosar	n
 jghebuleţ	n
 pornitor	n
@@ -22383,14 +22383,14 @@ institutor	m
 fretaj	n
 extrafin	m
 reciclare	f
-germană	f/f
+germană	f
 molare	f
 ascomicetă	f
 siflee	f
 propăşire	f
 hăcuire	f
 simfiză	f
-donatistă	f/f
+donatistă	f
 monoftong	m
 bandurist	m
 dipsomanie	f
@@ -22481,7 +22481,7 @@ falconidă	f
 mehtup	n
 spătărel	m
 leuţ	m
-pedant	m-n/m
+pedant	m
 semiremorcă	f
 degringoladă	f
 autoreglare	f
@@ -22493,7 +22493,7 @@ bodegă	f
 pătură	f
 fluidifiant	n
 subdiviziune	f
-agnostic	m-n/m
+agnostic	m
 mestecare	f
 senzor	m
 stelaj	n
@@ -22533,10 +22533,10 @@ decapotare	f
 tarsectomie	f
 depolarizaţie	f
 cromatizare	f
-proletar	m-n/m
+proletar	m
 chilofite	n
 vergelator	n
-bisericos	m-n/m
+bisericos	m
 redevenţiară	f
 petroduroscop	n
 coadă	f
@@ -22684,7 +22684,7 @@ pantofăreasă	f
 afazie	f
 hardpan	n
 falbala	f
-afazic	m-n/m
+afazic	m
 emailare	f
 companioană	f
 fluturaş	m
@@ -22751,12 +22751,12 @@ năsăudeancă	f
 dendrologă	f
 străbatere	f
 vornicie	f
-preafrumos	m-n/m
+preafrumos	m
 triadă	f
 zgancă	f
 ungător	n
 bigotism	n
-europenistă	f/f
+europenistă	f
 ambiguizare	f
 încărcător	n
 parfumier	m
@@ -22767,7 +22767,7 @@ progresivistă	f
 redingotă	f
 golişte	f
 îngurzitură	f
-sextil	m-n/n
+sextil	m
 magnetogramă	f
 umorist	m
 habenulă	f
@@ -22778,7 +22778,7 @@ naufragiată	f
 balansoar	n
 ostatic	m
 castanietă	f
-pelagros	m-n/m
+pelagros	m
 spumare	f
 tiroxină	f
 proboscidă	f
@@ -22839,7 +22839,7 @@ scadenţă	f
 mânecuţă	f
 paramer	n
 pârâu	n
-pârât	m-n/m
+pârât	m
 captator	n
 nădejde	f
 normă	f
@@ -22856,7 +22856,7 @@ dioramă	f
 metocar	m
 documentaristă	f
 canceroidă	f
-reproducător	m-n/m
+reproducător	m
 disponibilitate	f
 mărgarit	n
 machetator	m
@@ -22877,7 +22877,7 @@ sangulie	f
 panaşură	f
 tratare	f
 codirlă	f
-versant	n/m
+versant	n
 provizie	f
 planton	n
 afixoid	n
@@ -22964,7 +22964,7 @@ dezorganizare	f
 trunchiere	f
 hiponim	n
 obstacol	n
-prostatic	m-n/m
+prostatic	m
 viermuire	f
 vătuire	f
 campanulă	f
@@ -22972,7 +22972,7 @@ modelizare	f
 luft	n
 cocoş-sălbatic	m
 odraslă	f
-buiestru	m-n/m
+buiestru	m
 nălucă	f
 velogravură	f
 fundamentare	f
@@ -22981,7 +22981,7 @@ labiacee	f
 gnomon	n
 autoorganizare	f
 privaţiune	f
-buhuşean	m-n/m
+buhuşean	m
 nictaţie	f
 afundiş	n
 contadină	f
@@ -23094,7 +23094,7 @@ marşandă	f
 hormonoterapie	f
 hemartroză	f
 gilotaj	n
-daneză	f/f
+daneză	f
 semispaţiu	n
 desulfurator	n
 declorizare	f
@@ -23127,7 +23127,7 @@ pocher	n
 ulceluşă	f
 henrimetru	n
 literaturizare	f
-cercetător	m-n/m
+cercetător	m
 preoteasă	f
 antienzimă	f
 ospeţie	f
@@ -23160,7 +23160,7 @@ expiere	f
 telebusolă	f
 transept	n
 combinare	f
-poltron	m-n/m
+poltron	m
 şinar	n
 defibrator	n
 sarcomatoză	f
@@ -23226,7 +23226,7 @@ propilitizare	f
 gamă	f
 iezer	n
 ghileală	f
-salvadorian	m-n/m
+salvadorian	m
 harem	n
 tul	n
 tăvălire	f
@@ -23263,7 +23263,7 @@ cistopatie	f
 angstrom	m
 vinuleţ	n
 căpitălaş	n
-franceză	f/f
+franceză	f
 vlăguitoare	f
 permanentizare	f
 izolator	m
@@ -23310,7 +23310,7 @@ bimotor	n
 bimetal	n
 zi	f
 călinet	n
-ascitic	m-n/m
+ascitic	m
 za	f
 intraocular	n
 coeficient	m
@@ -23398,11 +23398,11 @@ arterită	f
 trahit	n
 moletieră	f
 verstă	f
-cartezian	m-n/m
+cartezian	m
 bibliolog	m
 prostire	f
 satisfacere	f
-antiburghez	m-n/m
+antiburghez	m
 pugilat	n
 catafalc	n
 cerneală	f
@@ -23427,7 +23427,7 @@ reductibilitate	f
 dendrometru	n
 cooperaţie	f
 papilomatoză	f
-preafericit	m-n/m
+preafericit	m
 căldărărie	f
 guvernământ	n
 silicoză	f
@@ -23737,7 +23737,7 @@ străinism	n
 bechie	f
 flautistă	f
 vădăoi	m
-androgin	m-n/m
+androgin	m
 ordinator	n
 accelerat	n
 irmizea	f
@@ -23750,7 +23750,7 @@ subprefect	m
 radioascultătoare	f
 satara	f
 culbec	m
-antialcoolic	m-n/m
+antialcoolic	m
 aprofundare	f
 bantam	f
 anastrofă	f
@@ -23799,7 +23799,7 @@ străjer	m
 ricin	m
 pălire	f
 egumen	m
-cârcotaş	m-n/m
+cârcotaş	m
 holistă	f
 sală	f
 negridă	f
@@ -23900,7 +23900,7 @@ hirotonie	f
 guristă	f
 supozitor	n
 microparticulă	f
-pragmatist	m-n/m
+pragmatist	m
 coposesiune	f
 sutime	f
 dirijist	m
@@ -23953,7 +23953,7 @@ cruciuliţă	f
 xerograf	n
 premiant	m
 erodiu	m
-adult	m-n/m
+adult	m
 consternare	f
 enoriaş	m
 matriţer	m
@@ -23968,13 +23968,13 @@ claviatură	f
 smolire	f
 zăgaştină	f
 otologă	f
-levantină	n/f
+levantină	n
 divizor	m
 amfiteatru	n
 impermeabil	n
 bivolar	m
 pristornic	n
-orşovean	m-n/m
+orşovean	m
 mofetă	f
 separator	n
 anahoret	m
@@ -24017,8 +24017,8 @@ prohab	n
 preolimpiadă	f
 şoacăţ	m
 irenistă	f
-citadin	m-n/m
-calvinist	m-n/m
+citadin	m
+calvinist	m
 bufan	m
 bărbier	m
 bonz	m
@@ -24074,7 +24074,7 @@ alveolită	f
 discuitor	n
 gunoier	m
 opulenţă	f
-pannaturist	m-n/m
+pannaturist	m
 bonă	f
 votaţie	f
 depurativ	n
@@ -24130,7 +24130,7 @@ frunză	f
 consomme	n
 lizimetru	n
 parantetizare	f
-albişor	m-n/m
+albişor	m
 heptan	m
 translator	n
 timar	n
@@ -24233,7 +24233,7 @@ delitescenţă	f
 postsincron	n
 cufăr	n
 ontolog	m
-revizionist	m-n/m
+revizionist	m
 cărpiniţă	f
 decantaţie	f
 carotă	f
@@ -24251,7 +24251,7 @@ sulfuraj	n
 închegăţică	f
 defectologă	f
 sunnit	m
-acceptor	m-n/m
+acceptor	m
 idol	m
 sărar	n
 cardioscop	n
@@ -24360,7 +24360,7 @@ semiagnostică	f
 psihopată	f
 calotă	f
 profesare	f
-destabilizatoare	f-n/f
+destabilizatoare	f
 arăpoaică	f
 hambar	n
 camarad	m
@@ -24465,7 +24465,7 @@ autotipie	f
 gaşcă	f
 cârceie	f
 noduleţ	n
-prerevoluţionar	m-n/m
+prerevoluţionar	m
 purjor	n
 zamparalâc	n
 creangă	f
@@ -24583,7 +24583,7 @@ vendetă	f
 pasteurizare	f
 pirogravare	f
 icoană	f
-apelpisit	m-n/m
+apelpisit	m
 cârligel	n
 slalomist	m
 cimilitură	f
@@ -24667,7 +24667,7 @@ tahicardie	f
 scânceală	f
 canotor	m
 etalon	n
-orz	n/m
+orz	n
 anticlinal	n
 ort	n
 vinars	n
@@ -24717,7 +24717,7 @@ vagaţie	f
 pazarnic	m
 verdict	n
 latinism	n
-omorâtor	m-n/m
+omorâtor	m
 pegas	m
 găină-de-apă	f
 intercesor	m
@@ -24746,12 +24746,12 @@ moţăială	f
 comitet	n
 seceriş	n
 lămâie	f
-giurgiuveană	f/f
+giurgiuveană	f
 mafiotă	f
 leoaică	f
 fraudare	f
 zigzag	n
-astmatic	m-n/m
+astmatic	m
 polarograf	n
 plăieş	m
 dutcă	f
@@ -24767,7 +24767,7 @@ scenografă	f
 cambulă	f
 făuritor	m
 cadiascher	m
-estonă	f/f
+estonă	f
 zbor	n
 radioreleu	n
 cornee	f
@@ -24821,7 +24821,7 @@ picătoare	f
 degivrare	f
 panteră	f
 prometazină	f
-panicard	m-n/m
+panicard	m
 fulminaţie	f
 ornament	n
 malteză	f
@@ -24837,7 +24837,7 @@ cabană	f
 cruce	f
 teleinterviu	n
 ştender	n
-demachiantă	f/f
+demachiantă	f
 danaidă	f
 evacuare	f
 presetupă	f
@@ -24957,7 +24957,7 @@ haidău	m
 rostogol	m
 dispecerat	n
 iscoditură	f
-alcătuitor	m-n/m
+alcătuitor	m
 lapiaz	n
 horboţică	f
 hapalide	f
@@ -25032,11 +25032,11 @@ moletă	f
 pilă	f
 tijă	f
 heroidă	f
-autogestionar	m-n/m
+autogestionar	m
 armăşie	f
 alezator	n
 măcelar	m
-romantic	m-n/m
+romantic	m
 zmeuleţ	m
 pupiloscopie	f
 dărăcitor	n
@@ -25132,7 +25132,7 @@ liparit	n
 mehtupciu	m
 pătrar	n
 promitere	f
-rusofon	m-n/m
+rusofon	m
 sărător	m
 fabricaţie	f
 extracurent	m
@@ -25156,7 +25156,7 @@ pigmentare	f
 cinerecital	n
 pfenig	m
 litou	n
-orădean	m-n/m
+orădean	m
 intertip	n
 bairam	n
 gravelă	f
@@ -25253,7 +25253,7 @@ radar	n
 monorai	n
 diseminare	f
 măgulitură	f
-antirevoluţionar	m-n/m
+antirevoluţionar	m
 delectare	f
 urticacee	f
 pară	f
@@ -25279,7 +25279,7 @@ sardea	f
 ziuă	f
 suflător	n
 minuţiozitate	f
-propunător	m-n/m
+propunător	m
 contrapagină	f
 hidramnios	n
 represie	f
@@ -25438,10 +25438,10 @@ lacheu	m
 vulturică	f
 poprire	f
 tuior	n
-californian	m-n/m
+californian	m
 contingenţă	f
 intarsiator	m
-egipteană	f/f
+egipteană	f
 torcătoare	f
 bacterioză	f
 omagiere	f
@@ -25506,7 +25506,7 @@ mucar	n
 consulat	n
 pervertitor	m
 rotunjime	f
-textilist	m-n/m
+textilist	m
 semibarieră	f
 spongolit	n
 deratizant	n
@@ -25624,7 +25624,7 @@ gerontocraţie	f
 reglementare	f
 narcoză	f
 cuadrimotor	n
-paramilitar	m-n/m
+paramilitar	m
 metaeducaţie	f
 pivotaţie	f
 ceaşnic	m
@@ -25646,7 +25646,7 @@ urmărire	f
 întrecere	f
 desalinizator	n
 pectoza	f
-preparator	m-n/m
+preparator	m
 videotelefon	n
 golăneţ	m
 şaidaj	n
@@ -25702,9 +25702,9 @@ martiraj	n
 paraboloid	m
 claudicaţie	f
 traficant	m
-molar	m/m-n
+molar	m
 campanie	f
-responsabil	m-n/m
+responsabil	m
 ştiinţă	f
 strugurel	m
 dairea	f
@@ -25746,7 +25746,7 @@ cotutelă	f
 havare	f
 palplanşă	f
 pahonţ	m
-alergător	m-n/m
+alergător	m
 zdrobire	f
 fulardare	f
 compilatoare	f
@@ -25756,7 +25756,7 @@ semitort	n
 nămol	n
 leucemie	f
 casare	f
-petroşenean	m-n/m
+petroşenean	m
 faringoscop	n
 desăguţă	f
 cosmetician	m
@@ -25924,7 +25924,7 @@ raşpel	n
 popas	n
 decapsulaţie	f
 magistrat	m
-belgrădean	m-n/m
+belgrădean	m
 încremeneală	f
 permisionar	n
 situaţionistă	f
@@ -25974,7 +25974,7 @@ tifan	n
 teatrolog	m
 cactacee	f
 stilistician	m
-costaricană	f/f
+costaricană	f
 intarsieră	f
 tiranie	f
 făgeţel	n
@@ -26032,7 +26032,7 @@ dorneancă	f
 potaie	f
 chicinetă	f
 declivitate	f
-prost	m-n/m
+prost	m
 urmărită	f
 băjenar	m
 bimestru	n
@@ -26044,7 +26044,7 @@ auială	f
 zeugmă	f
 gradat	m
 fosăială	f
-anticonformist	m-n/m
+anticonformist	m
 microturbină	f
 eolit	n
 decepţie	f
@@ -26223,7 +26223,7 @@ levit	m
 decimalist	m
 lepădare	f
 curcioaică	f
-fraieră	f/f
+fraieră	f
 colun	m
 tain	n
 faţă	f
@@ -26266,7 +26266,7 @@ recoltă	f
 hunedoreană	f
 agitator	n
 naistă	f
-extraşcolară	f/f
+extraşcolară	f
 căpială	f
 bontire	f
 liseză	f
@@ -26313,7 +26313,7 @@ decasecundă	f
 rumân	m
 forum	n
 valvulopatie	f
-haplobiont	n/m-n
+haplobiont	n
 mentor	m
 investigaţie	f
 căprioraş	m
@@ -26364,7 +26364,7 @@ gliptal	m
 rubricator	n
 muschetă	f
 evoluare	f
-reformist	m-n/m
+reformist	m
 voinicuţă	f
 gâtişor	n
 kilowatt	m
@@ -26374,7 +26374,7 @@ moşioară	f
 bompres	n
 tătăiş	m
 fijiană	f
-mistacocet	m-n
+mistacocet	m
 umbriţă	f
 efemeridă	f
 băsmăluţă	f
@@ -26402,16 +26402,16 @@ răfuială	f
 cenzură	f
 coagulator	n
 mortezoare	f
-băutor	m-n/m
+băutor	m
 deviaţionist	m
 clu	n
 posmag	m
 imortelă	f
 sorabist	m
-pizmuitor	m-n/m
+pizmuitor	m
 acantocefal	m
 geană	f
-ciadian	m-n/m
+ciadian	m
 subton	n
 amănunt	n
 rană	f
@@ -26453,7 +26453,7 @@ cumnăţică	f
 coborâtoare	f
 sângereancă	f
 albiuţă	f
-fotomecanică	f/f
+fotomecanică	f
 stasofite	f
 fâşâială	f
 ritual	n
@@ -26514,9 +26514,9 @@ pietruire	f
 tăietoare	f
 snop	m
 tartarin	m
-aponevrotic	m-n/m
+aponevrotic	m
 snoabă	f
-neproducător	m-n/m
+neproducător	m
 conformator	n
 ţel	n
 ogradă	f
@@ -26589,7 +26589,7 @@ marmură	f
 bujeniţă	f
 docar	n
 polimerizare	f
-electromecanică	f/f
+electromecanică	f
 ucenic	m
 paralelogram	n
 pledoarie	f
@@ -26661,7 +26661,7 @@ cristei	m
 ocneancă	f
 reşapaj	n
 restructurare	f
-puber	m-n/m
+puber	m
 mercenariat	n
 întemeietoare	f
 cristel	m
@@ -26734,7 +26734,7 @@ trandafir-de-munte	m
 destrămare	f
 nutriţionist	m
 imunologă	f
-adunător	m-n/m
+adunător	m
 butcă	f
 luceafăr	m
 cârnire	f
@@ -26748,7 +26748,7 @@ ciuciur	n
 propagandistă	f
 başkiră	f
 plug	n
-buldozerist	m-n/m
+buldozerist	m
 scurtime	f
 arhitect	m
 safir	n
@@ -26759,7 +26759,7 @@ presalariu	n
 investitoare	f
 amper-oră	f
 pagur	m
-galiţiană	f/f
+galiţiană	f
 şaliu	n
 surditate	f
 meliţoi	n
@@ -26852,7 +26852,7 @@ tanzaniană	f
 mirişte	f
 ocurenţă	f
 gheretă	f
-psiholeptic	m-n/n
+psiholeptic	m
 constituire	f
 vampă	f
 iluminist	m
@@ -26896,14 +26896,14 @@ cazarmă	f
 zădărâre	f
 juntă	f
 străvezime	f
-acomodator	m/m-n
+acomodator	m
 hirotonisire	f
 defibratorist	m
 neregularitate	f
 premarxistă	f
 formaţie	f
 hexan	m
-nerod	m-n/m
+nerod	m
 mala	f
 şist	n
 chitarist	m
@@ -26939,7 +26939,7 @@ panţarolă	f
 hexacord	n
 impostură	f
 şerpar	m
-chelbos	m-n/m
+chelbos	m
 amaraj	n
 stater	m
 anunţ	n
@@ -26948,7 +26948,7 @@ sinălău	n
 arhigen	n
 piemont	n
 ursidă	f
-antiimperialist	m-n/m
+antiimperialist	m
 coalizare	f
 zăvod	n
 surtuc	n
@@ -27045,7 +27045,7 @@ dactilografă	f
 zgaibă	f
 magnetorezistenţă	f
 şanhaiană	f
-obscurantist	m-n/m
+obscurantist	m
 cartilaj	n
 fractură	f
 târgoveaţă	f
@@ -27234,10 +27234,10 @@ reanimare	f
 heliostat	n
 ortoselecţie	f
 pot	n
-agramat	m-n/m
+agramat	m
 informatician	m
 pop	m
-fanerogamă	f/f
+fanerogamă	f
 cabaz	m
 pom	m
 regrupare	f
@@ -27302,7 +27302,7 @@ depoziţie	f
 telemetru	n
 caldeiră	f
 bifurcaţie	f
-paraplegic	m-n/m
+paraplegic	m
 bolovănel	m
 sertar	n
 jigăreală	f
@@ -27335,7 +27335,7 @@ cotoi	m
 craniostat	n
 biomedicină	f
 miofibrom	n
-salonard	m-n/m
+salonard	m
 budă	f
 iaprac	m
 polihibrid	m
@@ -27354,7 +27354,7 @@ economizator	n
 pubelă	f
 desconsideraţie	f
 autoblindat	n
-asigurător	m-n/m
+asigurător	m
 coloraţie	f
 fanal	n
 politropă	f
@@ -27453,7 +27453,7 @@ afluent	m
 spoliere	f
 strunire	f
 focalizare	f
-renegat	m-n/m
+renegat	m
 spaniel	m
 esplanadă	f
 garnetă	f
@@ -27650,7 +27650,7 @@ ilustrare	f
 lăptucă	f
 ferestruie	f
 încreţitură	f
-adogmatic	m-n/m
+adogmatic	m
 resort	n
 paleospeolog	m
 scor	n
@@ -27730,7 +27730,7 @@ megalomanie	f
 darabană	f
 cvadrimotor	n
 traumatologie	f
-blondin	m-n/m
+blondin	m
 despoţie	f
 cunoscătoare	f
 măgăreaţă	f
@@ -27808,12 +27808,12 @@ iraniană	f
 porfiroblast	n
 spirt	n
 curte	f
-carierist	m-n/m
+carierist	m
 deviator	m
 pertuizană	f
 meremetiseală	f
 sparge-val	n
-ecluzieră	f/f
+ecluzieră	f
 susean	m
 baş-boier	m
 postverbal	n
@@ -27834,7 +27834,7 @@ falset	n
 acrostol	n
 zmeurar	m
 viking	m
-antimonopolist	m-n/m
+antimonopolist	m
 băieţaş	m
 şemizetă	f
 latină	f
@@ -27887,7 +27887,7 @@ volocel	n
 petrofită	f
 mărturisanie	f
 naştere	f
-roz	m-n/n
+roz	m
 anecdotă	f
 laparoscopie	f
 fanion	n
@@ -27910,7 +27910,7 @@ comandatură	f
 complicare	f
 reimprimare	f
 fântâniţă	f
-ofertant	m-n/m
+ofertant	m
 aterizor	n
 prestator	m
 gheruţă	f
@@ -27924,7 +27924,7 @@ negatron	m
 polizare	f
 trapist	n
 sporulaţie	f
-câmpulungean	m-n/m
+câmpulungean	m
 aghesmuire	f
 dinozaurian	m
 pristav	n
@@ -27975,7 +27975,7 @@ liber-profesionist	m
 entropion	n
 electrocarist	m
 recâştigare	f
-tontălău	m-n/m
+tontălău	m
 stabilizare	f
 stenohalină	f
 fruntaşă	f
@@ -27995,7 +27995,7 @@ afidă	f
 diamant	n
 preexistenţă	f
 umăr	m
-desicativă	f/f
+desicativă	f
 orbire	f
 autotroliu	n
 petrefact	n
@@ -28034,7 +28034,7 @@ vicariat	n
 canotier	m
 fileu	n
 filet	n
-coleric	m-n/m
+coleric	m
 reprobaţiune	f
 vacă-de-mare	f
 recreaţie	f
@@ -28116,7 +28116,7 @@ piranograf	n
 prăpăd	n
 pospăială	f
 tastieră	f
-filumenistă	f/f
+filumenistă	f
 antisionistă	f
 sânişor	m
 despotat	n
@@ -28169,7 +28169,7 @@ strămurariţă	f
 formator	m
 anemonă	f
 stindard	n
-calvin	m-n/m
+calvin	m
 cocsare	f
 cursistă	f
 slovă	f
@@ -28282,7 +28282,7 @@ peritonită	f
 cârcel	m
 învăţare	f
 hebdomadar	n
-antimonarhist	m-n/m
+antimonarhist	m
 roată	f
 meningocel	n
 mioplasm	n
@@ -28337,7 +28337,7 @@ asecare	f
 tranzitare	f
 similidiamant	n
 situlă	f
-contractualistă	f/f
+contractualistă	f
 crepitaţie	f
 elogiere	f
 eche	f
@@ -28407,7 +28407,7 @@ mirodenie	f
 meşteşugire	f
 perdantă	f
 vălmăşag	n
-familiaristă	f/f
+familiaristă	f
 prânz	n
 ventricea	f
 dulcişoară	f
@@ -28502,7 +28502,7 @@ expectoraţie	f
 gârlişoară	f
 aviaţie	f
 oftalmoscopie	f
-tiliaceu	n/m-n
+tiliaceu	n
 pedicel	n
 videomagnetofon	n
 savonieră	f
@@ -28572,7 +28572,7 @@ pulpă	f
 proprietate	f
 barbacană	f
 temă	f
-biologist	m-n/m
+biologist	m
 simultan	n
 vameş	m
 retrogradare	f
@@ -28599,7 +28599,7 @@ supertanc	n
 plavă	f
 pompon	n
 spulberare	f
-detergent	m-n/m
+detergent	m
 cistoscopie	f
 timorare	f
 depănat	n
@@ -28611,7 +28611,7 @@ disidenţă	f
 forfecătură	f
 scolioză	f
 scufă	f
-paraguayan	m-n/m
+paraguayan	m
 pantomimă	f
 microfarad	m
 carenţă	f
@@ -28646,8 +28646,8 @@ concentrare	f
 hierodulă	f
 unduire	f
 bronhopneumonie	f
-peridotit	n/f
-ascultător	m-n/m
+peridotit	n
+ascultător	m
 echină	f
 cartator	m
 vest-europeană	f
@@ -28661,7 +28661,7 @@ nictinastie	f
 prefloraţie	f
 pristanda	f
 liberalizare	f
-bibliofag	m-n/m
+bibliofag	m
 scintilator	n
 ecvisetacee	f
 platitudine	f
@@ -28696,7 +28696,7 @@ termoanalgezie	f
 sensibilizator	m
 alunaş	m
 cucuruz	n
-privitor	m-n/m
+privitor	m
 fumizare	f
 îngălbenire	f
 computare	f
@@ -28739,7 +28739,7 @@ paragogă	f
 herb	n
 explodor	n
 electrodiagnostic	n
-prahovean	m-n/m
+prahovean	m
 piscoaie	f
 vrabie	f
 exercitare	f
@@ -28753,7 +28753,7 @@ turcoaică	f
 autodemascare	f
 clientelă	f
 alunar	m
-gonitoare	f/f
+gonitoare	f
 înghesuială	f
 gliptodon	m
 răvar	n
@@ -28772,7 +28772,7 @@ aeroion	m
 stivuitoare	f
 dregătorie	f
 acatagrafie	f
-georgiană	f/f
+georgiană	f
 lungană	f
 palpit	n
 peşingiu	m
@@ -28824,10 +28824,10 @@ aliaj	n
 lampas	n
 cratogen	n
 atenţie	f
-aliat	m-n/m
+aliat	m
 geneticiană	f
 centrifugare	f
-hegemon	m/m-n
+hegemon	m
 ingeniozitate	f
 heroinoman	m
 luddită	f
@@ -28866,7 +28866,7 @@ costumier	m
 medulită	f
 spider	n
 tropotit	n
-neocolonialist	m-n/m
+neocolonialist	m
 conetabil	m
 copolimerizare	f
 preopinent	m
@@ -28894,7 +28894,7 @@ crustaceu	n
 chiocec	n
 brancardier	m
 pesadă	f
-antirevanşard	m-n/m
+antirevanşard	m
 chirăit	n
 pupătură	f
 bibliomanie	f
@@ -28923,7 +28923,7 @@ holerină	f
 cuconet	n
 mobilist	m
 rond	n
-preburghez	m-n/m
+preburghez	m
 transmiţător	n
 daraveră	f
 policalificare	f
@@ -28942,13 +28942,13 @@ pneumonie	f
 scafandru	m
 blastemă	f
 lumânărică	f
-ghaneză	f/f
+ghaneză	f
 defetişizare	f
 pieptănare	f
 tricoter	m
 patocenoză	f
-piemontez	m-n/m
-corespondentă	f/f
+piemontez	m
+corespondentă	f
 huhurez	m
 hudubaie	f
 citometru	n
@@ -29013,7 +29013,7 @@ izmenită	f
 interogare	f
 buleandră	f
 plutocrat	m
-antifetişist	m-n/m
+antifetişist	m
 haiduc	m
 coleg	m
 bizam	m
@@ -29039,7 +29039,7 @@ otrăţel	m
 fişare	f
 chelicer	n
 centurie	f
-arădan	m-n/m
+arădan	m
 pulmon	m
 accident	m
 vacarm	n
@@ -29165,7 +29165,7 @@ cadână	f
 triturare	f
 agrionide	f
 basnă	f
-doriană	f/f
+doriană	f
 retratare	f
 cazare	f
 gurgui	n
@@ -29223,7 +29223,7 @@ pirol	m
 piron	n
 ondină	f
 fragă	f
-nemernic	m-n/m
+nemernic	m
 bulbil	m
 fiting	n
 pohoţ	m
@@ -29274,13 +29274,13 @@ autostivuitor	m
 timp	n
 pion	m
 litier	n
-filantropinistă	f/f
+filantropinistă	f
 salarizare	f
 nalbă	f
 arhimilionară	f
 discromie	f
 puşcăriaşă	f
-râmnicean	m-n/m
+râmnicean	m
 mentenanţă	f
 cataplasmă	f
 australoidă	f
@@ -29288,7 +29288,7 @@ minifrigider	n
 asiriană	f
 participiu	n
 giumbuşluc	n
-netot	m-n/m
+netot	m
 sistru	n
 brâu	n
 dezrăsucire	f
@@ -29303,7 +29303,7 @@ zefir	n
 curteancă	f
 ghiveci	n
 zileră	f
-antituberculos	m-n/m
+antituberculos	m
 destrămător	n
 metilstiren	m
 megateriu	m
@@ -29326,7 +29326,7 @@ duruitură	f
 piuitură	f
 dulăpior	n
 teleradar	n
-antiintelectualist	m-n/m
+antiintelectualist	m
 amilograf	n
 axel	n
 suverană	f
@@ -29398,7 +29398,7 @@ gâtar	n
 oblânc	n
 gudronator	n
 asfixie	f
-petrecăreţ	m-n/m
+petrecăreţ	m
 catoscop	n
 barajist	m
 siloz	n
@@ -29416,7 +29416,7 @@ vocabulă	f
 înfăşurare	f
 semifin	m
 tachet	m
-cardiac	m-n/m
+cardiac	m
 autografie	f
 predală	f
 dichiseală	f
@@ -29464,7 +29464,7 @@ patruped	n
 monoachenă	f
 fructărie	f
 antofitoză	f
-slobozian	m-n/m
+slobozian	m
 fetişoară	f
 fabian	m
 perspectivistă	f
@@ -29481,7 +29481,7 @@ inculcare	f
 semanticism	n
 nechezătură	f
 criptanaliză	f
-revoltant	m-n/m
+revoltant	m
 cabrare	f
 vascularizare	f
 grăuncior	n
@@ -29534,7 +29534,7 @@ peregrin	m
 vituperaţie	f
 reexpoziţie	f
 arendăşie	f
-reprimator	m-n/m
+reprimator	m
 pelofită	f
 silvan	m
 inventor	m
@@ -29606,7 +29606,7 @@ brevă	f
 nanometru	m
 tonă-registru	f
 prelată	f
-prematur	m-n/m
+prematur	m
 cupeţ	m
 capacimetru	n
 alergare	f
@@ -29630,7 +29630,7 @@ muftiu	m
 mitologizare	f
 sitofobie	f
 ţăndărică	f
-concentraţionar	m-n/m
+concentraţionar	m
 gangster	m
 certare	f
 hemopatie	f
@@ -29649,7 +29649,7 @@ schiţare	f
 spancă	f
 suprapunere	f
 talonare	f
-adept	m-n/m
+adept	m
 videotecă	f
 corolar	n
 sclipire	f
@@ -29674,7 +29674,7 @@ mârâitură	f
 tranziţie	f
 vermicid	n
 hăţaş	n
-omolog	m-n/m
+omolog	m
 malaxoristă	f
 neoplatoniciană	f
 cupeu	n
@@ -29734,7 +29734,7 @@ considerent	n
 descreştere	f
 mierliţă	f
 şef	m
-bulevardier	m-n/m
+bulevardier	m
 microfişier	n
 asemuire	f
 focşăneană	f
@@ -29791,7 +29791,7 @@ flocuşor	m
 caieţel	n
 ghebă	f
 clupă	f
-codan	m-n/m
+codan	m
 videocameră	f
 majorantă	f
 exil	n
@@ -29851,7 +29851,7 @@ negustoraş	m
 arhitravă	f
 balansor	n
 bienală	f
-albian	m-n/m
+albian	m
 flirt	n
 mozaic	n
 autotoxină	f
@@ -30111,7 +30111,7 @@ stelniţă	f
 montagnardă	f
 murmur	n
 înapoiere	f
-buştenar	m-n/m
+buştenar	m
 postdată	f
 boraginacee	f
 scărmănător	m
@@ -30140,9 +30140,9 @@ reporteră	f
 secretariat	n
 înfeudare	f
 scriitoraş	m
-estetistă	f/f
+estetistă	f
 recepţioner	m
-parlamentar	m-n/m
+parlamentar	m
 tinetă	f
 decalină	f
 semincioară	f
@@ -30228,7 +30228,7 @@ eupepsie	f
 sitiţă	f
 nadpis	n
 carenă	f
-columbofil	m-n/m
+columbofil	m
 prăsilă	f
 prenoţiune	f
 manget	n
@@ -30257,7 +30257,7 @@ modeloare	f
 filmfonograf	n
 scufundătură	f
 epolet	m
-amărât	m-n/m
+amărât	m
 calamină	f
 micsandră-sălbatică	f
 zăticneală	f
@@ -30415,11 +30415,11 @@ menţionare	f
 brutărie	f
 scăfârlie	f
 deshumare	f
-sfenoid	n/m-n
+sfenoid	n
 curbare	f
 maioneză	f
 viceconsulat	n
-catolic	m-n/m
+catolic	m
 libert	m
 totalizator	n
 vâlceancă	f
@@ -30485,7 +30485,7 @@ surdomută	f
 pletismogramă	f
 silicat	m
 ouleţ	n
-poienar	m-n/m
+poienar	m
 măiug	n
 adjuvant	n
 tars	n
@@ -30522,7 +30522,7 @@ redactor-şef	m
 scufundiş	n
 pavaj	n
 ecuaţie	f
-supraconductor	m-n/m
+supraconductor	m
 transmisionist	m
 vrăjitoare	f
 pristăvire	f
@@ -30582,8 +30582,8 @@ tapetar	m
 enoriaşă	f
 rectificare	f
 butilcauciuc	n
-băimărean	m-n/m
-frenatoare	f/f
+băimărean	m
+frenatoare	f
 invertază	f
 pomostină	f
 ctitorie	f
@@ -30677,7 +30677,7 @@ buracă	f
 forezie	f
 laminaj	n
 pirgeometru	n
-porumbac	m-n/m
+porumbac	m
 elită	f
 semifeudală	f
 croncănitură	f
@@ -30686,7 +30686,7 @@ porumbiţă	f
 banditism	n
 lanternă	f
 blastomicetă	f
-absenteist	m-n/m
+absenteist	m
 omletă	f
 transparent	n
 ziaristă	f
@@ -30761,13 +30761,13 @@ reflexoterapie	f
 microminiaturizare	f
 pudrieră	f
 psalt	m
-pangermanist	m-n/m
+pangermanist	m
 psalm	m
 calamburist	m
 zugrăveală	f
 neurocibernetician	m
 suliţaş	m
-deodorantă	f/f
+deodorantă	f
 ichi	n
 ocultaţie	f
 dioptrie	f
@@ -30835,7 +30835,7 @@ plutaş	m
 exhibiţionist	m
 permisie	f
 gutuie	f
-dravidiană	f/f
+dravidiană	f
 nitrificaţie	f
 microrilă	f
 nitroderivat	m
@@ -30902,7 +30902,7 @@ cheotoare	f
 antepiaţă	f
 suport	n
 recalcitranţă	f
-rotator	m/m-n
+rotator	m
 zăbovire	f
 martirizare	f
 acantă	f
@@ -30920,12 +30920,12 @@ mutat	n
 bageacă	n
 înhumare	f
 violoncel	n
-pectineu	m-n/m
+pectineu	m
 camarilă	f
 auspiciu	n
 sada	f
 cătrănire	f
-protecţionist	m-n/m
+protecţionist	m
 bahnă	f
 mieluş	m
 discobol	m
@@ -31037,7 +31037,7 @@ veterinară	f
 sefardă	f
 pneumoconioză	f
 şerpuire	f
-abisinian	m-n/m
+abisinian	m
 cânepioară	f
 placentar	n
 motivaţie	f
@@ -31103,7 +31103,7 @@ slatină	f
 reînchidere	f
 libaţie	f
 galaxie	f
-proscris	m-n/m
+proscris	m
 pesticid	n
 hipnotizant	n
 ţanc	n
@@ -31126,7 +31126,7 @@ ambasadoare	f
 nitrofenol	m
 mânuriţă	f
 hegeliană	f
-colonialist	m-n/m
+colonialist	m
 pogăcioară	f
 ratinare	f
 baratrometru	n
@@ -31204,7 +31204,7 @@ laf	n
 zăpodie	f
 ruteană	f
 radiometeorograf	n
-nerecunoscător	m-n/m
+nerecunoscător	m
 lat	n
 trinitară	f
 şablonar	m
@@ -31373,9 +31373,9 @@ spermatie	f
 toast	n
 prepuţ	n
 oaie	f
-pârâtor	m-n/m
+pârâtor	m
 armonică	f
-bistriţean	m-n/m
+bistriţean	m
 declanşor	n
 balast	n
 travestită	f
@@ -31440,7 +31440,7 @@ sugestie	f
 piturare	f
 contrasubiect	n
 prorogare	f
-cârâitor	m-n/m
+cârâitor	m
 toporâşte	f
 rănire	f
 anticipare	f
@@ -31576,7 +31576,7 @@ intervenţionistă	f
 parcimonie	f
 descendentă	f
 microproducţie	f
-croată	f/f
+croată	f
 transgresoare	f
 aristoteliciană	f
 telegrafist	m
@@ -31594,7 +31594,7 @@ ciubotar	m
 andosaj	n
 uşiţă	f
 naftenă	f
-bihebdomadar	n/m-n
+bihebdomadar	n
 tăzlăuană	f
 grămădire	f
 răpuitoare	f
@@ -31655,7 +31655,7 @@ paviment	n
 forfecuţă	f
 capilarmetru	n
 danci	m
-aderent	m-n/m
+aderent	m
 izopletă	f
 pocănire	f
 negrofilă	f
@@ -31668,7 +31668,7 @@ canistrelă	f
 valenţă	f
 eşantionare	f
 demolator	m
-fumigantă	f/f
+fumigantă	f
 adjoncţiune	f
 meteoropat	m
 căzănel	n
@@ -31755,17 +31755,17 @@ batimetru	n
 integralist	m
 cariolă	f
 nictalgie	f
-cărpănos	m-n/m
+cărpănos	m
 plastografiere	f
 gazometru	n
-combustibil	m-n/m
+combustibil	m
 alăturare	f
 demisie	f
 narator	m
 club	n
 finit	n
 urşinic	n
-planificator	m-n/m
+planificator	m
 terci	n
 stropire	f
 negustoreasă	f
@@ -31926,7 +31926,7 @@ substituire	f
 scotoceală	f
 mlăştiniţă	f
 ortogramă	f
-personalist	m-n/m
+personalist	m
 furnicătură	f
 şezlong	n
 zoospor	m
@@ -32019,7 +32019,7 @@ burduşire	f
 garderob	n
 tutore	m
 alămar	m
-aducător	m-n/m
+aducător	m
 bătătură	f
 gazonantă	f
 sipică	f
@@ -32189,7 +32189,7 @@ doboş	n
 pentoză	f
 astenosferă	f
 tratament	n
-duşmană	f/f
+duşmană	f
 persecuţie	f
 paracivilizaţie	f
 liant	m
@@ -32211,7 +32211,7 @@ rebutare	f
 viroagă	f
 sarment	m
 vacuitate	f
-constituţionalistă	f/f
+constituţionalistă	f
 triangulaţie	f
 habitaclu	n
 şleau	m
@@ -32257,7 +32257,7 @@ dezvelire	f
 milirontgen	m
 apologistă	f
 corb-albastru	m
-prorocitor	m-n/m
+prorocitor	m
 şalvaragiu	m
 priorat	n
 carpen	m
@@ -32281,7 +32281,7 @@ ibricel	n
 jupitoare	f
 levigaţie	f
 pantum	n
-feniciană	f/f
+feniciană	f
 efemerizare	f
 intuire	f
 bufnet	n
@@ -32323,7 +32323,7 @@ hiperbolă	f
 plagioclaz	m
 scrijea	f
 locatar	m
-coreeană	f/f
+coreeană	f
 osteologă	f
 coconar	m
 învârtit	n
@@ -32345,7 +32345,7 @@ antropolog	m
 conferenţiară	f
 aldămaş	n
 pălmiţă	f
-recordist	m-n/m
+recordist	m
 tadjică	f
 dativ	n
 şarpe	m
@@ -32469,7 +32469,7 @@ cerebroscleroză	f
 coafă	f
 medico-militară	f
 burlescă	f
-coparticipantă	f/f
+coparticipantă	f
 decaedru	n
 cucută	f
 tufit	n
@@ -32511,7 +32511,7 @@ alcoolmetru	n
 electroforaj	n
 localitate	f
 rumenire	f
-efectoare	f/f
+efectoare	f
 xilolitogravură	f
 cartogramă	f
 etalonist	m
@@ -32578,7 +32578,7 @@ suprastructură	f
 chiciură	f
 practicare	f
 cuvertură	f
-chisnovat	m-n/m
+chisnovat	m
 rublă	f
 banjoistă	f
 absidă	f
@@ -32615,7 +32615,7 @@ iişoară	f
 frizon	n
 locotenent	m
 avenant	n
-antiluetic	m-n/m
+antiluetic	m
 minigenerator	n
 dipol	m
 ţintă	f
@@ -32626,7 +32626,7 @@ corist	m
 izoamplitudine	f
 isop	m
 cobiliţă	f
-coborâtor	m-n/m
+coborâtor	m
 abreviere	f
 hiperparazită	f
 şugubinar	m
@@ -32649,7 +32649,7 @@ păduriţă	f
 transfilaj	n
 splinuţă	f
 tarhan	m
-platnic	m-n/m
+platnic	m
 diplocefalie	f
 bolivar	m
 capsulă	f
@@ -32667,7 +32667,7 @@ tinctură	f
 agentură	f
 fapt	n
 chinezărie	f
-angolez	m-n/m
+angolez	m
 deformare	f
 vienaj	n
 futurolog	m
@@ -32691,7 +32691,7 @@ vlădică	m
 han-tătar	m
 degradare	f
 adresant	m
-abstenţionist	m-n/m
+abstenţionist	m
 lansare	f
 linacee	f
 cavicornă	f
@@ -32714,7 +32714,7 @@ antofită	f
 mucenică	f
 raţiune	f
 vagon-atelier	n
-preimperialist	m-n/m
+preimperialist	m
 transmisiune	f
 firuţă	f
 tripanozomă	f
@@ -32729,7 +32729,7 @@ abrazor	n
 meseriaş	m
 telemanipulator	n
 armie	f
-emigrată	f/f
+emigrată	f
 decimaţie	f
 decocţie	f
 benzonaftol	m
@@ -32769,7 +32769,7 @@ paragraf	n
 geosinclinal	n
 naş	m
 sofra	f
-roibuleţ	m/m-n
+roibuleţ	m
 supraprefixare	f
 periaj	n
 modistă	f
@@ -32783,7 +32783,7 @@ pensulare	f
 bubuliţă	f
 vargă	f
 babacă	m
-spondeu	m/n
+spondeu	m
 montoare	f
 mituire	f
 scăldătoare	f
@@ -32909,7 +32909,7 @@ fisiune	f
 varvarie	f
 sociolingvist	m
 cartel	n
-coloid	m-n/m
+coloid	m
 teleînregistrare	f
 dereflecţie	f
 chiverniseală	f
@@ -32932,7 +32932,7 @@ cadrare	f
 buştean	m
 distanţier	n
 ambutisor	m
-frigiană	f/f
+frigiană	f
 aglică	f
 adsorbat	m
 zornăitură	f
@@ -33073,7 +33073,7 @@ schimonoseală	f
 hidrochinonă	f
 ambuşură	f
 masacru	n
-cairot	m-n/m
+cairot	m
 ogur	n
 polistiren	m
 supraordin	n
@@ -33217,8 +33217,8 @@ oftalmolog	m
 înmulţire	f
 bronholog	m
 capelmaistru	m
-precapitalist	m-n/m
-răsăritean	m-n/m
+precapitalist	m
+răsăritean	m
 căprior	m
 computer	n
 cubiculum	n
@@ -33269,7 +33269,7 @@ geodimetru	n
 goruniş	n
 hătmănie	f
 murire	f
-tahilalic	m-n/m
+tahilalic	m
 rubeficaţie	f
 pituită	f
 neamţ	m
@@ -33385,7 +33385,7 @@ vinar	m
 peşteră	f
 tuia	f
 testatoare	f
-rusofil	m-n/m
+rusofil	m
 desfăşurare	f
 helcometru	n
 pârpălire	f
@@ -33428,7 +33428,7 @@ rejudecare	f
 tentoriu	n
 primaj	n
 receptor	m
-primar	m-n/m
+primar	m
 radioitinerar	n
 troncănire	f
 mătăuz	n
@@ -33621,7 +33621,7 @@ biberon	n
 paragramă	f
 moracee	f
 fotodiodă	f
-gomoasă	f/f
+gomoasă	f
 maişă	f
 betonică	f
 sedilă	f
@@ -33644,7 +33644,7 @@ ruxandră	f
 frenolog	m
 melanosarcom	n
 siluride	f
-capitalist	m-n/m
+capitalist	m
 brizbiz	n
 postăvar	m
 penalitate	f
@@ -33668,7 +33668,7 @@ apogeu	n
 subsistem	n
 elogiu	n
 prisacă	f
-cofondator	m-n/m
+cofondator	m
 fierar	m
 ondulator	n
 hidroceluloză	f
@@ -33777,7 +33777,7 @@ bobinatoare	f
 timonă	f
 zăgârnă	f
 paralogie	f
-proiectant	m-n/m
+proiectant	m
 batalist	m
 proluziune	f
 autodină	f
@@ -33870,7 +33870,7 @@ ierbuliţă	f
 scuzare	f
 turlist	m
 anduranţă	f
-paralitic	m-n/m
+paralitic	m
 epizonă	f
 jupan	m
 psihotehnician	m
@@ -33894,7 +33894,7 @@ funambulă	f
 omiliar	n
 verbalistă	f
 predare	f
-şenilat	n/m-n
+şenilat	n
 lepismă	f
 stamatiană	f
 tipaj	n
@@ -33918,7 +33918,7 @@ marchitan	m
 supracotă	f
 haham	m
 proprietar	m
-codrean	m-n/m
+codrean	m
 moşierime	f
 cerere	f
 scamonee	f
@@ -33927,7 +33927,7 @@ comandită	f
 ultraaglomerat	n
 aerotermă	f
 muzeografă	f
-prevestitor	m-n/m
+prevestitor	m
 politizare	f
 deetatizare	f
 zmeoaie	f
@@ -33975,7 +33975,7 @@ kurumă	f
 brăcuire	f
 armadă	f
 pitpalacă	f
-semifluid	n/m-n
+semifluid	n
 rujeolă	f
 presopunctor	m
 emondare	f
@@ -33985,7 +33985,7 @@ preţăluire	f
 digicasetă	f
 contramandare	f
 pseudocilindru	m
-parazit	m-n/m
+parazit	m
 helicicultoare	f
 deflector	n
 reafirmare	f
@@ -34084,7 +34084,7 @@ scizură	f
 clistir	n
 sabrer	m
 extractorist	m
-amnezic	m-n/m
+amnezic	m
 amnezie	f
 jujubă	f
 mucină	f
@@ -34153,7 +34153,7 @@ vitregie	f
 crupadă	f
 critică	f
 corodare	f
-atomist	m-n/m
+atomist	m
 dactilograf	m
 solecism	n
 macrocefală	f
@@ -34276,7 +34276,7 @@ kilogram-forţă	n
 puşlama	f
 basorelief	n
 tiriplic	n
-oliv	m-n/n
+oliv	m
 neras	n
 puşcaş	m
 cazac	m
@@ -34377,7 +34377,7 @@ contratimp	m
 tract	n
 colorit	n
 depectinizare	f
-milanez	n/m-n
+milanez	n
 conştientizare	f
 criostat	n
 plivire	f
@@ -34443,7 +34443,7 @@ eteromană	f
 otravă	f
 haină	f
 modâlcă	f
-panelenist	m-n/m
+panelenist	m
 colorimetru	n
 proctolog	m
 dedicaţie	f
@@ -34657,7 +34657,7 @@ midie	f
 atestare	f
 doctoraş	m
 reverberometru	n
-argeşean	m-n/m
+argeşean	m
 antihreză	f
 hoţomană	f
 pepenaş	m
@@ -34701,7 +34701,7 @@ vinovăţie	f
 zaloagă	f
 prepozit	m
 contratură	f
-biocombustibil	m-n/m
+biocombustibil	m
 astronaut	m
 hiperestezie	f
 necoordonare	f
@@ -34823,9 +34823,9 @@ iconolatră	f
 epitaf	n
 geodă	f
 sorbire	f
-ciufut	m-n/m
+ciufut	m
 protipendadă	f
-reactivant	m-n/m
+reactivant	m
 distribuitoare	f
 albumeală	f
 păcat	n
@@ -34896,7 +34896,7 @@ microfon	n
 căsoaie	f
 mizeră	f
 reambalare	f
-cuceritoare	f/f
+cuceritoare	f
 cupă	f
 minijupă	f
 cadă	f
@@ -34929,7 +34929,7 @@ telangiectazie	f
 hidrovitamină	f
 răstoacă	f
 dermatoterapie	f
-inhalant	n/m-n
+inhalant	n
 endotoxină	f
 parodist	m
 cacografie	f
@@ -34938,7 +34938,7 @@ trosnet	n
 viersuire	f
 gherghin	m
 stentor	m
-repetent	m-n/m
+repetent	m
 papagaliţă	f
 ruptă	f
 antiputrid	n
@@ -34948,7 +34948,7 @@ ciuin	m
 portă	f
 vibromasor	n
 teleormăneancă	f
-nordist	m-n/m
+nordist	m
 muşcătură	f
 mochetă	f
 afonizare	f
@@ -35096,7 +35096,7 @@ decapaj	n
 lagenă	f
 târsână	f
 scleră	f
-levantin	n/f
+levantin	n
 supleanţă	f
 hemobiolog	m
 badian	m
@@ -35216,7 +35216,7 @@ consfinţire	f
 rizogen	n
 strigăt	n
 helioterapie	f
-expeditoare	f/f
+expeditoare	f
 cooperator	m
 nalbar	m
 constringenţă	f
@@ -35305,7 +35305,7 @@ druid	m
 cepuire	f
 paleantrop	m
 scolast	m
-antiintelectual	m-n/m
+antiintelectual	m
 vibrion	m
 desert	n
 grăpare	f
@@ -35319,7 +35319,7 @@ aliniament	n
 şvab	m
 blagoman	m
 galactofagă	f
-preaiubit	m-n/m
+preaiubit	m
 titirisire	f
 milibar	m
 escaladare	f
@@ -35369,7 +35369,7 @@ chimioprofilaxie	f
 oloi	n
 agoniseală	f
 savantlâc	n
-rhodesian	m-n/m
+rhodesian	m
 transmisie	f
 lagomorfe	f
 sabloză	f
@@ -35400,7 +35400,7 @@ excavaţie	f
 potâng	n
 limb	n
 scandal	n
-recreator	m-n/m
+recreator	m
 refulare	f
 şeping	n
 pănuşă	f
@@ -35454,7 +35454,7 @@ clubman	m
 capucinadă	f
 buldog	m
 poliglobulie	f
-ecologistă	f/f
+ecologistă	f
 bistriţeancă	f
 terapeutică	f
 nisipariţă	f
@@ -35518,9 +35518,9 @@ clevetire	f
 meteahnă	f
 curmătură	f
 clapon	m
-anticolonialist	m-n/m
+anticolonialist	m
 nevastă	f
-oriental	m-n/m
+oriental	m
 bâjbâială	f
 filmotecă	f
 mână	f
@@ -35591,7 +35591,7 @@ milogeală	f
 iuzbuc	m
 catehumenă	f
 milion	n
-ilativ	n/m-n
+ilativ	n
 depunctare	f
 brasieră	f
 binefacere	f
@@ -35614,7 +35614,7 @@ ecarisor	m
 preliminare	f
 ţigăneală	f
 vorbuşoară	f
-clorotic	m-n/m
+clorotic	m
 coamă	f
 păzitoare	f
 lectură	f
@@ -35633,7 +35633,7 @@ biomatematician	m
 disipare	f
 copcă	f
 ţapinar	m
-alcoolic	m-n/m
+alcoolic	m
 urgentare	f
 bombardă	f
 depanare	f
@@ -35669,7 +35669,7 @@ trabant	m
 mascare	f
 mascara	f
 venă	f
-eugenistă	f/f
+eugenistă	f
 balată	f
 cratiţă	f
 eritematoasă	f
@@ -35880,7 +35880,7 @@ vânturare	f
 ajustare	f
 remitendă	f
 brand	n
-codalb	m-n/m
+codalb	m
 dirijare	f
 pompaj	n
 pardoseală	f
@@ -35986,11 +35986,11 @@ cărţoi	n
 behăitură	f
 acaustobiolit	n
 iridacee	f
-neonazist	m-n/m
+neonazist	m
 ştachet	m
 subdirectoare	f
 oleină	f
-ceylonez	m-n/m
+ceylonez	m
 salcie	f
 scurtare	f
 anulare	f
@@ -36037,7 +36037,7 @@ anghilide	f
 amuletă	f
 tasator	n
 cromist	m
-fratricidă	f/f
+fratricidă	f
 biostimulent	n
 suficienţă	f
 coteţ	n
@@ -36064,7 +36064,7 @@ scobitoare	f
 bucovineancă	f
 electriciană	f
 sextant	n
-acuzator	m-n/m
+acuzator	m
 meteoroscop	n
 palonier	n
 nărăvie	f
@@ -36085,7 +36085,7 @@ namaz	n
 boarfă	f
 împroşcătură	f
 lapidator	m
-digestă	f/f
+digestă	f
 carnaj	n
 iordaniană	f
 megadină	f
@@ -36096,7 +36096,7 @@ cardatoare	f
 retroactiv	n
 anuscop	n
 pirandă	f
-gogomană	f/f
+gogomană	f
 cetăţeană	f
 orografă	f
 mandatare	f
@@ -36188,15 +36188,15 @@ râcâială	f
 periartrită	f
 morfologă	f
 tărânc	m
-piteştean	m-n/m
+piteştean	m
 baroreceptor	m
 opăceală	f
 lăibăruţ	n
-buclucaş	m-n/m
+buclucaş	m
 microundă	f
 noemă	f
-anglofob	m-n/m
-cincărel	m/m-n
+anglofob	m
+cincărel	m
 etnomuzicologă	f
 pregeneric	n
 cazanie	f
@@ -36213,7 +36213,7 @@ ras	n
 substitut	m
 orândaş	m
 fioritură	f
-disimulatoare	f/f
+disimulatoare	f
 metamorfozare	f
 studeniţă	f
 închegătură	f
@@ -36284,7 +36284,7 @@ cliper	n
 talger	n
 junghietură	f
 crăcuşor	m
-apusean	m-n/m
+apusean	m
 monometru	n
 alchimie	f
 cristalografă	f
@@ -36344,7 +36344,7 @@ popă	m
 aurar	m
 sacristan	m
 fonon	m
-eponimă	f/f
+eponimă	f
 decongelaţie	f
 leucometru	n
 marcator	n
@@ -36420,7 +36420,7 @@ răpăitură	f
 sumuţare	f
 cărăbuşel	m
 prorogaţie	f
-ardelean	m-n/m
+ardelean	m
 complotaşă	f
 încovoiere	f
 extaziere	f
@@ -36448,12 +36448,12 @@ grafomană	f
 drumeţ	m
 prepunere	f
 pervertire	f
-concordatară	f/f
+concordatară	f
 narcomanie	f
 luxfer	m
 timonerie	f
 bătător	n
-găgăuză	f/f
+găgăuză	f
 crâşmuşoară	f
 suprapopulaţie	f
 răzuitoare	f
@@ -36480,7 +36480,7 @@ becaţină	f
 moratoriu	n
 drobuşor	m
 raft	n
-asediator	m-n/m
+asediator	m
 oscilometru	n
 penar	n
 îmblătire	f
@@ -36536,7 +36536,7 @@ nemţie	f
 aterizare	f
 prezbiopie	f
 giroclinometru	n
-recidivist	m-n/m
+recidivist	m
 sălaş	n
 coregenţă	f
 membră	f
@@ -36598,7 +36598,7 @@ clonţ	n
 lustragiu	m
 velinţă	f
 restrişte	f
-arierat	m-n/m
+arierat	m
 microlexicon	n
 prebendar	m
 avariere	f
@@ -36719,7 +36719,7 @@ catapeteasmă	f
 maiou	n
 maior	m
 gândac	m
-nord-dunărean	m-n/m
+nord-dunărean	m
 meandru	n
 examinatoare	f
 sosire	f
@@ -36765,7 +36765,7 @@ balâc	n
 văgăună	f
 emfiteoză	f
 microuzină	f
-cincar	m/m-n
+cincar	m
 claustrofobă	f
 stipendiu	n
 pelican	m
@@ -36806,13 +36806,13 @@ hemocit	n
 marsuin	m
 logatom	m
 dejivror	n
-ectofită	f/f
+ectofită	f
 costumare	f
 injustiţie	f
 mecenat	m
 polaron	m
 mândrulică	f
-fantascientistă	f/f
+fantascientistă	f
 dezintoxicare	f
 episcopat	n
 namestie	f
@@ -36874,7 +36874,7 @@ gâtuitor	n
 codru	m
 decalaj	n
 anglicistă	f
-hiperbată	n/f
+hiperbată	n
 sucire	f
 oxidare	f
 forjor	m
@@ -36897,7 +36897,7 @@ narval	m
 concreştere	f
 referire	f
 trosnitură	f
-copartajantă	f/f
+copartajantă	f
 nevestică	f
 magistru	m
 xantocromie	f
@@ -37012,7 +37012,7 @@ orcan	n
 poltinic	m
 ciupitură	f
 escroacă	f
-postpaşoptist	m-n/m
+postpaşoptist	m
 beşteleală	f
 cormană	f
 bloc	n
@@ -37029,14 +37029,14 @@ traversare	f
 cianhidrină	f
 megohmmetru	n
 echivalent	n
-neoromantic	m-n/m
+neoromantic	m
 schider	n
 strujan	m
 licitantă	f
 retransmiţător	n
 lombalgie	f
 psihopatologă	f
-prelucrător	m-n/m
+prelucrător	m
 electroventilator	n
 logofeţel	m
 dăscăleală	f
@@ -37147,7 +37147,7 @@ dinamometru	n
 stelionatar	m
 bertă	f
 stropşitură	f
-traco-dac	m/m-n
+traco-dac	m
 desablaj	n
 hrib	m
 căsăpie	f
@@ -37265,7 +37265,7 @@ semiton	n
 martiră	f
 microordinator	n
 coabitare	f
-pedestru	m-n/m
+pedestru	m
 colaborator	m
 megalopsie	f
 bursieră	f
@@ -37296,7 +37296,7 @@ lavrac	m
 teleecran	n
 şubuliţă	f
 graficiană	f
-polichet	n/m
+polichet	n
 viroză	f
 manivelă	f
 scientistă	f
@@ -37380,7 +37380,7 @@ clironom	m
 trestie	f
 radical	m
 odorat	n
-rotaş	m-n/m
+rotaş	m
 năprasnică	f
 idioplasmă	f
 canava	f
@@ -37417,7 +37417,7 @@ radiotransmisiune	f
 porneală	f
 posăceală	f
 tenotomie	f
-acaparator	m-n/m
+acaparator	m
 fârtat	m
 actriţă	f
 mimeză	f
@@ -37445,10 +37445,10 @@ splau	n
 termocauter	n
 cuibărire	f
 cuirasare	f
-endoparazită	f/f
+endoparazită	f
 caldarâm	n
 entorsă	f
-confuzionistă	f/f
+confuzionistă	f
 surpriză	f
 ţinutaş	m
 păstrugă	f
@@ -37486,11 +37486,11 @@ gastroscopie	f
 pălărier	m
 incendiere	f
 reluctanţă	f
-comorian	m-n/m
+comorian	m
 frăguliţă	f
 moină	f
 antrachinonă	f
-covăsneană	f/f
+covăsneană	f
 hil	n
 peregrinare	f
 combainist	m
@@ -37498,7 +37498,7 @@ petrecanie	f
 corsaj	n
 diachenă	f
 bortă	f
-făcătoare	f/f
+făcătoare	f
 jitniţă	f
 păltinel	m
 gestaţie	f
@@ -37514,7 +37514,7 @@ arhipăstor	m
 curmei	n
 cocher	m
 arz	n
-impermeabilizant	n/m-n
+impermeabilizant	n
 barc	n
 bartiţă	f
 bard	m
@@ -37565,7 +37565,7 @@ cauper	n
 anchetă	f
 amică	f
 accedere	f
-antifeudal	m-n/m
+antifeudal	m
 bandotecar	m
 toponimie	f
 picnometru	n
@@ -37623,10 +37623,10 @@ dănţuire	f
 eşec	n
 stabilovolt	m
 ergonă	f
-gimca-nistă	f/f
+gimca-nistă	f
 bruş	m
 licenţiată	f
-presocialist	m-n/m
+presocialist	m
 despicare	f
 potenţial	n
 madrieră	f
@@ -37644,7 +37644,7 @@ rediscutare	f
 solonceac	n
 proconsulat	n
 balastare	f
-panslavist	m-n/m
+panslavist	m
 nord-coreeană	f
 egalizare	f
 plagiostom	m
@@ -37678,7 +37678,7 @@ pasageră	f
 electroscuter	n
 ţilindru	m
 paleoetnolog	m
-cumană	f/f
+cumană	f
 contrasăgeată	f
 tentativă	f
 taragotist	m
@@ -37778,7 +37778,7 @@ cremometru	n
 sofisticare	f
 xenofilie	f
 pescuitor	m
-fermenticidă	f/f
+fermenticidă	f
 microsporofilă	f
 clătită	f
 nouar	m
@@ -37977,8 +37977,8 @@ arierbec	n
 sextet	n
 lungan	m
 legatar	n
-fanariotă	f/f
-răzvrătitor	m-n/m
+fanariotă	f
+răzvrătitor	m
 etilenglicol	m
 preamărire	f
 redobândire	f
@@ -37988,7 +37988,7 @@ disamară	f
 oxigenare	f
 şerb	m
 ponegrire	f
-tist	m/n
+tist	m
 trap	n
 tras	m
 pal	n
@@ -38072,11 +38072,11 @@ provitamină	f
 prismatin	n
 clovn	m
 meioză	f
-râşnovean	m-n/m
+râşnovean	m
 ficăţel	m
 zenana	f
 flibusterie	f
-afemeiat	m-n/m
+afemeiat	m
 trombus	n
 spiroscop	n
 hecatombă	f
@@ -38088,7 +38088,7 @@ marţafoi	m
 curtean	m
 paramnezie	f
 fier	n
-rectificator	m-n/m
+rectificator	m
 harnaşament	n
 dăruinţă	f
 opincă	f
@@ -38170,14 +38170,14 @@ anticar	m
 cembalo	n
 stâlpuleţ	m
 secesionistă	f
-băcăuan	m-n/m
+băcăuan	m
 chibiţ	m
 homosexuală	f
 motocositoare	f
 coşcoveală	f
 antimetabolă	f
 tricliniu	n
-blăjean	m-n/m
+blăjean	m
 prizonier	m
 teribilism	n
 minciunică	f
@@ -38207,7 +38207,7 @@ predominaţie	f
 hulubel	m
 strănutat	n
 agnaţiune	f
-bazedovian	m-n/m
+bazedovian	m
 adamit	m
 substantivare	f
 vrăjitoreasă	f
@@ -38349,7 +38349,7 @@ coordonată	f
 dugheană	f
 fotocromie	f
 pieptenel	m
-ghismană	n/f
+ghismană	n
 verdeaţă	f
 cămară	f
 destinaţie	f
@@ -38382,6 +38382,6 @@ răchită	f
 dezbinare	f
 concetăţean	m
 tacâm	n
-antirasist	m-n/m
+antirasist	m
 muncitoare	f
 nervaţiune	f

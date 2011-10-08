@@ -48,7 +48,7 @@ if __name__ == '__main__':
 		if 'ne' not in article:
 			continue  # only take weak forms
 
-		subst.setdefault(base, dict())[number] = (form, gender)
+		subst.setdefault(base, dict())[number] = (form, gender[0])
 		if number not in ('sg', 'pl'):
 			print base, number
 	
