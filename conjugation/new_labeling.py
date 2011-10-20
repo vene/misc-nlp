@@ -25,14 +25,7 @@ rules.append({'1sg': u'^([a-zăâîşţ]+)$',
               '2pl': u'^([a-zăâîşţ]+)aţi$',
               '3pl': u'^([a-zăâîşţ]+)ă$'})
               
-# pt verbe cu -ta gen cânta
-# (alternanta in flectiv t->ţ la 2sg)
-rules.append({'1sg': u'^([a-zăâîşţ]+)t$',
-              '2sg': u'^([a-zăâîşţ]+)ţi$',
-              '3sg': u'^([a-zăâîşţ]+)tă$',
-              '1pl': u'^([a-zăâîşţ]+)tăm$',
-              '2pl': u'^([a-zăâîşţ]+)taţi$',
-              '3pl': u'^([a-zăâîşţ]+)tă$'})
+
 
 # pt verbe gen număra
 # (alternanta ă-> e la 2sg)
@@ -100,6 +93,15 @@ rules.append({'1sg': u'^([a-zăâîşţ]+)hez$',
               '3pl': u'^([a-zăâîşţ]+)hează$'})
 
 # verbele cu -ta (cele comentate nu-s destul de productive)
+
+# pt verbe cu -ta gen cânta
+# (alternanta in flectiv t->ţ la 2sg)
+rules.append({'1sg': u'^([a-zăâîşţ]+)t$',
+              '2sg': u'^([a-zăâîşţ]+)ţi$',
+              '3sg': u'^([a-zăâîşţ]+)tă$',
+              '1pl': u'^([a-zăâîşţ]+)tăm$',
+              '2pl': u'^([a-zăâîşţ]+)taţi$',
+              '3pl': u'^([a-zăâîşţ]+)tă$'})
 
 # (alternanta in flectiv t->ţ la 2sg) gen a exista
 rules.append({'1sg': u'^([a-zăâîşţ]+)st$',
