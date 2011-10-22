@@ -203,7 +203,7 @@ rules.append({'1sg': u'^([a-zăâîşţ]+)ăt$',
 # conj a 2a (infinitivul in -ea)
 # ->la fel ca primul pattern de la conj a 3a
 
-# pt verbele care au alternanta ă->a in radical
+# pt verbele care au alternanta ă->a in radical, "a părea"
 rules.append({'1sg': u'^([a-zăâîşţ]+)a([a-zăâîşţ]+)$',
               '2sg': u'^([a-zăâîşţ]+)a([a-zăâîşţ]+)i$',
               '3sg': u'^([a-zăâîşţ]+)a([a-zăâîşţ]+)e$',
@@ -211,12 +211,29 @@ rules.append({'1sg': u'^([a-zăâîşţ]+)a([a-zăâîşţ]+)$',
               '2pl': u'^([a-zăâîşţ]+)ă([a-zăâîşţ]+)eţi$',
               '3pl': u'^([a-zăâîşţ]+)a([a-zăâîşţ]+)$'})
 
+#NOU! pt verbe gen "a cădea" si derivatele; alternanta ca mai sus + d->z
+rules.append({'1sg': u'^([a-zăâîşţ]+)ad$',
+              '2sg': u'^([a-zăâîşţ]+)azi$',
+              '3sg': u'^([a-zăâîşţ]+)ade$',
+              '1pl': u'^([a-zăâîşţ]+)ădem$',
+              '2pl': u'^([a-zăâîşţ]+)ădeţi$',
+              '3pl': u'^([a-zăâîşţ]+)ad$'})
+              
+# "a vedea" si derivatele din asta doar
 rules.append({'1sg': u'^([a-zăâîşţ]+)ăd$',
               '2sg': u'^([a-zăâîşţ]+)ezi$',
               '3sg': u'^([a-zăâîşţ]+)ede$',
               '1pl': u'^([a-zăâîşţ]+)edem$',
               '2pl': u'^([a-zăâîşţ]+)edeţi$',
               '3pl': u'^([a-zăâîşţ]+)ăd$'})
+              
+# NOU! "a urechea", "a veghea" care se conjuga cu ez; difera de ez-ul de la 1   
+rules.append({'1sg': u'^([a-zăâîşţ]+)ez$',
+              '2sg': u'^([a-zăâîşţ]+)ezi$',
+              '3sg': u'^([a-zăâîşţ]+)ează$',
+              '1pl': u'^([a-zăâîşţ]+)em$',
+              '2pl': u'^([a-zăâîşţ]+)eaţi$',
+              '3pl': u'^([a-zăâîşţ]+)ează$'})
               
 # conj a 3a (infinitivul in -e)
 #in general
@@ -242,7 +259,7 @@ rules.append({'1sg': u'^([a-zăâîşţ]+)u$',
               '2pl': u'^([a-zăâîşţ]+)eţi$',
               '3pl': u'^([a-zăâîşţ]+)u$'})
 
-# pt -şte la infinitiv (naşte, paşte)(l-ai pus deja)
+# pt -şte la infinitiv (naşte, paşte)
 rules.append({'1sg': u'^([a-zăâîşţ]+)sc$',
               '2sg': u'^([a-zăâîşţ]+)şti$',
               '3sg': u'^([a-zăâîşţ]+)şte$',
@@ -265,7 +282,8 @@ rules.append({'1sg': u'^([a-zăâîşţ]+)d$',
               '1pl': u'^([a-zăâîşţ]+)dem$',
               '2pl': u'^([a-zăâîşţ]+)deţi$',
               '3pl': u'^([a-zăâîşţ]+)d$'})
-
+              
+#nu reusesc sa imi amintesc pentru ce e asta?!?! + niciun verb etichetat cu asta in inf-all-labeled.txt
 rules.append({'1sg': u'^([a-zăâîşţ]+)ă([a-zăâîşţ]*)d$',
               '2sg': u'^([a-zăâîşţ]+)e([a-zăâîşţ]*)zi$',
               '3sg': u'^([a-zăâîşţ]+)e([a-zăâîşţ]*)de$',
