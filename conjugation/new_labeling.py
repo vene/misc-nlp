@@ -68,7 +68,7 @@ rules.append({'1sg': u'^([a-zăâîşţ]+)i$',
               '2pl': u'^([a-zăâîşţ]+)aţi$',
               '3pl': u'^([a-zăâîşţ]+)e$'})
 
-# pt verbe care se conjuga cu ez (dansa)  (l-ai pus deja)
+# pt verbe care se conjuga cu ez (dansa)  
 rules.append({'1sg': u'^([a-zăâîşţ]+)ez$',
               '2sg': u'^([a-zăâîşţ]+)ezi$',
               '3sg': u'^([a-zăâîşţ]+)ează$',
@@ -76,7 +76,7 @@ rules.append({'1sg': u'^([a-zăâîşţ]+)ez$',
               '2pl': u'^([a-zăâîşţ]+)aţi$',
               '3pl': u'^([a-zăâîşţ]+)ează$'})
 
-# pt verbe care se conjuga cu ez si au ia la inf (copia) (l-ai pus deja)
+# pt verbe care se conjuga cu ez si au ia la inf (copia) 
 rules.append({'1sg': u'^([a-zăâîşţ]+)ez$',
               '2sg': u'^([a-zăâîşţ]+)ezi$',
               '3sg': u'^([a-zăâîşţ]+)ază$',
@@ -167,7 +167,7 @@ rules.append({'1sg': u'^([a-zăâîşţ]+)a([a-zăâîşţ]+)t$',
 #              '2pl': u'^([a-zăâîşţ]+)ă([a-zăâîşţ]+)ătaţi$',
 #              '3pl': u'^([a-zăâîşţ]+)a([a-zăâîşţ]+)ătă$'})
 
-# (alternanta in flectiv t->ţ la 2sg + ă-e-a)
+# (alternanta in flectiv t->ţ la 2sg + ă-e-a) desfata
 rules.append({'1sg': u'^([a-zăâîşţ]+)ăt$',
               '2sg': u'^([a-zăâîşţ]+)eţi$',
               '3sg': u'^([a-zăâîşţ]+)ată$',
@@ -309,7 +309,7 @@ rules.append({'1sg': u'^([a-zăâîşţ]+)i$',
               '2pl': u'^([a-zăâîşţ]+)iţi$',
               '3pl': u'^([a-zăâîşţ]+)ie$'})
 
-# pt verbe care se conjuga cu esc (vorbi, citi) (l-ai pus deja)
+# pt verbe care se conjuga cu esc (vorbi, citi) 
 rules.append({'1sg': u'^([a-zăâîşţ]+)esc$',
               '2sg': u'^([a-zăâîşţ]+)eşti$',
               '3sg': u'^([a-zăâîşţ]+)eşte$',
@@ -325,8 +325,7 @@ rules.append({'1sg': u'^([a-zăâîşţ]+)iesc$',
               '2pl': u'^([a-zăâîşţ]+)iţi$',
               '3pl': u'^([a-zăâîşţ]+)iesc$'})
 
-#?pt verbele care se termina cu î la inf (omorî) 
-#(problema: avem alternanta o->oa la 3)
+#pt verbele care se termina cu î la inf (omorî) 
 rules.append({'1sg': u'^([a-zăâîşţ]+)o([a-zăâîşţ]+)$',
               '2sg': u'^([a-zăâîşţ]+)o([a-zăâîşţ]+)i$',
               '3sg': u'^([a-zăâîşţ]+)oa([a-zăâîşţ]+)ă$',
