@@ -210,14 +210,6 @@ rules.append({'1sg': u'^([a-zăâîşţ]+)a([a-zăâîşţ]+)$',
               '1pl': u'^([a-zăâîşţ]+)ă([a-zăâîşţ]+)em$',
               '2pl': u'^([a-zăâîşţ]+)ă([a-zăâîşţ]+)eţi$',
               '3pl': u'^([a-zăâîşţ]+)a([a-zăâîşţ]+)$'})
-
-#NOU! pt verbe gen "a cădea" si derivatele; alternanta ca mai sus + d->z
-rules.append({'1sg': u'^([a-zăâîşţ]+)ad$',
-              '2sg': u'^([a-zăâîşţ]+)azi$',
-              '3sg': u'^([a-zăâîşţ]+)ade$',
-              '1pl': u'^([a-zăâîşţ]+)ădem$',
-              '2pl': u'^([a-zăâîşţ]+)ădeţi$',
-              '3pl': u'^([a-zăâîşţ]+)ad$'})
               
 # "a vedea" si derivatele din asta doar
 rules.append({'1sg': u'^([a-zăâîşţ]+)ăd$',
@@ -226,6 +218,14 @@ rules.append({'1sg': u'^([a-zăâîşţ]+)ăd$',
               '1pl': u'^([a-zăâîşţ]+)edem$',
               '2pl': u'^([a-zăâîşţ]+)edeţi$',
               '3pl': u'^([a-zăâîşţ]+)ăd$'})
+
+#NOU! pt verbe gen "a cădea" si derivatele; alternanta ca mai sus + d->z
+rules.append({'1sg': u'^([a-zăâîşţ]+)ad$',
+              '2sg': u'^([a-zăâîşţ]+)azi$',
+              '3sg': u'^([a-zăâîşţ]+)ade$',
+              '1pl': u'^([a-zăâîşţ]+)ădem$',
+              '2pl': u'^([a-zăâîşţ]+)ădeţi$',
+              '3pl': u'^([a-zăâîşţ]+)ad$'})
               
 # NOU! "a urechea", "a veghea" care se conjuga cu ez; difera de ez-ul de la 1   
 rules.append({'1sg': u'^([a-zăâîşţ]+)ez$',
