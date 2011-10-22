@@ -24,8 +24,6 @@ rules.append({'1sg': u'^([a-zăâîşţ]+)$',
               '1pl': u'^([a-zăâîşţ]+)ăm$',
               '2pl': u'^([a-zăâîşţ]+)aţi$',
               '3pl': u'^([a-zăâîşţ]+)ă$'})
-              
-
 
 # pt verbe gen număra
 # (alternanta ă-> e la 2sg)
@@ -67,30 +65,6 @@ rules.append({'1sg': u'^([a-zăâîşţ]+)i$',
               '1pl': u'^([a-zăâîşţ]+)em$',
               '2pl': u'^([a-zăâîşţ]+)aţi$',
               '3pl': u'^([a-zăâîşţ]+)e$'})
-
-# pt verbe care se conjuga cu ez (dansa)  
-rules.append({'1sg': u'^([a-zăâîşţ]+)ez$',
-              '2sg': u'^([a-zăâîşţ]+)ezi$',
-              '3sg': u'^([a-zăâîşţ]+)ează$',
-              '1pl': u'^([a-zăâîşţ]+)ăm$',
-              '2pl': u'^([a-zăâîşţ]+)aţi$',
-              '3pl': u'^([a-zăâîşţ]+)ează$'})
-
-# pt verbe care se conjuga cu ez si au ia la inf (copia) 
-rules.append({'1sg': u'^([a-zăâîşţ]+)ez$',
-              '2sg': u'^([a-zăâîşţ]+)ezi$',
-              '3sg': u'^([a-zăâîşţ]+)ază$',
-              '1pl': u'^([a-zăâîşţ]+)em$',
-              '2pl': u'^([a-zăâîşţ]+)aţi$',
-              '3pl': u'^([a-zăâîşţ]+)ază$'})
-
-# pt verbe cu ca la inf (parca, şoca) si ez
-rules.append({'1sg': u'^([a-zăâîşţ]+)hez$',
-              '2sg': u'^([a-zăâîşţ]+)hezi$',
-              '3sg': u'^([a-zăâîşţ]+)hează$',
-              '1pl': u'^([a-zăâîşţ]+)ăm$',
-              '2pl': u'^([a-zăâîşţ]+)aţi$',
-              '3pl': u'^([a-zăâîşţ]+)hează$'})
 
 # verbele cu -ta (cele comentate nu-s destul de productive)
 
@@ -199,6 +173,29 @@ rules.append({'1sg': u'^([a-zăâîşţ]+)ăt$',
 #              '2pl': u'^([a-zăâîşţ]+)aţi$',
 #              '3pl': u'^([a-zăâîşţ]+)ă$'})
 
+# pt verbe care se conjuga cu ez (dansa)  
+rules.append({'1sg': u'^([a-zăâîşţ]+)ez$',
+              '2sg': u'^([a-zăâîşţ]+)ezi$',
+              '3sg': u'^([a-zăâîşţ]+)ează$',
+              '1pl': u'^([a-zăâîşţ]+)ăm$',
+              '2pl': u'^([a-zăâîşţ]+)aţi$',
+              '3pl': u'^([a-zăâîşţ]+)ează$'})
+
+# pt verbe care se conjuga cu ez si au ia la inf (copia) 
+rules.append({'1sg': u'^([a-zăâîşţ]+)ez$',
+              '2sg': u'^([a-zăâîşţ]+)ezi$',
+              '3sg': u'^([a-zăâîşţ]+)ază$',
+              '1pl': u'^([a-zăâîşţ]+)em$',
+              '2pl': u'^([a-zăâîşţ]+)aţi$',
+              '3pl': u'^([a-zăâîşţ]+)ază$'})
+
+# pt verbe cu ca la inf (parca, şoca) si ez
+rules.append({'1sg': u'^([a-zăâîşţ]+)hez$',
+              '2sg': u'^([a-zăâîşţ]+)hezi$',
+              '3sg': u'^([a-zăâîşţ]+)hează$',
+              '1pl': u'^([a-zăâîşţ]+)ăm$',
+              '2pl': u'^([a-zăâîşţ]+)aţi$',
+              '3pl': u'^([a-zăâîşţ]+)hează$'})
 
 # conj a 2a (infinitivul in -ea)
 # ->la fel ca primul pattern de la conj a 3a
@@ -343,6 +340,7 @@ rules.append({'1sg': u'^([a-zăâîşţ]+)ăsc$',
 
 words = {}
 
+print "Loading data in memory...",
 for line in f:
     word, base, persoana = line.split()
     persoana = persoana.split(".")[3]
@@ -350,6 +348,8 @@ for line in f:
         words[base].append((word, persoana))  # 3pl
     else:
         words[base] = [(word, persoana)]
+
+print "done"
 
 def check(forms, rules):
     root = None
