@@ -6,6 +6,7 @@ from sklearn.preprocessing import Binarizer
 from sklearn.cross_validation import KFold
 from sklearn.grid_search import GridSearchCV
 from sklearn.svm.sparse import LinearSVC
+from sklearn.metrics import classification_report
 
 import preprocess
 
@@ -13,10 +14,10 @@ if __name__ == '__main__':
 	X_sg, y_sg = preprocess.load_data('singular.txt')
 	X_pl, y_pl = preprocess.load_data('plural.txt')
 
-	X_sg_p, v_sg = preprocess.preprocess_data(X_sg, suffix='$', n=2,
-											  return_vect=True)
-	X_pl_p, v_pl = preprocess.preprocess_data(X_pl, suffix='$', n=2,
-	                                          return_vect=True)
+	X_sg_p, v_sg = preprocess.preprocess_data(X_sg, suffix='$', n=5,
+											  return_vect=True, binarize=False)
+	X_pl_p, v_pl = preprocess.preprocess_data(X_pl, suffix='$', n=5,
+	                                          return_vect=True, binarize=False)
 
 	try:
 		pkl = open('svc_sg.pkl', 'r')
