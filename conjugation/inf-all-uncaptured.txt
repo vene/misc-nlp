@@ -89,6 +89,7 @@ căpăta
 înălţa
 preda
 mirosi
+pieri
 sentenţia
 scula
 scoate
@@ -171,6 +172,7 @@ răscoace
 nega
 adăpa
 ascuţi
+fugi
 clincăni
 înfăşa
 ţese

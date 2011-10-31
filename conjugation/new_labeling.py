@@ -207,14 +207,14 @@ rules.append({'1sg': u'^([a-zăâîşţ]+)a([a-zăâîşţ]+)$',
               '1pl': u'^([a-zăâîşţ]+)ă([a-zăâîşţ]+)em$',
               '2pl': u'^([a-zăâîşţ]+)ă([a-zăâîşţ]+)eţi$',
               '3pl': u'^([a-zăâîşţ]+)a([a-zăâîşţ]+)$'})
-              
-# "a vedea" si derivatele din asta doar
-rules.append({'1sg': u'^([a-zăâîşţ]+)ăd$',
-              '2sg': u'^([a-zăâîşţ]+)ezi$',
-              '3sg': u'^([a-zăâîşţ]+)ede$',
-              '1pl': u'^([a-zăâîşţ]+)edem$',
-              '2pl': u'^([a-zăâîşţ]+)edeţi$',
-              '3pl': u'^([a-zăâîşţ]+)ăd$'})
+
+#a vedea și altele
+rules.append({'1sg': u'^([a-zăâîşţ]+)ă([a-zăâîşţ]*)d$',
+              '2sg': u'^([a-zăâîşţ]+)e([a-zăâîşţ]*)zi$',
+              '3sg': u'^([a-zăâîşţ]+)e([a-zăâîşţ]*)de$',
+              '1pl': u'^([a-zăâîşţ]+)e([a-zăâîşţ]*)dem$',
+              '2pl': u'^([a-zăâîşţ]+)e([a-zăâîşţ]*)deţi$',
+              '3pl': u'^([a-zăâîşţ]+)ă([a-zăâîşţ]*)d$'})
 
 #NOU! pt verbe gen "a cădea" si derivatele; alternanta ca mai sus + d->z
 rules.append({'1sg': u'^([a-zăâîşţ]+)ad$',
@@ -279,24 +279,16 @@ rules.append({'1sg': u'^([a-zăâîşţ]+)d$',
               '1pl': u'^([a-zăâîşţ]+)dem$',
               '2pl': u'^([a-zăâîşţ]+)deţi$',
               '3pl': u'^([a-zăâîşţ]+)d$'})
-              
-#nu reusesc sa imi amintesc pentru ce e asta?!?! + niciun verb etichetat cu asta in inf-all-labeled.txt
-rules.append({'1sg': u'^([a-zăâîşţ]+)ă([a-zăâîşţ]*)d$',
-              '2sg': u'^([a-zăâîşţ]+)e([a-zăâîşţ]*)zi$',
-              '3sg': u'^([a-zăâîşţ]+)e([a-zăâîşţ]*)de$',
-              '1pl': u'^([a-zăâîşţ]+)e([a-zăâîşţ]*)dem$',
-              '2pl': u'^([a-zăâîşţ]+)e([a-zăâîşţ]*)deţi$',
-              '3pl': u'^([a-zăâîşţ]+)ă([a-zăâîşţ]*)d$'})
 
 # conj a 4a
 
-# pt verbe ca a fugi
-rules.append({'1sg': u'^([a-zăâîşţ]+)$',
-              '2sg': u'^([a-zăâîşţ]+)i$',
-              '3sg': u'^([a-zăâîşţ]+)e$',
-              '1pl': u'^([a-zăâîşţ]+)im$',
-              '2pl': u'^([a-zăâîşţ]+)iţi$',
-              '3pl': u'^([a-zăâîşţ]+)$'})
+# # pt verbe ca a fugi
+# rules.append({'1sg': u'^([a-zăâîşţ]+)$',
+#               '2sg': u'^([a-zăâîşţ]+)i$',
+#               '3sg': u'^([a-zăâîşţ]+)e$',
+#               '1pl': u'^([a-zăâîşţ]+)im$',
+#               '2pl': u'^([a-zăâîşţ]+)iţi$',
+#               '3pl': u'^([a-zăâîşţ]+)$'})
 
 # pt verbe cu ui, âi, ăi (sui)
 rules.append({'1sg': u'^([a-zăâîşţ]+)i$',
@@ -391,5 +383,5 @@ print "Captured: "
 for i, n in enumerate(count):
     print '%d: %d' % (i, n)
 print "Uncaptured: %d out of %d" % (uncaptured, len(words))
-for fl in (f, labeled): 
+for fl in (f, labeled, unlabeled): 
     fl.close()
