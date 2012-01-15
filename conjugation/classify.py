@@ -1,12 +1,14 @@
+"""Hand-made grid search to compute scores and hyperparameters"""
+
+
 import sys
 
 import numpy as np
 
 from sklearn.svm.sparse import LinearSVC
-# from sklearn.linear_model.sparse import LogisticRegression
 from preprocess import get_clf, load_data, preprocess_data
 from sklearn.metrics import classification_report
-from sklearn.cross_validation import KFold, cross_val_score, LeaveOneOut
+from sklearn.cross_validation import KFold, LeaveOneOut
 from sklearn.grid_search import GridSearchCV
 
 if __name__ == '__main__':
@@ -27,5 +29,3 @@ if __name__ == '__main__':
 				grid.fit(X_new, y)
 				scores[i, j, k] = grid.best_score
 				best_C[i, j, k] = grid.best_estimator.C
-				# score[i, j, k] = np.mean(cross_val_score(clf, X_new, y, cv=LeaveOneOut(n, indices=True),
-				#			  			 verbose=False, n_jobs=4))
