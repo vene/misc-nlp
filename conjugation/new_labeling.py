@@ -1,5 +1,10 @@
 # -*- coding: utf-8 -*-
 """
+Labeling verbs according to rules
+
+Lists hand-made rules that cover almost all the data
+and labels verbs according to the category they fit.
+
 Created on Tue Mar 29 17:16:36 2011
 
 @author: vene
