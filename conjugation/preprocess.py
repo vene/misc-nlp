@@ -1,6 +1,9 @@
 # -*- coding: utf-8 -*-
 """
 Preprocessor and analyzer for infinitives
+
+This is a utility to load the dataset and get it into an
+appropriate format for machine learning.
 Created on Wed Apr 13 18:13:21 2011
 
 @author: vene
@@ -16,6 +19,8 @@ import codecs
 import numpy as np
 
 class SimplePreprocessor(object):
+    """Simple text preprocessor that doesn't strip diacritics"""
+
     def preprocess(self, unicode_text):
         return unicode(unicode_text.strip().lower() + self.suffix)
         
@@ -24,6 +29,8 @@ class SimplePreprocessor(object):
 
 
 def get_clf(n=3, binarize=True, clf=None, suffix=''):
+    """Builds a pipeline classifier"""
+
     steps = [('vectorizer', CountVectorizer(CharNGramAnalyzer(min_n=1, max_n=n,
                                     preprocessor=SimplePreprocessor(suffix))))]
     if binarize:
