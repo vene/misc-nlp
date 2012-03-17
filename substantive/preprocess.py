@@ -6,7 +6,7 @@ Created on Wed Apr 13 18:13:21 2011
 @author: vene
 """
 
-from sklearn.feature_extraction.text import CharNGramAnalyzer, CountVectorizer
+from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.preprocessing import Binarizer
 from sklearn.pipeline import Pipeline
 from sklearn import naive_bayes
@@ -14,17 +14,13 @@ import codecs
 
 import numpy as np
 
-class SimplePreprocessor(object):
-    def preprocess(self, unicode_text):
-        return unicode(unicode_text.strip().lower() + self.suffix)
-        
-    def __init__(self, suffix=''):
-        self.suffix = suffix
+def build_preprocessor(suffix):
+    return lambda s: unicode(s.strip().lower() + suffix)
 
 
 def get_clf(n=3, binarize=True, clf=None):
-    steps = [('vectorizer', CountVectorizer(CharNGramAnalyzer(min_n=1, max_n=n,
-                                          preprocessor=SimplePreprocessor())))]
+    steps = [('vectorizer', CountVectorizer(analyzer="char", min_n=1, max_n=n,
+                                            preprocessor=build_preprocessor()))]
     if binarize:
         steps.append(('binarizer', Binarizer(copy=False)))
         if not clf:
@@ -36,13 +32,10 @@ def get_clf(n=3, binarize=True, clf=None):
 
 
 def preprocess_data(X, n=3, suffix='', binarize=True, return_vect=False):
-    cv = CountVectorizer(CharNGramAnalyzer(min_n=1, max_n=n,
-                                           preprocessor=SimplePreprocessor(
-                                           suffix)))
+    cv = CountVectorizer(analyzer="char", min_n=1, max_n=n, binary=binarize,
+                         preprocessor=build_preprocessor(suffix))
     X = cv.fit_transform(X)
-    if binarize:
-        X = Binarizer(copy=False).transform(X)
-    
+
     if return_vect:
         return X, cv
     else:

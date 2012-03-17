@@ -1,11 +1,10 @@
 import cPickle
-
 import numpy as np
 
 from sklearn.preprocessing import Binarizer
 from sklearn.cross_validation import KFold
 from sklearn.grid_search import GridSearchCV
-from sklearn.svm.sparse import LinearSVC, SVC
+from sklearn.svm import LinearSVC, SVC
 from sklearn.metrics import classification_report
 
 import preprocess
@@ -25,7 +24,7 @@ if __name__ == '__main__':
 		clf = cPickle.load(pkl)
 		pkl.close()
 	except IOError:
-		clf = LinearSVC(C=0.1).fit(X_sg_p, y_sg)
+		clf = LinearSVC(C=0.1, scale_C=False).fit(X_sg_p, y_sg)
 		sg_model = open('svc_sg.pkl', 'wb')
 		cPickle.dump(clf, sg_model)
 		sg_model.close()
@@ -45,7 +44,7 @@ if __name__ == '__main__':
 	except IOError:
 		weights = [x.strip().endswith("uri") for x in X_pl]
 		weights = 1 + np.array(weights, dtype=np.float)
-		clf = LinearSVC(C=0.1)
+		clf = LinearSVC(C=0.1, scale_C=False)
 		clf.fit(X_pl_p, y_pl)
 		pl_model = open('svc_pl.pkl', 'wb')
 		cPickle.dump(clf, pl_model)
