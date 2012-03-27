@@ -28,7 +28,9 @@ if __name__ == '__main__':
 
     print 'Loading neutral data...'
     X_sg_n_clean = preprocess.load_data('singular_n.txt', labels=False)
-    X_sg_n = Binarizer(copy=False).transform(v_sg.transform(X_sg_n_clean))
+    #X_sg_n = Binarizer(copy=False).transform(v_sg.transform(X_sg_n_clean))
+    X_sg_n = v_sg.transform(X_sg_n_clean)
+
     print 'Predicting...'
     y_sg_n = clf.predict(X_sg_n)
     print (y_sg_n == 0).mean()
@@ -48,7 +50,8 @@ if __name__ == '__main__':
         pl_model.close()
     print 'Loading neutral data...'
     X_pl_n_clean = preprocess.load_data('plural_n.txt', labels=False)
-    X_pl_n = Binarizer(copy=False).transform(v_pl.transform(X_pl_n_clean))
+    #X_pl_n = Binarizer(copy=False).transform(v_pl.transform(X_pl_n_clean))
+    X_pl_n = v_pl.transform(X_pl_n_clean)
     print 'Predicting...'
     y_pl_n = clf.predict(X_pl_n)
     print (y_pl_n == 1).mean()
@@ -58,23 +61,22 @@ if __name__ == '__main__':
     mm = np.logical_and((y_sg_n == 0), (y_pl_n == 0))
     ff = np.logical_and((y_sg_n == 1), (y_pl_n == 1))
 
-
     print ".\tf\tm\nm\t%d\t%d\nf\t%d\t%d" % (
         mf.sum(), mm.sum(), ff.sum(), fm.sum())
 
     print ".\tf\tm\nm\t%.4f\t%.4f\nf\t%.4f\t%.4f" % (
         mf.mean(), mm.mean(), ff.mean(), fm.mean())
-    
+
     def print_word(i):
         print X_sg_n_clean[i].strip(), '/', X_pl_n_clean[i].strip()
-    
+
     liniute_sg = liniute_pl = uri_pl_gresite = uri_pl_corecte = 0
     print "Words completely misclassified:"
     for i in np.flatnonzero(fm):
         print_word(i)
     print "\n\n\nWords with misclassified singular:"
     for i in np.flatnonzero(ff):
-        if "-" in X_sg_n_clean[i]: 
+        if "-" in X_sg_n_clean[i]:
             liniute_sg += 1
         print_word(i)
     print "\n\n\nWords with misclassified plural:"

@@ -9,7 +9,6 @@ scores_pl = np.load("scores_pl.npy")
 labels = []
 labels.append([[], []])
 labels.append([[], []])
-labels[0][0] = "Binarized with suffix"
 labels[0][0] = "Binarized w/o suffix"
 labels[1][0] = "Binarized w/ suffix"
 labels[1][1] = "Frequency w/ suffix"

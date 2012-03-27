@@ -14,6 +14,7 @@ import codecs
 
 import numpy as np
 
+
 def build_preprocessor(suffix):
     return lambda s: unicode(s.strip().lower() + suffix)
 
