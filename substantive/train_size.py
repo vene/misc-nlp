@@ -9,8 +9,8 @@ import preprocess
 
 
 def nouns_score(X_sg, y_sg, X_pl, y_pl, X_sg_test, X_pl_test):
-    sg_clf = LinearSVC(C=0.1, scale_C=False).fit(X_sg, y_sg)
-    pl_clf = LinearSVC(C=0.1, scale_C=False).fit(X_pl, y_pl)
+    sg_clf = LinearSVC(C=0.1).fit(X_sg, y_sg)
+    pl_clf = LinearSVC(C=0.1).fit(X_pl, y_pl)
     sg_pred = sg_clf.predict(X_sg_test)
     pl_pred = pl_clf.predict(X_pl_test)
     sg_score = np.mean(sg_pred == 0)
@@ -27,43 +27,70 @@ def pl_score(X, y, X_test):
     return nouns_score(X, y, X_test, 1)
 
 
-def plot(scores):
+def plot(scores, scores2=None):
     import matplotlib.pylab as pl
     from matplotlib.ticker import FuncFormatter
 
     def percentages(x, pos=0):
         return '%2.2f%%' % (100 * x)
 
-    ax1 = pl.subplot(311)
-    pl.errorbar(scores[:, 1], scores[:, 2], yerr=scores[:, 5],
+    ax1 = pl.subplot(211)
+    pl.errorbar(scores2[:, 1], scores2[:, 2], yerr=scores2[:, 5],
                 c='k', marker='o')
-    pl.ylabel("Singular accuracy")
+    #if scores2 is not None:
+    #    pl.errorbar(scores2[:, 1] + 0.02, scores2[:, 2], yerr=scores2[:, 5],
+    #            c='0.5', marker='s')
+    pl.ylabel("Singular acc.")
     ax1.yaxis.set_major_formatter(FuncFormatter(percentages))
 
-    ax2 = pl.subplot(312, sharex=ax1)
+    pl.xlabel("Proportion of training set used")
+    ax2 = pl.subplot(212, sharex=ax1)
     pl.errorbar(scores[:, 1], scores[:, 3], yerr=scores[:, 6],
                 c='k', marker='o')
+    if scores2 is not None:
+        pl.errorbar(scores2[:, 1], scores2[:, 3], yerr=scores2[:, 6],
+                c='k', marker='s')
 
-    pl.ylabel("Plural accuracy")
     ax2.yaxis.set_major_formatter(FuncFormatter(percentages))
 
-    ax3 = pl.subplot(313, sharex=ax2)
-    pl.errorbar(scores[:, 1], scores[:, 4], yerr=scores[:, 7],
-                c='k', marker='o')
-    pl.ylabel("Overall accuracy")
-    ax3.yaxis.set_major_formatter(FuncFormatter(percentages))
-    pl.setp(ax3.get_xticklabels(), visible=False)
-    pl.xlabel("Proportion of training set used")
+    #ax3 = pl.subplot(313, sharex=ax2)
+    pl.errorbar(scores[:, 1] + 0.02, scores[:, 4], yerr=scores[:, 7],
+                c='0.5', marker='o')
+    if scores2 is not None:
+        pl.errorbar(scores2[:, 1] + 0.02, scores2[:, 4], yerr=scores2[:, 7],
+                c='0.5', marker='s')
+    pl.ylabel("Plural and combined acc.")
+    #ax3.yaxis.set_major_formatter(FuncFormatter(percentages))
+    #pl.setp(ax3.get_xticklabels(), visible=False)
+
+    #pl.show()
 
     for ext in ('pdf', 'svg', 'png'):
-        pl.savefig('train_size.%s' % ext)
+        pl.savefig('train_size-i.%s' % ext)
 
 
 if __name__ == '__main__':
     print 'Loading training and test data...'
-    X_sg, y_sg = preprocess.load_data('singular.txt')
-    X_pl, y_pl = preprocess.load_data('plural.txt')
+    X_sg_all, y_sg_all = preprocess.load_data('singular.txt')
+    X_pl_all, y_pl_all = preprocess.load_data('plural.txt')
 
+    X_sg, y_sg, X_pl, y_pl = [], [], [], []
+    for sg, this_y_sg, pl, this_y_pl in zip(X_sg_all, y_sg_all, X_pl_all,
+                                            y_pl_all):
+        # get rid of balauri
+        sg = sg.strip()
+        pl = pl.strip()
+        if not (pl.endswith('uri') and sg.endswith('ur')):
+            X_sg.append(sg)
+            y_sg.append(this_y_sg)
+            X_pl.append(pl)
+            y_pl.append(this_y_pl)
+    X_sg = np.array(X_sg)
+    y_sg = np.array(y_sg)
+    X_pl = np.array(X_pl)
+    y_pl = np.array(y_pl)
+
+    print len(X_sg)
     X_sg_p, v_sg = preprocess.preprocess_data(X_sg, suffix='$', n=5,
                                               return_vect=True, binarize=False)
     X_pl_p, v_pl = preprocess.preprocess_data(X_pl, suffix='$', n=5,
@@ -98,4 +125,4 @@ if __name__ == '__main__':
 
     scores = np.array(scores)
     plot(scores)
-    np.save("train_size", scores)
+    np.save("train_size_i", scores)

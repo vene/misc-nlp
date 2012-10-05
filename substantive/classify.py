@@ -7,9 +7,22 @@ from sklearn.svm import LinearSVC
 import preprocess
 
 if __name__ == '__main__':
-    X_sg, y_sg = preprocess.load_data('singular.txt')
-    X_pl, y_pl = preprocess.load_data('plural.txt')
-
+    X_sg_all, y_sg_all = preprocess.load_data('singular.txt')
+    X_pl_all, y_pl_all = preprocess.load_data('plural.txt')
+    X_sg, X_pl, y_sg, y_pl = [], [], [], []
+    for sg, this_y_sg, pl, this_y_pl in zip(X_sg_all, y_sg_all, X_pl_all, y_pl_all):
+        # get rid of balauri
+        sg = sg.strip()
+        pl = pl.strip()
+        if not (pl.endswith('uri') and sg.endswith('ur')):
+            X_sg.append(sg)
+            y_sg.append(this_y_sg)
+            X_pl.append(pl)
+            y_pl.append(this_y_pl)
+    X_sg = np.array(X_sg)
+    y_sg = np.array(y_sg)
+    X_pl = np.array(X_pl)
+    y_pl = np.array(y_pl)
     X_sg_p, v_sg = preprocess.preprocess_data(X_sg, suffix='$', n=5,
                                               return_vect=True, binarize=False)
     X_pl_p, v_pl = preprocess.preprocess_data(X_pl, suffix='$', n=5,
@@ -21,13 +34,23 @@ if __name__ == '__main__':
         clf = cPickle.load(pkl)
         pkl.close()
     except IOError:
-        clf = LinearSVC(C=0.1, scale_C=False).fit(X_sg_p, y_sg)
+        clf = LinearSVC(C=0.1).fit(X_sg_p, y_sg)
         sg_model = open('svc_sg.pkl', 'wb')
         cPickle.dump(clf, sg_model)
         sg_model.close()
 
     print 'Loading neutral data...'
     X_sg_n_clean = preprocess.load_data('singular_n.txt', labels=False)
+    X_pl_n_clean = preprocess.load_data('plural_n.txt', labels=False)
+    #X_sg_n_clean, X_pl_n_clean = [], []
+    #for sg, pl in zip(X_sg_n_all, X_pl_n_all):
+    #    sg = sg.strip()
+    #    pl = pl.strip()
+    #    if pl.endswith('i') and not pl.endswith('uri'):
+    #        X_sg_n_clean.append(sg)
+    #        X_pl_n_clean.append(pl)
+    #X_sg_n_clean = np.array(X_sg_n_clean)
+    #X_pl_n_clean = np.array(X_pl_n_clean)
     #X_sg_n = Binarizer(copy=False).transform(v_sg.transform(X_sg_n_clean))
     X_sg_n = v_sg.transform(X_sg_n_clean)
 
@@ -43,13 +66,12 @@ if __name__ == '__main__':
     except IOError:
         weights = [x.strip().endswith("uri") for x in X_pl]
         weights = 1 + np.array(weights, dtype=np.float)
-        clf = LinearSVC(C=0.1, scale_C=False)
+        clf = LinearSVC(C=0.1)
         clf.fit(X_pl_p, y_pl)
         pl_model = open('svc_pl.pkl', 'wb')
         cPickle.dump(clf, pl_model)
         pl_model.close()
     print 'Loading neutral data...'
-    X_pl_n_clean = preprocess.load_data('plural_n.txt', labels=False)
     #X_pl_n = Binarizer(copy=False).transform(v_pl.transform(X_pl_n_clean))
     X_pl_n = v_pl.transform(X_pl_n_clean)
     print 'Predicting...'
