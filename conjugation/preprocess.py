@@ -23,7 +23,7 @@ class SimplePreprocessor(object):
 
     def preprocess(self, unicode_text):
         return unicode(unicode_text.strip().lower() + self.suffix)
-        
+
     def __init__(self, suffix=''):
         self.suffix = suffix
 

@@ -1,0 +1,144 @@
+Am folosit același model antrenat pe toate substantivele, salvat dinainte
+și am evaluat doar pe subsetul care se termină în -i dar nu în -uri
+===============
+
+Stored singular model found, loading...
+Loading neutral data...
+Predicting...
+0.991071428571
+Stored plural model found, loading...
+Loading neutral data...
+Predicting...
+0.666666666667
+.	f	m
+m	222	111
+f	2	1
+.	f	m
+m	0.6607	0.3304
+f	0.0060	0.0030
+Words completely misclassified:
+bageacă / bageci
+
+
+
+Words with misclassified singular:
+exuvie / exuvii
+depliere / deplieri
+
+
+
+Words with misclassified plural:
+fertilizator / fertilizatori
+algoritm / algoritmi
+milioersted / milioerstezi
+portchei / portchei
+cvadrilion / cvadrilioni
+oligist / oligişti
+arbănaş / arbănaşi
+blocant / blocanţi
+rizotom / rizotomi
+liofilizator / liofilizatori
+mamon / mamoni
+antijivrant / antijivranţi
+lăor / lăori
+cathartic / cathartici
+landenian / landenieni
+focalizator / focalizatori
+azotobacterian / azotobacterieni
+buburuz / buburuzi
+acumulator / acumulatori
+cocleţ / cocleţi
+parascântei / parascântei
+microparazit / microparaziţi
+naufragiu / naufragii
+sacrilegiu / sacrilegii
+copil / copili
+intermezzo / intermezzi
+copolimer / copolimeri
+sufragiu / sufragii
+stagiu / stagii
+caracterograf / caracterografi
+perlofil / perlofili
+cvadruplet / cvadrupleţi
+omagiu / omagii
+antivirus / antiviruşi
+greabăn / grebeni
+fleuron / fleuroni
+cuplor / cuplori
+acetofan / acetofani
+miez / miezi
+fenian / fenieni
+gătejel / gătejei
+tuşier / tuşieri
+tehnocrat / tehnocraţi
+presurizator / presurizatori
+prodigiu / prodigii
+fitohormon / fitohormoni
+oment / omenţi
+antigen / antigeni
+mucilagiu / mucilagii
+atomal / atomali
+clon / cloni
+caşerat / caşeraţi
+condac / condaci
+canaf / canafi
+tabloid / tabloizi
+feromon / feromoni
+algicid / algicizi
+goniograf / goniografi
+mascon / masconi
+calutron / calutroni
+colegiu / colegii
+mihrab / mihrabi
+leşnic / leşnici
+genom / genomi
+lactofermentator / lactofermentatori
+humerus / humeruşi
+carcinotron / carcinotroni
+dalton / daltoni
+diluat / diluaţi
+caş / caşi
+indol / indoli
+canceroid / canceroizi
+afixoid / afixoizi
+varec / vareci
+ravagiu / ravagii
+permisionar / permisionari
+antielectron / antielectroni
+haplobiont / haplobionţi
+ulişor / ulişori
+elativ / elativi
+dixtuor / dixtuori
+samson / samsoni
+dopant / dopanţi
+bionist / bionişti
+câmp / câmpi
+adagiu / adagii
+alograf / alografi
+labrador / labradori
+deodorant / deodoranţi
+cocoloş / cocoloşi
+compensator / compensatori
+alonim / alonimi
+cavicorn / cavicorni
+martirologiu / martirologii
+radiosextant / radiosextanţi
+bariotrop / bariotropi
+seriograf / seriografi
+miniordinator / miniordinatori
+caulicul / cauliculi
+antidetonant / antidetonanţi
+gânj / gânji
+peloid / peloizi
+hipotalamus / hipotalamuşi
+scenonim / scenonimi
+normotip / normotipi
+tasator / tasatori
+repartizator / repartizatori
+ectofit / ectofiţi
+polichet / policheţi
+fermenticid / fermenticizi
+legatar / legatari
+Dashes in misclassified sg: 0
+Dashes in misclassified pl: 0
+-uri plurals: correct 0, incorrect 0
