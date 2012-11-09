@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding="utf-8"?>
+<body>
+<form w="a" obs=""> a</form>
+<form w="aaa" obs=""> a-a-a</form>
+<form w="aalenian" obs=""> a-a-le-ni-&#225;n</form>
+<form w="aalenian&#259;" obs=""> a-a-le-ni-&#225;-n&#259;</form>
+<form w="aaleniene" obs=""> a-a-le-ni-&#233;-ne</form>
+<form w="aalenieni" obs=""> a-a-le-ni-&#233;ni</form>
+<form w="aba" obs=""> a-b&#225;</form>
+<form w="abac" obs=""> a-b&#225;c</form>
+</body>
