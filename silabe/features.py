@@ -1,11 +1,14 @@
 # -*- encoding: utf8 -*-
 
-from lxml import etree
 import codecs
-import random
+import sys
+
+from lxml import etree
 
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.pipeline import Pipeline, FeatureUnion
+from sklearn.linear_model import SGDClassifier
+from sklearn.grid_search import GridSearchCV
 
 
 def all_splits(string_, separator='-'):
@@ -20,13 +23,9 @@ def all_splits(string_, separator='-'):
             yield (left, right, char_ == separator)
 
 
-def syllabifications(source='silabe.xml', subsample=1):
-    if subsample < 1:
-        random.seed(0)
+def syllabifications(source='silabe.xml'):
     ctx = etree.iterparse(source, tag='form')
     for k, (_, elem) in enumerate(ctx):
-        if subsample < 1 and random.random() > subsample:
-            continue
         yield elem.get('w'), elem.text
         elem.clear()
         while elem.getprevious() is not None:
@@ -44,13 +43,18 @@ def length_stats():
     return char_lengths, syl_lengths
 
 
-def training_instances():
-    for _, syl in syllabifications():
+def training_instances(source='silabe.train.xml'):
+    for _, syl in syllabifications(source):
         for left, right, label in all_splits(syl.strip()):
             yield unicode(left), unicode(right), label
 
 
-def get_preprocessor(column, size, terminator):
+def shaped_instances(source='silabe.train.xml'):
+    k = (((l, r), label) for (l, r, label) in training_instances(source))
+    return map(list, zip(*k))
+
+
+def get_preprocessor(column, size, terminator=''):
     def strip_accents_leave_diacritics(line):
         line = line[column]
         if column == 0:
@@ -91,47 +95,78 @@ def stratified_train_test_split():
         for instance in test:
             print >> test_file, "%s,%s,%s" % instance
 
+
 class ProjectionVectorizer(CountVectorizer):
     def __init__(self, column, binary=False, size=3, terminator='$'):
+        self.column = column
+        self.size = size
+        self.terminator = terminator
         CountVectorizer.__init__(self,
-                                 preprocessor=get_preprocessor(column, size,
-                                                               terminator),
+                                 preprocessor=get_preprocessor(self.column,
+                                                               self.size,
+                                                               self.terminator),
                                  ngram_range=(1, size),
                                  analyzer='char',
                                  binary=binary)
 
-#    def fit_transform(self, documents):
-#        return CountVectorizer.fit_transform(self,
-#                                             ifilter(lambda x: x[self.column],
-#                                                     documents))
+    def set_params(self, **kwargs):
+        CountVectorizer.set_params(self, **kwargs)
+        CountVectorizer.__init__(self,
+                                 preprocessor=get_preprocessor(self.column,
+                                                               self.size,
+                                                               self.terminator),
+                                 ngram_range=(1, self.size),
+                                 analyzer='char',
+                                 binary=self.binary)
+
+
+class HomogeneousFeatureUnion(FeatureUnion):
+    def set_params(self, **params):
+        for key, value in params.iteritems():
+            for _, transf in self.transformer_list:
+                transf.set_params(**{key: value})
 
 
 def skl_features():
     from time import time
-    vectorizer = FeatureUnion([('left', ProjectionVectorizer(column=0)),
-                               ('right', ProjectionVectorizer(column=1))])
+    vectorizer = HomogeneousFeatureUnion(
+        [('left', ProjectionVectorizer(column=0)),
+         ('right', ProjectionVectorizer(column=1))])
+    pipe = Pipeline(
+        [('vect', vectorizer),
+         #('clf', LinearSVC())
+         ('clf', SGDClassifier(n_jobs=2))
+         ])
+    grid = GridSearchCV(pipe, {
+        'vect__size': range(1, 4 + 1),
+        'vect__terminator': (u'$', u''),
+        'clf__alpha': (1e-8, 1e-7, 1e-6, 1e-5, 1e-4)  # (0.00001, 0.0001, 0.001)
+    }, cv=3, refit=True, verbose=2)
     print 'Loading data...'
     t0 = time()
-    data = list(training_instances())
+    data, y = shaped_instances()
     print 'done in %2.2f' % (time() - t0)
     print 'Fitting...'
     t0 = time()
-    vectorizer.fit(data)
+    grid.fit(data, y)
     print 'done in %2.2f' % (time() - t0)
-    print 'Transforming...'
-    return vectorizer.transform(data)
-    print 'done in %2.2f' % (time() - t0)
+    return grid
 
 
-def crfsuite_feature_names(size=3, negative=False):
+def crfsuite_feature_names(size=4, negative=False):
     indices = range(-size, 0) if negative else range(1, size + 1)
     indices = map(str, indices)
     return '\t'.join(['c[%s]=%%s' % ''.join(indices[i:(i + k + 1)])
-                    for k in range(size)
-                    for i in range(size - k)])
+                      for k in range(size)
+                      for i in range(size - k)])
 
 
-def crfsuite_features(size=3):
+def crfsuite_features(source='silabe.train.xml', size=3, outfile=None):
+    """Use sklearn vectorizers to build a crfsuite input file"""
+    # build an appropriate file name
+    if outfile is None:
+        filename, _ = source.rsplit('.', 1)
+        outfile = '.'.join((filename, 'crfsuite', str(size), 'txt'))
     left_tpl = [crfsuite_feature_names(k, True) for k in xrange(1, size + 1)]
     right_tpl = [crfsuite_feature_names(k, False) for k in xrange(1, size + 1)]
     left_analyzer = ProjectionVectorizer(column=0, size=size, terminator=''
@@ -140,8 +175,15 @@ def crfsuite_features(size=3):
     right_analyzer = ProjectionVectorizer(column=1, size=size, terminator=''
                                           ).build_analyzer()
 
-    outfile = codecs.open('crfsuite.all.%d.txt' % size, 'w', encoding='utf8')
-    for _, syl in syllabifications():
+    outfile = codecs.open(outfile, 'w', encoding='utf8')
+    for ii, (_, syl) in enumerate(syllabifications()):
+        if ii % 50000 == 0:
+            sys.stdout.write(str(ii / 50000))
+            sys.stdout.flush()
+        elif ii % 1000 == 0:
+            sys.stdout.write('.')
+            sys.stdout.flush()
+
         for left, right, label in all_splits(syl.strip()):
             left = unicode(left)
             right = unicode(right)
@@ -155,7 +197,15 @@ def crfsuite_features(size=3):
     outfile.close()
 
 if __name__ == '__main__':
-#    outfile = codecs.open('svm_text.csv', 'w', encoding='utf8')
-#    for left, right, label in training_instances():
-#        print >> outfile, '%s,%s,%d' % (left, right, label)
-    crfsuite_features()
+    if sys.argv[1] == 'crfsuite':
+        crfsuite_features('silabe.%s.xml' % sys.argv[2], int(sys.argv[3]))
+    elif sys.argv[1] == 'sklearn':
+        from sklearn.externals.joblib import dump
+        grid = skl_features()
+        f = open('sgd_full_results.txt', 'w')
+        print >> f, grid.grid_scores_, grid.best_params_, grid.best_score_
+        f.close()
+        print 'Testing...'
+        test_data, y_true = shaped_instances('silabe.test.xml')
+        y_pred = grid.best_estimator_.predict(test_data)
+        dump(y_pred, 'sgd_y_pred')
