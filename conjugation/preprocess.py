@@ -9,8 +9,7 @@ Created on Wed Apr 13 18:13:21 2011
 @author: vene
 """
 
-from sklearn.feature_extraction.text import CharNGramAnalyzer, \
-                                            CountVectorizer
+from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.preprocessing import Binarizer
 from sklearn.pipeline import Pipeline
 from sklearn import naive_bayes
@@ -18,21 +17,29 @@ import codecs
 
 import numpy as np
 
-class SimplePreprocessor(object):
-    """Simple text preprocessor that doesn't strip diacritics"""
 
-    def preprocess(self, unicode_text):
-        return unicode(unicode_text.strip().lower() + self.suffix)
+def get_preprocessor(suffix=''):
+    def preprocess(unicode_text):
+        return unicode(unicode_text.strip().lower() + suffix)
+    return preprocess
 
-    def __init__(self, suffix=''):
-        self.suffix = suffix
+
+#class SimplePreprocessor(object):
+###    """Simple text preprocessor that doesn't strip diacritics"""
+#
+#    def preprocess(self, unicode_text):
+#        return unicode(unicode_text.strip().lower() + self.suffix)
+#
+#    def __init__(self, suffix=''):
+#        self.suffix = suffix
 
 
 def get_clf(n=3, binarize=True, clf=None, suffix=''):
     """Builds a pipeline classifier"""
 
-    steps = [('vectorizer', CountVectorizer(CharNGramAnalyzer(min_n=1, max_n=n,
-                                    preprocessor=SimplePreprocessor(suffix))))]
+    steps = [('vectorizer', CountVectorizer(
+             analyzer='char', ngram_range=(1, n),
+             preprocessor=get_preprocessor(suffix)))]
     if binarize:
         steps.append(('binarizer', Binarizer(copy=False)))
         if not clf:
@@ -55,8 +62,8 @@ def load_data(filename='inf-ta-labeled.txt'):
 
 
 def preprocess_data(X, n, suffix='', binarize=True):
-    vectorizer = CountVectorizer(CharNGramAnalyzer(min_n=1, max_n=n,
-                                 preprocessor=SimplePreprocessor(suffix)))
+    vectorizer = CountVectorizer(analyzer='char', ngram_range=(1, n),
+                                 preprocessor=get_preprocessor(suffix))
     X = vectorizer.fit_transform(X)
     X = Binarizer(copy=False).fit_transform(X) if binarize else X
     return X

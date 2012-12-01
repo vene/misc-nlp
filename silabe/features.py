@@ -30,15 +30,19 @@ def get_preprocessor(column, size, terminator=''):
 
 
 def all_splits(string_, separator='-'):
+    last_sep = 0
     for k, char_ in enumerate(string_):
         if k == 0:
             continue
         elif string_[k - 1] == separator:
+            last_sep = k
             continue
         else:
+            if char_ == separator:
+                last_sep = k
             left = string_[:k].replace(separator, '')
             right = string_[k:].replace(separator, '')
-            yield (left, right, char_ == separator)
+            yield (left, right, k - last_sep)
 
 
 def syllabifications(source='silabe.xml'):
@@ -154,7 +158,7 @@ def skl_features():
     pipe = Pipeline(
         [('vect', vectorizer),
          #('clf', LinearSVC())
-         ('clf', SGDClassifier(n_jobs=2))
+         ('clf', SGDClassifier(n_jobs=4))
          ])
     grid = GridSearchCV(pipe, {
         'vect__size': range(1, 4 + 1),
