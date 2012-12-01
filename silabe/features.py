@@ -11,6 +11,24 @@ from sklearn.linear_model import SGDClassifier
 from sklearn.grid_search import GridSearchCV
 
 
+def strip_accents_leave_diacritics(line):
+    source_chars, target_chars = u'á÷äéíďóöú', u'aâăeiîoou'
+    table = dict((ord(s), t) for s, t in zip(source_chars, target_chars))
+    table[769] = None  # appropriate encoding
+    return line.translate(table)
+
+
+def get_preprocessor(column, size, terminator=''):
+    def preprocess(line):
+        line = line[column]
+        if column == 0:
+            line = line[-size:] + terminator
+        else:
+            line = terminator + line[:size]
+        return strip_accents_leave_diacritics(line)
+    return preprocess
+
+
 def all_splits(string_, separator='-'):
     for k, char_ in enumerate(string_):
         if k == 0:
@@ -26,7 +44,8 @@ def all_splits(string_, separator='-'):
 def syllabifications(source='silabe.xml'):
     ctx = etree.iterparse(source, tag='form')
     for k, (_, elem) in enumerate(ctx):
-        yield elem.get('w'), elem.text
+        yield (unicode(elem.get('w')),
+               strip_accents_leave_diacritics(unicode(elem.text)))
         elem.clear()
         while elem.getprevious() is not None:
             del elem.getparent()[0]
@@ -46,25 +65,25 @@ def length_stats():
 def training_instances(source='silabe.train.xml'):
     for _, syl in syllabifications(source):
         for left, right, label in all_splits(syl.strip()):
-            yield unicode(left), unicode(right), label
+            yield left, right, label
 
+
+def rulebased_score(source='silabe.train.xml'):
+    from rulebased import syll
+    k = 0
+    n = 0
+    for word, syl in syllabifications(source):
+        n += 1
+        s1 = syll(u''.join(k for k in syl.strip() if k != '-'))
+        if s1 == syl.strip():
+            k += 1
+        for _, _, label in all_splits(s1):
+            yield label
+    print k / float(n)
 
 def shaped_instances(source='silabe.train.xml'):
     k = (((l, r), label) for (l, r, label) in training_instances(source))
     return map(list, zip(*k))
-
-
-def get_preprocessor(column, size, terminator=''):
-    def strip_accents_leave_diacritics(line):
-        line = line[column]
-        if column == 0:
-            line = line[-size:] + terminator
-        else:
-            line = terminator + line[:size]
-        source_chars, target_chars = u'á÷äéíďóöú', u'aâăeiîoou'
-        table = dict((ord(s), t) for s, t in zip(source_chars, target_chars))
-        return line.translate(table)
-    return strip_accents_leave_diacritics
 
 
 def stratified_train_test_split():
