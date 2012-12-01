@@ -1,0 +1,19 @@
+n [12]: print classification_report(y_true, y_pred)
+             precision    recall  f1-score   support
+
+          0       0.99      0.99      0.99   1501563
+          1       0.98      0.98      0.98    851815
+
+avg / total       0.99      0.99      0.99   2353378
+
+
+In [13]: print confusion_matrix?
+
+In [14]: print confusion_matrix(y_true, y_pred)
+[[1485797   15766]
+ [  14194  837621]]
+
+In [15]: np.mean(y_pred == y_true)
+Out[15]: 0.98726936344267691
+
+In [16]

@@ -1,0 +1,42 @@
+
+In [32]: print classification_report(y, y_pred)
+             precision    recall  f1-score   support
+
+          0       0.99      0.99      0.99   1501563
+          1       0.98      0.98      0.98    851815
+
+avg / total       0.99      0.99      0.99   2353378
+
+
+In [33]: print confusion_matrix(y, y_pred)
+[[1482978   18585]
+ [  14099  837716]]
+
+In [34]: print np.mean(y == y_pred)
+0.98611187833
+
+pt alpha mai mari:
+
+
+
+In [18]: print np.mean(y == y_pred)
+0.79911386951
+
+In [19]: from sklearn.metrics import classification_report, confusion_matrix
+
+In [20]: print class
+class                  classification_report  classmethod
+
+In [20]: print classification_report(y, y_pred)
+             precision    recall  f1-score   support
+
+          0       0.79      0.93      0.86   1501563
+          1       0.82      0.57      0.67    851815
+
+avg / total       0.80      0.80      0.79   2353378
+
+
+In [21]: print confusion_matrix(y, y_pred)
+[[1398782  102781]
+ [ 369980  481835]]
+
