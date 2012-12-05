@@ -35,12 +35,20 @@ def all_or_nothing_score(y_true, y_pred, groups=None):
 def all_or_nothing_contig(y_true, y_pred, groups):
     matches = 0
     n_groups = 0
+    trans_mat = np.zeros((8, 8))
     is_good = False
+    prev_y = None
     for k, (this_y_true, this_y_pred) in enumerate(zip(y_true, y_pred)):
         if groups[k] != groups[k - 1]:
             n_groups += 1
             matches += is_good
             is_good = True
-        if this_y_true != this_y_pred:
-            is_good = False
-    return matches / n_groups
+            prev_y = None
+        else:
+            if prev_y is not None:
+                trans_mat[int(prev_y), int(this_y_pred)] += 1
+            if this_y_true != this_y_pred:
+                is_good = False
+            prev_y = this_y_pred
+    return trans_mat
+    #return matches * 1.0 / n_groups

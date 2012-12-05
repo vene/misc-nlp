@@ -224,11 +224,22 @@ if __name__ == '__main__':
         crfsuite_features('silabe.%s.xml' % sys.argv[2], int(sys.argv[3]))
     elif sys.argv[1] == 'sklearn':
         from sklearn.externals.joblib import dump
-        grid = skl_features()
-        f = open('sgd_full_results.txt', 'w')
-        print >> f, grid.grid_scores_, grid.best_params_, grid.best_score_
-        f.close()
+        print 'Training...'
+        vectorizer = HomogeneousFeatureUnion(
+            [('left', ProjectionVectorizer(column=0)),
+             ('right', ProjectionVectorizer(column=1))]
+        )
+        vectorizer.set_params(terminator=u'$', size=4)
+        pipe = Pipeline(
+            [('vect', vectorizer),
+             ('clf', SGDClassifier(n_jobs=4, alpha=1e-6))]
+        )
+        train_data, y_train = shaped_instances('silabe.train.xml')
+        pipe.fit(train_data, y_train)
+        #f = open('sgd_full_results_nb.txt', 'w')
+        #print >> f, grid.grid_scores_, grid.best_params_, grid.best_score_
+        #f.close()
         print 'Testing...'
         test_data, y_true = shaped_instances('silabe.test.xml')
-        y_pred = grid.best_estimator_.predict(test_data)
-        dump(y_pred, 'sgd_y_pred')
+        y_pred = pipe.predict(test_data)
+        dump(y_pred, 'sgd_y_pred_nb')

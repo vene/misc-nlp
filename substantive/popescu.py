@@ -22,7 +22,7 @@ if __name__ == '__main__':
 
     X_train, y_train = X_sg[train_split], y_sg[train_split]
     X_test, y_test = X_sg[test_split], y_sg[train_split]
-
+    raise Exception
     scores = np.empty((5, 2, 2))
     best_C = np.empty((5, 2, 2))
     vectorizers = np.empty((5, 2, 2), dtype=np.object)
@@ -33,7 +33,7 @@ if __name__ == '__main__':
                                                        n=n, return_vect=True,
                                                        binarize=binarize)
 
-                grid = GridSearchCV(LinearSVC(scale_C=False), n_jobs=-1,
+                grid = GridSearchCV(LinearSVC(), n_jobs=-1,
                                     verbose=True,
                                     param_grid={'C': np.logspace(-2, 2, 5)},
                                     cv=StratifiedKFold(y_train, 10))
@@ -44,7 +44,7 @@ if __name__ == '__main__':
                 vectorizers[i, j, k] = vect
 
 
-# We also applied our character n-gram feature extraction method in a similar 
+# We also applied our character n-gram feature extraction method in a similar
 # way as (popescu cite) in order to give a clearer picture of the differences
 # between the methods. Specifically, we took only the singulars and joined
 # the masculine, feminine and neuters together to form a corpus of 30,308
@@ -53,7 +53,7 @@ if __name__ == '__main__':
 # set in order to choose the best model parameters from a grid, ultimately
 # deciding on 6-grams with the dollar suffix and with binarization, while
 # setting $C=0.01$. We then fit this classifier using the entire training set,
-# and its behaviour on the held-out test set is given in table #REF#. 
+# and its behaviour on the held-out test set is given in table #REF#.
 #
 # Note that this is by no means a global optimum, 6 being the largest n-gram
 # size within the parameter grid. But because this is not a main point of our
