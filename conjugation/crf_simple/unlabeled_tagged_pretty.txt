@@ -1,0 +1,1356 @@
+probability	0.999958
+0 0 0 0 0 0 0 0 T6
+î n t r e t ă i  a 
+
+probability	0.999999
+0 0 0 0 0 0 0 T5
+r e b o t e z  a 
+
+probability	0.999529
+0 0 0 0 0 0 0 T12
+c o n s i m ţ   i 
+
+probability	0.605312
+0 0 0 0 0 0 t0 T8
+c u n o a ş  t  e 
+
+probability	0.999996
+0 0 0 0 0 0 0 T12
+d e z m i n ţ   i 
+
+probability	0.988167
+0 0 0 0 T7
+c ă s c  a 
+
+probability	0.608511
+0 0 0 0 T5
+p u t e  a 
+
+probability	0.991239
+0 0 0 0 T5
+z b u r  a 
+
+probability	0.966369
+0 0 0 0 T7
+r i s c  a 
+
+probability	0.998441
+0 0 0 0 0 0 T7
+e x p u r g  a 
+
+probability	0.999981
+0 0 0 0 T13
+ş i r o   i 
+
+probability	0.998346
+0 0 0 0 0 T1
+d e n e g  a 
+
+probability	1.000000
+0 0 0 0 T5
+v ă r s  a 
+
+probability	0.998912
+0 0 0 0 0 0 0 0 T6
+d e s c o v o i  a 
+
+probability	0.998284
+0 0 0 0 0 0 0 0 d0 T8
+t r a n s c e n  d  e 
+
+probability	0.999619
+0 0 0 0 0 0 0 0 0 T8
+r e î n t o a r c  e 
+
+probability	0.996454
+0 0 0 T14
+v â r   ď 
+
+probability	0.999868
+0 0 0 0 T5
+c h e m  a 
+
+probability	0.999868
+0 0 0 0 0 0 T5
+r e c h e m  a 
+
+probability	1.000000
+0 0 0 0 T5
+r e n t  a 
+
+probability	0.999934
+0 0 0 0 0 0 T1
+f e r m e c  a 
+
+probability	0.999978
+0 0 0 0 0 T12
+p r e ş t   i 
+
+probability	0.999988
+0 0 0 0 0 0 T12
+s l o b o z   i 
+
+probability	0.999997
+0 0 0 0 0 0 T12
+p r o v e n   i 
+
+probability	0.998278
+0 0 0 T7
+t o c  a 
+
+probability	0.999998
+0 0 0 0 0 T5
+z b u r d  a 
+
+probability	0.999999
+0 0 0 0 0 T5
+r e t e z  a 
+
+probability	0.995532
+0 0 0 0 0 T1
+î n f o c  a 
+
+probability	1.000000
+0 0 0 0 0 0 0 T5
+s u s p e n d  a 
+
+probability	1.000000
+0 0 0 0 0 T5
+a b u n d  a 
+
+probability	0.999997
+0 0 0 0 0 0 T12
+c o n v e n   i 
+
+probability	0.965595
+0 0 0 0 0 T1
+v ă i e r  a 
+
+probability	0.999430
+0 0 0 0 0 0 0 0 T5
+r e p e r c u t  a 
+
+probability	0.499811
+0 0 0 0 0 0 T1
+d e z m ă ţ  a 
+
+probability	0.963327
+0 0 0 0 0 T5
+î n s u r  a 
+
+probability	0.999997
+0 0 0 0 0 0 T12
+î n f u r c   i 
+
+probability	1.000000
+0 0 0 0 0 T5
+r ă g i l  a 
+
+probability	0.905283
+0 0 0 0 0 T5
+î n h ă ţ  a 
+
+probability	0.999997
+0 0 0 0 0 0 T12
+s u r v e n   i 
+
+probability	1.000000
+0 0 0 T5
+p ă s  a 
+
+probability	0.717166
+0 0 0 0 T13 T1
+î n m u   i  a 
+
+probability	0.999967
+0 0 0 0 0 T5
+î n ţ e p  a 
+
+probability	0.999997
+0 0 0 0 0 T12
+c u v e n   i 
+
+probability	0.965595
+0 0 0 0 0 0 0 0 T1
+d e s c ă i e r  a 
+
+probability	0.999619
+0 0 0 0 0 0 0 0 T8
+d e s t o a r c  e 
+
+probability	0.979522
+0 0 0 0 0 0 T5
+d e z b ă r  a 
+
+probability	1.000000
+0 0 0 0 0 T5
+d e ş e l  a 
+
+probability	0.999877
+0 0 0 0 0 T13
+d e z d o   i 
+
+probability	0.999998
+0 0 0 0 0 0 0 T5
+d e z g r o p  a 
+
+probability	0.999999
+0 0 0 0 0 T5
+v ă t ă m  a 
+
+probability	0.999994
+0 0 0 0 0 0 T5
+î n t r e b  a 
+
+probability	0.999997
+0 0 0 0 0 T12
+d e v e n   i 
+
+probability	1.000000
+0 0 0 0 0 0 T5
+c o m â n d  a 
+
+probability	0.999349
+0 0 0 0 0 T1
+d e j u c  a 
+
+probability	1.000000
+0 0 0 0 0 0 0 T12
+s p r i j i n   i 
+
+probability	1.000000
+0 0 0 T5
+d e d  a 
+
+probability	0.999999
+0 0 0 0 0 0 T5
+î n g r o ş  a 
+
+probability	0.999993
+0 0 0 0 0 0 0 T5
+d e z g h e ţ  a 
+
+probability	0.987414
+0 0 0 0 0 0 0 0 0 0 T7
+a u t o d e m a s c  a 
+
+probability	1.000000
+0 0 0 0 0 0 T5
+n e c h e z  a 
+
+probability	1.000000
+0 0 0 0 0 T5
+r e z i d  a 
+
+probability	1.000000
+0 0 0 0 0 0 0 T5
+î n f ă ş u r  a 
+
+probability	0.983131
+0 0 0 0 0 0 T5
+d e z v ă ţ  a 
+
+probability	0.999873
+0 0 0 0 0 T5
+p r e l u  a 
+
+probability	0.999993
+0 0 0 0 0 T12
+î m p u ţ   i 
+
+probability	0.991308
+0 0 0 0 0 T1
+a d ă u g  a 
+
+probability	0.609424
+0 0 0 0 0 0 0 0 T7
+d e z g h i o c  a 
+
+probability	0.999995
+0 0 T12
+ş t   i 
+
+probability	1.000000
+0 0 0 0 0 0 T13
+z g â m b o   i 
+
+probability	0.999999
+0 0 0 0 0 T5
+î n n o d  a 
+
+probability	0.999994
+0 0 0 0 0 0 0 0 T12
+r e î m p ă r ţ   i 
+
+probability	0.999998
+0 0 0 0 0 0 T5
+î m b u r d  a 
+
+probability	0.999921
+0 0 0 0 0 T13
+t r e b u   i 
+
+probability	0.774298
+0 0 0 T6
+m u i  a 
+
+probability	0.999999
+0 0 0 0 0 0 T5
+î n d e m n  a 
+
+probability	0.949484
+0 0 0 0 T5
+s i n u  a 
+
+probability	0.999997
+0 0 0 0 0 0 T12
+p a r v e n   i 
+
+probability	1.000000
+0 0 0 0 0 T5
+d e p ă n  a 
+
+probability	0.690999
+0 0 0 0 0 0 T1
+d e s f ă ţ  a 
+
+probability	0.999999
+0 0 0 0 0 T1
+b ă l i g  a 
+
+probability	0.999999
+0 0 0 0 0 0 T5
+d e s h ă m  a 
+
+probability	0.839264
+0 0 0 T16 T16
+d u r   e   a 
+
+probability	0.999969
+0 0 0 T12
+m u r   i 
+
+probability	0.999990
+0 0 0 d0 T8
+r o a  d  e 
+
+probability	0.999916
+0 0 0 0 0 0 0 T1
+t r i f u r c  a 
+
+probability	0.975800
+0 0 0 0 0 T5
+î n ă l ţ  a 
+
+probability	1.000000
+0 0 0 0 T5
+p r e d  a 
+
+probability	1.000000
+0 0 0 0 0 T12
+m i r o s   i 
+
+probability	0.999994
+0 0 0 0 0 0 0 0 T6
+s e n t e n ţ i  a 
+
+probability	0.999954
+0 0 0 0 T5
+s c u l  a 
+
+probability	0.956964
+0 0 0 0 t0 T8
+s c o a  t  e 
+
+probability	0.999349
+0 0 0 T1
+j u c  a 
+
+probability	0.999984
+0 0 0 0 0 T5
+a d ă s t  a 
+
+probability	0.999975
+0 0 0 0 0 T12
+r e p e z   i 
+
+probability	0.999997
+0 0 0 0 T5
+s p ă l  a 
+
+probability	0.965595
+0 0 0 0 0 0 0 0 T1
+d e z b ă i e r  a 
+
+probability	0.999958
+0 T5
+d  a 
+
+probability	0.999954
+0 0 0 0 0 0 0 T1
+d e s c ă l c  a 
+
+probability	0.999994
+0 0 0 0 T12
+b ă u n   i 
+
+probability	0.999993
+0 0 0 T12
+p u ţ   i 
+
+probability	0.999980
+0 0 0 0 0 0 T12
+t r e s ă r   i 
+
+probability	0.999999
+0 0 0 0 0 0 0 T1
+î n c ă l e c  a 
+
+probability	1.000000
+0 0 0 0 0 0 0 T5
+c o n c o r d  a 
+
+probability	0.991434
+0 0 0 0 0 T12
+a d o r m   i 
+
+probability	0.998527
+0 0 0 0 0 T5
+c o c o ţ  a 
+
+probability	1.000000
+0 0 0 0 0 0 0 0 0 T5
+r ă s c r ă c ă n  a 
+
+probability	0.986102
+0 0 0 0 0 T5
+r e z e m  a 
+
+probability	0.998832
+0 0 0 0 0 T1
+a l e r g  a 
+
+probability	0.999979
+0 0 0 0 0 T12
+n ă b u ş   i 
+
+probability	0.959167
+0 0 0 0 0 0 0 0 T1
+î n t r o l o c  a 
+
+probability	0.999994
+0 0 0 0 0 0 0 0 T1
+r e c o n v o c  a 
+
+probability	1.000000
+0 0 0 0 0 T5
+i n u n d  a 
+
+probability	0.989353
+0 0 0 0 T13
+j u p u   i 
+
+probability	1.000000
+0 0 0 0 0 T5
+d e l ă s  a 
+
+probability	0.991434
+0 0 0 0 T12
+d o r m   i 
+
+probability	1.000000
+0 0 0 0 0 0 0 0 T5
+r e c o m a n d  a 
+
+probability	1.000000
+0 0 0 0 0 0 T5
+a s e m ă n  a 
+
+probability	0.999999
+0 0 0 0 0 T5
+î n d o p  a 
+
+probability	0.999784
+0 0 0 0 0 0 T6
+d e s t o i  a 
+
+probability	0.999983
+0 0 0 0 0 0 0 0 T12
+z d r o n c ă n   i 
+
+probability	0.991434
+0 0 0 0 0 0 0 T12
+r e a d o r m   i 
+
+probability	0.999529
+0 0 0 0 T12
+s i m ţ   i 
+
+probability	0.999994
+0 0 0 0 0 0 T12
+î m p ă r ţ   i 
+
+probability	0.999999
+0 0 0 0 0 T5
+b o t e z  a 
+
+probability	0.716854
+0 0 0 0 0 T1
+r e l e v  a 
+
+probability	0.999619
+0 0 0 0 0 0 0 T8
+î n t o a r c  e 
+
+probability	0.999997
+0 0 0 0 0 0 0 T12
+r e d e v e n   i 
+
+probability	0.999999
+0 0 0 0 0 T5
+î n h ă m  a 
+
+probability	0.963327
+0 0 0 0 0 0 0 0 T5
+î m p r e s u r  a 
+
+probability	0.999999
+0 0 0 0 0 T12
+d i f e r   i 
+
+probability	0.993587
+0 T12
+f   i 
+
+probability	0.999997
+0 0 0 0 0 0 0 0 T12
+i n t e r v e n   i 
+
+probability	0.999984
+0 0 0 0 0 T5
+î n h ă p  a 
+
+probability	0.998912
+0 0 0 0 0 0 0 T6
+î n c o v o i  a 
+
+probability	0.999987
+0 0 T5
+s t  a 
+
+probability	0.999997
+0 0 0 0 0 0 T12
+p r e v e n   i 
+
+probability	0.999994
+0 0 0 0 0 0 T5
+z m ă c i n  a 
+
+probability	0.999995
+0 0 0 0 0 T12
+r ă s ş t   i 
+
+probability	0.992878
+0 0 0 0 0 T5
+c ă ţ ă r  a 
+
+probability	0.616010
+0 e3 d0 T8 T8
+ş  e  d  e  a 
+
+probability	1.000000
+0 0 0 0 0 0 0 0 0 0 T5
+t e l e c o m a n d  a 
+
+probability	0.670529
+0 0 0 T5
+v r e  a 
+
+probability	1.000000
+0 0 0 0 0 0 T5
+s u c c e d  a 
+
+probability	0.998346
+0 0 0 0 0 T1
+a b n e g  a 
+
+probability	0.985039
+0 0 0 0 0 0 0 T1
+d e z b r ă c  a 
+
+probability	0.999973
+0 0 0 0 0 0 0 0 T12
+d e s c o p e r   i 
+
+probability	0.648173
+0 0 0 0 0 0 T1
+f o r f e c  a 
+
+probability	1.000000
+0 0 0 0 0 T5
+l e p ă d  a 
+
+probability	0.975805
+0 0 0 0 0 0 T5
+î n c ă l ţ  a 
+
+probability	0.982214
+0 0 0 0 0 T1
+d i h o c  a 
+
+probability	1.000000
+0 0 0 0 0 0 T5
+c u f u n d  a 
+
+probability	0.999988
+0 0 0 0 0 T1
+d e s e c  a 
+
+probability	0.982954
+0 0 0 0 0 0 0 T1
+s t r e c u r  a 
+
+probability	0.552889
+0 0 0 0 0 0 T7
+î n c ă r c  a 
+
+probability	0.974258
+0 0 T5
+b e  a 
+
+probability	1.000000
+0 0 0 0 0 0 T5
+c l ă t i n  a 
+
+probability	0.999995
+0 0 0 0 0 d0 T8
+r e v i n  d  e 
+
+probability	0.999986
+0 0 T5
+l u  a 
+
+probability	1.000000
+0 0 0 0 0 0 0 T5
+s c ă r m ă n  a 
+
+probability	0.965595
+0 0 0 0 0 0 0 T1
+î n c ă i e r  a 
+
+probability	0.966369
+0 0 0 T7
+i s c  a 
+
+probability	1.000000
+0 0 0 0 0 0 0 T5
+r â n c h e z  a 
+
+probability	0.999932
+0 0 0 T12
+a u z   i 
+
+probability	0.999997
+0 0 0 0 0 T5
+ţ e s ă l  a 
+
+probability	0.975601
+0 0 0 0 0 0 0 T5
+r e î n ă l ţ  a 
+
+probability	0.999942
+0 0 0 0 0 0 0 T8
+r ă s c o a c  e 
+
+probability	0.998346
+0 0 0 T1
+n e g  a 
+
+probability	0.999984
+0 0 0 0 T5
+a d ă p  a 
+
+probability	0.999983
+0 0 0 0 0 T12
+a s c u ţ   i 
+
+probability	0.999983
+0 0 0 0 0 0 0 T12
+c l i n c ă n   i 
+
+probability	0.999992
+0 0 0 0 0 T5
+î n f ă ş  a 
+
+probability	0.665962
+0 0 0 T5
+ţ e s  e 
+
+probability	0.552889
+0 0 0 0 0 0 T7
+î n ţ ă r c  a 
+
+probability	0.999995
+0 0 0 0 T5
+p r ă d  a 
+
+probability	0.999980
+0 0 0 0 0 T12
+r ă s ă r   i 
+
+probability	0.999999
+0 0 0 0 0 0 0 T5
+d ă r ă p ă n  a 
+
+probability	0.999994
+0 0 0 T7
+u s c  a 
+
+probability	1.000000
+0 0 0 0 0 0 0 0 T5
+z g r e p ţ ă n  a 
+
+probability	0.999305
+0 0 0 0 0 0 T12
+a b s o r b   i 
+
+probability	1.000000
+0 0 0 0 0 0 0 0 T5
+d e s f ă ş u r  a 
+
+probability	0.634309
+0 0 0 0 T5
+c o a s  e 
+
+probability	0.999999
+0 0 0 0 T12
+o f e r   i 
+
+probability	0.999966
+0 0 0 0 T1
+c e r c  a 
+
+probability	0.605312
+0 0 0 0 0 0 0 0 t0 T8
+r e c u n o a ş  t  e 
+
+probability	0.999979
+0 0 0 0 T5
+r ă z d  a 
+
+probability	1.000000
+0 0 0 0 0 0 0 0 0 T5
+r e î n f ă ş u r  a 
+
+probability	0.999993
+0 0 0 0 0 0 T5
+î n g h e ţ  a 
+
+probability	0.999998
+0 0 0 0 0 0 T5
+î n g r o p  a 
+
+probability	0.962088
+0 0 0 0 0 T1
+î m p ă c  a 
+
+probability	0.999974
+0 0 0 0 0 0 T5
+t r e p ă d  a 
+
+probability	0.999999
+0 0 0 0 T1
+î n e c  a 
+
+probability	0.552883
+0 0 0 0 0 0 0 T7
+d e s c ă r c  a 
+
+probability	1.000000
+0 0 0 0 0 T5
+î n ş e l  a 
+
+probability	0.999997
+0 0 0 0 0 T16 T16
+d e o c h   e   a 
+
+probability	0.999996
+0 0 0 0 T12
+m i n ţ   i 
+
+probability	0.999994
+0 0 0 0 0 T12
+r e i e ş   i 
+
+probability	0.634309
+0 0 0 0 0 0 0 T5
+d e s c o a s  e 
+
+probability	1.000000
+0 0 0 0 0 0 T5
+î n f u n d  a 
+
+probability	0.999959
+0 0 0 T5
+p ă p  a 
+
+probability	0.965595
+0 0 0 0 0 T1
+z b i e r  a 
+
+probability	0.999977
+0 0 0 0 0 0 T5
+r e v ă r s  a 
+
+probability	0.999973
+0 0 0 0 0 0 0 0 T12
+r e a c o p e r   i 
+
+probability	0.999999
+0 0 0 0 T5
+a s u d  a 
+
+probability	0.999999
+0 0 0 0 0 0 T5
+d e z n o d  a 
+
+probability	1.000000
+0 0 0 0 0 T5
+a f u n d  a 
+
+probability	0.999878
+0 0 0 0 0 0 T5
+î n g ă i m  a 
+
+probability	0.999999
+0 0 0 0 0 T12
+r e f e r   i 
+
+probability	1.000000
+0 0 0 0 0 T5
+î n d e s  a 
+
+probability	1.000000
+0 0 0 0 0 T5
+s e m ă n  a 
+
+probability	0.963327
+0 0 0 0 0 T5
+m ă s u r  a 
+
+probability	0.984750
+0 0 0 0 a2 0 T1
+s c ă p  ă r  a 
+
+probability	0.999999
+0 0 0 0 0 0 T5
+s t e n o z  a 
+
+probability	0.932359
+0 0 0 T1
+b ă g  a 
+
+probability	0.999988
+0 0 0 T1
+s e c  a 
+
+probability	0.999705
+0 0 0 0 0 T5
+î n s e m  a 
+
+probability	0.529563
+0 0 0 0 0 0 0 0 T5
+î n t r e ţ e s  e 
+
+probability	0.965595
+0 0 0 0 0 0 0 T1
+î m b ă i e r  a 
+
+probability	0.999752
+0 0 0 0 0 0 T5
+s c h e u n  a 
+
+probability	1.000000
+0 0 0 0 0 0 T5
+c o m a n d  a 
+
+probability	0.994959
+0 0 0 0 0 0 T1
+î n ş f ă c  a 
+
+probability	0.999873
+0 0 0 0 T5
+r e l u  a 
+
+probability	0.999040
+0 0 0 0 T12
+s o l v   i 
+
+probability	0.999998
+0 0 0 0 T5
+a p ă s  a 
+
+probability	1.000000
+0 0 0 0 T8
+n i n g  e 
+
+probability	1.000000
+0 0 0 0 0 T5
+î n ţ e s  a 
+
+probability	0.987414
+0 0 0 0 0 0 T7
+d e m a s c  a 
+
+probability	0.997161
+0 0 0 0 0 0 0 0 T8
+d e z v o a l b  e 
+
+probability	0.999997
+0 0 0 0 0 0 0 0 0 T12
+c o n t r a v e n   i 
+
+probability	0.999221
+0 0 0 T5
+c ă r  a 
+
+probability	1.000000
+0 0 0 0 0 0 0 T5
+c o n f u n d  a 
+
+probability	0.999988
+0 0 0 0 T1
+a s e c  a 
+
+probability	0.999999
+0 0 0 0 0 0 0 T5
+r e î n n o d  a 
+
+probability	0.999305
+0 0 0 0 T12
+s o r b   i 
+
+probability	0.861287
+0 0 0 0 0 0 T6
+d e s p u i  a 
+
+probability	0.999529
+0 0 0 0 0 0 T12
+r e s i m ţ   i 
+
+probability	1.000000
+0 0 T5
+u d  a 
+
+probability	1.000000
+0 0 0 T5
+l ă s  a 
+
+probability	0.999619
+0 0 0 0 0 T8
+t o a r c  e 
+
+probability	0.999997
+0 0 0 T12
+v e n   i 
+
+probability	0.999973
+0 0 0 0 0 0 0 0 0 0 T12
+r e d e s c o p e r   i 
+
+probability	0.605312
+0 0 0 0 0 0 0 0 0 0 t0 T8
+a u t o c u n o a ş  t  e 
+
+probability	0.999999
+0 0 0 0 0 T12
+d e f e r   i 
+
+probability	0.999999
+0 0 0 0 0 0 T5
+r o n r o n  a 
+
+probability	0.991097
+0 0 0 0 T7
+m â n c  a 
+
+probability	0.999999
+0 0 0 0 0 T1
+a p l e c  a 
+
+probability	1.000000
+0 0 0 0 0 0 T5
+r e p u g n  a 
+
+probability	1.000000
+0 0 0 0 0 0 T5
+î n t u r n  a 
+
+probability	0.691000
+0 0 0 0 0 T1
+î n f ă ţ  a 
+
+probability	0.994959
+0 0 0 0 0 0 T1
+d e s f ă c  a 
+
+probability	0.999619
+0 0 0 0 0 0 0 0 T8
+r ă s t o a r c  e 
+
+probability	0.999305
+0 0 0 0 0 0 T12
+r e s o r b   i 
+
+probability	0.999994
+0 0 0 0 0 T5
+m ă c i n  a 
+
+probability	0.999994
+0 0 0 0 0 0 0 0 0 T12
+s u b î m p ă r ţ   i 
+
+probability	0.999999
+0 0 0 0 0 T5
+l e g ă n  a 
+
+probability	1.000000
+0 0 0 0 0 0 0 0 T5
+d e c o m a n d  a 
+
+probability	0.999956
+0 0 0 0 T5
+l ă u d  a 
+
+probability	0.983147
+0 0 0 0 0 T5
+î n v ă ţ  a 
+
+probability	0.690998
+0 0 0 0 0 0 T1
+r ă s f ă ţ  a 
+
+probability	0.999977
+0 0 0 0 0 T12
+a s m u ţ   i 
+
+probability	0.999999
+0 0 0 0 0 0 T5
+c o l i n d  a 
+
+probability	0.999999
+0 0 0 0 0 0 T5
+p e r i n d  a 
+
+probability	0.999980
+0 0 0 T12
+s ă r   i 
+
+probability	0.999956
+0 0 0 0 0 0 T5
+e n u m e r  a 
+
+probability	1.000000
+0 0 0 0 0 0 T5
+p r e c e d  a 
+
+probability	0.999104
+0 0 0 0 0 T8
+o c u r g  e 
+
+probability	1.000000
+0 0 0 0 0 0 0 T5
+r ă s t u r n  a 
+
+probability	0.999978
+0 0 0 0 0 0 T6
+d e s f o i  a 
+
+probability	0.999999
+0 0 0 0 0 T12
+s u f e r   i 
+
+probability	0.999994
+0 0 0 0 0 0 0 T12
+d e s p ă r ţ   i 
+
+probability	0.999940
+0 0 0 0 T5
+r ă b d  a 
+
+probability	0.552889
+0 0 0 0 0 0 0 0 0 0 0 T7
+s u p r a î n c ă r c  a 
+
+probability	0.999942
+0 0 0 0 T8
+c o a c  e 
+
+probability	0.975734
+0 0 0 0 0 0 0 T5
+d e s c ă l ţ  a 
+
+probability	0.963327
+0 0 0 0 0 0 0 0 0 T5
+d e s p r e s u r  a 
+
+probability	0.999807
+0 0 0 0 0 0 T12
+a z v â r l   i 
+
+probability	0.999989
+0 0 0 0 0 0 0 0 T5
+d e z m i e r d  a 
+
+probability	0.999993
+0 0 0 0 0 T5
+v u i e t  a 
+
+probability	0.683096
+0 0 0 0 0 T1
+d e l e g  a 
+
+probability	0.999998
+0 0 0 0 0 T5
+c o n s t  a 
+
+probability	0.999807
+0 0 0 0 0 T12
+z v â r l   i 
+
+probability	1.000000
+0 0 0 0 0 0 0 T5
+s c u f u n d  a 
+
+probability	0.999958
+0 0 0 0 0 0 0 T6
+s t r ă t ă i  a 
+
+probability	0.780390
+0 0 0 0 T5
+a g ă ţ  a 
+
+probability	0.991857
+0 0 0 0 0 0 T1
+î n c h e g  a 
+
+probability	0.683096
+0 0 0 0 0 T1
+a b l e g  a 
+
+probability	0.988787
+0 0 0 0 0 0 0 0 T5
+î n c ă i b ă r  a 
+
+probability	0.985039
+0 0 0 0 0 0 T1
+î m b r ă c  a 
+
+probability	0.999995
+0 0 0 0 0 0 0 T5
+d e s t r ă m  a 
+
+probability	0.997517
+0 0 0 0 0 T14
+t ă b ă r   ď 
+
+probability	1.000000
+0 0 0 0 0 0 0 T5
+c o p o s e d  a 
+
+probability	0.999999
+0 0 0 0 0 0 T12
+î n g h i ţ   i 
+
+probability	0.999954
+0 0 0 0 0 0 T5
+r ă s c u l  a 
+
+probability	0.997166
+0 0 0 0 0 T5
+s ă t u r  a 
+
+probability	0.994794
+0 0 0 0 0 T5
+s c ă l d  a 
+
+probability	0.999998
+0 0 0 0 0 0 0 0 T1
+d e s c ă l e c  a 
+
+probability	0.999992
+0 0 0 0 0 0 T5
+d e s f ă ş  a 
+
+probability	0.999619
+0 0 0 0 0 0 T8
+s t o a r c  e 
+
+probability	0.991857
+0 0 0 0 0 0 0 0 T1
+r e î n c h e g  a 
+
+probability	0.999995
+0 0 0 d0 T8
+v i n  d  e 
+
+probability	0.999999
+0 0 0 T5
+s ă p  a 
+
+probability	0.999973
+0 0 0 0 0 0 T12
+a c o p e r   i 
+
+probability	0.999958
+0 0 0 T6
+t ă i  a 
+
+probability	0.966369
+0 0 0 0 0 0 0 T7
+c o n f i s c  a 
+
+probability	0.999999
+0 0 0 0 0 T5
+c u t e z  a 
+
+probability	0.999991
+0 0 0 0 T1
+f r e c  a 
+
+probability	0.982336
+0 0 0 T5
+a v e  a 
+
+probability	0.999942
+0 0 0 0 0 0 T8
+r e c o a c  e 
+
+probability	0.999444
+0 0 0 T1
+r u g  a 
+
+probability	0.833561
+0 0 0 0 0 0 T5
+f r e m ă t  a 
+
+probability	0.866072
+0 0 0 0 T5
+p l o u  a 
+
+probability	0.999999
+0 0 0 0 T1
+p l e c  a 
+
+probability	0.999997
+0 0 0 0 T5
+l ă t r  a 
+
+probability	0.999567
+0 0 0 0 T5
+c r ă p  a 
+
+probability	0.999978
+0 0 0 0 0 0 T12
+î n ă b u ş   i 
+
+probability	0.783909
+0 0 0 0 0 0 0 T5
+s c ă r p i n  a 
+
+probability	0.999801
+0 0 0 0 0 0 T5
+î n g r ă ş  a 
+
+probability	1.000000
+0 0 0 0 T5
+a ş e z  a 
+
+probability	1.000000
+0 0 0 0 0 0 0 T5
+d e s f u n d  a 
+
+probability	0.999529
+0 0 0 0 0 0 0 T12
+p r e s i m ţ   i 
+
+probability	0.999966
+0 0 0 0 0 0 T1
+î n c e r c  a 
+
+probability	1.000000
+0 0 0 0 0 T5
+p o s e d  a 
+
+probability	1.000000
+0 0 0 0 0 0 T5
+a p l a u d  a 
+
+probability	1.000000
+0 0 0 0 0 0 0 0 T5
+r e î n t u r n  a 
+
+probability	1.000000
+0 0 0 0 0 0 T5
+r e a ş e z  a 
+
+probability	0.999305
+0 0 0 0 0 0 T12
+a d s o r b   i 
+
+probability	1.000000
+0 0 0 T5
+r e d  a 
+
+probability	0.999979
+0 0 0 0 T1
+c ă l c  a 
+
+probability	0.988166
+0 0 0 0 0 0 0 T1
+î m p r o ş c  a 
+
+probability	0.999994
+0 0 0 0 0 0 T1
+c o n v o c  a 
+
+probability	0.999752
+0 0 0 0 0 T5
+m i e u n  a 
+
+probability	0.999982
+0 0 0 0 T5
+s c ă p  a 
+
+probability	0.999994
+0 0 0 0 0 0 T1
+p r o v o c  a 
+
+probability	0.999979
+0 0 0 0 0 0 T1
+î n c ă l c  a 
+
+probability	0.999994
+0 0 0 T12
+i e ş   i 
+
+probability	0.683096
+0 0 0 0 0 0 T1
+d e z l e g  a 
+
+probability	0.999999
+0 0 0 0 0 0 T12
+c o n f e r   i 
+
+probability	1.000000
+0 0 0 0 0 0 0 T5
+p i e p t ă n  a 
+
+probability	0.999939
+0 0 0 0 0 0 T5
+p r e s ă r  a 
+
+probability	0.998346
+0 0 0 0 0 T1
+r e n e g  a 
+

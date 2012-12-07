@@ -451,3 +451,7 @@ if __name__ == '__main__':
     print 'Generating crfsuite features...'
     crfsuite_features(build_instances(labeled), size=3, outfile='crf.labeled.3.txt')
     crfsuite_features(build_instances(unlabeled), size=3, outfile='crf.unlabeled.3.txt')
+    seq_unlab = codecs.open('seq_unlabeled.txt', 'w', encoding='utf8')
+    for base, _ in unlabeled:
+        print >> seq_unlab, base
+    seq_unlab.close()
