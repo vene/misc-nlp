@@ -10,10 +10,10 @@ from sklearn.svm.sparse import LinearSVC
 import preprocess
 
 if __name__ == '__main__':
-    X_sg, y_sg = preprocess.load_data('singular.txt')
-    X_pl, y_pl = preprocess.load_data('plural.txt')
-    X_sg_n = preprocess.load_data('singular_n.txt', labels=False)
-    X_pl_n = preprocess.load_data('plural_n.txt', labels=False)
+    X_sg, y_sg = preprocess.load_data('data/singular.txt')
+    X_pl, y_pl = preprocess.load_data('data/plural.txt')
+    X_sg_n = preprocess.load_data('data/singular_n.txt', labels=False)
+    X_pl_n = preprocess.load_data('data/plural_n.txt', labels=False)
 
     scores_sg = np.empty((5, 2, 2))
     predict_sg = np.empty((5, 2, 2))
@@ -26,12 +26,15 @@ if __name__ == '__main__':
         for j, suffix in enumerate(('', '$')):
             for k, binarize in enumerate((True, False)):
                 print "%d-%d-%d out of 411" % (i, j, k)
-                X_sg_p, v_sg = preprocess.preprocess_data(X_sg, suffix=suffix, n=n,
-                                                          return_vect=True, binarize=binarize)
-                X_pl_p, v_pl = preprocess.preprocess_data(X_pl, suffix=suffix, n=n,
-                                                          return_vect=True, binarize=binarize)
+                X_sg_p, v_sg = preprocess.preprocess_data(X_sg, suffix=suffix,
+                                                          n=n, return_vect=True,
+                                                          binarize=binarize)
+                X_pl_p, v_pl = preprocess.preprocess_data(X_pl, suffix=suffix,
+                                                          n=n, return_vect=True,
+                                                          binarize=binarize)
 
-                grid1 = GridSearchCV(estimator=LinearSVC(scale_C=False), n_jobs=1, verbose=True,
+                grid1 = GridSearchCV(estimator=LinearSVC(),
+                                     n_jobs=1, verbose=True,
                                      param_grid={'C': np.logspace(-2, 2, 5)},
                                      cv=KFold(len(X_sg), k=10, indices=True))
                 grid1.fit(X_sg_p, y_sg)
@@ -43,7 +46,8 @@ if __name__ == '__main__':
                 y_sg_n = clf.predict(X_sg_n_p)
                 predict_sg[i, j, k] = (y_sg_n == 0).mean()
 
-                grid2 = GridSearchCV(estimator=LinearSVC(scale_C=False), n_jobs=-1, verbose=True,
+                grid2 = GridSearchCV(estimator=LinearSVC(),
+                                     n_jobs=-1, verbose=True,
                                      param_grid={'C': np.logspace(-2, 2, 5)},
                                      cv=KFold(len(X_pl), k=10, indices=True))
                 grid2.fit(X_pl_p, y_pl)
@@ -54,9 +58,9 @@ if __name__ == '__main__':
                 X_pl_n_p = v_pl.transform(X_pl_n)
                 y_pl_n = clf.predict(X_pl_n_p)
                 predict_pl[i, j, k] = (y_pl_n == 1).mean()
-    np.save("scores_sg", scores_sg)
-    np.save("predict_sg", predict_sg)
-    np.save("best_C_sg", best_C_sg)
-    np.save("scores_pl", scores_pl)
-    np.save("predict_pl", predict_pl)
-    np.save("best_C_pl", best_C_pl)
+    np.save("trained_models/scores_sg", scores_sg)
+    np.save("trained_models/spredict_sg", predict_sg)
+    np.save("trained_models/best_C_sg", best_C_sg)
+    np.save("trained_models/scores_pl", scores_pl)
+    np.save("trained_models/predict_pl", predict_pl)
+    np.save("trained_models/best_C_pl", best_C_pl)

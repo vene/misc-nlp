@@ -1,20 +1,21 @@
 import cPickle
 import numpy as np
 
-from sklearn.preprocessing import Binarizer
 from sklearn.svm import LinearSVC
 
 import preprocess
 
 if __name__ == '__main__':
-    X_sg_all, y_sg_all = preprocess.load_data('singular.txt')
-    X_pl_all, y_pl_all = preprocess.load_data('plural.txt')
+    X_sg_all, y_sg_all = preprocess.load_data('data/singular.txt')
+    X_pl_all, y_pl_all = preprocess.load_data('data/plural.txt')
     X_sg, X_pl, y_sg, y_pl = [], [], [], []
-    for sg, this_y_sg, pl, this_y_pl in zip(X_sg_all, y_sg_all, X_pl_all, y_pl_all):
+    prune_data = True
+    for sg, this_y_sg, pl, this_y_pl in zip(X_sg_all, y_sg_all,
+                                            X_pl_all, y_pl_all):
         # get rid of balauri
         sg = sg.strip()
         pl = pl.strip()
-        if not (pl.endswith('uri') and sg.endswith('ur')):
+        if prune_data and not (pl.endswith('uri') and sg.endswith('ur')):
             X_sg.append(sg)
             y_sg.append(this_y_sg)
             X_pl.append(pl)
@@ -29,19 +30,19 @@ if __name__ == '__main__':
                                               return_vect=True, binarize=False)
 
     try:
-        pkl = open('svc_sg.pkl', 'r')
+        pkl = open('trained_models/svc_sg.pkl', 'r')
         print 'Stored singular model found, loading...'
         clf = cPickle.load(pkl)
         pkl.close()
     except IOError:
         clf = LinearSVC(C=0.1).fit(X_sg_p, y_sg)
-        sg_model = open('svc_sg.pkl', 'wb')
+        sg_model = open('trained_models/svc_sg.pkl', 'wb')
         cPickle.dump(clf, sg_model)
         sg_model.close()
 
     print 'Loading neutral data...'
-    X_sg_n_clean = preprocess.load_data('singular_n.txt', labels=False)
-    X_pl_n_clean = preprocess.load_data('plural_n.txt', labels=False)
+    X_sg_n_clean = preprocess.load_data('data/singular_n.txt', labels=False)
+    X_pl_n_clean = preprocess.load_data('data/plural_n.txt', labels=False)
     #X_sg_n_clean, X_pl_n_clean = [], []
     #for sg, pl in zip(X_sg_n_all, X_pl_n_all):
     #    sg = sg.strip()
@@ -59,7 +60,7 @@ if __name__ == '__main__':
     print (y_sg_n == 0).mean()
 
     try:
-        pkl = open('svc_pl.pkl', 'r')
+        pkl = open('trained_models/svc_pl.pkl', 'r')
         print 'Stored plural model found, loading...'
         clf = cPickle.load(pkl)
         pkl.close()
@@ -68,11 +69,10 @@ if __name__ == '__main__':
         weights = 1 + np.array(weights, dtype=np.float)
         clf = LinearSVC(C=0.1)
         clf.fit(X_pl_p, y_pl)
-        pl_model = open('svc_pl.pkl', 'wb')
+        pl_model = open('trained_data/svc_pl.pkl', 'wb')
         cPickle.dump(clf, pl_model)
         pl_model.close()
     print 'Loading neutral data...'
-    #X_pl_n = Binarizer(copy=False).transform(v_pl.transform(X_pl_n_clean))
     X_pl_n = v_pl.transform(X_pl_n_clean)
     print 'Predicting...'
     y_pl_n = clf.predict(X_pl_n)

@@ -1,17 +1,19 @@
-# Approximately reproducing M.Popescu et al
+# Approximately reproducing M. Popescu et al (see paper)
+# They use a 3-class SVM with a string kernel, we use a linear
+# SVM preceded by feature expansion for similar results
+
 import numpy as np
 
 from sklearn.svm import LinearSVC
 from sklearn.grid_search import GridSearchCV
 from sklearn.cross_validation import StratifiedKFold, StratifiedShuffleSplit
-from sklearn.metrics import classification_report
 import preprocess
 
 
 if __name__ == '__main__':
     print 'Loading training and test data...'
-    X_sg, y_sg = preprocess.load_data('singular.txt')
-    X_sg_n_clean = preprocess.load_data('singular_n.txt', labels=False)
+    X_sg, y_sg = preprocess.load_data('data/singular.txt')
+    X_sg_n_clean = preprocess.load_data('data/singular_n.txt', labels=False)
     X_sg = np.r_[X_sg, X_sg_n_clean]
     y_sg = np.r_[y_sg, 2 * np.ones(len(X_sg_n_clean))]
     X_sg_p = preprocess.preprocess_data(X_sg, suffix='$', n=5,

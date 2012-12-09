@@ -49,7 +49,7 @@ def plot(scores, scores2=None):
                 c='k', marker='o')
     if scores2 is not None:
         pl.errorbar(scores2[:, 1], scores2[:, 3], yerr=scores2[:, 6],
-                c='k', marker='s')
+                    c='k', marker='s')
 
     ax2.yaxis.set_major_formatter(FuncFormatter(percentages))
 
@@ -58,7 +58,7 @@ def plot(scores, scores2=None):
                 c='0.5', marker='o')
     if scores2 is not None:
         pl.errorbar(scores2[:, 1] + 0.02, scores2[:, 4], yerr=scores2[:, 7],
-                c='0.5', marker='s')
+                    c='0.5', marker='s')
     pl.ylabel("Plural and combined acc.")
     #ax3.yaxis.set_major_formatter(FuncFormatter(percentages))
     #pl.setp(ax3.get_xticklabels(), visible=False)
@@ -71,8 +71,8 @@ def plot(scores, scores2=None):
 
 if __name__ == '__main__':
     print 'Loading training and test data...'
-    X_sg_all, y_sg_all = preprocess.load_data('singular.txt')
-    X_pl_all, y_pl_all = preprocess.load_data('plural.txt')
+    X_sg_all, y_sg_all = preprocess.load_data('data/singular.txt')
+    X_pl_all, y_pl_all = preprocess.load_data('data/plural.txt')
 
     X_sg, y_sg, X_pl, y_pl = [], [], [], []
     for sg, this_y_sg, pl, this_y_pl in zip(X_sg_all, y_sg_all, X_pl_all,
@@ -96,11 +96,11 @@ if __name__ == '__main__':
     X_pl_p, v_pl = preprocess.preprocess_data(X_pl, suffix='$', n=5,
                                               return_vect=True, binarize=False)
 
-    X_sg_n_clean = preprocess.load_data('singular_n.txt', labels=False)
+    X_sg_n_clean = preprocess.load_data('data/singular_n.txt', labels=False)
     X_sg_n = v_sg.transform(X_sg_n_clean)
     #X_sg_n = Binarizer(copy=False).transform(v_sg.transform(X_sg_n_clean))
 
-    X_pl_n_clean = preprocess.load_data('plural_n.txt', labels=False)
+    X_pl_n_clean = preprocess.load_data('data/plural_n.txt', labels=False)
     X_pl_n = v_pl.transform(X_pl_n_clean)
     #X_pl_n = Binarizer(copy=False).transform(v_pl.transform(X_pl_n_clean))
 
