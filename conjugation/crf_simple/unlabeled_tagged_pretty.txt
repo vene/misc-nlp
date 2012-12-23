@@ -1,186 +1,186 @@
 probability	0.999958
 0 0 0 0 0 0 0 0 T6
-î n t r e t ă i  a 
+î n t r e t ă i  a -> gresit, ar fi trebuit sa fie T3 (ter3) + ă0 
 
 probability	0.999999
 0 0 0 0 0 0 0 T5
-r e b o t e z  a 
+r e b o t e z  a  -> corect
 
 probability	0.999529
 0 0 0 0 0 0 0 T12
-c o n s i m ţ   i 
+c o n s i m ţ   i -> gresit, T10 (ter10) si alternanta nedefinita t2={t,ț,t,ț,ț,t} 
 
 probability	0.605312
 0 0 0 0 0 0 t0 T8
-c u n o a ş  t  e 
+c u n o a ş  t  e -> corecta terminatia, alternante gresite, ar fi trebuit t1 si s1 dar pt ș 
 
 probability	0.999996
 0 0 0 0 0 0 0 T12
-d e z m i n ţ   i 
+d e z m i n ţ   i -> gresit, T10 (ter10) si alternanta nedefinita t2={t,ț,t,ț,ț,t} 
 
 probability	0.988167
 0 0 0 0 T7
-c ă s c  a 
+c ă s c  a -> gresit, T1, ă3, c, s0
 
 probability	0.608511
 0 0 0 0 T5
-p u t e  a 
+p u t e  a -> gresit, T8, t0, u
 
 probability	0.991239
 0 0 0 0 T5
-z b u r  a 
+z b u r  a -> gresit, T1, u
 
 probability	0.966369
 0 0 0 0 T7
-r i s c  a 
+r i s c  a -> gresit, dar plauzibil, T1, s0, t1
 
 probability	0.998441
 0 0 0 0 0 0 T7
-e x p u r g  a 
+e x p u r g  a -> gresit, terminatie nedefinita t0={$,i$,ă$,ăm$, ați$, $}
 
 probability	0.999981
 0 0 0 0 T13
-ş i r o   i 
+ş i r o   i -> corect
 
 probability	0.998346
 0 0 0 0 0 T1
-d e n e g  a 
+d e n e g  a -> corect terminatie, gresit alternante, e0
 
 probability	1.000000
 0 0 0 0 T5
-v ă r s  a 
+v ă r s  a -> gresit, T1, ă1, s0
 
 probability	0.998912
 0 0 0 0 0 0 0 0 T6
-d e s c o v o i  a 
+d e s c o v o i  a -> gresit, T4, o
 
 probability	0.998284
 0 0 0 0 0 0 0 0 d0 T8
-t r a n s c e n  d  e 
+t r a n s c e n  d  e -> corect
 
 probability	0.999619
 0 0 0 0 0 0 0 0 0 T8
-r e î n t o a r c  e 
+r e î n t o a r c  e -> corect terminatia, contine o alternanta nedefnita oa={o,o,oa,oa,oa,o}
 
 probability	0.996454
 0 0 0 T14
-v â r   ď 
+v â r   ď -> corect
 
 probability	0.999868
 0 0 0 0 T5
-c h e m  a 
+c h e m  a -> gresit, T1, e0
 
 probability	0.999868
 0 0 0 0 0 0 T5
-r e c h e m  a 
+r e c h e m  a -> gresit, T1, e0
 
 probability	1.000000
 0 0 0 0 T5
-r e n t  a 
+r e n t  a -> corect (asta e verb cu doar 2 forme pt ca e impersonal)
 
 probability	0.999934
 0 0 0 0 0 0 T1
-f e r m e c  a 
+f e r m e c  a -> corect terminatie, arealternanta nedefinita e4={a,a,a,e,e,a}
 
 probability	0.999978
 0 0 0 0 0 T12
-p r e ş t   i 
+p r e ş t   i -> gresit, are terminatie nedefinita T17={u$, i$, e$, im$, iți$, u$}
 
 probability	0.999988
 0 0 0 0 0 0 T12
-s l o b o z   i 
+s l o b o z   i -> corect
 
 probability	0.999997
 0 0 0 0 0 0 T12
-p r o v e n   i 
+p r o v e n   i -> gresit, T10, n, e1
 
 probability	0.998278
 0 0 0 T7
-t o c  a 
+t o c  a -> gresit, T1, o
 
 probability	0.999998
 0 0 0 0 0 T5
-z b u r d  a 
+z b u r d  a -> gresit, T1, d
 
 probability	0.999999
 0 0 0 0 0 T5
-r e t e z  a 
+r e t e z  a -> corect, esi false ez
 
 probability	0.995532
 0 0 0 0 0 T1
-î n f o c  a 
+î n f o c  a -> corect terminatia, mai are alternanta o
 
 probability	1.000000
 0 0 0 0 0 0 0 T5
-s u s p e n d  a 
+s u s p e n d  a -> gresit, T1, d
 
 probability	1.000000
 0 0 0 0 0 T5
-a b u n d  a 
+a b u n d  a -> gresit, T1, d
 
 probability	0.999997
 0 0 0 0 0 0 T12
-c o n v e n   i 
+c o n v e n   i -> gresit, T10
 
 probability	0.965595
 0 0 0 0 0 T1
-v ă i e r  a 
+v ă i e r  a -> corect
 
 probability	0.999430
 0 0 0 0 0 0 0 0 T5
-r e p e r c u t  a 
+r e p e r c u t  a -> corect
 
 probability	0.499811
 0 0 0 0 0 0 T1
-d e z m ă ţ  a 
+d e z m ă ţ  a -> corect terminatie, are si ă1
 
 probability	0.963327
 0 0 0 0 0 T5
-î n s u r  a 
+î n s u r  a -> gresit, T1, u
 
 probability	0.999997
 0 0 0 0 0 0 T12
-î n f u r c   i 
+î n f u r c   i -> gresit, T18={$,i$,ă$,im$, iți$, ă$}
 
 probability	1.000000
 0 0 0 0 0 T5
-r ă g i l  a 
+r ă g i l  a -> gresit, T1
 
 probability	0.905283
 0 0 0 0 0 T5
-î n h ă ţ  a 
+î n h ă ţ  a -> gresit, T1, ă3
 
 probability	0.999997
 0 0 0 0 0 0 T12
-s u r v e n   i 
+s u r v e n   i -> gresit, T10, e1
 
 probability	1.000000
 0 0 0 T5
-p ă s  a 
+p ă s  a -> gresit, nicio terminatie,e impersonal
 
 probability	0.717166
 0 0 0 0 T13 T1
-î n m u   i  a 
+î n m u   i  a -> gresit
 
 probability	0.999967
 0 0 0 0 0 T5
-î n ţ e p  a 
+î n ţ e p  a -> gresit
 
 probability	0.999997
 0 0 0 0 0 T12
-c u v e n   i 
+c u v e n   i -> gresit, e impersonal
 
 probability	0.965595
 0 0 0 0 0 0 0 0 T1
-d e s c ă i e r  a 
+d e s c ă i e r  a -> corect terminatia, alternanta ă3
 
 probability	0.999619
 0 0 0 0 0 0 0 0 T8
-d e s t o a r c  e 
+d e s t o a r c  e -> corect, are alternanta oa={o$,o$, oa$, oa$, oa$, o$}
 
 probability	0.979522
 0 0 0 0 0 0 T5
-d e z b ă r  a 
+d e z b ă r  a -> gresit, T1l 
 
 probability	1.000000
 0 0 0 0 0 T5
