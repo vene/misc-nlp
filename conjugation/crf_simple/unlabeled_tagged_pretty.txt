@@ -12,11 +12,11 @@ c o n s i m ţ   i -> gresit, T10 (ter10) si alternanta nedefinita t2={t,ț,t,ț
 
 probability	0.605312
 0 0 0 0 0 0 t0 T8
-c u n o a ş  t  e -> corecta terminatia, alternante gresite, ar fi trebuit t1 si s1 dar pt ș 
+c u n o a ş  t  e -> corect terminatia, gresit alternante, ar fi trebuit t1, s1 
 
 probability	0.999996
 0 0 0 0 0 0 0 T12
-d e z m i n ţ   i -> gresit, T10 (ter10) si alternanta nedefinita t2={t,ț,t,ț,ț,t} 
+d e z m i n ţ   i -> gresit, T10 si alternanta nedefinita t2={t,ț,t,ț,ț,t} 
 
 probability	0.988167
 0 0 0 0 T7
@@ -52,7 +52,7 @@ v ă r s  a -> gresit, T1, ă1, s0
 
 probability	0.998912
 0 0 0 0 0 0 0 0 T6
-d e s c o v o i  a -> gresit, T4, o
+d e s c o v o i  a -> gresit, T4, o0
 
 probability	0.998284
 0 0 0 0 0 0 0 0 d0 T8
@@ -60,7 +60,7 @@ t r a n s c e n  d  e -> corect
 
 probability	0.999619
 0 0 0 0 0 0 0 0 0 T8
-r e î n t o a r c  e -> corect terminatia, contine o alternanta nedefnita oa={o,o,oa,oa,oa,o}
+r e î n t o a r c  e -> corect terminatie, contine o alternanta nedefnita oa={o,o,oa,oa,oa,o}
 
 probability	0.996454
 0 0 0 T14
@@ -84,7 +84,7 @@ f e r m e c  a -> corect terminatie, arealternanta nedefinita e4={a,a,a,e,e,a}
 
 probability	0.999978
 0 0 0 0 0 T12
-p r e ş t   i -> gresit, are terminatie nedefinita T17={u$, i$, e$, im$, iți$, u$}
+p r e ş t   i -> gresit, terminatie nedefinita T17={u$, i$, e$, im$, iți$, u$}
 
 probability	0.999988
 0 0 0 0 0 0 T12
@@ -104,7 +104,7 @@ z b u r d  a -> gresit, T1, d
 
 probability	0.999999
 0 0 0 0 0 T5
-r e t e z  a -> corect, esi false ez
+r e t e z  a -> corect, false ez
 
 probability	0.995532
 0 0 0 0 0 T1
@@ -212,11 +212,11 @@ c o m â n d  a -> gresit, T1, d
 
 probability	0.999349
 0 0 0 0 0 T1
-d e j u c  a -> corecta terminatia, are si u0
+d e j u c  a -> corect terminatie, are si u0
 
 probability	1.000000
 0 0 0 0 0 0 0 T12
-s p r i j i n   i -> gresit, are ter nedefinita/noua T18={$, i$, ă$, im$, iți$, ă$}
+s p r i j i n   i -> gresit, are ter nedefinita T18={$, i$, ă$, im$, iți$, ă$}
 
 probability	1.000000
 0 0 0 T5
@@ -336,87 +336,87 @@ r o a  d  e -> corect, terminatie, corect alternanta, are si alt nedef oa
 
 probability	0.999916
 0 0 0 0 0 0 0 T1
-t r i f u r c  a 
+t r i f u r c  a -> gresit, T5
 
 probability	0.975800
 0 0 0 0 0 T5
-î n ă l ţ  a 
+î n ă l ţ  a -> gresit, T1, ă3
 
 probability	1.000000
 0 0 0 0 T5
-p r e d  a 
+p r e d  a -> gresit, ter nedefinita T19
 
 probability	1.000000
 0 0 0 0 0 T12
-m i r o s   i 
+m i r o s   i -> gresit, T10, o1
 
 probability	0.999994
 0 0 0 0 0 0 0 0 T6
-s e n t e n ţ i  a 
+s e n t e n ţ i  a -> corect, vb impersonal
 
 probability	0.999954
 0 0 0 0 T5
-s c u l  a 
+s c u l  a -> gresit, T1, o0
 
 probability	0.956964
 0 0 0 0 t0 T8
-s c o a  t  e 
+s c o a  t  e -> corect, ter ok, corect alt t0, are si alt nedefinita oa
 
 probability	0.999349
 0 0 0 T1
-j u c  a 
+j u c  a -> corect terminatia, u0
 
 probability	0.999984
 0 0 0 0 0 T5
-a d ă s t  a 
+a d ă s t  a -> gresit, T1, a4
 
 probability	0.999975
 0 0 0 0 0 T12
-r e p e z   i 
+r e p e z   i -> gresit, T10, alt nedefinita d1={d,z,d,z,z,d}
 
 probability	0.999997
 0 0 0 0 T5
-s p ă l  a 
+s p ă l  a -> gresit, T1, a1
 
 probability	0.965595
 0 0 0 0 0 0 0 0 T1
-d e z b ă i e r  a 
+d e z b ă i e r  a -> corect
 
 probability	0.999958
 0 T5
-d  a 
+d  a -> gresit, T2
 
 probability	0.999954
 0 0 0 0 0 0 0 T1
-d e s c ă l c  a 
+d e s c ă l c  a -> corect terminatie, alt a3
 
 probability	0.999994
 0 0 0 0 T12
-b ă u n   i 
+b ă u n   i -> gresit, T10
 
 probability	0.999993
 0 0 0 T12
-p u ţ   i 
+p u ţ   i -> gresit, T10 
 
 probability	0.999980
 0 0 0 0 0 0 T12
-t r e s ă r   i 
+t r e s ă r   i -> gresit, T10
 
 probability	0.999999
 0 0 0 0 0 0 0 T1
-î n c ă l e c  a 
+î n c ă l e c  a -> corect terminatia, alt a3
 
 probability	1.000000
 0 0 0 0 0 0 0 T5
-c o n c o r d  a 
+c o n c o r d  a -> gresit, T1, d0
 
 probability	0.991434
 0 0 0 0 0 T12
-a d o r m   i 
+a d o r m   i -> gresit, T10, alt nedefinita o1
 
 probability	0.998527
 0 0 0 0 0 T5
-c o c o ţ  a 
+c o c o ţ  a -> gresit, T1, o0
 
 probability	1.000000
 0 0 0 0 0 0 0 0 0 T5
