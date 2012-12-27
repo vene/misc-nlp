@@ -1,0 +1,63 @@
+alernante
+--------------
+a0={a,a,a,ă,ă,a}
+
+ă1={ă,e,a,ă,ă,a}6
+ă2={ă,e,ă,ă,ă,ă}8
+ă3={a,a,a,ă,ă,a}5, 16
+a4={ă,ă,a,ă,ă,a}
+a5={a,a, , , , }  # by vlad
+a6={ă,e,ea,e,e,ea} semăna
+
+e0={e,e,ea,e,e,ea}3
+e1={i,i,i,e,e,i} 
+e2={e,e,a,e,e,a}4
+e3={ă,e,e,e,e,ă}17
+e4={a,a,a,e,e,a} fermeca
+e5={ea,e,ea,e,e,ea} rezema
+i= {}
+
+o0={o,o,oa,o,o,oa}27
+o1={o,o,oa,o,o,o} zgâmboi
+oa={o,o, oa, oa, oa, o} destoarce, roade
+
+u={o,o,oa,u,u,oa}putea
+
+c={c,t,c,c,c,c}10
+d0={d,z,d,d,d,d}17,20
+d1={d,z,d,z,z,d}
+n={n, ,n,n,n,n,}22
+
+s0={s,ș,s,s,s,s}2
+ș1={s,ș,ș,ș,ș,s}21
+
+t0={t,ț,t,t,t,t} 1,3,4,5,6
+t1={c,t,t,t,t,c}21
+t2={t,ț,t,ț,ț,t} 
+
+--------
+terminatii
+----------
+
+ter1={$, i$, ă$, ăm$, ați$, ă$} 1,2,3,4,5,6,7,8,10 
+ter2={u$, i$, ă$, ăm$, ați$, ă$}9
+ter3={$, $, e$, em$, ați$, e$}11 (taia, muia)
+ter4={i$, i$, e$, em$, ați$, e$} 12
+ter5={ez$, ezi$, ează$, ăm$, ați$, ează$} 13
+ter6={ez$, ezi$, ază$, em$, ați$, ază$} 14
+ter7={hez$, hezi$, hează$, ăm$, ați$, hează$} 15
+ter8={$, i$, e$, em$, eți$, $} 16 plăcea, 17, 18, 20, 21, 22
+ter9={u$, i$, e$, em$, eți$,u$} 19
+ter10={$, i$, e$, im$, iți$, $} 23
+ter11={i$, i$, ie$, im$, iți$, ie$} 24 sui
+ter12={esc$, ești$, ește$, im$, iți$, esc$}25
+ter13={iesc$, iești$, iește$, im$, iți$, iesc$} 26 locui
+ter14={ăsc$, ăști$, ăște$, îm$, îți$, ăsc$} 27 hotărî
+ter15={$, i$, ă$, âm$, âți$, ă$} a omorî ??
+ter16={ez$, ezi$, ează$, em$, eați$, ează$} pt regula cu a 
+
+urechea
+ter17={u$, i$, e$, im$, iți$, u$} presti
+ter18={$,i$,ă$,im$, iți$, ă$} înfurci, năbuși
+ter19={u$, i$, ă$, ăm$, ați$, u$} deda, preda, da
+ter20={u$, i$, a$, ăm$, ați$, u$} lua, prelua, relua
