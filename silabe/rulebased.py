@@ -1,5 +1,5 @@
 # coding=utf8
-
+#copyright Maria Șulea
 # test it!
 #voc="aeiouy"
 #cons="bcdfghjklmnprstvxz"
