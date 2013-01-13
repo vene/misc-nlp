@@ -1,6 +1,11 @@
 # coding=utf8
 # copyright 2012 Maria Șulea
 
+import numpy as np
+from sklearn.metrics import accuracy_score, f1_score
+
+from features import syllabifications, all_splits
+
 # test it!
 #voc="aeiouy"
 #cons="bcdfghjklmnprstvxz"
@@ -241,3 +246,26 @@ def syll(cuv):
 #se rezolva folosind eticheta de functie sintactica
 #i.e. verbele au i vocalic mai putin la -esti, iar restul au i semivocalic
 #u-ul ambiguul
+
+def evaluate_rule_based(input_file='silabe.test.xml'):
+    syll_true = [s.strip() for _, s in syllabifications(input_file)]
+    syll_pred = [syll(s.replace('-', '')) for s in syll_true]
+    word_accuracy = np.mean([w_true == w_pred for w_true, w_pred in
+        zip(syll_true, syll_pred)])
+    pairs = [(lbl_true, lbl_pred)
+             for (s_true, s_pred) in zip(syll_true, syll_pred)
+             for (_, _, lbl_true), (_, _, lbl_pred) in zip(
+             all_splits(s_true), all_splits(s_pred))]
+    hyph_true, hyph_pred = zip(*pairs)
+    hyph_true = np.array(hyph_true) == 0
+    hyph_pred = np.array(hyph_pred) == 0
+    return (word_accuracy, accuracy_score(hyph_true, hyph_pred),
+            f1_score(hyph_true, hyph_pred))
+
+
+if __name__ == '__main__':
+    print '\tWord acc. \tHyphen acc. \tHyphen F1'
+    print 'test\t%.4f\t\t%.4f\t\t%.4f' % evaluate_rule_based('silabe.test.xml')
+    print 'all\t%.4f\t\t%.4f\t\t%.4f' % evaluate_rule_based('silabe.xml')
+
+
