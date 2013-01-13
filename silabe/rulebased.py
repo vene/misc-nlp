@@ -1,4 +1,6 @@
 # coding=utf8
+# Author: Octavia-Maria Sulea
+# License: Simplified BSD
 
 # test it!
 #voc="aeiouy"
