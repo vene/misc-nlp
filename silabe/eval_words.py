@@ -4,12 +4,10 @@ import numpy as np
 from features import syllabifications, all_splits
 
 
-def training_instances(source='silabe.train.xml', limit=None):
-    for k, (_, syl) in enumerate(syllabifications(source)):
+def training_instances(syls):
+    for syl in syls:
         for left, right, label in all_splits(syl.strip()):
-            yield unicode(left), unicode(right), label, k
-        if k == limit:
-            break
+            yield unicode(left), unicode(right), label
 
 
 def shaped_instances(gen):

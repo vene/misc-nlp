@@ -1,3 +1,4 @@
+import sys
 import re
 from collections import defaultdict
 
@@ -12,7 +13,7 @@ item_acc = []
 item_counts = []
 instance_acc = []
 
-for line in open('loo.3.last.ap.txt'):
+for line in open(sys.argv[1]):
     m = re.match(re_tag, line)
     if m:
         label, hits, model, data = m.groups()
