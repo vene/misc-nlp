@@ -113,15 +113,19 @@ if __name__ == '__main__':
         if not found:
             unlabeled.append((base, [''] * len(base)))
     print '%f verbs per second.' % (total_time / len(words))
-    print 'Generating crfsuite features...'
-    for size in xrange(2, 9):
-        crfsuite_features(build_instances(labeled_train), size=size,
-                          outfile='crf.labeled.%s.train' % size)
-        crfsuite_features(build_instances(labeled_test), size=size,
-                          outfile='crf.labeled.%s.test' % size)
-        crfsuite_features(build_instances(unlabeled), size=size,
-                          outfile='crf.unlabeled.%s.txt' % size)
-    seq_unlab = codecs.open('seq_unlabeled.txt', 'w', encoding='utf8')
-    for base, _ in unlabeled:
-        print >> seq_unlab, base
-    seq_unlab.close()
+    from sklearn.externals import joblib
+    joblib.dump(zip(*labeled_train), 'crf_pystruct/train.jbl', compress=0)
+    joblib.dump(zip(*labeled_test), 'crf_pystruct/test.jbl', compress=0)
+
+    #print 'Generating crfsuite features...'
+    #for size in xrange(2, 9):
+    #    crfsuite_features(build_instances(labeled_train), size=size,
+    #                      outfile='crf.labeled.%s.train' % size)
+    #    crfsuite_features(build_instances(labeled_test), size=size,
+    #                      outfile='crf.labeled.%s.test' % size)
+    #    crfsuite_features(build_instances(unlabeled), size=size,
+    #                      outfile='crf.unlabeled.%s.txt' % size)
+    #seq_unlab = codecs.open('seq_unlabeled.txt', 'w', encoding='utf8')
+    #for base, _ in unlabeled:
+    #    print >> seq_unlab, base
+    #seq_unlab.close()

@@ -45,7 +45,7 @@ def all_splits(string_, separator='-'):
             yield (left, right, k - last_sep)
 
 
-def syllabifications(source='silabe.xml'):
+def syllabifications(source='silabe.xml', limit=0):
     ctx = etree.iterparse(source, tag='form')
     for k, (_, elem) in enumerate(ctx):
         yield (unicode(elem.get('w')),
@@ -53,8 +53,8 @@ def syllabifications(source='silabe.xml'):
         elem.clear()
         while elem.getprevious() is not None:
             del elem.getparent()[0]
-        #if k == 10:
-        #    break
+        if limit and k == limit:
+            break
     del ctx
 
 
