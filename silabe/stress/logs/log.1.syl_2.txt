@@ -1,0 +1,109 @@
+CRFSuite 0.12  Copyright (c) 2007-2011 Naoaki Okazaki
+
+Start time of the training: 2013-06-11T10:53:20Z
+
+Reading the data set(s)
+[1] stress_syl_2.txt
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 262765
+Seconds required: 14.480
+
+Statistics the data set(s)
+Number of data sets (groups): 3
+Number of instances: 262752
+Number of items: 2615483
+Number of attributes: 3167
+Number of labels: 2
+
+===== Cross validation (1/3) =====
+Holdout group: 1
+
+Feature generation
+type: CRF1d
+feature.minfreq: 0.000000
+feature.possible_states: 0
+feature.possible_transitions: 0
+0....1....2....3....4....5....6....7....8....9....10
+Number of features: 4377
+Seconds required: 2.290
+
+Averaged perceptron
+max_iterations: 1
+epsilon: 0.000000
+
+***** Iteration #1 *****
+Loss: 11415.446008
+Feature norm: 210.839229
+Seconds required for this iteration: 0.670
+Performance by label (#match, #model, #ref) (precision, recall, F1):
+    0: (778702, 800760, 790512) (0.9725, 0.9851, 0.9787)
+    1: (59115, 70925, 81173) (0.8335, 0.7283, 0.7773)
+Macro-average precision, recall, F1: (0.902970, 0.856660, 0.878022)
+Item accuracy: 837817 / 871685 (0.9611)
+Instance accuracy: 58180 / 87584 (0.6643)
+
+Total seconds required for training: 0.860
+
+
+===== Cross validation (2/3) =====
+Holdout group: 2
+
+Feature generation
+type: CRF1d
+feature.minfreq: 0.000000
+feature.possible_states: 0
+feature.possible_transitions: 0
+0....1....2....3....4....5....6....7....8....9....10
+Number of features: 4339
+Seconds required: 2.180
+
+Averaged perceptron
+max_iterations: 1
+epsilon: 0.000000
+
+***** Iteration #1 *****
+Loss: 11408.467580
+Feature norm: 210.383310
+Seconds required for this iteration: 0.660
+Performance by label (#match, #model, #ref) (precision, recall, F1):
+    0: (779806, 802082, 791629) (0.9722, 0.9851, 0.9786)
+    1: (59021, 70844, 81297) (0.8331, 0.7260, 0.7759)
+Macro-average precision, recall, F1: (0.902670, 0.855529, 0.877238)
+Item accuracy: 838827 / 872926 (0.9609)
+Instance accuracy: 58128 / 87584 (0.6637)
+
+Total seconds required for training: 0.860
+
+
+===== Cross validation (3/3) =====
+Holdout group: 3
+
+Feature generation
+type: CRF1d
+feature.minfreq: 0.000000
+feature.possible_states: 0
+feature.possible_transitions: 0
+0....1....2....3....4....5....6....7....8....9....10
+Number of features: 4376
+Seconds required: 2.200
+
+Averaged perceptron
+max_iterations: 1
+epsilon: 0.000000
+
+***** Iteration #1 *****
+Loss: 11456.148316
+Feature norm: 208.353508
+Seconds required for this iteration: 0.660
+Performance by label (#match, #model, #ref) (precision, recall, F1):
+    0: (778168, 800380, 789621) (0.9722, 0.9855, 0.9788)
+    1: (59039, 70492, 81251) (0.8375, 0.7266, 0.7781)
+Macro-average precision, recall, F1: (0.904888, 0.856060, 0.878486)
+Item accuracy: 837207 / 870872 (0.9613)
+Instance accuracy: 58367 / 87584 (0.6664)
+
+Total seconds required for training: 0.860
+
+
+End time of the training: 2013-06-11T10:53:44Z
+
