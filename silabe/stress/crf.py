@@ -66,34 +66,6 @@ class StressCRF(ChainCRF, EdgeTypeGraphCRF):
         self.size_psi = (n_states * self.n_features
                          + self.n_edge_types * n_states ** 2)
 
-    def psi(self, x, y):
-        """Feature vector associated with instance (x, y).
-
-        Feature representation psi, such that the energy of the configuration
-        (x, y) and a weight vector w is given by np.dot(w, psi(x, y)).
-
-        Parameters
-        ----------
-        x : ndarray, shape (width, height, n_states)
-            Unary evidence / input.
-
-        y : ndarray or tuple
-            Either y is an integral ndarray of shape (width, height), giving
-            a complete labeling for x.
-            Or it is the result of a linear programming relaxation. In this
-            case, ``y=(unary_marginals, pariwise_marginals)``, where
-            unary_marginals is an array of shape (width, height, n_states) and
-            pairwise_marginals is an array of shape (n_states, n_states) of
-            accumulated pairwise marginals.
-
-        Returns
-        -------
-        p : ndarray, shape (size_psi,)
-            Feature vector associated with state (x, y).
-
-        """
-        return EdgeTypeGraphCRF.psi(self, x, y)
-
     def get_edges(self, x, flat=True):
         spl, stress = x
         n = spl.shape[0]
@@ -102,18 +74,18 @@ class StressCRF(ChainCRF, EdgeTypeGraphCRF):
         inds_m = n + np.arange(m)
         A = np.c_[inds_n[:-1], inds_n[1:]]
         B = np.c_[inds_m[:-1], inds_m[1:]]
-        C = np.c_[inds_m, inds_n[:-1]]
-        D = np.c_[inds_m, inds_n[1:]]
+        C = np.c_[inds_m[:-1], inds_n]
+        D = np.c_[inds_m[1:], inds_n]
         if flat:
             return np.r_[A, B, C, D]
         else:
             return [A, B, C, D]
 
-    def get_pairwise_potentials(self, x, w):
-        return EdgeTypeGraphCRF.get_pairwise_potentials(self, x, w)
-
     def get_features(self, x):
-        return np.r_[x[0], x[1]]
+        xa = x[0].toarray()
+        xb = x[1].toarray()
+        return np.r_[np.c_[xa, np.zeros((xa.shape[0], xb.shape[1]))],
+                     np.c_[np.zeros((xb.shape[0], xa.shape[1])), xb]]
 
     def _reshape_y(self, y, shape_x, return_energy):
         if return_energy:
@@ -139,3 +111,21 @@ class StressCRF(ChainCRF, EdgeTypeGraphCRF):
             self, x, y.ravel(), w, relaxed=relaxed,
             return_energy=return_energy)
         return self._reshape_y(y_hat, x[0].shape[0], return_energy)
+
+
+def score(y_true, y_pred):
+    word_syl = word_stress = 0
+    char_syl = char_stress = 0
+    n_items_syl, n_items_stress = 0
+    for y_t, y_p in zip(y_true, y_pred):
+        midp = int((y_t.shape[0] - 1) / 2)
+        corr_syl = y_t[:midp] == y_p[:midp]
+        corr_stress = y_t[midp:] == y_p[midp:]
+        word_syl += corr_syl.all()
+        word_stress += corr_stress.all()
+        char_syl += corr_syl.sum()
+        char_stress += corr_stress.sum()
+        n_items_syl += midp
+        n_items_stress += midp + 1
+    return (word_syl * 1.0 / len(y_true), word_stress * 1.0 / len(y_true),
+            char_syl * 1.0 / n_items_syl, char_stress * 1.0 / n_items_stress)

@@ -8,8 +8,16 @@ import numpy as np
 
 
 def get_stress(line):
-    source_chars, target_chars = u'á÷äéíďóöú', u'aâăeiîoou'
-    stress = [c in source_chars for c in line.strip().replace('-', '')]
+    word = line.replace('-', '')
+    source_chars, target_chars = u'á÷\u1ea5ä\u1eaféíďóöú', u'aââăăeiîoou'
+    stress = [c in source_chars for c in word]
+    pos = word.find(u'\u0301')
+    if pos >= 0:
+        word = word[:pos] + word[pos + 1:]
+        stress[pos - 1] = True
+        del stress[pos]
+        pos = line.find(u'\u0301')
+        line = line[:pos] + line[pos + 1:]
     table = dict((ord(s), t) for s, t in zip(source_chars, target_chars))
     table[769] = None  # appropriate encoding
     return line.translate(table), stress
@@ -19,7 +27,7 @@ def syllabifications(source='silabe.xml', limit=0):
     ctx = etree.iterparse(source, tag='form')
     for k, (_, elem) in enumerate(ctx):
         text, stress_tag = get_stress(unicode(elem.text).strip())
-        #assert len(stress_tag) == len(text.replace('-', ''))
+        assert len(stress_tag) == len(text.replace('-', ''))
         yield (unicode(elem.get('w')), text, stress_tag)
         elem.clear()
         while elem.getprevious() is not None:
