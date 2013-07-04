@@ -18,8 +18,9 @@ if __name__ == '__main__':
     different = total = 0
     for line in f:
         word, pos, syl, stress = process_line(line)
-        if not len(word) == sum(len(s) for s in syl):
-            print word, syl
+        if not len(word.replace('h', '')) == sum(len(s) for s in syl):
+            if len(word) == sum(len(s) for s in syl):
+                print word, syl
             different += 1
         total += 1
     print "{} / {}".format(different, total)
